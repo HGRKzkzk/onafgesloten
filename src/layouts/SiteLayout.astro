@@ -1,0 +1,40 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title = 'Onafgesloten',
+  description = 'Een filosofische verkenning van vorm, verhouding, vrijheid, betekenis en antwoord.'
+} = Astro.props;
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const home = `${base}/`;
+---
+<!doctype html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content={description} />
+    <meta name="color-scheme" content="light" />
+    <title>{title}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href={home}>Onafgesloten</a>
+      <nav aria-label="Hoofdnavigatie">
+        <a href={`${home}#leesroute`}>Leesroute</a>
+        <a href={`${base}/hoofdstukken/99-kern-in-twintig-zinnen/`}>Kern</a>
+      </nav>
+    </header>
+    <slot />
+    <footer class="site-footer">
+      <span>Werkversie · augustus 2026</span>
+      <span>Tekst, vorm en ordening blijven herzienbaar.</span>
+    </footer>
+  </body>
+</html>

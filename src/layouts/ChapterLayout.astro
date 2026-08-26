@@ -1,0 +1,167 @@
+---
+import SiteLayout from './SiteLayout.astro';
+import { chapters, chapterBySlug } from '../data/chapters';
+import GlossaryPopover from '../components/GlossaryPopover.astro';
+
+const { frontmatter } = Astro.props;
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const parts = Astro.url.pathname.split('/').filter(Boolean);
+const urlSlug = parts.at(-1) ?? '';
+
+const slug = frontmatter.slug ?? urlSlug;
+
+const chapter = chapterBySlug(slug);
+const currentIndex = chapters.findIndex((item) => item.slug === slug);
+
+const previous =
+  currentIndex > 0
+    ? chapters[currentIndex - 1]
+    : undefined;
+
+const next =
+  currentIndex >= 0 && currentIndex < chapters.length - 1
+    ? chapters[currentIndex + 1]
+    : undefined;
+
+const title =
+  frontmatter.title ??
+  chapter?.title ??
+  'Onafgesloten';
+
+const summary =
+  frontmatter.summary ??
+  frontmatter.description ??
+  chapter?.summary ??
+  chapter?.description ??
+  'Een hoofdstuk uit Onafgesloten.';
+
+const label =
+  chapter?.label ??
+  frontmatter.order ??
+  '';
+
+const chapterUrl = (chapterSlug: string) =>
+  `${base}/hoofdstukken/${chapterSlug}/`;
+
+/*
+ * Zoek automatisch naar een academisch Markdownbestand
+ * met dezelfde slug als het publieke hoofdstuk.
+ *
+ * Bijvoorbeeld:
+ *
+ * publieke pagina:
+ * src/pages/hoofdstukken/01-wat-verschijnt-verschijnt-onaf.md
+ *
+ * academische laag:
+ * src/academisch/01-wat-verschijnt-verschijnt-onaf.md
+ */
+const academicModules = import.meta.glob('../academisch/*.md', {
+  eager: true
+});
+
+const academicPath = `../academisch/${slug}.md`;
+
+const academicModule = academicModules[academicPath] as
+  | { Content?: any }
+  | undefined;
+
+const AcademicContent = academicModule?.Content;
+const hasAcademicLayer = Boolean(AcademicContent);
+---
+
+<SiteLayout
+  title={`${title} — Onafgesloten`}
+  description={summary}
+>
+  <main class="chapter-layout">
+
+    <header class="chapter-header">
+      <p class="eyebrow">
+        {
+          label === 'Vooraf'
+            ? 'Vooraf'
+            : label === 'Kern'
+              ? 'Kerntekst'
+              : `Hoofdstuk ${label}`
+        }
+      </p>
+
+      <h1>{title}</h1>
+
+      {summary && (
+        <p class="chapter-summary">
+          {summary}
+        </p>
+      )}
+    </header>
+
+    <article class="prose">
+      <slot />
+    </article>
+
+    {hasAcademicLayer && AcademicContent && (
+      <section
+        class="academic-section"
+        aria-label="Academische verdieping"
+      >
+        <details class="academic-layer">
+          <summary class="academic-layer__summary">
+            <span class="academic-layer__title">
+              Verder kijken
+            </span>
+
+            <span class="academic-layer__hint">
+              Filosofische verwantschappen, onderzoek,
+              tegenwerpingen en bronnen
+            </span>
+          </summary>
+
+          <div class="academic-layer__content prose">
+            <AcademicContent />
+          </div>
+        </details>
+      </section>
+    )}
+
+    <nav
+      class="chapter-nav"
+      aria-label="Navigatie tussen hoofdstukken"
+    >
+      <div>
+        {
+          previous
+            ? (
+              <a href={chapterUrl(previous.slug)}>
+                ← {previous.title}
+              </a>
+            )
+            : (
+              <a href={`${base}/`}>
+                ← Inhoud
+              </a>
+            )
+        }
+      </div>
+
+      <div class="chapter-nav__next">
+        {
+          next
+            ? (
+              <a href={chapterUrl(next.slug)}>
+                {next.title} →
+              </a>
+            )
+            : (
+              <a href={`${base}/`}>
+                Terug naar inhoud →
+              </a>
+            )
+        }
+      </div>
+    </nav>
+
+  </main>
+
+  <GlossaryPopover />
+</SiteLayout>

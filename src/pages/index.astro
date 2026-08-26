@@ -1,0 +1,210 @@
+---
+import SiteLayout from '../layouts/SiteLayout.astro';
+import { chapters } from '../data/chapters';
+import '../styles/home.css';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+const publicChapters = chapters.filter(
+  (chapter) => chapter.slug !== 'vooraf'
+);
+
+const vooraf = chapters.find(
+  (chapter) => chapter.slug === 'vooraf'
+);
+
+const imageBreaks = [
+  {
+    after: 3,
+    src: 'https://images.metmuseum.org/CRDImages/as/web-additional/DP141042.jpg',
+    alt: "Detail van Hokusai's Grote golf bij Kanagawa.",
+    caption:
+      'Katsushika Hokusai, De grote golf bij Kanagawa, ca. 1830–32. The Met, publiek domein.'
+  },
+  {
+    after: 7,
+    src: 'https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg',
+    alt: 'De Flammarion-gravure: een reiziger kijkt door de rand van de zichtbare hemel.',
+    caption:
+      'Flammarion-gravure, 1888. Publiek domein.'
+  }
+];
+---
+
+<SiteLayout title="Onafgesloten">
+  <main class="home">
+
+    <section class="home-hero">
+      <div
+        class="home-hero__field"
+        aria-hidden="true"
+      >
+        <svg
+          viewBox="0 0 1200 720"
+          preserveAspectRatio="xMidYMid slice"
+        >
+          <path
+            d="M-80 510 C 180 300, 330 610, 570 420 S 920 180, 1280 360"
+          />
+          <path
+            d="M-120 370 C 120 570, 360 190, 610 340 S 940 590, 1300 260"
+          />
+          <path
+            d="M70 760 C 260 520, 510 690, 720 470 S 980 250, 1160 -40"
+          />
+          <path
+            d="M250 -80 C 330 160, 530 140, 650 310 S 760 570, 1030 730"
+          />
+        </svg>
+      </div>
+
+      <div class="home-hero__content">
+        <p class="home-kicker">
+          Een filosofisch onderzoek
+        </p>
+
+        <h1>Onafgesloten</h1>
+
+        <p class="home-hero__statement">
+          Wat verschijnt, verschijnt onaf.
+        </p>
+
+        <p class="home-hero__intro">
+          Over vorm, grens, afhankelijkheid en het vermogen
+          om opnieuw te antwoorden.
+        </p>
+
+        {vooraf && (
+          <a
+            class="home-start"
+            href={`${base}/hoofdstukken/${vooraf.slug}/`}
+          >
+            Begin bij het vooraf
+            <span aria-hidden="true">→</span>
+          </a>
+        )}
+      </div>
+    </section>
+
+    <section
+      class="home-opening"
+      aria-labelledby="home-opening-title"
+    >
+      <p class="home-opening__eyebrow">
+        Waar dit begint
+      </p>
+
+      <h2 id="home-opening-title">
+        Vormen helpen ons leven. Soms zetten ze ons vast.
+      </h2>
+
+      <div class="home-opening__text">
+        <p>
+          We hebben woorden, grenzen, gewoonten en instituties nodig
+          om iets vast te kunnen houden. Maar wat gebeurt er wanneer
+          een vorm vergeet dat zij ook anders had kunnen worden?
+        </p>
+
+        <p>
+          Onafgesloten onderzoekt die spanning zonder haar op te lossen
+          in één groot systeem: hoe kan iets werkelijk vorm krijgen en
+          toch ontvankelijk blijven voor wat nog niet in die vorm past?
+        </p>
+      </div>
+    </section>
+
+    <section
+      class="home-route"
+      aria-labelledby="home-route-title"
+    >
+      <header class="home-route__header">
+        <p class="home-route__eyebrow">
+          Leesroute
+        </p>
+
+        <h2 id="home-route-title">
+          Hoofdstukken
+        </h2>
+
+        <p>
+          Lineair lezen kan, maar hoeft niet. Elk hoofdstuk staat
+          op zichzelf en haakt tegelijk in op de rest.
+        </p>
+      </header>
+
+      <div class="home-chapters">
+        {publicChapters.map((chapter, index) => {
+          const number = String(index + 1).padStart(2, '0');
+
+          const imageBreak = imageBreaks.find(
+            (item) => item.after === index + 1
+          );
+
+          return (
+            <>
+              <a
+                class="home-chapter"
+                href={`${base}/hoofdstukken/${chapter.slug}/`}
+              >
+                <span class="home-chapter__number">
+                  {number}
+                </span>
+
+                <span class="home-chapter__body">
+                  <span class="home-chapter__title">
+                    {chapter.title}
+                  </span>
+
+                  {chapter.description && (
+                    <span class="home-chapter__description">
+                      {chapter.description}
+                    </span>
+                  )}
+                </span>
+
+                <span
+                  class="home-chapter__arrow"
+                  aria-hidden="true"
+                >
+                  ↗
+                </span>
+              </a>
+
+              {imageBreak && (
+                <figure class="home-image-break">
+                  <img
+                    src={imageBreak.src}
+                    alt={imageBreak.alt}
+                    loading="lazy"
+                  />
+
+                  <figcaption>
+                    {imageBreak.caption}
+                  </figcaption>
+                </figure>
+              )}
+            </>
+          );
+        })}
+      </div>
+    </section>
+
+    <section class="home-closing">
+      <p>
+        Geen kaart van alles. Eerder een manier om beter te zien
+        waar vormen dragen, waar ze sluiten en waar opnieuw iets
+        kan antwoorden.
+      </p>
+
+      {vooraf && (
+        <a
+          href={`${base}/hoofdstukken/${vooraf.slug}/`}
+        >
+          Begin met lezen
+          <span aria-hidden="true">→</span>
+        </a>
+      )}
+    </section>
+
+  </main>
+</SiteLayout>

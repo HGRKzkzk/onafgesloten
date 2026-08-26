@@ -1,0 +1,274 @@
+---
+import { glossary } from '../data/glossary';
+
+const labels = {
+  gangbaar: 'Gangbaar begrip',
+  projectbegrip: 'Projectbegrip',
+  precisering: 'Precisering'
+};
+---
+
+<div
+  class="glossary-popover"
+  data-glossary-popover
+  hidden
+  role="dialog"
+  aria-live="polite"
+>
+  <div class="glossary-popover__inner">
+    <p class="glossary-popover__type" data-glossary-type></p>
+
+    <p class="glossary-popover__term" data-glossary-term></p>
+
+    <p
+      class="glossary-popover__definition"
+      data-glossary-definition
+    ></p>
+
+    <a
+      class="glossary-popover__more"
+      data-glossary-link
+      href=""
+      target="_blank"
+      rel="noopener noreferrer"
+      hidden
+    >
+      Gangbare achtergrond op Wikipedia ↗
+    </a>
+
+    <button
+      class="glossary-popover__close"
+      type="button"
+      data-glossary-close
+    >
+      Sluiten
+    </button>
+  </div>
+</div>
+
+<script
+  type="application/json"
+  id="glossary-data"
+  set:html={JSON.stringify({ glossary, labels })}
+></script>
+
+<script is:inline>
+(() => {
+  const root = document.querySelector('[data-glossary-popover]');
+  const dataNode = document.getElementById('glossary-data');
+
+  if (!root || !dataNode) return;
+
+  const { glossary, labels } = JSON.parse(dataNode.textContent || '{}');
+
+  const termNode = root.querySelector('[data-glossary-term]');
+  const typeNode = root.querySelector('[data-glossary-type]');
+  const definitionNode = root.querySelector('[data-glossary-definition]');
+  const linkNode = root.querySelector('[data-glossary-link]');
+  const closeButton = root.querySelector('[data-glossary-close]');
+
+  let activeTrigger = null;
+
+  const close = () => {
+    root.hidden = true;
+
+    if (activeTrigger) {
+      activeTrigger.setAttribute('aria-expanded', 'false');
+    }
+
+    activeTrigger = null;
+  };
+
+  const open = (trigger) => {
+    const entry = glossary[trigger.dataset.term];
+
+    if (!entry) {
+      console.warn(
+        `[Onafgesloten] Geen definitie gevonden voor: ${trigger.dataset.term}`
+      );
+      return;
+    }
+
+    if (activeTrigger && activeTrigger !== trigger) {
+      activeTrigger.setAttribute('aria-expanded', 'false');
+    }
+
+    activeTrigger = trigger;
+
+    trigger.setAttribute('aria-expanded', 'true');
+
+    termNode.textContent = entry.term;
+    typeNode.textContent = labels[entry.type] || entry.type;
+    definitionNode.textContent = entry.short;
+
+    if (entry.url) {
+      linkNode.href = entry.url;
+      linkNode.hidden = false;
+    } else {
+      linkNode.removeAttribute('href');
+      linkNode.hidden = true;
+    }
+
+    root.hidden = false;
+
+    const rect = trigger.getBoundingClientRect();
+
+    root.style.left =
+      `${Math.max(16, rect.left + window.scrollX)}px`;
+
+    root.style.top =
+      `${rect.bottom + window.scrollY + 12}px`;
+  };
+
+  document
+    .querySelectorAll('.begrip[data-term]')
+    .forEach((trigger) => {
+      trigger.setAttribute('tabindex', '0');
+      trigger.setAttribute('role', 'button');
+      trigger.setAttribute('aria-haspopup', 'dialog');
+      trigger.setAttribute('aria-expanded', 'false');
+
+      trigger.addEventListener('click', (event) => {
+        event.preventDefault();
+
+        if (activeTrigger === trigger && !root.hidden) {
+          close();
+        } else {
+          open(trigger);
+        }
+      });
+
+      trigger.addEventListener('keydown', (event) => {
+        if (event.key === 'Enter' || event.key === ' ') {
+          event.preventDefault();
+
+          if (activeTrigger === trigger && !root.hidden) {
+            close();
+          } else {
+            open(trigger);
+          }
+        }
+      });
+    });
+
+  document.addEventListener('click', (event) => {
+    const clickedTerm = event.target.closest?.(
+      '.begrip[data-term]'
+    );
+
+    if (
+      !root.hidden &&
+      !root.contains(event.target) &&
+      !clickedTerm
+    ) {
+      close();
+    }
+  });
+
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && !root.hidden) {
+      close();
+    }
+  });
+
+  closeButton?.addEventListener('click', close);
+})();
+</script>
+
+<style>
+  :global(.begrip[data-term]) {
+    color: inherit;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 1px;
+    text-underline-offset: .18em;
+    cursor: help;
+  }
+
+  :global(.begrip[data-term]:focus-visible) {
+    outline: 1px solid currentColor;
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+
+  .glossary-popover {
+    position: absolute;
+    z-index: 50;
+    width: min(22rem, calc(100vw - 2rem));
+  }
+
+  .glossary-popover__inner {
+    background: var(--surface, #f5f2eb);
+    color: var(--text, #181818);
+    border: 1px solid color-mix(
+      in srgb,
+      currentColor 20%,
+      transparent
+    );
+    padding: 1rem 1.1rem;
+    box-shadow: 0 .75rem 2.5rem rgb(0 0 0 / .14);
+  }
+
+  .glossary-popover__type {
+    margin: 0 0 .35rem;
+    font-size: .72rem;
+    line-height: 1.2;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    opacity: .58;
+  }
+
+  .glossary-popover__term {
+    margin: 0 0 .55rem;
+    font-weight: 650;
+  }
+
+  .glossary-popover__definition {
+    margin: 0;
+    line-height: 1.5;
+  }
+
+  .glossary-popover__more {
+    display: inline-block;
+    margin-top: .8rem;
+    color: inherit;
+    font-size: .82rem;
+    text-decoration-thickness: 1px;
+    text-underline-offset: .18em;
+    opacity: .72;
+  }
+
+  .glossary-popover__more:hover,
+  .glossary-popover__more:focus-visible {
+    opacity: 1;
+  }
+
+  .glossary-popover__close {
+    display: block;
+    margin: .8rem 0 0 auto;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    color: inherit;
+    font: inherit;
+    font-size: .8rem;
+    cursor: pointer;
+    opacity: .65;
+  }
+
+  .glossary-popover__close:hover,
+  .glossary-popover__close:focus-visible {
+    opacity: 1;
+  }
+
+  @media (max-width: 42rem) {
+    .glossary-popover {
+      position: fixed;
+      left: 1rem !important;
+      right: 1rem;
+      bottom: 1rem;
+      top: auto !important;
+      width: auto;
+    }
+  }
+</style>
