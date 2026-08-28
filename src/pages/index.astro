@@ -12,23 +12,6 @@ const publicChapters = chapters.filter(
 const vooraf = chapters.find(
   (chapter) => chapter.slug === 'vooraf'
 );
-
-const imageBreaks = [
-  {
-    after: 3,
-    src: 'https://images.metmuseum.org/CRDImages/as/web-additional/DP141042.jpg',
-    alt: "Detail van Hokusai's Grote golf bij Kanagawa.",
-    caption:
-      'Katsushika Hokusai, De grote golf bij Kanagawa, ca. 1830–32. The Met, publiek domein.'
-  },
-  {
-    after: 7,
-    src: 'https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg',
-    alt: 'De Flammarion-gravure: een reiziger kijkt door de rand van de zichtbare hemel.',
-    caption:
-      'Flammarion-gravure, 1888. Publiek domein.'
-  }
-];
 ---
 
 <SiteLayout title="Onafgesloten">
@@ -60,18 +43,13 @@ const imageBreaks = [
 
       <div class="home-hero__content">
         <p class="home-kicker">
-          Een filosofisch onderzoek
+          Een filosofische verkenning
         </p>
 
         <h1>Onafgesloten</h1>
 
         <p class="home-hero__statement">
           Wat verschijnt, verschijnt onaf.
-        </p>
-
-        <p class="home-hero__intro">
-          Over vorm, grens, afhankelijkheid en het vermogen
-          om opnieuw te antwoorden.
         </p>
 
         {vooraf && (
@@ -94,21 +72,43 @@ const imageBreaks = [
         Waar dit begint
       </p>
 
-      <h2 id="home-opening-title">
-        Vormen helpen ons leven. Soms zetten ze ons vast.
-      </h2>
+      <div class="home-opening__moments">
+        <p class="home-opening__moment">
+          Je denkt te weten wie iemand is.
+          <span>
+            Tot diegene iets doet wat niet in je beeld past.
+          </span>
+        </p>
 
-      <div class="home-opening__text">
+        <p class="home-opening__moment home-opening__moment--shift">
+          Je denkt te weten wie je zelf bent.
+          <span>
+            Tot je jezelf verrast.
+          </span>
+        </p>
+      </div>
+
+      <div class="home-opening__bridge">
         <p>
-          We hebben woorden, grenzen, gewoonten en instituties nodig
-          om iets vast te kunnen houden. Maar wat gebeurt er wanneer
-          een vorm vergeet dat zij ook anders had kunnen worden?
+          Een naam kan iets zichtbaar maken. Een grens kan beschermen.
+          Een verhaal kan samenhang geven.
         </p>
 
         <p>
-          Onafgesloten onderzoekt die spanning zonder haar op te lossen
-          in één groot systeem: hoe kan iets werkelijk vorm krijgen en
-          toch ontvankelijk blijven voor wat nog niet in die vorm past?
+          En soms wordt precies datgene wat hielp om iets te zien
+          de reden dat we niet meer verder kijken.
+        </p>
+      </div>
+
+      <div class="home-opening__landing">
+        <h2 id="home-opening-title">
+          Onafgesloten begint daar.
+        </h2>
+
+        <p>
+          Niet met de gedachte dat vormen moeten verdwijnen,
+          maar met de vraag hoe iets werkelijk zichzelf kan zijn
+          zonder voorgoed vast te liggen.
         </p>
       </div>
     </section>
@@ -127,8 +127,9 @@ const imageBreaks = [
         </h2>
 
         <p>
-          Lineair lezen kan, maar hoeft niet. Elk hoofdstuk staat
-          op zichzelf en haakt tegelijk in op de rest.
+          Je kunt van voor naar achter lezen. Je kunt ook ergens
+          binnenvallen en vandaar verder kijken. De hoofdstukken
+          staan op zichzelf en blijven tegelijk met elkaar in gesprek.
         </p>
       </header>
 
@@ -136,54 +137,34 @@ const imageBreaks = [
         {publicChapters.map((chapter, index) => {
           const number = String(index + 1).padStart(2, '0');
 
-          const imageBreak = imageBreaks.find(
-            (item) => item.after === index + 1
-          );
-
           return (
-            <>
-              <a
-                class="home-chapter"
-                href={`${base}/hoofdstukken/${chapter.slug}/`}
-              >
-                <span class="home-chapter__number">
-                  {number}
+            <a
+              class="home-chapter"
+              href={`${base}/hoofdstukken/${chapter.slug}/`}
+            >
+              <span class="home-chapter__number">
+                {number}
+              </span>
+
+              <span class="home-chapter__body">
+                <span class="home-chapter__title">
+                  {chapter.title}
                 </span>
 
-                <span class="home-chapter__body">
-                  <span class="home-chapter__title">
-                    {chapter.title}
+                {chapter.description && (
+                  <span class="home-chapter__description">
+                    {chapter.description}
                   </span>
+                )}
+              </span>
 
-                  {chapter.description && (
-                    <span class="home-chapter__description">
-                      {chapter.description}
-                    </span>
-                  )}
-                </span>
-
-                <span
-                  class="home-chapter__arrow"
-                  aria-hidden="true"
-                >
-                  ↗
-                </span>
-              </a>
-
-              {imageBreak && (
-                <figure class="home-image-break">
-                  <img
-                    src={imageBreak.src}
-                    alt={imageBreak.alt}
-                    loading="lazy"
-                  />
-
-                  <figcaption>
-                    {imageBreak.caption}
-                  </figcaption>
-                </figure>
-              )}
-            </>
+              <span
+                class="home-chapter__arrow"
+                aria-hidden="true"
+              >
+                ↗
+              </span>
+            </a>
           );
         })}
       </div>
@@ -191,9 +172,9 @@ const imageBreaks = [
 
     <section class="home-closing">
       <p>
-        Geen kaart van alles. Eerder een manier om beter te zien
-        waar vormen dragen, waar ze sluiten en waar opnieuw iets
-        kan antwoorden.
+        Soms moet iets begrensd worden. Soms juist opnieuw geopend.
+        De vraag is niet hoe we zonder vormen leven, maar hoe we merken
+        wanneer een vorm niet meer antwoordt op wat er werkelijk gebeurt.
       </p>
 
       {vooraf && (
