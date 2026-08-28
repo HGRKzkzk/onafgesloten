@@ -68,39 +68,36 @@ const vooraf = chapters.find(
       class="home-opening"
       aria-labelledby="home-opening-title"
     >
-      <p class="home-opening__eyebrow">
-        Waar dit begint
-      </p>
-
       <div class="home-opening__flow">
         <p>
-          We leven tussen dingen die vorm hebben. Een lichaam, een naam,
-          een huis, een gewoonte, een relatie. Ze worden herkenbaar
-          doordat ze niet alles tegelijk zijn.
+          Veel van wat ons draagt, krijgt gaandeweg een vorm.
+          Een lichaam. Een naam. Een huis. Een verhouding tot iemand.
+          Een manier van leven.
         </p>
 
         <p>
-          Toch blijft geen van die vormen helemaal stilstaan. Wat vandaag
-          vertrouwd is, kan morgen anders antwoorden. Een grens kan
-          beschermen en later knellen. Een gewoonte kan dragen en langzaam
-          te klein worden.
+          Dat die vorm verandert, maakt haar niet minder werkelijk.
+          Misschien is het juist andersom: sommige dingen kunnen alleen
+          blijven bestaan doordat ze niet helemaal hetzelfde hoeven te blijven.
+        </p>
+
+        <p>
+          Een grens kan beschermen zonder voor eeuwig te hoeven gelden.
+          Een gewoonte kan jarenlang goed zijn en op een dag te klein worden.
+          Iemand kan werkelijk zijn wie diegene is, zonder daarmee ooit
+          volledig beschreven te zijn.
         </p>
 
         <p class="home-opening__quiet">
-          Dat maakt vorm niet onwaar. Het betekent alleen dat wat werkelijk
-          is, niet altijd voltooid is.
+          We leven voortdurend met zulke onafheid.
+          Meestal zonder haar zo te noemen.
         </p>
       </div>
 
       <div class="home-opening__landing">
         <h2 id="home-opening-title">
-          Onafgesloten begint bij die spanning.
+          Misschien is onaf niet het tegenovergestelde van heel.
         </h2>
-
-        <p>
-          Hoe kan iets werkelijk vorm krijgen zonder daarmee voorgoed
-          vast te liggen?
-        </p>
       </div>
     </section>
 
@@ -109,18 +106,14 @@ const vooraf = chapters.find(
       aria-labelledby="home-route-title"
     >
       <header class="home-route__header">
-        <p class="home-route__eyebrow">
-          Leesroute
-        </p>
-
         <h2 id="home-route-title">
-          Hoofdstukken
+          Je hoeft hier niet op de goede plek te beginnen.
         </h2>
 
         <p>
-          Je kunt van voor naar achter lezen. Je kunt ook ergens
-          binnenvallen en vandaar verder kijken. De hoofdstukken
-          staan op zichzelf en blijven tegelijk met elkaar in gesprek.
+          Sommige hoofdstukken liggen dicht bij elkaar. Andere komen
+          via een heel andere weg bij dezelfde vraag uit. Lees van voor
+          naar achter, of open waar iets je aandacht trekt.
         </p>
       </header>
 
@@ -148,35 +141,15 @@ const vooraf = chapters.find(
                   </span>
                 )}
               </span>
-
-              <span
-                class="home-chapter__arrow"
-                aria-hidden="true"
-              >
-                ↗
-              </span>
             </a>
           );
         })}
       </div>
     </section>
 
-    <section class="home-closing">
-      <p>
-        Soms moet iets begrensd worden. Soms juist opnieuw geopend.
-        De vraag is niet hoe we zonder vormen leven, maar hoe we merken
-        wanneer een vorm niet meer antwoordt op wat er werkelijk gebeurt.
-      </p>
-
-      {vooraf && (
-        <a
-          href={`${base}/hoofdstukken/${vooraf.slug}/`}
-        >
-          Begin met lezen
-          <span aria-hidden="true">→</span>
-        </a>
-      )}
-    </section>
+    <p class="home-afterword">
+      Je hoeft hier niets af te maken.
+    </p>
 
   </main>
 </SiteLayout>
