@@ -261,37 +261,199 @@ h3 { margin-top: 2.4rem; font-size: 1.55rem; }
   .uitkijkje__figure img { max-height: 28rem; }
 }
 
+
+/* Academische verdieping:
+   een tweede leeslaag, duidelijk aanwezig maar niet verplicht. */
+
 .academic-section {
-  margin-top: 5rem;
-  padding-top: 2rem;
-  border-top: 1px solid rgba(0, 0, 0, 0.14);
+  width: min(100%, 64rem);
+  margin-top: clamp(5rem, 9vw, 8rem);
+  margin-bottom: 1rem;
 }
 
-.academic-layer summary {
+.academic-layer {
+  border-top: 1px solid var(--ink);
+  border-bottom: 1px solid var(--line);
+}
+
+.academic-layer__summary {
   cursor: pointer;
   list-style: none;
   display: grid;
-  gap: 0.35rem;
-  padding: 1rem 0;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 2rem;
+  align-items: end;
+  padding: clamp(2rem, 5vw, 3.4rem) 0;
 }
 
-.academic-layer summary::-webkit-details-marker {
+.academic-layer__summary::-webkit-details-marker {
   display: none;
 }
 
+.academic-layer__summary::marker {
+  content: '';
+}
+
+.academic-layer__intro {
+  display: grid;
+  gap: 0.65rem;
+  max-width: 48rem;
+}
+
+.academic-layer__eyebrow {
+  color: var(--muted);
+  font: 700 .7rem/1.4 var(--sans);
+  letter-spacing: .15em;
+  text-transform: uppercase;
+}
+
 .academic-layer__title {
-  font-size: 1.15rem;
-  font-weight: 600;
+  display: block;
+  font-size: clamp(1.9rem, 4vw, 3rem);
+  line-height: 1.08;
+  letter-spacing: -.025em;
+  font-weight: 590;
 }
 
 .academic-layer__hint {
+  display: block;
   max-width: 42rem;
-  font-size: 0.92rem;
-  line-height: 1.5;
-  opacity: 0.6;
+  margin-top: .35rem;
+  color: var(--ink);
+  font-size: clamp(1rem, 1.4vw, 1.1rem);
+  line-height: 1.6;
+}
+
+.academic-layer__topics {
+  display: block;
+  margin-top: .55rem;
+  color: var(--muted);
+  font: .78rem/1.6 var(--sans);
+  letter-spacing: .015em;
+}
+
+.academic-layer__action {
+  display: flex;
+  gap: .65rem;
+  align-items: center;
+  justify-content: flex-end;
+  padding-bottom: .25rem;
+  white-space: nowrap;
+  color: var(--muted);
+  font: 600 .82rem/1.4 var(--sans);
+}
+
+.academic-layer__close {
+  display: none;
+}
+
+.academic-layer__arrow {
+  display: inline-block;
+  transition: transform .25s ease;
+  font-size: 1rem;
+}
+
+.academic-layer[open] .academic-layer__open {
+  display: none;
+}
+
+.academic-layer[open] .academic-layer__close {
+  display: inline;
+}
+
+.academic-layer[open] .academic-layer__arrow {
+  transform: rotate(180deg);
 }
 
 .academic-layer__content {
-  padding-top: 2rem;
-  padding-bottom: 1rem;
+  max-width: 52rem;
+  padding: 1rem 0 clamp(3rem, 6vw, 5rem);
+}
+
+/* De academische laag mag compacter lezen dan het essay zelf. */
+.academic-layer__content.prose {
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+/* Koppen binnen de verdieping krijgen een eigen,
+   iets analytischer ritme. */
+.academic-layer__content.prose > h2 {
+  position: relative;
+  margin-top: 4.5rem;
+  margin-bottom: 1.3rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--line);
+  font-size: clamp(1.45rem, 3vw, 2rem);
+  letter-spacing: -.015em;
+}
+
+.academic-layer__content.prose > h2:first-child {
+  margin-top: 1rem;
+}
+
+/* De vier inhoudelijke functies iets meer als route leesbaar maken. */
+.academic-layer__content.prose > h2:nth-of-type(1)::before {
+  content: '01';
+}
+
+.academic-layer__content.prose > h2:nth-of-type(2)::before {
+  content: '02';
+}
+
+.academic-layer__content.prose > h2:nth-of-type(3)::before {
+  content: '03';
+}
+
+.academic-layer__content.prose > h2:nth-of-type(4)::before {
+  content: '04';
+}
+
+.academic-layer__content.prose > h2:nth-of-type(-n+4)::before {
+  display: block;
+  margin-bottom: .55rem;
+  color: var(--muted);
+  font: 700 .68rem/1.4 var(--sans);
+  letter-spacing: .12em;
+}
+
+/* Bronnen bewust een trap lager in de visuele hiërarchie. */
+.academic-layer__content.prose > h2:nth-of-type(5) {
+  margin-top: 5rem;
+  font-size: 1.3rem;
+}
+
+.academic-layer__content.prose > h2:nth-of-type(5) ~ ul,
+.academic-layer__content.prose > h2:nth-of-type(5) ~ ol {
+  color: var(--muted);
+  font: .88rem/1.65 var(--sans);
+}
+
+.academic-layer__content.prose a {
+  text-underline-offset: .18em;
+}
+
+/* Op smallere schermen wordt de samenvatting één kolom. */
+@media (max-width: 700px) {
+  .academic-section {
+    margin-top: 4.5rem;
+  }
+
+  .academic-layer__summary {
+    grid-template-columns: 1fr;
+    gap: 1.4rem;
+    align-items: start;
+  }
+
+  .academic-layer__action {
+    justify-content: flex-start;
+  }
+
+  .academic-layer__topics {
+    font-size: .74rem;
+  }
+
+  .academic-layer__content {
+    padding-bottom: 3rem;
+  }
 }
