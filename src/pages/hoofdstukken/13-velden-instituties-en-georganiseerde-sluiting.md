@@ -58,6 +58,24 @@ Ook die derde mag geen nieuw monopolie op redelijkheid krijgen. Bevoegdheid moet
 
 *Een volwassen systeem kent niet alleen regels en bezwaar, maar ook tussenruimtes waarin correctie mogelijk blijft vóórdat conflict verhardt.*
 
+## Wederkerigheid onder wantrouwen
+
+Wederkerigheid veronderstelt geen vooraf bestaand vertrouwen. Twee actoren kunnen allebei bereid zijn het antwoord van de ander serieus te nemen en elkaar toch te weinig vertrouwen om zich als eerste vergaand kwetsbaar te maken. Dan kan een wederkerigheidsval ontstaan: ieder reageert lokaal begrijpelijk op verwacht gevaar en produceert daarmee voor de ander juist nieuw bewijs dat wantrouwen nodig is.
+
+De uitweg hoeft dan niet te beginnen met morele bekering of volledige openheid. Zij kan bestaan uit kleine, toetsbare en herstelbare stappen: beperkte risico's, verificatie, vooraf bekende terugvalopties, gedeelde informatie en onafhankelijke derden. Vertrouwen kan groeien uit herhaald overleefde wederkerigheid.
+
+Wederzijds wantrouwen betekent daarbij niet wederzijds gelijke verantwoordelijkheid. Wanneer de ene actor veel meer vermogen heeft om de ander onherstelbaar te sluiten, kan op hem een zwaardere plicht rusten om de eerste veilige en controleerbare opening mogelijk te maken.
+
+## Wanneer er geen schurk is
+
+Schadelijke verhoudingen hebben niet altijd een actor nodig die kwaad wil. Een organisatie kan mensen uitputten terwijl iedere medewerker lokaal redelijk handelt; twee groepen kunnen elkaar bedreigen terwijl beide vooral op ervaren gevaar reageren; zorg kan verstikken zonder dat de verzorger wil overheersen.
+
+Het ontbreken van een schurk maakt schade niet minder werkelijk. Het bestaan van schade verplicht ons evenmin een schurk te vervaardigen.
+
+Daarom moeten schuld, verantwoordelijkheid en sluitingsmacht uit elkaar kunnen blijven. Schuld vraagt wie verwijtbaar verkeerd handelde. Verantwoordelijkheid vraagt wie nu redelijkerwijs iets kan of moet doen. Sluitingsmacht vraagt wie feitelijk de mogelijkheid heeft de schadelijke verhouding te veranderen, voort te zetten of te verplaatsen.
+
+Waar schuld diffuus is, hoeft verantwoordelijkheid dus niet diffuus te blijven. Geen schurk betekent niet: niemand hoeft te handelen. Het betekent dat verantwoordelijkheid uit de verhouding moet worden afgeleid, niet uit de behoefte aan een vijand.
+
 ## Vorming zonder bestemming
 
 Een samenleving kan niet volledig afhankelijk zijn van sancties achteraf. Onderwijs, verenigingen, relaties, buurten en andere maatschappelijke verbanden kunnen oefenplaatsen zijn waarin mensen leren dat hun handelen gevolgen heeft, dat verschil niet meteen vijandschap is, dat correctie niet vernietiging hoeft te betekenen en dat vrijheid mede afhankelijk is van een gedeelde wereld.
@@ -77,6 +95,8 @@ Machtsasymmetrie verandert de normatieve last. Wie meer vermogen heeft om grenze
 *Wie de antwoordruimte van een ander kan sluiten, draagt verantwoordelijkheid voor die macht.*
 
 *Hoe groter de sluitingsmacht, hoe zwaarder de plicht tot proportionaliteit, externe toetsing, terugkoppeling en heropening.*
+
+Ook uitzonderlijk inzicht of een reële noodsituatie heft die correctieplicht niet op. Waarheid, urgentie en gezag zijn verschillende vragen. Wie uitzonderlijke macht opeist omdat hij uitzonderlijk inzicht of uitzonderlijke noodzaak claimt, mag daarom niet alleen beslissen wanneer die uitzondering eindigt. Anders kan een tijdelijke noodzakelijke sluiting zichzelf tot permanent gezag maken.
 
 Die logica reikt ook tot niet-menselijke dieren. Wie hun leefomgeving, beweging, voortplanting, sociale relaties of dood organiseert, bezit feitelijke sluitingsmacht, ook wanneer het dier geen formeel bezwaar kan maken. Het ontbreken van een menselijke stem verlaagt die plicht niet. Het verhoogt juist de verantwoordelijkheid om gedragsmatige, lichamelijke en relationele terugkoppeling actief waar te nemen en door onafhankelijke kennis te laten toetsen.
 
