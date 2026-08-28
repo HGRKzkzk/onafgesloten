@@ -36,7 +36,13 @@ Deze begrippen zijn geen universele diagnoses en zeker geen vervanging voor klin
 
 Normativiteit vraagt hier expliciete bescheidenheid. Uit het enkele feit dat levende vormen ontvankelijk en afhankelijk zijn, volgt niet logisch dat wij ontvankelijkheid altijd moeten bevorderen. Dat zou de stap van *zijn* naar *behoren* verbergen. De ethische inzet komt erbij wanneer wij verklaren dat het vermogen van levende en menselijke vormen om te voelen, antwoorden, herstellen en niet opgebruikt te worden bescherming verdient.
 
-Hier verander ik van beschrijving in keuze. De ontologische kern maakt zichtbaar dat vormen gedragen, begrensd en onaf zijn; zij bewijst niet welke omgang daarmee goed is. Ik kies ervoor voelende en antwoordende vormen zo ernstig te nemen dat zij niet zonder voldoende rechtvaardiging mogen worden opgebruikt of van hun basale antwoordvoorwaarden beroofd. Vanuit die keuze kan vervolgens een doctrine van corrigeerbare macht ontstaan.
+Hier verander ik van beschrijving in keuze. De ontologische kern maakt zichtbaar dat vormen gedragen, begrensd en onaf zijn; zij bewijst niet welke omgang daarmee goed is. Ik kies ervoor voelende en antwoordende vormen zo ernstig te nemen dat zij niet zonder voldoende rechtvaardiging mogen worden opgebruikt of van hun basale antwoordvoorwaarden beroofd.
+
+Die keuze heeft voor mij een nog hardere naam: wederkerigheid. Niet als beschrijving van een wereld waarin alles elkaar netjes antwoordt, want wederkerigheid is geen gegeven. Relaties kunnen eenzijdig, gewelddadig, manipulerend of stom zijn; een kind, dier of toekomstige generatie kan bovendien niet op dezelfde wijze terugspreken als een volwassen gesprekspartner. Wederkerigheid betekent hier ook geen symmetrie of gelijke ruil. Zij betekent dat de ander principieel als bron van relevante terugkoppeling blijft meetellen en dat mijn vorm niet vanzelf het laatste woord over de verhouding krijgt.
+
+De wereld garandeert geen wederkerigheid. De ethische inzet begint waar ik weiger dat gebrek tot recht van de sterkste te verheffen.
+
+Antwoordruimte is daarmee niet het hoogste goed dat zoveel mogelijk moet worden gemaximaliseerd. Zij is een voorwaarde waaronder wederkerigheid werkelijk kan blijven bestaan: er moet voldoende mogelijkheid en tijd overblijven om te voelen, weigeren, herstellen, corrigeren en opnieuw te antwoorden. Vanuit die keuze kunnen vervolgens bescherming tegen afwendbaar lijden en een doctrine van corrigeerbare macht worden uitgewerkt.
 
 Daaruit volgt geen opdracht om alle pijn weg te organiseren. Dood, rouw, verlies, conflict, mislukking en begrenzing kunnen onafwendbaar zijn zonder daardoor goed te worden. De ethische vraag richt zich scherper op **afwendbaar lijden**: lijden dat redelijkerwijs voorkomen, verminderd of beëindigd kan worden zonder elders een disproportionele schade te veroorzaken, vooral wanneer een vorm of institutie de schadelijke gevolgen inmiddels kent en toch weigert zichzelf te corrigeren.
 
