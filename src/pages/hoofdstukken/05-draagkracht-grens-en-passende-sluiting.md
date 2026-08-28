@@ -56,6 +56,14 @@ Een mens kan vandaag minder dragen dan gisteren zonder wezenlijk zwakker te zijn
 
 Draagkracht groeit niet alleen door training. Soms groeit zij doordat de last kleiner wordt, iemand rugdekking krijgt of het veld eindelijk een signaal overneemt. Het verheerlijken van veerkracht kan anders verhullen dat een omgeving structureel te veel vraagt.
 
+Daarom moet draagkracht scherp worden onderscheiden van een aanspraak op draagkracht. Dat iemand een last kán dragen, rechtvaardigt nog niet dat die last daar wordt neergelegd. Wie veel kan dragen, hoeft daarom niet veel te dragen. Zeker waar dezelfde persoon, groep of levensvorm steeds opnieuw de restlast opvangt, moet ook de geschiedenis van die belasting meetellen.
+
+Herstelvermogen kan bij botsende antwoordruimtes relevant zijn, maar mag niet de eerste verdeelsleutel worden. Anders wordt juist de meest veerkrachtige vorm de veiligste plek om schade te parkeren. Eerst moet worden gerechtvaardigd waarom de last noodzakelijk is en waarom zij hier terechtkomt. Pas daarna kan meewegen hoe herstelbaar de verschillende vormen van schade zijn.
+
+Ook herstel zelf heeft graden. Terugkeren tot functioneren is niet hetzelfde als herstel van antwoordruimte, en herstel van antwoordruimte is nog niet hetzelfde als herstel van draagreserve. Een werknemer kan weer aanwezig zijn terwijl iedere nieuwe belasting sneller te veel wordt; een ecosysteem kan zich zichtbaar herstellen en tegelijk een groot deel van zijn veerkracht hebben verloren.
+
+OOV maximaliseert antwoordruimte daarom niet. Waar antwoordruimtes werkelijk botsen, zoekt zij naar een noodzakelijke sluiting die zo weinig mogelijk onherstelbaar vorm- en herstelvermogen vernietigt, zonder veerkracht tot vrijbrief voor belasting te maken.
+
 *Draagkracht laat vruchtbare spanning bestaan.*
 
 Zij maakt het mogelijk dat iets even onaf blijft zonder onmiddellijk opgelost, verdreven of tot crisis verheven te worden.
