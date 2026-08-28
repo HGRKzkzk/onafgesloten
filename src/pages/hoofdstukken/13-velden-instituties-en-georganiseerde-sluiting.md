@@ -110,12 +110,12 @@ Dit geldt tussen burger en staat, werknemer en werkgever, gebruiker en platform,
 
 ## Van kern naar doctrine
 
-De institutionele uitwerking hoeft niet te worden voorgesteld alsof zij al logisch verborgen lag in *wat verschijnt, verschijnt onaf*. De samenhang is minder dwingend en daardoor eerlijker. OOV begint met een ontologische beschrijving van gedragen en onafgesloten vorm. Vervolgens kiest zij ethisch voor bescherming van voel- en antwoordvermogen tegen opbruik en afwendbare vernietiging. Daaruit volgt een politieke doctrine van **corrigeerbare macht**: wie de voorwaarden van andermans antwoorden kan bepalen, moet die macht kunnen rechtvaardigen en laten toetsen. De onafhankelijke derde, bezwaar- en herstelroutes, pluraliteit en uittreedbaarheid zijn institutionele vormen waarin die doctrine gestalte kan krijgen.
+De institutionele uitwerking hoeft niet te worden voorgesteld alsof zij al logisch verborgen lag in *wat verschijnt, verschijnt onaf*. De samenhang is minder dwingend en daardoor eerlijker. OOV begint met een ontologische beschrijving van gedragen en onafgesloten vorm. Vervolgens kiest zij ethisch voor wederkerigheid: de ander blijft een bron van relevante terugkoppeling en wordt niet zonder voldoende rechtvaardiging opgebruikt of van basale antwoordvoorwaarden beroofd. Antwoordruimte, herstel en de vermindering van afwendbaar lijden krijgen binnen die keuze hun normatieve plaats. Daaruit volgt een politieke doctrine van **corrigeerbare macht**: wie de voorwaarden van andermans antwoorden kan bepalen, moet die macht kunnen rechtvaardigen en laten toetsen. De onafhankelijke derde, bezwaar- en herstelroutes, pluraliteit en uittreedbaarheid zijn institutionele vormen waarin die doctrine gestalte kan krijgen.
 
 Deze lagen mogen elkaar richting geven zonder in elkaar te worden geschoven:
 
 - **ontologische kern:** vorm, verhouding, verschil, voelen en onafgeslotenheid;
-- **ethische keuze:** bescherming van antwoordruimte en vermindering van afwendbaar lijden;
+- **ethische keuze:** wederkerigheid als primaire inzet, met bescherming van antwoordruimte, herstelvermogen en vermindering van afwendbaar lijden;
 - **doctrine van corrigeerbare macht:** sluitingsmacht brengt een zwaardere verantwoordings- en correctieplicht mee;
 - **institutionele uitwerking:** actor, relatie, onafhankelijke derde en instituut, met betwistbaarheid, vertrek, toetsing en herstel.
 
