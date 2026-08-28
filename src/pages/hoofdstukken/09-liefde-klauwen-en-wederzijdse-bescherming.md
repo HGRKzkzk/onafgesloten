@@ -54,6 +54,12 @@ Dit levert een krachtbegrip op dat niet van overheersing afhankelijk is. Autorit
 
 ## Wederzijdse bescherming
 
+Wederkerigheid betekent hier niet dat beide partijen hetzelfde geven, kunnen of dragen. Een ouder en kind, arts en patiënt, burger en staat of mens en dier staan niet in een symmetrische verhouding. Wederkerigheid begint dunner: geen van de betrokken vormen wordt principieel uitgesloten als bron van relevante terugkoppeling.
+
+Dat maakt wederkerigheid tot iets anders dan vertrouwen. Ik kan bereid zijn mijn handelen door jouw antwoord te laten veranderen en je toch niet genoeg vertrouwen om mij meteen vergaand kwetsbaar te maken. Waar vertrouwen ontbreekt, hoeft wederkerigheid daarom niet te verdwijnen; zij kan kleiner, toetsbaarder en herstelbaarder worden georganiseerd. Vertrouwen kan vervolgens groeien waar herhaalde wederkerigheid de kwetsbaarheid van de ander niet misbruikt.
+
+Waar wederkerigheid niet vanzelf mogelijk is, rust een zwaardere plicht op degene met de meeste sluitingsmacht om voorwaarden voor terugkoppeling te dragen. Geen stem, weinig macht of grote afhankelijkheid maken de ander niet minder relevant; zij vergroten het risico dat de sterkere partij zijn eigen perspectief voor de hele verhouding houdt.
+
 Verbondenheid wordt politiek en maatschappelijk pas geloofwaardig wanneer zij bescherming kan bieden. Mensen hoeven elkaar niet volledig te begrijpen, aardig te vinden of cultureel hetzelfde te zijn om te weigeren dat één van hen tot wegwerpmens wordt gemaakt.
 
 *Wij maken elkaar machtiger zonder iemand kleiner te hoeven maken.*

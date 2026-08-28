@@ -40,6 +40,14 @@ Daarom hoop ik van intelligentie niet in de eerste plaats snelheid, maar overzic
 
 Vertragen is evenmin altijd deugdzaam. Soms vergroot wachten de schade en is een onmiddellijke grens nodig. De vraag is naar passend ritme: kan de vorm ontvangen, reageren, integreren en herstellen op een tijdschaal die niet door één dominante actor wordt opgelegd?
 
+Rust is in die zin antwoordruimte in de tijd. Zij is niet louter herstel ná handelen, maar ook beschermde tijd waarin een verschil niet onmiddellijk tot oordeel, prestatie of ingreep hoeft te worden gemaakt. Zonder zulke onbezette tijd kan formele keuzevrijheid bestaan terwijl werkelijk antwoorden nauwelijks mogelijk is.
+
+Rust heeft tegelijk nieuwigheid nodig. Een vorm die alleen consolideert kan verstarren; een vorm die voortdurend door nieuwe prikkels, eisen of gebeurtenissen wordt geopend kan uiteenvallen. Nieuwigheid is vruchtbaar zolang rust nog mogelijk blijft; rust is vruchtbaar zolang nieuwigheid nog binnen kan komen. Leven vraagt daarom geen keuze tussen stilstand en verandering, maar een ritme waarin verschil kan verschijnen én worden opgenomen.
+
+Die bescherming van rust heeft een grens. Rust houdt op ontvankelijk te zijn wanneer op basis van beschikbare feiten, kennis en corrigeerbare intuïtie voldoende aannemelijk is geworden dat ernstige afwendbare schade voortduurt, proportioneel handelen werkelijk mogelijk is en verder uitstel de schade mede blijft dragen. Dan kan niet-handelen zelf deel van de draagroute worden.
+
+Intuïtie mag daarbij het alarm slaan; zij mag niet alleen het vonnis schrijven. Ook een dringende indruk moet door feiten, tegenspraak en gevolgen kunnen worden gecorrigeerd.
+
 Ook de aard van een passend antwoord verandert door de tijd. Wie ontredderd is, heeft misschien eerst ontvangst en enige stabiliteit nodig; tegenspraak kan dan feitelijk juist en toch ontijdig zijn. Later kan bevestiging juist verstarren en wordt scherpe correctie noodzakelijk. Een bruikbare beweging loopt van ontvangen naar stabiliseren, samen verkennen, tegenspreken en opnieuw plaatsen. Dat is geen protocol en geen ladder waarop iedereen dezelfde kant op moet. Het is een herinnering dat geen enkele omgangsvorm — empathie, dialoog, kritiek of grens — altijd gezond is.
 
 ## Herstel verandert de drager
