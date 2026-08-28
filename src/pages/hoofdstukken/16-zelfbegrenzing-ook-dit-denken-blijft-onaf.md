@@ -28,7 +28,11 @@ Ook het begrippenkader mag geen volledige taxonomie of verplichte ontwikkelingso
 12. Wat zou dit denken zelf moeten veranderen?
 13. Wie bezit hier sluitingsmacht, welke antwoordruimte wordt daardoor beperkt, en welke plicht tot toetsing, correctie of heropening volgt daaruit?
 14. Wanneer niet-menselijke dieren de last dragen: welke gedragsmatige, lichamelijke of relationele terugkoppeling maakt zichtbaar wat voor hen op het spel staat, en wie vertegenwoordigt dat zonder hun antwoord volledig toe te eigenen?
-15. Wat zou de cosmopsychische bruggedachte minder aannemelijk maken?
+15. Wie draagt deze last al langer, en wordt draagkracht hier stilzwijgend als toestemming gebruikt?
+16. Welke wederkerigheid is werkelijk mogelijk, en welke voorwaarden moeten haar dragen waar vertrouwen ontbreekt?
+17. Wat verandert wanneer er geen duidelijke schuldige actor is: wie bezit dan handelings- of sluitingsmacht?
+18. Is wachten hier beschermende rust, of is voldoende zichtbaar geworden dat verder uitstel zelf schade draagt?
+19. Wat zou de cosmopsychische bruggedachte minder aannemelijk maken?
 
 Deze vragen leveren geen automatisch juist antwoord. Zij organiseren aandacht en moeten kunnen blijken tekort te schieten.
 
