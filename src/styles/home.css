@@ -1,5 +1,35 @@
 .home {
+  position: relative;
   overflow: hidden;
+  background:
+    radial-gradient(circle at 18% 12%, rgba(255,255,255,.18), transparent 31%),
+    radial-gradient(circle at 82% 64%, rgba(40,37,31,.025), transparent 36%);
+}
+
+.home::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 20;
+  pointer-events: none;
+  opacity: .12;
+  mix-blend-mode: multiply;
+  background-image:
+    repeating-linear-gradient(
+      0deg,
+      rgba(40,37,31,.025) 0,
+      rgba(40,37,31,.025) 1px,
+      transparent 1px,
+      transparent 3px
+    ),
+    repeating-linear-gradient(
+      90deg,
+      rgba(255,255,255,.08) 0,
+      rgba(255,255,255,.08) 1px,
+      transparent 1px,
+      transparent 4px
+    );
+  background-size: 5px 7px, 9px 11px;
 }
 
 .home-hero {
@@ -140,12 +170,26 @@
   padding: clamp(7rem, 13vw, 11rem) 0 clamp(7rem, 12vw, 10rem);
 }
 
+.home-opening::after {
+  content: "";
+  position: absolute;
+  inset: clamp(3rem, 6vw, 5rem) -6vw clamp(2rem, 4vw, 4rem);
+  z-index: -1;
+  pointer-events: none;
+  background:
+    radial-gradient(ellipse at 38% 28%, rgba(255,255,255,.16), transparent 54%),
+    radial-gradient(ellipse at 70% 72%, rgba(40,37,31,.018), transparent 58%);
+  transform: rotate(-.12deg);
+}
+
 .home-opening::before {
   content: "";
   display: block;
-  width: 4rem;
+  width: 4.35rem;
   margin-bottom: clamp(3rem, 6vw, 5rem);
   border-top: 1px solid color-mix(in srgb, currentColor 24%, transparent);
+  transform: rotate(-.45deg);
+  transform-origin: left center;
 }
 
 .home-opening__eyebrow {
@@ -171,10 +215,21 @@
 }
 
 .home-opening__landing {
+  position: relative;
   width: min(690px, 100%);
   margin: clamp(6rem, 11vw, 9rem) auto 0;
   padding-top: clamp(2.2rem, 4vw, 3.2rem);
+}
+
+.home-opening__landing::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -.35rem;
+  width: calc(100% + .7rem);
   border-top: 1px solid color-mix(in srgb, currentColor 18%, transparent);
+  transform: rotate(.18deg);
+  transform-origin: left center;
 }
 
 .home-opening__landing h2 {
@@ -221,7 +276,18 @@
 }
 
 .home-chapters {
+  position: relative;
+}
+
+.home-chapters::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -.2rem;
+  width: calc(100% + .4rem);
   border-top: 1px solid color-mix(in srgb, currentColor 18%, transparent);
+  transform: rotate(-.08deg);
+  transform-origin: left center;
 }
 
 .home-chapter {
@@ -233,6 +299,7 @@
   color: inherit;
   text-decoration: none;
   border-bottom: 1px solid color-mix(in srgb, currentColor 18%, transparent);
+  box-shadow: inset 0 -1px rgba(255,255,255,.035);
   transition: padding-left 180ms ease, opacity 180ms ease;
 }
 
