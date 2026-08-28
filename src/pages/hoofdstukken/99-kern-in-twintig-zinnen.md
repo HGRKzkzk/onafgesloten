@@ -82,7 +82,7 @@ De politieke en ethische inzet wordt daarmee scherper. Niet iedere vorm hoeft vo
 
 > **Geen actor krijgt vanzelf het recht de antwoordruimte van een ander op te gebruiken.**
 
-Wie veel sluitingsmacht bezit, draagt daarom een zwaardere plicht tot rechtvaardiging, onafhankelijke toetsing en werkelijke correctie. Dat is geen afleiding die noodzakelijk uit de ontologie volgt, maar een gekozen politieke en ethische consequentie ervan: corrigeerbare macht in dienst van blijvend antwoordvermogen.
+Wie veel sluitingsmacht bezit, draagt daarom een zwaardere plicht tot rechtvaardiging, onafhankelijke toetsing en werkelijke correctie. Dat is geen afleiding die noodzakelijk uit de ontologie volgt, maar een gekozen politieke en ethische consequentie ervan: corrigeerbare macht in dienst van wederkerigheid, waarvoor voldoende antwoordruimte en herstelvermogen noodzakelijke voorwaarden zijn.
 
 Misschien kan de kern uiteindelijk in drie zinnen rusten:
 
@@ -110,6 +110,9 @@ Misschien kan de kern uiteindelijk in drie zinnen rusten:
 - Wanneer is antwoordruimte werkelijk voldoende, en hoe wegen actor, relatie, onafhankelijke derde en instituut wanneer zij daarover verschillen?
 - Hoe kunnen maatschappelijke draagstructuren antwoordend gedrag voeden zonder zachte disciplinering of dominante normaliteit te produceren?
 - Hoe moet de plicht tot heropening toenemen naarmate sluitingsmacht groter wordt?
+- Hoe kan wederkerigheid primair zijn zonder haar als gegeven, symmetrisch of afdwingbaar voor te stellen?
+- Hoe voorkomen we dat draagkracht en herstelvermogen juist de meest veerkrachtige vorm tot vaste drager van restlast maken?
+- Wanneer is wachten beschermende rust, en wanneer wordt nalaten zelf onderdeel van de schadelijke draagroute?
 - Hoe onderscheiden we afwendbaar lijden van tragiek die niet zonder grotere schade kan worden weggenomen?
 - Hoe bepalen we soort- en individueel eigen antwoordruimte bij niet-menselijke dieren zonder menselijke autonomie als verborgen maatstaf te gebruiken?
 - Is viering alleen een menselijke mogelijkheid, of raakt zij dieper aan levende betekenisvorming?
