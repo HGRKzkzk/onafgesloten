@@ -32,6 +32,10 @@ Wetenschap is een krachtige vorm van georganiseerde ontvankelijkheid wanneer zij
 
 Een goed model mag niet alleen nieuwe gegevens absorberen. Het moet door gevolgen kunnen worden begrensd, gewijzigd of verlaten.
 
+Waarheid, urgentie en gezag vallen daarbij niet vanzelf samen. Iemand kan gelijk hebben over wat er aan de hand is, zelfs eerder of scherper dan anderen, zonder daardoor automatisch het recht te krijgen de toekomst van anderen te bepalen. Inzicht geeft geen aanspraak op gehoorzaamheid.
+
+Een waarheidsclaim wordt epistemisch gevaarlijk wanneer tegenspraak alleen nog als bewijs van onbegrip kan worden verwerkt. Waarheid die alleen kan blijven staan doordat haar toetsing wordt opgeschort, verandert van kennisclaim in sluitingsmacht. Gelijk hebben geeft geen eigendomsrecht op de toekomst van de ander.
+
 ## Overzicht tegenover snelheid
 
 Intelligentie wordt gemakkelijk vereenzelvigd met snelle verwerking, voorspelling en optimalisatie. Maar snelheid vergroot ook het bereik van een vergissing. Een systeem dat sneller beslist zonder zijn blinde vlekken te zien, sluit niet minder maar efficiënter.
