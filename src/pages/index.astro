@@ -8,115 +8,25 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const publicChapters = chapters.filter(
   (chapter) => chapter.slug !== 'vooraf'
 );
-
-const vooraf = chapters.find(
-  (chapter) => chapter.slug === 'vooraf'
-);
 ---
 
 <SiteLayout title="Onafgesloten">
   <main class="home">
 
-    <section class="home-hero">
-      <div
-        class="home-hero__field"
-        aria-hidden="true"
-      >
-        <svg
-          viewBox="0 0 1200 720"
-          preserveAspectRatio="xMidYMid slice"
-        >
-          <path
-            d="M-80 510 C 180 300, 330 610, 570 420 S 920 180, 1280 360"
-          />
-          <path
-            d="M-120 370 C 120 570, 360 190, 610 340 S 940 590, 1300 260"
-          />
-          <path
-            d="M70 760 C 260 520, 510 690, 720 470 S 980 250, 1160 -40"
-          />
-          <path
-            d="M250 -80 C 330 160, 530 140, 650 310 S 760 570, 1030 730"
-          />
-        </svg>
-      </div>
+    <section class="home-intro">
+      <h1>Onafgesloten</h1>
 
-      <div class="home-hero__content">
-        <p class="home-kicker">
-          Een filosofische verkenning
-        </p>
-
-        <h1>Onafgesloten</h1>
-
-        <p class="home-hero__statement">
-          Wat verschijnt, verschijnt onaf.
-        </p>
-
-        {vooraf && (
-          <a
-            class="home-start"
-            href={`${base}/hoofdstukken/${vooraf.slug}/`}
-          >
-            Begin bij het vooraf
-            <span aria-hidden="true">→</span>
-          </a>
-        )}
-      </div>
-    </section>
-
-    <section
-      class="home-opening"
-      aria-labelledby="home-opening-title"
-    >
-      <div class="home-opening__flow">
-        <p>
-          Veel van wat ons draagt, krijgt gaandeweg een vorm.
-          Een lichaam. Een naam. Een huis. Een verhouding tot iemand.
-          Een manier van leven.
-        </p>
-
-        <p>
-          Dat die vorm verandert, maakt haar niet minder werkelijk.
-          Misschien is het juist andersom: sommige dingen kunnen alleen
-          blijven bestaan doordat ze niet helemaal hetzelfde hoeven te blijven.
-        </p>
-
-        <p>
-          Een grens kan beschermen zonder voor eeuwig te hoeven gelden.
-          Een gewoonte kan jarenlang goed zijn en op een dag te klein worden.
-          Iemand kan werkelijk zijn wie diegene is, zonder daarmee ooit
-          volledig beschreven te zijn.
-        </p>
-
-        <p class="home-opening__quiet">
-          We leven voortdurend met zulke onafheid.
-          Meestal zonder haar zo te noemen.
-        </p>
-      </div>
-
-      <div class="home-opening__landing">
-        <h2 id="home-opening-title">
-          Misschien is onaf niet het tegenovergestelde van heel.
-        </h2>
-      </div>
+      <p>
+        Onafgesloten is een filosofische verkenning van hoe levende,
+        relationele en institutionele vormen samenhang bewaren terwijl
+        zij veranderlijk, afhankelijk en corrigeerbaar blijven.
+      </p>
     </section>
 
     <section
       class="home-route"
-      aria-labelledby="home-route-title"
+      aria-label="Hoofdstukken"
     >
-      <header class="home-route__header">
-        <h2 id="home-route-title">
-          Je hoeft hier niet op de goede plek te beginnen.
-        </h2>
-
-        <p>
-          Sommige hoofdstukken liggen dicht bij elkaar. Andere komen
-          via een heel andere weg bij dezelfde vraag uit. Lees van voor
-          naar achter, of open waar iets je aandacht trekt.
-        </p>
-      </header>
-
       <div class="home-chapters">
         {publicChapters.map((chapter, index) => {
           const number = String(index + 1).padStart(2, '0');
@@ -146,10 +56,6 @@ const vooraf = chapters.find(
         })}
       </div>
     </section>
-
-    <p class="home-afterword">
-      Je hoeft hier niets af te maken.
-    </p>
 
   </main>
 </SiteLayout>
