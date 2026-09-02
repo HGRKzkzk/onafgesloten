@@ -75,7 +75,7 @@ export const glossary: Record<string, GlossaryEntry> = {
     chapterOfOrigin: '01-wat-verschijnt-verschijnt-onaf',
     short:
       'Een filosofische familie waarin worden, verandering en proces fundamenteel zijn voor wat werkelijkheid is, in plaats van alleen eigenschappen van blijvende dingen.',
-    url: 'https://en.wikipedia.org/wiki/Process_philosophy'
+    url: 'https://plato.stanford.edu/entries/process-philosophy/'
   },
 
   'relationele-autonomie': {
@@ -130,7 +130,8 @@ export const glossary: Record<string, GlossaryEntry> = {
     short:
       'Het filosofische probleem wat iemand door de tijd heen tot dezelfde persoon maakt, ondanks lichamelijke, psychologische en relationele verandering.',
     url: 'https://plato.stanford.edu/entries/identity-personal/'
-  }
+  },
+
   draagkracht: {
     term: 'Draagkracht',
     type: 'precisering',
