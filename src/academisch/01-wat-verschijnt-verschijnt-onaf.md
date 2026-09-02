@@ -2,11 +2,11 @@
 
 De gedachte dat een vorm werkelijk is zonder een volledig zelfstandige, afgesloten substantie te zijn, staat niet op zichzelf. Zij raakt aan verschillende filosofische tradities, maar valt met geen daarvan volledig samen.
 
-Een duidelijke verwantschap bestaat met de **procesfilosofie**, in het bijzonder met Alfred North Whitehead. In plaats van de werkelijkheid primair op te vatten als een verzameling blijvende dingen waaraan vervolgens veranderingen overkomen, geeft procesfilosofie ontologisch gewicht aan worden, verandering en verhouding zelf. Bij Whitehead ontstaat het actuele niet los van wat eraan voorafgaat: wat iets wordt, neemt een wereld van eerdere gebeurtenissen in zich op. Dat ligt dicht bij de gedachte in dit hoofdstuk dat een vorm werkelijk onderscheiden kan zijn en toch niet uitsluitend uit zichzelf bestaat.
+Een duidelijke verwantschap bestaat met de <span class="begrip" data-term="processfilosofie">**procesfilosofie**</span>, in het bijzonder met Alfred North Whitehead. In plaats van de werkelijkheid primair op te vatten als een verzameling blijvende dingen waaraan vervolgens veranderingen overkomen, geeft procesfilosofie ontologisch gewicht aan worden, verandering en verhouding zelf. Bij Whitehead ontstaat het actuele niet los van wat eraan voorafgaat: wat iets wordt, neemt een wereld van eerdere gebeurtenissen in zich op. Dat ligt dicht bij de gedachte in dit hoofdstuk dat een vorm werkelijk onderscheiden kan zijn en toch niet uitsluitend uit zichzelf bestaat.
 
 De overeenkomst heeft een grens. Whitehead bouwt een omvattende metafysica waarin proces een fundamentele categorie van de werkelijkheid als geheel wordt. *Onafgesloten* doet hier een beperktere uitspraak. Het hoofdstuk vertrekt bij levende, lerende en relationele vormen en beweert niet dat ieder fysisch object of iedere gebeurtenis volgens hetzelfde model begrepen moet worden.
 
-Een tweede verwantschap ligt bij theorieën van **relationele autonomie**. Vooral binnen de feministische filosofie is kritiek geleverd op het beeld van het autonome individu als een wezen dat eerst zelfstandig bestaat en daarna relaties aangaat. Relationele benaderingen benadrukken dat mensen sociaal en historisch gevormd worden en dat juist relaties voorwaarden kunnen scheppen waaronder iemand zelfstandig leert handelen. Afhankelijkheid en autonomie hoeven dan geen tegengestelden te zijn.
+Een tweede verwantschap ligt bij theorieën van <span class="begrip" data-term="relationele-autonomie">**relationele autonomie**</span>. Vooral binnen de feministische filosofie is kritiek geleverd op het beeld van het autonome individu als een wezen dat eerst zelfstandig bestaat en daarna relaties aangaat. Relationele benaderingen benadrukken dat mensen sociaal en historisch gevormd worden en dat juist relaties voorwaarden kunnen scheppen waaronder iemand zelfstandig leert handelen. Afhankelijkheid en autonomie hoeven dan geen tegengestelden te zijn.
 
 Dat sluit nauw aan bij de formulering uit het hoofdstuk:
 
@@ -18,9 +18,9 @@ Ook hier blijft een verschil bestaan. Relationele autonomie is vooral een theori
 
 Wetenschappelijk onderzoek kan de ontologische uitspraak *wat verschijnt, verschijnt onaf* niet bewijzen. Wel zijn er onderzoeksvelden waarin het beeld van een volledig op zichzelf staand organisme of cognitieproces steeds minder bruikbaar blijkt.
 
-Binnen onderzoek naar **belichaamde cognitie** wordt cognitie niet uitsluitend opgevat als informatieverwerking in het brein. Lichaam, handelingsmogelijkheden en interactie met de omgeving spelen volgens verschillende embodied en enactivistische benaderingen een constitutieve rol in waarnemen en handelen. Dat biedt empirische en theoretische bedding aan de bescheidener gedachte dat menselijke vermogens niet goed beschreven worden wanneer het individu van lichaam en omgeving wordt losgemaakt.
+Binnen onderzoek naar <span class="begrip" data-term="belichaamde-cognitie">**belichaamde cognitie**</span> wordt cognitie niet uitsluitend opgevat als informatieverwerking in het brein. Lichaam, handelingsmogelijkheden en interactie met de omgeving spelen volgens verschillende embodied en enactivistische benaderingen een constitutieve rol in waarnemen en handelen. Dat biedt empirische en theoretische bedding aan de bescheidener gedachte dat menselijke vermogens niet goed beschreven worden wanneer het individu van lichaam en omgeving wordt losgemaakt.
 
-Een tweede relevante aansluiting ligt bij onderzoek naar **homeostase en allostase**. Organismen behouden hun samenhang niet doordat alle relevante waarden voortdurend gelijk blijven. Regulatie vraagt juist verandering: hartslag, hormoonhuishouding, aandacht, energiegebruik en gedrag verschuiven met omstandigheden. In de literatuur over allostase wordt dit vaak beschreven als het bereiken of behouden van stabiliteit *door verandering*.
+Een tweede relevante aansluiting ligt bij onderzoek naar <span class="begrip" data-term="homeostase">**homeostase**</span> en <span class="begrip" data-term="allostase">**allostase**</span>. Organismen behouden hun samenhang niet doordat alle relevante waarden voortdurend gelijk blijven. Regulatie vraagt juist verandering: hartslag, hormoonhuishouding, aandacht, energiegebruik en gedrag verschuiven met omstandigheden. In de literatuur over allostase wordt dit vaak beschreven als het bereiken of behouden van stabiliteit *door verandering*.
 
 Dat is interessant voor het onderscheid dat dit hoofdstuk maakt tussen stabiliteit en gezondheid. Een vorm kan alleen blijven bestaan doordat zij voortdurend iets verandert.
 
@@ -32,11 +32,11 @@ Wel maakt deze literatuur één intuïtie concreet: **continuïteit en veranderi
 
 Er is een klassieke tegenwerping tegen iedere filosofie die veel nadruk legt op processen en relaties: als alles wordt verklaard vanuit verandering, geschiedenis en verhouding, **wat is het dan dat verandert?**
 
-De substantietraditie, vanaf Aristoteles tot hedendaagse metafysica, vertrekt juist vanuit het belang van individuele dingen die eigenschappen kunnen hebben en veranderingen kunnen ondergaan. Zo'n benadering hoeft verandering niet te ontkennen. Zij stelt eerder dat verandering alleen begrijpelijk is wanneer er ook voldoende continuïteit bestaat om te kunnen zeggen dat *hetzelfde* ding veranderd is.
+De <span class="begrip" data-term="substantie">substantietraditie</span>, vanaf Aristoteles tot hedendaagse metafysica, vertrekt juist vanuit het belang van individuele dingen die eigenschappen kunnen hebben en veranderingen kunnen ondergaan. Zo'n benadering hoeft verandering niet te ontkennen. Zij stelt eerder dat verandering alleen begrijpelijk is wanneer er ook voldoende continuïteit bestaat om te kunnen zeggen dat *hetzelfde* ding veranderd is.
 
 Dat bezwaar raakt dit hoofdstuk op een gevoelig punt. Wanneer een mens nooit volledig samenvalt met een diagnose, daad, patroon of sociaal verhaal, mag daaruit niet volgen dat niets werkelijk aan die persoon kan worden toegeschreven. Zonder enige duurzame identiteit worden ook verantwoordelijkheid, belofte, eigendom, lichamelijke integriteit en toestemming moeilijk denkbaar.
 
-Een vergelijkbaar probleem verschijnt in theorieën over persoonlijke identiteit. De vraag wat iemand door de tijd heen tot dezelfde persoon maakt is niet opgelost door simpelweg te zeggen dat mensen veranderen. Juist morele en juridische praktijken veronderstellen vaak dat er ondanks verandering voldoende continuïteit bestaat om een eerdere handeling aan een huidige persoon toe te schrijven.
+Een vergelijkbaar probleem verschijnt in theorieën over <span class="begrip" data-term="persoonlijke-identiteit">persoonlijke identiteit</span>. De vraag wat iemand door de tijd heen tot dezelfde persoon maakt is niet opgelost door simpelweg te zeggen dat mensen veranderen. Juist morele en juridische praktijken veronderstellen vaak dat er ondanks verandering voldoende continuïteit bestaat om een eerdere handeling aan een huidige persoon toe te schrijven.
 
 Het tegenlicht luidt daarom:
 
@@ -62,7 +62,7 @@ naar:
 
 > **Hoe kan iets voldoende samenhang bewaren om een eigen positie te hebben, terwijl het ontvankelijk blijft voor verschil dat die positie kan veranderen?**
 
-Dat is ook waarom in dit hoofdstuk **draagkracht** belangrijker wordt dan maximale openheid. Niet iedere verstoring hoeft ontvangen te worden en niet iedere grens is verdacht. Een vorm moet soms afsluiten om überhaupt te kunnen blijven antwoorden.
+Dat is ook waarom in dit hoofdstuk <span class="begrip" data-term="draagkracht">**draagkracht**</span> belangrijker wordt dan maximale openheid. Niet iedere verstoring hoeft ontvangen te worden en niet iedere grens is verdacht. Een vorm moet soms afsluiten om überhaupt te kunnen blijven antwoorden.
 
 De voorlopige inzet is daarmee niet *vorm tegenover proces*, maar **vorm als tijdelijk gedragen verschil**: werkelijk genoeg om begrensd en aanspreekbaar te zijn, onaf genoeg om nog te kunnen leren, herstellen of anders worden.
 
