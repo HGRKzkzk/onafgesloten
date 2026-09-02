@@ -1,0 +1,69 @@
+name: Deploy live
+
+on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: Commit-SHA die op staging is gecontroleerd
+        required: true
+        type: string
+
+concurrency:
+  group: onafgesloten-production
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    name: Bouw en deploy live
+    runs-on: ubuntu-latest
+    environment: production
+
+    env:
+      DEPLOY_SITE: https://woutervanitterzon.nl
+      DEPLOY_BASE: /onafgesloten
+      REMOTE_PATH: /domains/woutervanitterzon.nl/DEFAULT/onafgesloten
+
+    steps:
+      - name: Checkout gecontroleerde commit
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.ref }}
+
+      - name: Node instellen
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Dependencies installeren
+        run: npm ci
+
+      - name: Site bouwen
+        run: npm run build
+
+      - name: SFTP-client installeren
+        run: sudo apt-get update && sudo apt-get install -y lftp
+
+      - name: Naar live deployen
+        env:
+          SFTP_HOST: ${{ secrets.SFTP_HOST }}
+          SFTP_USER: ${{ secrets.SFTP_USER }}
+          SFTP_PASSWORD: ${{ secrets.SFTP_PASSWORD }}
+        run: |
+          lftp -u "$SFTP_USER","$SFTP_PASSWORD" "sftp://$SFTP_HOST" <<EOF
+          set sftp:auto-confirm yes
+          set net:max-retries 2
+          set net:timeout 20
+          mkdir -p "$REMOTE_PATH"
+          mirror --reverse --delete --verbose --parallel=4 dist/ "$REMOTE_PATH/"
+          bye
+          EOF
+
+      - name: Samenvatting
+        run: |
+          {
+            echo "## Live gedeployed"
+            echo ""
+            echo "- Commit: \`${{ inputs.ref }}\`"
+            echo "- URL: https://woutervanitterzon.nl/onafgesloten/"
+          } >> "$GITHUB_STEP_SUMMARY"
