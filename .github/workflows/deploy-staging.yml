@@ -1,0 +1,91 @@
+name: Deploy staging
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+concurrency:
+  group: onafgesloten-staging
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    name: Build en deploy naar staging
+    runs-on: ubuntu-latest
+    environment: staging
+
+    env:
+      DEPLOY_SITE: https://woutervanitterzon.nl
+      DEPLOY_BASE: /onafgesloten-staging
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Node instellen
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Dependencies installeren
+        run: npm ci
+
+      - name: Site bouwen
+        run: npm run build
+
+      - name: Deploy-tools installeren
+        run: sudo apt-get update && sudo apt-get install -y lftp apache2-utils
+
+      - name: Staging-auth genereren
+        env:
+          STAGING_AUTH_USER: ${{ secrets.STAGING_AUTH_USER }}
+          STAGING_AUTH_PASSWORD: ${{ secrets.STAGING_AUTH_PASSWORD }}
+          STAGING_AUTH_FILE: ${{ secrets.STAGING_AUTH_FILE }}
+        run: |
+          htpasswd -nbB "$STAGING_AUTH_USER" "$STAGING_AUTH_PASSWORD" > dist/.htpasswd
+
+          cat > dist/.htaccess <<EOF
+          AuthType Basic
+          AuthName "Onafgesloten staging"
+          AuthUserFile $STAGING_AUTH_FILE
+          Require valid-user
+
+          <Files ".htpasswd">
+            Require all denied
+          </Files>
+
+          Options -Indexes
+
+          <IfModule mod_headers.c>
+            Header set X-Robots-Tag "noindex, nofollow, noarchive"
+          </IfModule>
+          EOF
+
+      - name: Naar staging deployen
+        env:
+          SFTP_HOST: ${{ secrets.SFTP_HOST }}
+          SFTP_USER: ${{ secrets.SFTP_USER }}
+          SFTP_PASSWORD: ${{ secrets.SFTP_PASSWORD }}
+          REMOTE_PATH: ${{ secrets.STAGING_REMOTE_PATH }}
+        run: |
+          lftp -u "$SFTP_USER","$SFTP_PASSWORD" "sftp://$SFTP_HOST" <<EOF
+          set sftp:auto-confirm yes
+          set net:max-retries 2
+          set net:timeout 20
+          mkdir -p "$REMOTE_PATH"
+          mirror --reverse --delete --verbose --parallel=4 dist/ "$REMOTE_PATH/"
+          bye
+          EOF
+
+      - name: Samenvatting
+        run: |
+          {
+            echo "## Staging gedeployed"
+            echo ""
+            echo "- Commit: \`$GITHUB_SHA\`"
+            echo "- URL: https://woutervanitterzon.nl/onafgesloten-staging/"
+            echo "- HTTP Basic Auth: actief"
+          } >> "$GITHUB_STEP_SUMMARY"
