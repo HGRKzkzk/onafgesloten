@@ -63,7 +63,7 @@ const hasAcademicLayer = Boolean(AcademicContent);
   title={`${title} — Ontologie van Onafgesloten Vorm`}
   description={summary}
 >
-  <main class="chapter-layout">
+  <main class="chapter-layout" id="main-content" tabindex="-1">
 
     <header class="chapter-header">
       <p class="eyebrow">
@@ -145,13 +145,15 @@ const hasAcademicLayer = Boolean(AcademicContent);
         {
           previous
             ? (
-              <a href={chapterUrl(previous.slug)}>
-                ← {previous.title}
+              <a class="chapter-nav__link" href={chapterUrl(previous.slug)}>
+                <span class="chapter-nav__label">Vorige</span>
+                <span class="chapter-nav__title">← {previous.title}</span>
               </a>
             )
             : (
-              <a href={`${base}/`}>
-                ← Inhoud
+              <a class="chapter-nav__link" href={`${base}/`}>
+                <span class="chapter-nav__label">Overzicht</span>
+                <span class="chapter-nav__title">← Inhoud</span>
               </a>
             )
         }
@@ -161,13 +163,15 @@ const hasAcademicLayer = Boolean(AcademicContent);
         {
           next
             ? (
-              <a href={chapterUrl(next.slug)}>
-                {next.title} →
+              <a class="chapter-nav__link" href={chapterUrl(next.slug)}>
+                <span class="chapter-nav__label">Volgende</span>
+                <span class="chapter-nav__title">{next.title} →</span>
               </a>
             )
             : (
-              <a href={`${base}/`}>
-                Terug naar inhoud →
+              <a class="chapter-nav__link" href={`${base}/`}>
+                <span class="chapter-nav__label">Overzicht</span>
+                <span class="chapter-nav__title">Terug naar inhoud →</span>
               </a>
             )
         }
