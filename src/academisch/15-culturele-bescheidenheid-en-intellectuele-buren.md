@@ -1,5 +1,3 @@
-# Academische laag — 15 Culturele bescheidenheid en intellectuele buren
-
 ## Verwantschap
 
 Hoofdstuk 15 is in de eerste plaats een methodologisch hoofdstuk. Het vraagt niet welke tradities “ook OOV” zouden zijn, maar hoe vergelijking mogelijk is zonder de vergelijkingspartner al vooraf in OOV-categorieën te vertalen.
