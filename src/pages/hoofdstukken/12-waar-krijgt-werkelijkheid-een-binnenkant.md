@@ -10,14 +10,18 @@ source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
 
 <aside class="uitkijkje" data-label="Uitkijkje">
 <p class="uitkijkje__label">Uitkijkje</p>
-<h3 class="uitkijkje__title">Door het firmament prikken</h3>
+<h3 class="uitkijkje__title">De hemel is groter dan haar kaart</h3>
+<figure class="uitkijkje__figure">
+  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Dunhuang%20star%20map.jpg" alt="Detail van de Dunhuang-sterrenkaart met Chinese sterrenbeelden en astronomische aantekeningen" loading="lazy" />
+</figure>
 <div class="uitkijkje__text">
 
-De beroemde Flammarion-prent toont een reiziger die zijn hoofd door het hemelgewelf steekt om te zien wat erachter zit. Als beeld is het bijna te perfect voor metafysica: nieuwsgierigheid trekt aan de rand van het model en ontdekt vooral dat er nóg een kader achter ligt.
+De Dunhuang-sterrenkaart uit de Tang-periode ordent de hemel met een indrukwekkende precisie in patronen, namen en posities. Zij is tegelijk een herinnering dat een kaart nooit de hemel zelf wordt. Andere tijden en tradities hebben dezelfde sterren anders gegroepeerd, benoemd en gelezen.
 
-Een kosmische horizon hoeft daarom geen antwoordmachine te zijn. Soms is haar beste functie dat zij zichtbaar maakt waar onze kaart ophoudt.
+Een kosmische horizon hoeft daarom geen antwoordmachine te zijn. Zij kan ook zichtbaar maken hoe ver een menselijk model reikt — en waar werkelijkheid opnieuw groter blijkt dan het kader dat haar leesbaar maakte.
 
 </div>
+<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Dunhuang_star_map.jpg">Wikimedia Commons — Dunhuang-sterrenkaart, publiek domein</a></p>
 </aside>
 
 Tot hier heb ik vooral gesproken over gebieden waarin een binnenkant daadwerkelijk verschijnt: levende wezens voelen, mensen spreken elkaar aan, relaties krijgen betekenis en instituties verdelen de voorwaarden waaronder antwoorden mogelijk zijn. Dat is de regionale kern. Zij steunt op ervaring en kan in gesprek met biologie, fenomenologie, psychologie en sociale wetenschap worden onderzocht en gecorrigeerd.
