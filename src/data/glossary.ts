@@ -234,5 +234,55 @@ export const glossary: Record<string, GlossaryEntry> = {
     short:
       'De cumulatieve lichamelijke belasting die kan ontstaan wanneer systemen zich langdurig of herhaald aan stressoren moeten aanpassen.',
     url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC4251716/'
+  },
+
+  antwoordruimte: {
+    term: 'Antwoordruimte',
+    type: 'projectbegrip',
+    chapterOfOrigin: '05-draagkracht-grens-en-passende-sluiting',
+    short:
+      'De basale voorwaarden waaronder iemand of een vorm later opnieuw kan voelen, weigeren, herstellen, richting veranderen en antwoorden.'
+  },
+
+  'passende-sluiting': {
+    term: 'Passende sluiting',
+    type: 'projectbegrip',
+    chapterOfOrigin: '05-draagkracht-grens-en-passende-sluiting',
+    short:
+      'Een noodzakelijke begrenzing die niet meer afsluit dan nodig en haar eigen gevolgen, machtspositie en resterende herstelmogelijkheden onder rechtvaardigingsdruk houdt.'
+  },
+
+  paternalisme: {
+    term: 'Paternalisme',
+    type: 'gangbaar',
+    chapterOfOrigin: '05-draagkracht-grens-en-passende-sluiting',
+    short:
+      'Ingrijpen in iemands vrijheid of autonomie tegen diens wil, gemotiveerd door de gedachte dat dit die persoon zelf beschermt of ten goede komt.',
+    url: 'https://plato.stanford.edu/entries/paternalism/'
+  },
+
+  proportionaliteit: {
+    term: 'Proportionaliteit',
+    type: 'gangbaar',
+    chapterOfOrigin: '05-draagkracht-grens-en-passende-sluiting',
+    short:
+      'Het beginsel dat de zwaarte van een ingreep in redelijke verhouding moet staan tot het doel en de schade of het risico waarop zij reageert.'
+  },
+
+  autonomie: {
+    term: 'Autonomie',
+    type: 'gangbaar',
+    chapterOfOrigin: '05-draagkracht-grens-en-passende-sluiting',
+    short:
+      'Het vermogen en de ruimte om het eigen leven en handelen mede volgens eigen redenen, waarden en keuzes vorm te geven.',
+    url: 'https://plato.stanford.edu/entries/autonomy-moral/'
+  },
+
+  resilience: {
+    term: 'Resilience',
+    type: 'gangbaar',
+    chapterOfOrigin: '05-draagkracht-grens-en-passende-sluiting',
+    short:
+      'Het vermogen van een persoon, organisme of systeem om verstoring op te vangen, zich aan te passen of functioneren en samenhang te hervinden.'
   }
 };
