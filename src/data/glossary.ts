@@ -277,7 +277,6 @@ export const glossary: Record<string, GlossaryEntry> = {
       'Het vermogen en de ruimte om het eigen leven en handelen mede volgens eigen redenen, waarden en keuzes vorm te geven.',
     url: 'https://plato.stanford.edu/entries/autonomy-moral/'
   },
-
   resilience: {
     term: 'Resilience',
     type: 'gangbaar',
@@ -340,5 +339,39 @@ export const glossary: Record<string, GlossaryEntry> = {
     chapterOfOrigin: '06-draagroutes-ritme-en-herstel',
     short:
       'Ger rapporteerde positieve veranderingen in betekenis, prioriteiten of relaties na ingrijpende ervaringen; geen bewijs dat trauma noodzakelijk of wenselijk was.'
+  },
+
+  normaliteit: {
+    term: 'Normaliteit',
+    type: 'gangbaar',
+    chapterOfOrigin: '07-gezondheid-zonder-ideaalvorm',
+    short:
+      'Datgene wat als normaal geldt; statistisch vaak voorkomend, sociaal verwacht en klinisch onproblematisch zijn verschillende betekenissen die niet automatisch samenvallen.',
+    url: 'https://plato.stanford.edu/entries/health-disease/'
+  },
+
+  pathologie: {
+    term: 'Pathologie',
+    type: 'gangbaar',
+    chapterOfOrigin: '07-gezondheid-zonder-ideaalvorm',
+    short:
+      'Een toestand of proces dat als ziekelijk of ontregelend wordt beschouwd; de grens tussen ziekte, variatie en sociale norm vraagt empirische én normatieve beoordeling.',
+    url: 'https://plato.stanford.edu/entries/health-disease/'
+  },
+
+  wederkerigheid: {
+    term: 'Wederkerigheid',
+    type: 'projectbegrip',
+    chapterOfOrigin: '07-gezondheid-zonder-ideaalvorm',
+    short:
+      'De ethische inzet dat betrokken vormen elkaar niet louter als middel behandelen en dat signalen, grenzen en gevolgen van de ander werkelijk aan de verhouding kunnen terugspreken.'
+  },
+
+  'afwendbaar-lijden': {
+    term: 'Afwendbaar lijden',
+    type: 'projectbegrip',
+    chapterOfOrigin: '07-gezondheid-zonder-ideaalvorm',
+    short:
+      'Lijden dat redelijkerwijs voorkomen, verminderd of beëindigd kan worden zonder elders disproportionele schade te veroorzaken; het vraagt antwoord, maar geen onbeperkte zelfopoffering.'
   }
 };
