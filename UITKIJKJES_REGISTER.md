@@ -54,7 +54,7 @@ Een uitkijkje mag meerdere effecten hebben, maar noteer één primaire functie. 
 | 08 | Vrijheid komt zelden alleen | Eugène Delacroix, *La Liberté guidant le peuple* | schilderkunst | 1830 | Frankrijk / Europa | schaalverschuiving |
 | 09 | Kleine dieren hebben opvallend vaak een nee | Beatrix Potter, Peter Rabbit | kinderliteratuur | 1902 | Verenigd Koninkrijk | humor / ontregelen |
 | 10 | Een toren van taal | Pieter Bruegel de Oude, *De toren van Babel* | schilderkunst | 1563 | Lage Landen / Europa | tegenbeeld |
-| 11 | Zelfs in de triomf van de dood gebeurt van alles | Pieter Bruegel de Oude, *De triomf van de dood* | schilderkunst | ca. 1562 | Lage Landen / Europa | ontregelen |
+| 11 | Gilgamesj vindt geen achterdeur | *Gilgamesj-epos* | literatuur / mythe | Oud-Babylonische en latere teksttradities | Mesopotamië | culturele verbreding |
 | 12 | De hemel is groter dan haar kaart | Dunhuang-sterrenkaart | astronomische kaart / manuscript | Tang-periode, ca. 7e–8e eeuw | China / Dunhuang | culturele verbreding |
 | 13 | Bureaucratie heeft een lange komische geschiedenis | Honoré Daumier | karikatuur / grafiek | 19e eeuw | Frankrijk / Europa | humor / lucht |
 | 14 | De koe kijkt niet terug als beleidsmodel | Paulus Potter, *De Stier* / rund als monumentaal onderwerp | schilderkunst | 17e eeuw | Nederland | schaalverschuiving |
@@ -63,7 +63,7 @@ Een uitkijkje mag meerdere effecten hebben, maar noteer één primaire functie. 
 
 ## Wat de inventaris nu al laat zien
 
-De exacte doublures van Hokusai en de Flammarion-gravure zijn in de registerronde van september 2026 opgelost. Dat is precies het soort fout waarvoor dit document bedoeld is.
+De exacte doublures van Hokusai en de Flammarion-gravure zijn in de registerronde van september 2026 opgelost. In de uitwerking van hoofdstuk 11 is ook het tweede Bruegel-uitkijkje vervangen door het *Gilgamesj-epos*. Daarmee blijft Bruegel alleen in hoofdstuk 10 staan en wordt tegelijk medium, periode en culturele herkomst verbreed.
 
 Er blijft wel een duidelijke **Europese en schilderkunstige zwaarte** zichtbaar. Dat hoeft bestaande sterke uitkijkjes niet verdacht te maken, maar het geeft richting aan nieuwe keuzes. Bij volgende hoofdstukken verdienen daarom, waar inhoudelijk passend, extra aandacht:
 
@@ -76,8 +76,6 @@ Er blijft wel een duidelijke **Europese en schilderkunstige zwaarte** zichtbaar.
 - kaarten, schema's en historische documenten;
 - natuurwaarneming en ethologische beelden;
 - tradities uit Azië, Afrika, Latijns-Amerika, Oceanië en inheemse kennisculturen, zonder die als illustratieve bevestiging van OOV te gebruiken.
-
-Ook makersconcentratie blijft zichtbaar: Bruegel komt tweemaal voor. Dat is niet automatisch een fout, omdat *De toren van Babel* en *De triomf van de dood* hier verschillende functies vervullen, maar nieuw hergebruik van Bruegel zou daarom voorlopig een sterke reden nodig hebben.
 
 ## Checklist voor een nieuw uitkijkje
 
