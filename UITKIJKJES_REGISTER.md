@@ -21,6 +21,8 @@ Exact hetzelfde werk wordt in beginsel maar één keer gebruikt. Dezelfde maker 
 
 Diversiteit is geen quotum. Een minder bekende bron wordt niet gekozen omdat zij exotischer oogt. De eerste vraag blijft altijd: **maakt dit uitkijkje hier iets zichtbaar wat de hoofdtekst zelf niet al doet?** Daarna komt de vraag of een ander medium, tijdvak of perspectief hetzelfde werk rijker kan doen.
 
+Een uitkijkje hoeft niet naar het argument terug te keren. Soms is het voldoende dat het de lezer anders laat kijken wanneer die terugkeert.
+
 ## Functies
 
 Gebruik bij nieuwe registraties bij voorkeur één primaire functie:
@@ -58,12 +60,15 @@ Een uitkijkje mag meerdere effecten hebben, maar noteer één primaire functie. 
 | 12 | De hemel is groter dan haar kaart | Dunhuang-sterrenkaart | astronomische kaart / manuscript | Tang-periode, ca. 7e–8e eeuw | China / Dunhuang | culturele verbreding |
 | 13 | Bureaucratie heeft een lange komische geschiedenis | Honoré Daumier | karikatuur / grafiek | 19e eeuw | Frankrijk / Europa | humor / lucht |
 | 14 | De koe kijkt niet terug als beleidsmodel | Paulus Potter, *De Stier* / rund als monumentaal onderwerp | schilderkunst | 17e eeuw | Nederland | schaalverschuiving |
+| 14 | Bartleby zegt liever niet | Herman Melville, *Bartleby, the Scrivener* | literatuur | 1853 | Verenigde Staten | vertragen |
 | 15 | Geen canon is cultureel neutraal | metareflectie op de eigen selectie | tekstueel / zelfkritiek | hedendaagse redactie | projectintern | tegenbeeld |
 | 16 | Een schilderij dat naar zijn eigen kijken kijkt | Diego Velázquez, *Las Meninas* | schilderkunst | 1656 | Spanje / Europa | zelfreflectie / ontregelen |
 
 ## Wat de inventaris nu al laat zien
 
 De exacte doublures van Hokusai en de Flammarion-gravure zijn in de registerronde van september 2026 opgelost. In de uitwerking van hoofdstuk 11 is ook het tweede Bruegel-uitkijkje vervangen door het *Gilgamesj-epos*. Daarmee blijft Bruegel alleen in hoofdstuk 10 staan en wordt tegelijk medium, periode en culturele herkomst verbreed.
+
+In de integrale redactieronde is hoofdstuk 14 als eerste uitgebreid met een tweede adempunt. Het Bartleby-uitkijkje is bewust als **vertragen** geregistreerd: het hoeft de institutionele casus niet te bewijzen of samen te vatten en eindigt zonder terugkoppeling naar de projecttaal.
 
 Er blijft wel een duidelijke **Europese en schilderkunstige zwaarte** zichtbaar. Dat hoeft bestaande sterke uitkijkjes niet verdacht te maken, maar het geeft richting aan nieuwe keuzes. Bij volgende hoofdstukken verdienen daarom, waar inhoudelijk passend, extra aandacht:
 
