@@ -164,5 +164,14 @@ export const glossary: Record<string, GlossaryEntry> = {
     short:
       'Een familie van benaderingen waarin cognitie ontstaat uit actieve, belichaamde omgang van een organisme met zijn omgeving.',
     url: 'https://plato.stanford.edu/entries/embodied-cognition/#EnaCog'
+  },
+
+  'sociale-ontologie': {
+    term: 'Sociale ontologie',
+    type: 'gangbaar',
+    chapterOfOrigin: '02-vormen-ontstaan-in-verhouding',
+    short:
+      'Het filosofische onderzoek naar de aard van sociale verschijnselen en naar hoe personen, relaties, praktijken, instituties en materiële voorwaarden daarin samenhangen.',
+    url: 'https://plato.stanford.edu/entries/social-ontology/'
   }
 };
