@@ -7,7 +7,7 @@ interface Props {
 }
 
 const {
-  title = 'Onafgesloten',
+  title = 'Ontologie van Onafgesloten Vorm',
   description = 'Een filosofische verkenning van vorm, verhouding, vrijheid, betekenis en antwoord.'
 } = Astro.props;
 
@@ -25,7 +25,7 @@ const home = `${base}/`;
   </head>
   <body>
     <header class="site-header">
-      <a class="brand" href={home}>Onafgesloten</a>
+      <a class="brand" href={home}>Ontologie van Onafgesloten Vorm</a>
       <nav aria-label="Hoofdnavigatie">
         <a href={`${home}#leesroute`}>Leesroute</a>
         <a href={`${base}/hoofdstukken/99-kern-in-twintig-zinnen/`}>Kern</a>
@@ -33,7 +33,7 @@ const home = `${base}/`;
     </header>
     <slot />
     <footer class="site-footer">
-      <span>Werkversie · augustus 2026</span>
+      <span>Werkversie · september 2026</span>
       <span>Tekst, vorm en ordening blijven herzienbaar.</span>
     </footer>
   </body>
