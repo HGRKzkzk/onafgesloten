@@ -32,8 +32,6 @@ Zelfs de personificatie van Vrijheid heeft een grond nodig om op te lopen.
 
 Daarom is vrijheid ook niet identiek aan het maximaal openhouden van opties. Een beslissing kan werkelijk vrij zijn juist doordat zij mogelijkheden definitief laat verdwijnen. De grens ligt waar een keuze of opgelegde vorm de basale voorwaarden aantast waaronder iemand later nog als antwoordende actor kan bestaan. Ik wil dus niet een oneindige potentiehorizon beschermen, maar voldoende toekomstige antwoordruimte.
 
-Deze positie heeft verwantschap met Spinoza, voor wie vrijheid niet buiten noodzakelijkheid ligt maar in beter begrip van wat ons beweegt. Toch legt dit denken sterker de nadruk op de tweede persoon, draagkracht en institutionele voorwaarden. Begrip alleen maakt niet vrij als iemand materieel geen nee kan laten gelden.
-
 ## Non-dualiteit zonder het verschil weg te praten
 
 Het relationele vertrekpunt raakt ook aan non-duale tradities: zelf en wereld, binnen en buiten, individu en gemeenschap zijn niet absoluut los van elkaar. Maar “niet absoluut twee” betekent niet “eigenlijk één en dus zonder werkelijk verschil”. Grenzen hebben gevolgen. Pijn is niet minder werkelijk omdat zij relationeel ontstaat. Macht verdwijnt niet wanneer wij doorzien dat dader en slachtoffer deel van hetzelfde veld zijn.
