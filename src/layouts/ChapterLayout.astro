@@ -45,10 +45,6 @@ const label =
 const chapterUrl = (chapterSlug: string) =>
   `${base}/hoofdstukken/${chapterSlug}/`;
 
-/*
- * Zoek automatisch naar een academisch Markdownbestand
- * met dezelfde slug als het publieke hoofdstuk.
- */
 const academicModules = import.meta.glob('../academisch/*.md', {
   eager: true
 });
@@ -190,3 +186,9 @@ const hasAcademicLayer = Boolean(AcademicContent);
 
   <GlossaryPopover />
 </SiteLayout>
+
+<style is:global>
+  .chapter-prose > h2:first-child {
+    display: none;
+  }
+</style>
