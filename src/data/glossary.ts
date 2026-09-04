@@ -200,5 +200,39 @@ export const glossary: Record<string, GlossaryEntry> = {
     short:
       'Een filosofische benadering waarin ontmoeting en aanspreekbaarheid tussen ik en ander fundamenteel zijn, en de ander niet volledig wordt gereduceerd tot object van beschrijving.',
     url: 'https://plato.stanford.edu/entries/buber/'
+  },
+
+  agonisme: {
+    term: 'Agonisme',
+    type: 'gangbaar',
+    chapterOfOrigin: '04-spanning-nieuwsgierigheid-en-beweging',
+    short:
+      'Een benadering waarin conflict en verschil niet volledig hoeven te verdwijnen, maar zo worden georganiseerd dat tegenstanders elkaar niet uitsluitend als uit te schakelen vijanden behandelen.',
+    url: 'https://plato.stanford.edu/entries/feminism-political/'
+  },
+
+  informatiekloof: {
+    term: 'Informatiekloof',
+    type: 'gangbaar',
+    chapterOfOrigin: '04-spanning-nieuwsgierigheid-en-beweging',
+    short:
+      'Een model van nieuwsgierigheid waarin aandacht wordt getrokken door het verschil tussen wat iemand weet en wat diegene beseft nog niet te weten.'
+  },
+
+  beteugeling: {
+    term: 'Beteugeling',
+    type: 'precisering',
+    chapterOfOrigin: '04-spanning-nieuwsgierigheid-en-beweging',
+    short:
+      'Het vermogen een impuls niet onmiddellijk volledig uit te voeren, zodat aandacht, verlangen of verhouding tijd en terugweg behouden.'
+  },
+
+  'allostatische-belasting': {
+    term: 'Allostatische belasting',
+    type: 'gangbaar',
+    chapterOfOrigin: '04-spanning-nieuwsgierigheid-en-beweging',
+    short:
+      'De cumulatieve lichamelijke belasting die kan ontstaan wanneer systemen zich langdurig of herhaald aan stressoren moeten aanpassen.',
+    url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC4251716/'
   }
 };
