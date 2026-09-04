@@ -98,14 +98,17 @@ Daarom hebben kleine dieren klauwen nodig.
 > **We hoeven geen roofdieren te worden om klauwen te hebben.**
 
 <aside class="uitkijkje">
-<h3 class="uitkijkje__title">Kleine dieren hebben opvallend vaak een nee</h3>
+<h3 class="uitkijkje__title">Nijntje hoeft niet groot te worden</h3>
 <div class="uitkijkje__text">
 
-Kinderverhalen weten soms iets wat volwassen theorie plechtig moet terugvinden. Peter Rabbit is klein, afhankelijk en bepaald niet almachtig — maar zijn hele avontuur draait om verlangens, grenzen, vluchtwegen en de gevolgen van een wereld die groter is dan hijzelf.
+Bij Dick Bruna is bijna alles klein en eenvoudig: een huis, een fiets, een traan, twee oren en een mond van twee streepjes. Toch wordt Nijntje nergens interessanter doordat zij groter, stoerder of ingewikkelder wordt.
 
-“Klein” is in zulke verhalen zelden hetzelfde als “zonder wil”.
+Ze kijkt. Ze gaat ergens heen. Ze schrikt, ontdekt, wil, verliest, viert. De wereld om haar heen is groter, maar zij verdwijnt er niet in.
+
+Misschien is dat genoeg voor een paar bladzijden rust.
 
 </div>
+<p class="uitkijkje__source"><a href="https://www.nijntje.nl/over-nijntje">Meer over Nijntje en Dick Bruna</a></p>
 </aside>
 
 ## Zachtheid heeft klauwen nodig

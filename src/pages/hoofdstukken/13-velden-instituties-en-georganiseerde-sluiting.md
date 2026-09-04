@@ -60,9 +60,9 @@ Institutionele openheid is daarom geen houding. Zij moet in routes, bevoegdheden
 <h3 class="uitkijkje__title">Bureaucratie heeft een lange komische geschiedenis</h3>
 <div class="uitkijkje__text">
 
-Honoré Daumier maakte een carrière van mensen die zich achter functies, toga’s, bureaus en formulieren groter voordoen dan zij zijn. De grap werkt omdat we de vorm herkennen: een instituut kan noodzakelijk zijn en tegelijk vergeten dat het door mensen wordt uitgevoerd.
+Honoré Daumier maakte een carrière van mensen achter toga’s, bureaus en functies die net iets groter lijken dan de mensen zelf. Zijn karikaturen zijn vol opgeblazen ernst, papier, houdingen en gezichten die al een halve procedure lijken te zijn.
 
-Een procedure zonder terugweg naar werkelijkheid is filosofisch ingewikkeld. In een karikatuur is zij vaak binnen drie seconden duidelijk.
+Soms heeft een heel bestuurskundig probleem alleen een te grote hoed en een bureau nodig.
 
 </div>
 </aside>
@@ -144,6 +144,20 @@ Waar schuld diffuus is, hoeft verantwoordelijkheid dus niet diffuus te blijven. 
 Dat voorkomt twee fouten tegelijk. De eerste is moralisering: een structureel probleem reduceren tot slechte personen. De tweede is ontindividualisering: doen alsof “het systeem” handelde en daarom niemand nog beslissingen heeft genomen.
 
 Een veld kan gedrag verklaren zonder verantwoordelijkheid uit te wissen.
+
+<aside class="uitkijkje">
+<h3 class="uitkijkje__title">Een lege hoek wordt een speelplaats</h3>
+<div class="uitkijkje__text">
+
+Na de oorlog ontwierp Aldo van Eyck honderden openbare speelplaatsen voor Amsterdam. Vaak waren het geen grote parken maar kleine plekken tussen huizen en straten: zand, een paar vormen van beton of staal, een klimrek, een bank.
+
+De toestellen schreven het spel niet helemaal voor. Een boog kon klimrek zijn, hut, schip of iets waarvoor nog geen naam bestond.
+
+Een vergeten hoek van de stad kreeg ineens kinderen.
+
+</div>
+<p class="uitkijkje__source"><a href="https://www.amsterdam.nl/nieuws/erfgoed-week/65-jaar-buitenveldert/">Gemeente Amsterdam · speelplaatsen van Aldo van Eyck</a></p>
+</aside>
 
 ## Geen stem verhoogt de plicht
 
