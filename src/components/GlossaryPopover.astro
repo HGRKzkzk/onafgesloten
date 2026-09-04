@@ -33,7 +33,7 @@ const labels = {
       rel="noopener noreferrer"
       hidden
     >
-      Gangbare achtergrond op Wikipedia ↗
+      Meer over dit begrip ↗
     </a>
 
     <button
@@ -66,6 +66,36 @@ const labels = {
   const definitionNode = root.querySelector('[data-glossary-definition]');
   const linkNode = root.querySelector('[data-glossary-link]');
   const closeButton = root.querySelector('[data-glossary-close]');
+
+  const sourceLabel = (url) => {
+    try {
+      const hostname = new URL(url).hostname.replace(/^www\./, '');
+
+      if (hostname === 'plato.stanford.edu') {
+        return 'Stanford Encyclopedia of Philosophy';
+      }
+
+      if (hostname.endsWith('wikipedia.org')) {
+        return 'Wikipedia';
+      }
+
+      if (hostname === 'pmc.ncbi.nlm.nih.gov') {
+        return 'PubMed Central';
+      }
+
+      if (hostname === 'pubmed.ncbi.nlm.nih.gov') {
+        return 'PubMed';
+      }
+
+      if (hostname === 'iep.utm.edu') {
+        return 'Internet Encyclopedia of Philosophy';
+      }
+
+      return hostname;
+    } catch {
+      return 'externe bron';
+    }
+  };
 
   let activeTrigger = null;
 
@@ -102,10 +132,19 @@ const labels = {
     definitionNode.textContent = entry.short;
 
     if (entry.url) {
+      const source = sourceLabel(entry.url);
+
       linkNode.href = entry.url;
+      linkNode.textContent = `Meer over dit begrip bij ${source} ↗`;
+      linkNode.setAttribute(
+        'aria-label',
+        `Meer over ${entry.term} bij ${source} (opent in een nieuw tabblad)`
+      );
       linkNode.hidden = false;
     } else {
       linkNode.removeAttribute('href');
+      linkNode.removeAttribute('aria-label');
+      linkNode.textContent = 'Meer over dit begrip ↗';
       linkNode.hidden = true;
     }
 
