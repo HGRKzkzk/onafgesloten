@@ -2,14 +2,23 @@
 layout: ../../layouts/ChapterLayout.astro
 order: 12
 title: "Waar krijgt werkelijkheid een binnenkant?"
+description: "Over de vraag hoe perspectief en ervaring in werkelijkheid kunnen verschijnen, en waarom de cosmopsychische mogelijkheid een horizon blijft in plaats van een verborgen grondslag."
 slug: "waar-krijgt-werkelijkheid-een-binnenkant"
-status: "bronversie-met-uitkijkjes"
-source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
+status: "publieke-werkversie"
+
+source:
+  id: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
+  version: "v4.1"
+
+divergence:
+  status: "substantieel-herwerkt"
+  note: "Publieke uitbreiding met scherpere epistemische status van de cosmopsychische bruggedachte, expliciete rivalen, voorwaarden waaronder de gedachte aan kracht verliest en een striktere scheiding tussen regionale kern en metafysische horizon."
+
+lastSyncCheck: "2026-09-04"
 ---
 ## Regionale zekerheid, kosmische vraag
 
-<aside class="uitkijkje" data-label="Uitkijkje">
-<p class="uitkijkje__label">Uitkijkje</p>
+<aside class="uitkijkje">
 <h3 class="uitkijkje__title">De hemel is groter dan haar kaart</h3>
 <figure class="uitkijkje__figure">
   <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Dunhuang%20star%20map.jpg" alt="Detail van de Dunhuang-sterrenkaart met Chinese sterrenbeelden en astronomische aantekeningen" loading="lazy" />
@@ -24,52 +33,137 @@ Een kosmische horizon hoeft daarom geen antwoordmachine te zijn. Zij kan ook zic
 <p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Dunhuang_star_map.jpg">Wikimedia Commons — Dunhuang-sterrenkaart, publiek domein</a></p>
 </aside>
 
-Tot hier heb ik vooral gesproken over gebieden waarin een binnenkant daadwerkelijk verschijnt: levende wezens voelen, mensen spreken elkaar aan, relaties krijgen betekenis en instituties verdelen de voorwaarden waaronder antwoorden mogelijk zijn. Dat is de regionale kern. Zij steunt op ervaring en kan in gesprek met biologie, fenomenologie, psychologie en sociale wetenschap worden onderzocht en gecorrigeerd.
+Tot hier heb ik vooral gesproken over gebieden waarin een binnenkant daadwerkelijk verschijnt: levende wezens kunnen voelen, mensen spreken elkaar aan, relaties krijgen betekenis en instituties verdelen de voorwaarden waaronder antwoorden mogelijk zijn. Dat is de <span class="begrip" data-term="regionale-reikwijdte">regionale kern</span>. Zij begint dicht bij ervaring en kan in gesprek met biologie, fenomenologie, psychologie en sociale wetenschap worden onderzocht en gecorrigeerd.
 
-Maar de regionale kern laat een oorsprongsvraag achter. Hoe kan een werkelijkheid waarin nergens iets van binnenuit gebeurt op enig moment een wezen voortbrengen voor wie iets op het spel staat? Het woord *voortbrengen* kan hier te gemakkelijk verhullen hoe groot de overgang is. Een beschrijving van steeds complexere functies verklaart nog niet vanzelf waarom een gebeurtenis niet alleen wordt verwerkt, maar ook wordt gevoeld.
+Daar hoeft geen kosmische theorie onder te liggen. Ook wanneer bewustzijn volledig zou blijken samen te hangen met specifieke biologische organisatie, blijven veel eerdere vragen overeind: wat kan een mens dragen, wanneer wordt een grens destructief, hoe verdelen instituties restlast en wanneer verandert macht in sluiting?
 
-Ik onderscheid daarom drie uitspraken die niet stilzwijgend in elkaar mogen schuiven:
+Toch laat die regionale kern een vraag achter die ik niet goed kwijt raak.
+
+Hoe kan een werkelijkheid waarin nergens iets van binnenuit gebeurt op enig moment een wezen voortbrengen voor wie iets op het spel staat?
+
+Dat is nog geen argument. Het is eerst een verwondering. Het woord *voortbrengen* kan bovendien verhullen hoeveel verschillende verklaringen mogelijk zijn. Misschien ontstaat bewustzijn wanneer materie op een bepaalde manier georganiseerd raakt. Misschien zijn mentale en fysieke beschrijvingen twee verschijningswijzen van iets fundamentelers. Misschien is ervaring zelf in een minimale vorm fundamenteler dan wij gewoonlijk aannemen. En misschien blijkt een deel van deze vraag uiteindelijk verkeerd gesteld.
+
+Juist daarom moeten drie uitspraken uit elkaar blijven:
 
 1. **Regionale vaststelling:** sommige levende vormen hebben een binnenkant; verschil doet er voor hen toe en kan tot perspectief, betekenis en antwoord worden.
-2. **Cosmopsychische bruggedachte:** leven schept die binnenkant misschien niet uit volstrekte afwezigheid, maar vormt en lokaliseert een diepere ontvankelijkheid van werkelijkheid.
+2. **Cosmopsychische bruggedachte:** leven schept die binnenkant misschien niet uit volstrekte afwezigheid, maar vormt en lokaliseert een diepere mogelijkheid van werkelijkheid om van binnenuit verschil te dragen.
 3. **Sterk cosmopsychisme:** de kosmos als geheel is zelf één bewust subject.
 
-De eerste uitspraak behoort tot de kern van het project. De tweede geeft die kern haar metafysische horizon. De derde volgt uit geen van beide en wordt hier niet beweerd. Ook wanneer de bruggedachte onhoudbaar blijkt, blijven veel regionale inzichten over voelen, grens, draagkracht, macht en herstel overeind. Maar de bruggedachte is meer dan versiering: zij vraagt of subjectiviteit werkelijk een kosmische uitzondering moet zijn, of dat ons ontstaan iets onthult over de werkelijkheid waaruit wij konden ontstaan.
+De eerste uitspraak behoort tot de kern van dit project. De tweede is een metafysische mogelijkheid. De derde volgt uit geen van beide en wordt hier niet beweerd.
 
-*Subjectiviteit ontstaat misschien niet uit een werkelijkheid waaraan iedere binnenkant oorspronkelijk vreemd is. Leven zou de binnenkant dan niet uit niets voortbrengen, maar haar plaats, grens, ritme en perspectief geven.*
+Dat onderscheid is belangrijk omdat een aantrekkelijk beeld gemakkelijk meer gewicht krijgt dan het verdient. De gedachte dat ervaring niet uit een volledig ervaringsvreemde werkelijkheid hoeft te verschijnen, trekt mij aan. Zij maakt de overgang tussen materie en gevoel minder abrupt. Maar aantrekkingskracht is geen bewijs. Ook elegantie is dat niet.
+
+> **De cosmopsychische gedachte is een horizon, geen verborgen fundament.**
+
+Als die horizon later onhoudbaar blijkt, mag zij verdwijnen zonder dat de regionale kern instort.
+
+## Wat zou de gedachte werkelijk toevoegen?
+
+Een metafysische mogelijkheid verdient pas meer gewicht wanneer zij iets verheldert wat rivalen moeilijker kunnen verklaren, zonder grotere problemen terug te brengen.
+
+Daarom is het niet genoeg te zeggen: bewustzijn bestaat, dus de werkelijkheid moet ergens al bewust zijn geweest. Dat zou precies de overgang die onderzocht moet worden overslaan.
+
+Ook het omgekeerde is te snel. Dat hersenprocessen noodzakelijk blijken voor menselijke ervaring laat zien dat bewustzijn bij mensen diep afhankelijk is van biologische organisatie. Het beslist op zichzelf nog niet welke metafysische beschrijving van die afhankelijkheid uiteindelijk de beste is.
+
+De cosmopsychische bruggedachte moet daarom naast minstens enkele rivalen blijven staan: emergentistische vormen van physicalisme, niet-reductief physicalisme, neutral monisme, panpsychistische varianten en theorieën die bewustzijn primair functioneel of computationeel proberen te begrijpen. Geen van die namen is hier een strohalm. Ze markeren werkelijk verschillende manieren om hetzelfde raadsel te ordenen.
+
+Op dit moment heeft de bruggedachte bovendien geen eigen meetbare voorspelling waarmee zij rechtstreeks van zulke rivalen kan worden onderscheiden. Dat betekent dat ik haar niet als empirische theorie mag presenteren.
+
+Zij zou voor mij aan kracht verliezen wanneer bijvoorbeeld blijkt dat:
+
+- organismale organisatie steeds beter verklaart waarom en wanneer ervaring verschijnt, zonder dat een fundamentelere ervaringslaag nog verklaringswerk doet;
+- de bruggedachte geen beter antwoord kan geven op het ontstaan van afzonderlijke subjecten dan de theorieën die zij wilde verbeteren;
+- begrippen als *binnenkant* en *ontvankelijkheid* op kosmisch niveau uiteindelijk alleen metaforen blijken die niets onderscheiden;
+- iedere mogelijke uitkomst achteraf in de gedachte kan worden opgenomen, zodat niets haar nog werkelijk onder druk zet.
+
+Dat zijn geen eenvoudige falsificatiecriteria in natuurwetenschappelijke zin. Het zijn wel voorwaarden waaronder een filosofische hypothese haar verklarende meerwaarde kan verliezen.
+
+Een horizon die door geen enkele bevinding kleiner kan worden, dreigt decor te worden.
 
 ## Geen wereldgeest in mensengedaante
 
-In strikte filosofische zin wordt met cosmopsychisme vaak de stelling bedoeld dat de kosmos als geheel bewust is. Ik sta voor die mogelijkheid open, maar heb haar niet aangetoond en zie er een ernstig probleem in. De subjectiviteit die wij kennen is niet alleen verbondenheid. Zij vraagt ook begrenzing, selectie, geheugen, ritme, kwetsbaarheid en inzet: sommige gebeurtenissen tellen voor dit wezen anders dan andere, omdat zijn voortbestaan en handelingsmogelijkheden niet onverschillig zijn.
+Met <span class="begrip" data-term="cosmopsychisme">cosmopsychisme</span> wordt in de hedendaagse filosofie meestal een familie van opvattingen bedoeld waarin het kosmische geheel fundamenteel is voor de verklaring van individuele ervaring; sommige varianten spreken daarbij daadwerkelijk over een bewust universum.
 
-Van de kosmos als allesomvattend geheel is niet zonder meer duidelijk wat zijn grens, buitenwereld, gevaar, gemis of eigen gezichtspunt zou zijn. Wie toch over *het bewustzijn van de kosmos* spreekt, kan ongemerkt het menselijke ik vergroten tot wereldformaat. Dan wordt een naam gegeven aan het raadsel zonder dat duidelijker wordt wat die naam betekent.
+Ik sta voor die mogelijkheid open, maar zie er een ernstig probleem in. De subjectiviteit die wij kennen is niet alleen verbondenheid. Zij vraagt ook begrenzing, selectie, geheugen, ritme, kwetsbaarheid en inzet: sommige gebeurtenissen tellen voor dit wezen anders dan andere omdat zijn voortbestaan, lichaam en handelingsmogelijkheden niet onverschillig zijn.
 
-Daarom zoek ik voorlopig niet naar één reusachtig ik achter alle kleine ikken. Ik onderzoek de minder spectaculaire en mogelijk vruchtbaardere gedachte dat werkelijkheid niet uitputtend als louter buitenkant kan worden begrepen. Er kan een diepere mogelijkheid tot aangedaan worden bestaan zonder dat ieder ding een miniatuurpersoon is en zonder dat het geheel één afgerond zelf vormt.
+Van de kosmos als allesomvattend geheel is niet vanzelf duidelijk wat zijn grens, buitenwereld, gevaar, gemis of eigen gezichtspunt zou zijn. Wie toch over *het bewustzijn van de kosmos* spreekt, kan ongemerkt het menselijke ik vergroten tot wereldformaat. Dan krijgt het raadsel een indrukwekkende naam, maar nog geen betere verklaring.
 
-*Wij zijn niet noodzakelijk delen van één denkende Wereldgeest; wij zijn plaatsen waar werkelijkheid verschil van binnenuit draagt.*
+Daarom zoek ik voorlopig niet naar één reusachtig ik achter alle kleine ikken. De minder spectaculaire gedachte interesseert mij meer: misschien is werkelijkheid niet uitputtend te begrijpen als louter buitenkant.
 
-Dat beschermt ook de veelheid. Als alle wezens slechts maskers van hetzelfde kosmische subject waren, kon hun werkelijke verschil worden gerelativeerd. Maar een binnenkant bestaat juist als een eigen, begrensde wijze waarop iets ertoe doet. Kosmische samenhang mag de tweede persoon niet opslokken. Dat wij uit dezelfde werkelijkheid voortkomen, maakt jouw pijn niet tot mijn bezit en mijn perspectief niet tot het jouwe.
+Dat hoeft niet te betekenen dat een steen pijn heeft of een elektron zich verveelt. Het betekent alleen dat ik de mogelijkheid niet wil uitsluiten dat ervaring voortkomt uit aspecten van werkelijkheid die in een uitsluitend derde-persoonsbeschrijving niet volledig zichtbaar worden.
+
+> **Wij zijn niet noodzakelijk delen van één denkende Wereldgeest; wij zijn plaatsen waar werkelijkheid verschil van binnenuit draagt.**
+
+Ook die zin blijft een voorstel, geen ontdekking.
+
+## Veelheid mag niet verdwijnen
+
+Een kosmische theorie kan vreemd genoeg juist te weinig ruimte laten voor verschil.
+
+Als alle wezens uiteindelijk slechts maskers van hetzelfde ene bewustzijn zouden zijn, kan het verleidelijk worden hun werkelijke afzonderlijkheid te relativeren. Mijn pijn en jouw pijn zouden dan op een dieper niveau toch “dezelfde” pijn zijn. Geweld zou slechts een tijdelijke botsing binnen één geheel worden. Grenzen zouden schijn kunnen lijken.
+
+Dat is voor dit project onaanvaardbaar als ethische afleiding.
+
+Zelfs als werkelijkheid op een fundamenteler niveau sterk samenhangt, volgt daar niet uit dat concrete perspectieven uitwisselbaar zijn. Een <span class="begrip" data-term="vorm">vorm</span> krijgt juist een eigen binnenkant doordat niet alles op dezelfde manier voor haar geldt. Zij heeft een geschiedenis, kwetsbaarheid, ritme en grens die niet door een beroep op eenheid mogen worden opgeheven.
+
+Kosmische samenhang maakt jouw pijn niet tot mijn bezit. Zij maakt mijn perspectief niet bevoegd om het jouwe te vervangen. En zij vermindert niet de asymmetrie tussen degene die schade ondergaat en degene die haar veroorzaakt.
+
+Een metafysica van verbondenheid mag dus nooit als snelweg rond concrete verantwoordelijkheid worden gebruikt.
 
 ## Van veld naar perspectief
 
-De eigen bijdrage die ik aan deze vraag probeer te leveren ligt in het begrip van vorm. Een perspectief hoeft niet te worden gedacht als een zelfstandige geest die van buitenaf in materie wordt geplaatst. Het kan worden onderzocht als het resultaat van een geschiedenis waarin een breder veld plaatselijk samenhang en richting krijgt.
+De eigen stap die ik hier probeer te onderzoeken ligt minder in cosmopsychisme zelf dan in het begrip van vorm.
 
-Een grens selecteert welke verschillen samen worden gedragen. Herhaling en geheugen geven die selectie een geschiedenis. Kwetsbaarheid maakt sommige veranderingen belangrijk voor het voortbestaan van de vorm. Ritme ordent ontvangen, bewaren, handelen en herstellen in de tijd. Door zulke processen ontstaat een eigen speelruimte: niet onbeperkt en niet onafhankelijk, maar wel een plaats vanwaar iets kan gelden, worden verwacht en beantwoord.
+Een perspectief hoeft niet te worden gedacht als een zelfstandige geest die van buitenaf in materie wordt geplaatst. Het kan worden onderzocht als een geschiedenis waarin een breder veld plaatselijk samenhang, grens en richting krijgt.
 
-De grens snijdt het geheel dus niet alleen in losse stukken. Zij maakt mogelijk dat een werkelijkheid *van hieruit* verschijnt. Een organisme is dan geen gesloten doos met een geest erin, maar een plaatselijke organisatie van verschil die een eigen binnen en buiten, verleden en mogelijkheid, belang en antwoord voortbrengt.
+Een grens selecteert welke verschillen samen worden gedragen. Herhaling en geheugen geven die selectie duur. Kwetsbaarheid maakt sommige veranderingen belangrijker dan andere. Ritme ordent ontvangen, bewaren, handelen en herstellen in de tijd. Zo ontstaat een eigen speelruimte: niet onbeperkt en niet onafhankelijk, maar wel een plaats vanwaar iets kan gelden, worden verwacht en beantwoord.
 
-Dit is nog geen verklaring van bewustzijn. Het zegt niet welk biologisch of fysisch proces ervaring noodzakelijk maakt, en het bewijst niet dat de kosmos een reeds aanwezige ervaring over kleinere wezens verdeelt. Het biedt hoogstens een grammatica van verplaatsing: hoe een onbegrensde samenhang plaatselijk begrensd, selectief, kwetsbaar en perspectivisch kan worden.
+De grens snijdt het geheel dus niet alleen in losse stukken. Zij maakt mogelijk dat een werkelijkheid *van hieruit* verschijnt.
 
-Daarmee raak ik aan een klassiek probleem voor cosmopsychisme. Als het geheel één subject is, hoe kunnen daaruit werkelijk afzonderlijke subjecten ontstaan? Een deel van één ervaring wordt niet vanzelf een nieuwe ervaarder. Vorm, grens, geheugen en eigen inzet maken voorstelbaar wat voor individuering nodig is, maar lossen dit afleidingsprobleem niet volledig op. Filosofische helderheid moet hier samenwerken met empirische kennis en ook kunnen erkennen dat de brug misschien niet draagt.
+Een organisme is dan geen gesloten doos met een geest erin. Het is een plaatselijke organisatie waarin binnen en buiten, verleden en verwachting, belasting en herstel, belang en antwoord samen een perspectief vormen.
+
+Dat helpt de individuering beschrijven. Het verklaart bewustzijn nog niet.
+
+Het zegt niet welk biologisch of fysisch proces ervaring noodzakelijk of voldoende maakt. Het bewijst niet dat de kosmos een reeds aanwezige ervaring over kleinere wezens verdeelt. En het lost niet het klassieke probleem op hoe één groter ervarend geheel werkelijk afzonderlijke ervaarders zou kunnen dragen.
+
+Dat laatste probleem is voor cosmopsychisme bijzonder scherp. Dat één subject delen heeft, verklaart nog niet waarom zo'n deel zelf een nieuw subject wordt. Een golf in zee is geen tweede zee. Een zin in een boek is geen tweede schrijver.
+
+Vorm, grens, geheugen en eigen inzet maken voorstelbaar welke voorwaarden individuering nodig zou kunnen hebben. Maar voorstelbaarheid is nog geen afleiding.
+
+Hier moet de theorie dus een open wond houden.
+
+## Het ontstaan van ervaring blijft empirisch werk
+
+Filosofische bescheidenheid betekent niet dat we moeten wachten tot één vakgebied het raadsel oplost.
+
+Onderzoek naar bewustzijn probeert juist verbanden te leggen tussen hersenactiviteit, gedrag, rapportage, informatieverwerking en ervaring. Dat onderzoek is onmisbaar omdat een metafysische horizon nooit een excuus mag worden om de concrete mechanismen van bewustzijn minder serieus te nemen.
+
+Wanneer anesthesie ervaring verandert, wanneer hersenletsel specifieke bewustzijnsinhouden wegneemt of wanneer verschillende neurale processen samenhangen met wat iemand rapporteert, leren we iets werkelijks over de voorwaarden waaronder menselijke binnenkant verschijnt.
+
+Maar ook daar moet het register zuiver blijven. Een *neurale correlatie* is nog niet automatisch een volledige verklaring van waarom die toestand ervaren wordt. Omgekeerd is een resterende verklaringsvraag geen bewijs dat een kosmische ervaringslaag bestaat.
+
+Onverklaard is niet hetzelfde als bovennatuurlijk. Het is ook niet hetzelfde als fundamenteel.
 
 ## Volledige responsiviteit als grensgedachte
 
-Geen eindige vorm kan op alles antwoorden. Perspectief bestaat bij de gratie van selectie: dit komt binnen, dat blijft buiten; dit wordt nu gedragen, dat pas later of nooit. Een wezen dat ieder verschil gelijktijdig en even zwaar zou voelen, had geen bruikbare grens en mogelijk geen eigen perspectief meer.
+Geen eindige vorm kan op alles antwoorden. Perspectief bestaat bij de gratie van selectie: dit komt binnen, dat blijft buiten; dit wordt nu gedragen, dat pas later of nooit.
 
-Volledige responsiviteit is daarom geen verborgen kosmisch wezen en geen eindtoestand die wij moeten bereiken. Zij is een grensgedachte: de herinnering dat geen enkel werkelijk antwoord alles beantwoordt wat nog kan terugspreken. Zij houdt onze sluitingen bescheiden zonder te eisen dat wij grenzeloos openstaan.
+Een wezen dat ieder verschil gelijktijdig en even zwaar zou voelen, had geen bruikbare grens en mogelijk geen eigen perspectief meer.
 
-De cosmopsychische horizon verandert zo niet alles in bewustzijn. Zij keert de vraag om. Niet: hoe projecteren wij onze binnenkant op het heelal? Maar: wat moet voor werkelijkheid waar zijn, wil zij überhaupt vormen kunnen voortbrengen waarin iets verschijnt, ertoe doet en antwoord krijgt?
+Volledige responsiviteit is daarom geen verborgen kosmisch wezen en geen eindtoestand die wij moeten bereiken. Zij is een grensgedachte: de herinnering dat geen enkel werkelijk antwoord alles beantwoordt wat nog kan terugspreken.
 
-*Misschien heeft de kosmos geen ik, maar is het ik een wijze waarop de kosmos plaatselijk een binnenkant krijgt.*
+Zij houdt onze sluitingen bescheiden zonder te eisen dat wij grenzeloos openstaan.
+
+Dat geldt ook voor deze theorie zelf. Het is niet ontvankelijk om een vraag open te noemen en vervolgens ieder mogelijk antwoord zo te herformuleren dat de favoriete horizon behouden blijft.
+
+De cosmopsychische mogelijkheid moet dus kunnen krimpen, veranderen of verdwijnen.
+
+> **Wat een horizon is, mag richting geven aan een vraag. Het mag niet achteraf doen alsof het de grond onder alle antwoorden was.**
+
+Dan blijft de kosmische vraag wat zij hier moet zijn: een vraag die voortkomt uit de werkelijkheid van ervaring, maar de ervaring niet gijzelt voor een antwoord dat nog niet verdiend is.
+
+Misschien heeft de kosmos geen ik. Misschien is het ik een wijze waarop de kosmos plaatselijk een binnenkant krijgt. Misschien blijkt ook die formulering uiteindelijk te menselijk.
+
+Voorlopig hoeft de regionale kern daar niet op te wachten.
 
 ---
