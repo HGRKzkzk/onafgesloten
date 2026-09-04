@@ -11,7 +11,7 @@ source:
 divergence:
   status: "integraal-gecomprimeerd"
   note: "Vrijheid en antwoordruimte krijgen hier hun thuisbasis; herhaling van gezondheid, wederkerigheid en relationele asymmetrie is teruggebracht."
-lastSyncCheck: "2026-09-05"
+lastSyncCheck: "2026-09-04"
 ---
 Vrijheid wordt gemakkelijk voorgesteld als een lege plek in de keten van oorzaken. Iets is dan werkelijk vrij voor zover het niet door afkomst, lichaam, geschiedenis, omgeving, gewoonte of eerdere gebeurtenis is bepaald.
 
@@ -53,11 +53,10 @@ Dat wist verantwoordelijkheid niet uit. Het maakt haar nauwkeuriger.
 
 Die zin vermijdt twee uitersten: het soevereine zelf dat zichzelf volledig heeft voortgebracht en de reductie van ieder menselijk handelen tot een gebeurtenis waarin redenen, reflectie, dwang en leren uiteindelijk niets meer uitmaken.
 
-<aside class="uitkijkje" data-mode="image">
+<aside class="uitkijkje">
 <h3 class="uitkijkje__title">Vrijheid komt zelden alleen</h3>
 <figure class="uitkijkje__figure">
   <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Eug%C3%A8ne%20Delacroix%20-%20Liberty%20Leading%20the%20People.jpeg" alt="Eugène Delacroix, La Liberté guidant le peuple" loading="lazy" />
-  <figcaption class="uitkijkje__caption">Eugène Delacroix, <em>La Liberté guidant le peuple</em>, 1830. Publiek domein.</figcaption>
 </figure>
 <div class="uitkijkje__text">
 
@@ -103,16 +102,16 @@ Dat maakt ook duidelijk waarom bescherming soms keuze mag beperken. Een tijdelij
 
 Vrijheid rechtvaardigt dus noch *meer keuze is altijd beter*, noch *wij weten wat voor u werkelijk vrij is*.
 
-<aside class="uitkijkje" data-mode="video">
+<aside class="uitkijkje">
 <h3 class="uitkijkje__title">Een paar akkoorden zijn soms genoeg</h3>
 <div class="uitkijkje__text">
 
-Op *Kind of Blue* spelen Miles Davis en zijn medemuzikanten niet in een muzikale leegte. Er zijn modi, afspraken, een tempo, andere spelers en een geschiedenis van luisteren. Toch klinkt de muziek nergens als een invuloefening.
+Op *Kind of Blue* spelen Miles Davis en zijn medemuzikanten niet in een muzikale leegte. Er zijn toonsoorten, modi, afspraken, een tempo, andere spelers en een geschiedenis van luisteren. Toch klinkt de muziek nergens als een invuloefening.
 
-</div>
-<p class="uitkijkje__media-link"><a href="https://www.milesdavis.com/albums/kind-of-blue/" target="_blank" rel="noopener noreferrer">Luister of bekijk ‘So What’ via de officiële Miles Davis-site ↗</a></p>
-<div class="uitkijkje__action">
-<p><strong>Luister één minuut.</strong> Let niet op “vrijheid”; luister alleen naar hoeveel ruimte er binnen de afspraken blijft.</p>
+Een trompettist begint. Een pianist laat ruimte. Iemand antwoordt. Iemand zwijgt.
+
+Dan gaat het stuk verder.
+
 </div>
 </aside>
 

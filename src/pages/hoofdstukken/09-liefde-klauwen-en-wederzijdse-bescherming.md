@@ -11,7 +11,7 @@ source:
 divergence:
   status: "integraal-gecomprimeerd"
   note: "Wederkerigheid, asymmetrie, zorg en grens krijgen hier hun relationele thuisbasis; antwoordruimte wordt gebruikt in plaats van opnieuw gedefinieerd."
-lastSyncCheck: "2026-09-05"
+lastSyncCheck: "2026-09-04"
 ---
 Liefde is een vreemd woord om filosofisch te gebruiken. Het draagt te veel mee: romantiek, familie, vriendschap, zorg, verlangen, trouw, erotiek, verlies, religie, afhankelijkheid. Wie er een zuiver principe van maakt, verliest gemakkelijk precies de rommeligheid die liefde werkelijk maakt.
 
@@ -97,17 +97,18 @@ Daarom hebben kleine dieren klauwen nodig.
 
 > **We hoeven geen roofdieren te worden om klauwen te hebben.**
 
-<aside class="uitkijkje" data-mode="action">
+<aside class="uitkijkje">
 <h3 class="uitkijkje__title">Nijntje hoeft niet groot te worden</h3>
 <div class="uitkijkje__text">
 
 Bij Dick Bruna is bijna alles klein en eenvoudig: een huis, een fiets, een traan, twee oren en een mond van twee streepjes. Toch wordt Nijntje nergens interessanter doordat zij groter, stoerder of ingewikkelder wordt.
 
+Ze kijkt. Ze gaat ergens heen. Ze schrikt, ontdekt, wil, verliest, viert. De wereld om haar heen is groter, maar zij verdwijnt er niet in.
+
+Misschien is dat genoeg voor een paar bladzijden rust.
+
 </div>
-<div class="uitkijkje__action">
-<p><strong>Leg de tekst tien seconden stil.</strong> Denk aan één Nijntje-boek of -beeld dat je kent. Wat hoeft daar niet groter of ingewikkelder te worden om volledig mee te tellen?</p>
-</div>
-<p class="uitkijkje__source"><a href="https://www.nijntje.nl/over-nijntje" target="_blank" rel="noopener noreferrer">Meer over Nijntje en Dick Bruna ↗</a></p>
+<p class="uitkijkje__source"><a href="https://www.nijntje.nl/over-nijntje">Meer over Nijntje en Dick Bruna</a></p>
 </aside>
 
 ## Zachtheid heeft klauwen nodig
@@ -130,16 +131,16 @@ Dat is geen pacifisme. Bescherming kan dwang vereisen. Een gewelddadige actor ka
 
 De vraag is wat de kracht probeert te beschermen en hoeveel zij daarvoor hoeft te sluiten.
 
-<aside class="uitkijkje" data-mode="video">
+<aside class="uitkijkje">
 <h3 class="uitkijkje__title">Stoelen, lichamen, bijna-botsingen</h3>
 <div class="uitkijkje__text">
 
 In Pina Bauschs *Café Müller* bewegen lichamen door een ruimte vol stoelen. Mensen zoeken elkaar, missen elkaar, botsen bijna; een ander verplaatst haastig meubels uit hun weg.
 
-</div>
-<p class="uitkijkje__media-link"><a href="https://www.pinabausch.org/en/post/caf%C3%A9-m%C3%BCller-film" target="_blank" rel="noopener noreferrer">Bekijk de officiële film van <em>Café Müller</em> ↗</a></p>
-<div class="uitkijkje__action">
-<p><strong>Kijk één minuut.</strong> Beslis nog niet wie hier redt, hindert of afhankelijk is.</p>
+Soms lijkt zorg op vasthouden. Soms op plaatsmaken. Soms komt iemand te laat.
+
+De dans gaat door zonder uit te leggen wie gelijk had.
+
 </div>
 </aside>
 
