@@ -173,5 +173,32 @@ export const glossary: Record<string, GlossaryEntry> = {
     short:
       'Het filosofische onderzoek naar de aard van sociale verschijnselen en naar hoe personen, relaties, praktijken, instituties en materiële voorwaarden daarin samenhangen.',
     url: 'https://plato.stanford.edu/entries/social-ontology/'
+  },
+
+  interoceptie: {
+    term: 'Interoceptie',
+    type: 'gangbaar',
+    chapterOfOrigin: '03-voelen-verschil-dat-ertoe-doet',
+    short:
+      'Het waarnemen, verwerken en integreren van signalen uit het eigen lichaam, zoals hartslag, ademhaling, temperatuur, verzadiging en spanning.',
+    url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC7780231/'
+  },
+
+  sentience: {
+    term: 'Sentience',
+    type: 'gangbaar',
+    chapterOfOrigin: '03-voelen-verschil-dat-ertoe-doet',
+    short:
+      'Het vermogen om positieve of negatieve ervaringen te hebben; in discussies over dieren vaak gebruikt voor het kunnen ervaren van bijvoorbeeld pijn, comfort of dreiging.',
+    url: 'https://plato.stanford.edu/entries/consciousness-animal/'
+  },
+
+  'dialogische-filosofie': {
+    term: 'Dialogische filosofie',
+    type: 'gangbaar',
+    chapterOfOrigin: '03-voelen-verschil-dat-ertoe-doet',
+    short:
+      'Een filosofische benadering waarin ontmoeting en aanspreekbaarheid tussen ik en ander fundamenteel zijn, en de ander niet volledig wordt gereduceerd tot object van beschrijving.',
+    url: 'https://plato.stanford.edu/entries/buber/'
   }
 };
