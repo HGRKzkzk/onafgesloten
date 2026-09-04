@@ -1,5 +1,3 @@
-# Zelfbegrenzing — ook dit denken blijft onaf
-
 ## Verwantschap
 
 Dit hoofdstuk raakt aan meerdere tradities van wetenschaps- en begripskritiek zonder met één daarvan samen te vallen.
