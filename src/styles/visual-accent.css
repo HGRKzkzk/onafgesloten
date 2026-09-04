@@ -38,9 +38,12 @@ h3,
 
 .chapter-summary,
 .home-intro p,
-.site-footer,
-.academic-layer__topics {
+.site-footer {
   color: color-mix(in srgb, var(--text) 72%, transparent);
+}
+
+.uitkijkje__label {
+  display: none;
 }
 
 .brand {
