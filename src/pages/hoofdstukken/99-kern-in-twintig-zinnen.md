@@ -43,7 +43,7 @@ source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
     Menselijke tegenspraak hoeft geen afschrijving te worden; dierlijk voelen wordt niet minder werkelijk door het ontbreken van menselijke taal.
 
 13. **Onafwendbaar lijden vraagt draagkracht; afwendbaar lijden vraagt antwoord.**  
-    Ook dat antwoord blijft zelf onder correctieplicht.
+    Dat antwoord is geen onbeperkte aanspraak: verantwoordelijkheid mag worden begrensd, gedeeld, overgedragen en waar dat verantwoord kan beëindigd.
 
 14. **Geen actor krijgt vanzelf het recht de antwoordruimte van een ander op te gebruiken.**  
     Sluitingsmacht legitimeert zichzelf niet.
