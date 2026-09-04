@@ -12,29 +12,18 @@ De cosmopsychische horizon vergroot dit gevaar. Regionale waarnemingen aan leven
 
 Daarom worden geen formules of quasi-meetbare symbolen gebruikt. Zij zouden pas iets toevoegen wanneer begrippen werkelijk geoperationaliseerd zijn en gevolgtrekkingen mogelijk maken die in gewone taal niet even helder kunnen worden gemaakt. Zonder dat werk wekt notatie vooral precisie op. Filosofische diepte hoeft zich niet als natuurkunde te verkleden.
 
-Ook het begrippenkader mag geen volledige taxonomie of verplichte ontwikkelingsorde worden. De diagnostische vragen zijn voorlopig:
+Ook het begrippenkader mag geen volledige taxonomie of verplichte ontwikkelingsorde worden. Een handvol vragen moet voldoende zijn om het denken onder druk te zetten:
 
-1. Welke vorm verschijnt hier, en welke afbakening maakt haar herkenbaar?
-2. Welke relaties en voorwaarden hebben haar mede gevormd?
-3. Welke spanning doet ertoe, en voor wie?
-4. Waar wordt die spanning gevoeld, uitgesproken of ingevuld?
-5. Welke draagkracht en herstelruimte zijn beschikbaar?
-6. Welke grens beschermt, en welke sluit te vroeg?
-7. Welke noodzakelijke sluiting wordt misschien uitgesteld?
-8. Hoe loopt de draagroute, en wie draagt de restlast?
-9. Kan de vorm door gevolgen en betrokkenen werkelijk worden gecorrigeerd?
-10. Welke mogelijkheid tot herstel, transformatie of beëindiging blijft bestaan?
-11. Welk grensgeval ziet deze uitleg niet?
-12. Wat zou dit denken zelf moeten veranderen?
-13. Wie bezit hier sluitingsmacht, welke antwoordruimte wordt daardoor beperkt, en welke plicht tot toetsing, correctie of heropening volgt daaruit?
-14. Wanneer niet-menselijke dieren de last dragen: welke gedragsmatige, lichamelijke of relationele terugkoppeling maakt zichtbaar wat voor hen op het spel staat, en wie vertegenwoordigt dat zonder hun antwoord volledig toe te eigenen?
-15. Wie draagt deze last al langer, en wordt draagkracht hier stilzwijgend als toestemming gebruikt?
-16. Welke wederkerigheid is werkelijk mogelijk, en welke voorwaarden moeten haar dragen waar vertrouwen ontbreekt?
-17. Wat verandert wanneer er geen duidelijke schuldige actor is: wie bezit dan handelings- of sluitingsmacht?
-18. Is wachten hier beschermende rust, of is voldoende zichtbaar geworden dat verder uitstel zelf schade draagt?
-19. Wat zou de cosmopsychische bruggedachte minder aannemelijk maken?
+1. Wat verschijnt hier concreet, en wat doet voor de betrokken vormen werkelijk verschil?
+2. Welke relaties, lasten en machtsverschillen dragen deze situatie, en wie kan haar feitelijk sluiten of veranderen?
+3. Welke grens beschermt antwoordruimte, en welke grens gebruikt haar juist op?
+4. Welke terugkoppeling kan de verhouding werkelijk corrigeren, ook wanneer partijen ongelijk in macht of taal zijn?
+5. Wordt draagkracht hier stilzwijgend als toestemming gebruikt, of verantwoordelijkheid zo ruim gemaakt dat zij zelf antwoordruimte opeet?
+6. Welke noodzakelijke sluiting, overdracht, rust of beëindiging blijft mogelijk zonder de ander tot restpost te maken?
+7. Welk tegenvoorbeeld, conflict tussen beginselen of empirisch gegeven zou deze uitleg werkelijk moeten veranderen in plaats van alleen verfijnen?
+8. Wat zou de cosmopsychische bruggedachte minder aannemelijk maken?
 
-Deze vragen leveren geen automatisch juist antwoord. Zij organiseren aandacht en moeten kunnen blijken tekort te schieten.
+Deze vragen leveren geen automatisch juist antwoord. Zij organiseren aandacht en moeten kunnen blijken tekort te schieten. Een toetsgeval telt daarom pas werkelijk als toets wanneer minstens drie uitkomsten openblijven: het begrippenkader kan iets verhelderen, het kan onvoldoende beslissen, of een begrip kan zelf herziening nodig blijken te hebben.
 
 Voor mij geldt daarom: **dit denken is alleen trouw aan zichzelf zolang het niet het laatste woord over zichzelf krijgt.**
 
