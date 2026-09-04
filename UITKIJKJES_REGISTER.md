@@ -54,7 +54,9 @@ Een uitkijkje mag meerdere effecten hebben, maar noteer één primaire functie. 
 | 06 | Ook muziek bestaat uit niet-spelen | muzikale rust als praktijkbeeld | muziek / tekstueel voorbeeld | tijdloos praktijkbeeld | muziekpraktijk | vertragen |
 | 07 | De ideale mens past uitstekend op papier | Leonardo da Vinci, *Vitruviusman* | tekening / studie | ca. 1490 | Italië / renaissance | tegenbeeld |
 | 08 | Vrijheid komt zelden alleen | Eugène Delacroix, *La Liberté guidant le peuple* | schilderkunst | 1830 | Frankrijk / Europa | schaalverschuiving |
+| 08 | Een paar akkoorden zijn soms genoeg | Miles Davis, *Kind of Blue* | muziek / jazz | 1959 | Verenigde Staten / Afro-Amerikaanse muziektraditie | vertragen |
 | 09 | Kleine dieren hebben opvallend vaak een nee | Beatrix Potter, Peter Rabbit | kinderliteratuur | 1902 | Verenigd Koninkrijk | humor / ontregelen |
+| 09 | Stoelen, lichamen, bijna-botsingen | Pina Bausch, *Café Müller* | dans / theater | 1978 | Duitsland / Tanztheater | vertragen |
 | 10 | Een toren van taal | Pieter Bruegel de Oude, *De toren van Babel* | schilderkunst | 1563 | Lage Landen / Europa | tegenbeeld |
 | 11 | Gilgamesj vindt geen achterdeur | *Gilgamesj-epos* | literatuur / mythe | Oud-Babylonische en latere teksttradities | Mesopotamië | culturele verbreding |
 | 12 | De hemel is groter dan haar kaart | Dunhuang-sterrenkaart | astronomische kaart / manuscript | Tang-periode, ca. 7e–8e eeuw | China / Dunhuang | culturele verbreding |
@@ -68,7 +70,7 @@ Een uitkijkje mag meerdere effecten hebben, maar noteer één primaire functie. 
 
 De exacte doublures van Hokusai en de Flammarion-gravure zijn in de registerronde van september 2026 opgelost. In de uitwerking van hoofdstuk 11 is ook het tweede Bruegel-uitkijkje vervangen door het *Gilgamesj-epos*. Daarmee blijft Bruegel alleen in hoofdstuk 10 staan en wordt tegelijk medium, periode en culturele herkomst verbreed.
 
-In de integrale redactieronde is hoofdstuk 14 als eerste uitgebreid met een tweede adempunt. Het Bartleby-uitkijkje is bewust als **vertragen** geregistreerd: het hoeft de institutionele casus niet te bewijzen of samen te vatten en eindigt zonder terugkoppeling naar de projecttaal.
+In de integrale redactieronde zijn de langere hoofdstukken 08, 09 en 14 voorzien van een tweede adempunt. Daarbij is bewust gekozen voor andere media dan schilderkunst: jazz, dans/theater en literatuur. Alle drie zijn primair als **vertragen** geregistreerd en hoeven het omringende argument niet te bewijzen.
 
 Er blijft wel een duidelijke **Europese en schilderkunstige zwaarte** zichtbaar. Dat hoeft bestaande sterke uitkijkjes niet verdacht te maken, maar het geeft richting aan nieuwe keuzes. Bij volgende hoofdstukken verdienen daarom, waar inhoudelijk passend, extra aandacht:
 
