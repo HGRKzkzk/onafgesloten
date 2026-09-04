@@ -68,7 +68,6 @@ export const glossary: Record<string, GlossaryEntry> = {
       'Een reactie waarin wat iemand of iets raakt niet alleen wordt ondergaan, maar op een eigen manier wordt opgenomen en beantwoord.'
   },
 
-
   processfilosofie: {
     term: 'Procesfilosofie',
     type: 'gangbaar',
@@ -84,7 +83,7 @@ export const glossary: Record<string, GlossaryEntry> = {
     chapterOfOrigin: '01-wat-verschijnt-verschijnt-onaf',
     short:
       'Een benadering van autonomie waarin zelfstandigheid niet losstaat van sociale relaties, afhankelijkheden en de voorwaarden waaronder iemand handelingsvermogen ontwikkelt.',
-    url: 'https://plato.stanford.edu/entries/feminism-autonomy/'
+    url: 'https://plato.stanford.edu/entries/autonomy-moral/#RelAut'
   },
 
   'belichaamde-cognitie': {
@@ -138,5 +137,32 @@ export const glossary: Record<string, GlossaryEntry> = {
     chapterOfOrigin: '01-wat-verschijnt-verschijnt-onaf',
     short:
       'Het vermogen van een vorm om verschil en spanning te ontvangen zonder uiteen te vallen of alles wat stoort onmiddellijk buiten te sluiten.'
+  },
+
+  intersubjectiviteit: {
+    term: 'Intersubjectiviteit',
+    type: 'gangbaar',
+    chapterOfOrigin: '02-vormen-ontstaan-in-verhouding',
+    short:
+      'De wijze waarop ervaring en betekenis mede gestalte krijgen in een wereld waarin ook andere ervarende perspectieven aanwezig zijn.',
+    url: 'https://plato.stanford.edu/entries/social-ontology/'
+  },
+
+  nicheconstructie: {
+    term: 'Nicheconstructie',
+    type: 'gangbaar',
+    chapterOfOrigin: '02-vormen-ontstaan-in-verhouding',
+    short:
+      'Het proces waarbij organismen hun omgeving veranderen op manieren die terugwerken op hun eigen leven, ontwikkeling of evolutionaire omstandigheden.',
+    url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC4922671/'
+  },
+
+  enactivisme: {
+    term: 'Enactivisme',
+    type: 'gangbaar',
+    chapterOfOrigin: '02-vormen-ontstaan-in-verhouding',
+    short:
+      'Een familie van benaderingen waarin cognitie ontstaat uit actieve, belichaamde omgang van een organisme met zijn omgeving.',
+    url: 'https://plato.stanford.edu/entries/embodied-cognition/#EnaCog'
   }
 };
