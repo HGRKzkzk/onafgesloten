@@ -5,6 +5,10 @@ import '../styles/home.css';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
+const vooraf = chapters.find(
+  (chapter) => chapter.slug === '00-vooraf'
+);
+
 const publicChapters = chapters.filter(
   (chapter) => chapter.slug !== '00-vooraf'
 );
@@ -29,6 +33,23 @@ const publicChapters = chapters.filter(
       aria-label="Hoofdstukken"
     >
       <div class="home-chapters">
+        {vooraf && (
+          <a
+            class="home-chapter"
+            href={`${base}/hoofdstukken/${vooraf.slug}/`}
+          >
+            <span class="home-chapter__number">
+              Vooraf
+            </span>
+
+            <span class="home-chapter__body">
+              <span class="home-chapter__title">
+                {vooraf.title}
+              </span>
+            </span>
+          </a>
+        )}
+
         {publicChapters.map((chapter, index) => {
           const number = String(index + 1).padStart(2, '0');
 
@@ -45,12 +66,6 @@ const publicChapters = chapters.filter(
                 <span class="home-chapter__title">
                   {chapter.title}
                 </span>
-
-                {chapter.summary && (
-                  <span class="home-chapter__description">
-                    {chapter.summary}
-                  </span>
-                )}
               </span>
             </a>
           );
