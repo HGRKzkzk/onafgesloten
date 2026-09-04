@@ -1,0 +1,95 @@
+/* Multimodale uitkijkjes: kijken, luisteren, video of handelen. */
+
+.uitkijkje[data-mode] {
+  scroll-margin-top: 2rem;
+}
+
+.uitkijkje__caption {
+  margin: 0;
+  padding: .7rem .75rem .2rem;
+  color: var(--muted);
+  font: .72rem/1.5 var(--sans);
+}
+
+.uitkijkje__figure--contain img {
+  object-fit: contain;
+  background: #eee8df;
+}
+
+.uitkijkje__media,
+.uitkijkje__embed {
+  width: 100%;
+  margin: .35rem 0 0;
+}
+
+.uitkijkje__media audio {
+  display: block;
+  width: 100%;
+}
+
+.uitkijkje__media-link {
+  margin: .85rem .55rem !important;
+  font: 650 .9rem/1.45 var(--sans);
+}
+
+.uitkijkje__media-link a {
+  display: inline-block;
+  padding: .7rem .85rem;
+  border: 1px solid var(--line);
+  background: rgba(255,255,255,.35);
+  text-decoration: none;
+}
+
+.uitkijkje__media-link a:hover,
+.uitkijkje__media-link a:focus-visible {
+  text-decoration: underline;
+  text-underline-offset: .18em;
+}
+
+.uitkijkje__embed {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: #ddd6c9;
+}
+
+.uitkijkje__embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.uitkijkje__action {
+  margin: .8rem .55rem .45rem;
+  padding: 1rem 1.05rem;
+  border-left: 2px solid var(--ink);
+  background: rgba(255,255,255,.32);
+}
+
+.uitkijkje__action p {
+  margin: .5rem 0 !important;
+}
+
+.uitkijkje[data-mode="action"] {
+  padding-block: 1rem;
+}
+
+.uitkijkje[data-mode="action"] .uitkijkje__action {
+  margin-top: .25rem;
+}
+
+.uitkijkje[data-mode="audio"] .uitkijkje__title,
+.uitkijkje[data-mode="video"] .uitkijkje__title,
+.uitkijkje[data-mode="action"] .uitkijkje__title,
+.uitkijkje[data-mode="mixed"] .uitkijkje__title {
+  margin-bottom: .75rem;
+}
+
+@media (max-width: 700px) {
+  .uitkijkje__media-link a {
+    width: 100%;
+    text-align: center;
+  }
+}
