@@ -55,12 +55,13 @@ Een uitkijkje mag meerdere effecten hebben, maar noteer één primaire functie. 
 | 07 | De ideale mens past uitstekend op papier | Leonardo da Vinci, *Vitruviusman* | tekening / studie | ca. 1490 | Italië / renaissance | tegenbeeld |
 | 08 | Vrijheid komt zelden alleen | Eugène Delacroix, *La Liberté guidant le peuple* | schilderkunst | 1830 | Frankrijk / Europa | schaalverschuiving |
 | 08 | Een paar akkoorden zijn soms genoeg | Miles Davis, *Kind of Blue* | muziek / jazz | 1959 | Verenigde Staten / Afro-Amerikaanse muziektraditie | vertragen |
-| 09 | Kleine dieren hebben opvallend vaak een nee | Beatrix Potter, Peter Rabbit | kinderliteratuur | 1902 | Verenigd Koninkrijk | humor / ontregelen |
+| 09 | Nijntje hoeft niet groot te worden | Dick Bruna, Nijntje | kinderliteratuur / grafische cultuur | vanaf 1955 | Nederland / Utrecht | vertragen |
 | 09 | Stoelen, lichamen, bijna-botsingen | Pina Bausch, *Café Müller* | dans / theater | 1978 | Duitsland / Tanztheater | vertragen |
 | 10 | Een toren van taal | Pieter Bruegel de Oude, *De toren van Babel* | schilderkunst | 1563 | Lage Landen / Europa | tegenbeeld |
 | 11 | Gilgamesj vindt geen achterdeur | *Gilgamesj-epos* | literatuur / mythe | Oud-Babylonische en latere teksttradities | Mesopotamië | culturele verbreding |
 | 12 | De hemel is groter dan haar kaart | Dunhuang-sterrenkaart | astronomische kaart / manuscript | Tang-periode, ca. 7e–8e eeuw | China / Dunhuang | culturele verbreding |
 | 13 | Bureaucratie heeft een lange komische geschiedenis | Honoré Daumier | karikatuur / grafiek | 19e eeuw | Frankrijk / Europa | humor / lucht |
+| 13 | Een lege hoek wordt een speelplaats | Aldo van Eyck, Amsterdamse speelplaatsen | architectuur / openbare ruimte | vanaf eind jaren 1940 | Nederland / Amsterdam | vertragen |
 | 14 | De koe kijkt niet terug als beleidsmodel | Paulus Potter, *De Stier* / rund als monumentaal onderwerp | schilderkunst | 17e eeuw | Nederland | schaalverschuiving |
 | 14 | Bartleby zegt liever niet | Herman Melville, *Bartleby, the Scrivener* | literatuur | 1853 | Verenigde Staten | vertragen |
 | 15 | Geen canon is cultureel neutraal | metareflectie op de eigen selectie | tekstueel / zelfkritiek | hedendaagse redactie | projectintern | tegenbeeld |
@@ -70,7 +71,9 @@ Een uitkijkje mag meerdere effecten hebben, maar noteer één primaire functie. 
 
 De exacte doublures van Hokusai en de Flammarion-gravure zijn in de registerronde van september 2026 opgelost. In de uitwerking van hoofdstuk 11 is ook het tweede Bruegel-uitkijkje vervangen door het *Gilgamesj-epos*. Daarmee blijft Bruegel alleen in hoofdstuk 10 staan en wordt tegelijk medium, periode en culturele herkomst verbreed.
 
-In de integrale redactieronde zijn de langere hoofdstukken 08, 09 en 14 voorzien van een tweede adempunt. Daarbij is bewust gekozen voor andere media dan schilderkunst: jazz, dans/theater en literatuur. Alle drie zijn primair als **vertragen** geregistreerd en hoeven het omringende argument niet te bewijzen.
+In de integrale redactieronde zijn de langere hoofdstukken 08, 09, 13 en 14 voorzien van een tweede adempunt. Daarbij is bewust gekozen voor andere media dan schilderkunst: jazz, dans/theater, architectuur/openbare ruimte en literatuur. Deze tweede ramen zijn primair als **vertragen** geregistreerd en hoeven het omringende argument niet te bewijzen.
+
+De leesritmeronde heeft ook een tweede criterium toegevoegd: herkenbaarheid is relationeel aan het beoogde publiek. Peter Rabbit is daarom in hoofdstuk 09 vervangen door Nijntje. Dat is geen algemene voorkeur voor Nederlandse voorbeelden, maar een correctie waar een cultureel rustpunt zijn functie verloor doordat een groot deel van het beoogde publiek de verwijzing niet direct herkende.
 
 Er blijft wel een duidelijke **Europese en schilderkunstige zwaarte** zichtbaar. Dat hoeft bestaande sterke uitkijkjes niet verdacht te maken, maar het geeft richting aan nieuwe keuzes. Bij volgende hoofdstukken verdienen daarom, waar inhoudelijk passend, extra aandacht:
 
@@ -93,6 +96,7 @@ Voor merge beantwoorden we kort:
 - Is dit medium in de omringende hoofdstukken al dominant?
 - Verbreedt of vernauwt dit de culturele en historische spreiding?
 - Heeft het één duidelijke primaire functie?
+- Is het voor het beoogde publiek herkenbaar genoeg om als adempunt te werken, of vraagt de verwijzing zelf eerst uitleg?
 - Kan het weg zonder dat de redenering instort? Zo nee, dan draagt het te veel argumentatieve last.
 - Is bron, maker, herkomst en rechtenstatus voldoende controleerbaar wanneer beeldmateriaal wordt gebruikt?
 
