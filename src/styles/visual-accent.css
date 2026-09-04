@@ -1,0 +1,48 @@
+:root {
+  --text: #49433f;
+  --title-ink: #29413f;
+  --heading-ink: #725762;
+  --accent-ink: #826b56;
+  --illustration-line: rgba(41, 65, 63, .28);
+  --illustration-line-soft: rgba(114, 87, 98, .18);
+  --illustration-node: rgba(130, 107, 86, .42);
+}
+
+body {
+  color: var(--text);
+}
+
+h1,
+.chapter-header h1,
+.home-intro h1 {
+  color: var(--title-ink);
+}
+
+h2,
+.prose > h2,
+.academic-layer__title {
+  color: var(--heading-ink);
+}
+
+h3,
+.prose > h3,
+.prose .uitkijkje__title {
+  color: color-mix(in srgb, var(--heading-ink) 82%, var(--text));
+}
+
+.eyebrow,
+.home-chapter__number,
+.academic-layer__eyebrow {
+  color: var(--accent-ink);
+}
+
+.chapter-summary,
+.home-intro p,
+.site-footer,
+.academic-layer__topics {
+  color: color-mix(in srgb, var(--text) 72%, transparent);
+}
+
+.brand {
+  color: var(--title-ink);
+}

@@ -18,13 +18,31 @@ const publicChapters = chapters.filter(
   <main class="home">
 
     <section class="home-intro">
-      <h1>Ontologie van Onafgesloten Vorm</h1>
+      <div class="home-intro__copy">
+        <h1>Ontologie van Onafgesloten Vorm</h1>
 
-      <p>
-        Een filosofische verkenning van hoe levende, relationele en
-        institutionele vormen samenhang bewaren terwijl zij veranderlijk,
-        afhankelijk en corrigeerbaar blijven.
-      </p>
+        <p>
+          Een filosofische verkenning van hoe levende, relationele en
+          institutionele vormen samenhang bewaren terwijl zij veranderlijk,
+          afhankelijk en corrigeerbaar blijven.
+        </p>
+      </div>
+
+      <div class="home-illustration" aria-hidden="true">
+        <svg viewBox="0 0 480 320" role="img" focusable="false">
+          <path class="home-illustration__line" d="M48 226 C106 142, 158 166, 203 112 S306 65, 350 132 S411 202, 446 124" />
+          <path class="home-illustration__line home-illustration__line--soft" d="M64 92 C121 129, 151 214, 226 214 S332 159, 402 212" />
+          <path class="home-illustration__line home-illustration__line--soft" d="M130 56 C157 88, 176 118, 203 112" />
+          <path class="home-illustration__line" d="M226 214 C244 174, 279 144, 350 132" />
+          <circle class="home-illustration__node" cx="48" cy="226" r="7" />
+          <circle class="home-illustration__node home-illustration__node--small" cx="130" cy="56" r="4" />
+          <circle class="home-illustration__node" cx="203" cy="112" r="9" />
+          <circle class="home-illustration__node home-illustration__node--small" cx="226" cy="214" r="5" />
+          <circle class="home-illustration__node" cx="350" cy="132" r="8" />
+          <circle class="home-illustration__node home-illustration__node--small" cx="402" cy="212" r="4" />
+          <circle class="home-illustration__node" cx="446" cy="124" r="6" />
+        </svg>
+      </div>
     </section>
 
     <section
