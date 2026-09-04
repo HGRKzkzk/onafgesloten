@@ -53,9 +53,7 @@ Maar uit liefde volgt ook geen onbeperkte aanspraak op tijd, lichaam, geld, aand
 
 Wanneer één actor structureel alleen nog mag dragen, wanneer diens nee moreel verdacht wordt gemaakt of wanneer draagkracht als bewijs wordt gebruikt dat er nog wel meer bij kan, begint zorg zichzelf op te eten.
 
-> **Draagkracht is geen aanspraak op draagkracht.**
-
-> **Afwendbaar lijden vraagt antwoord, geen zelfopoffering.**
+Hier gelden twee eerder opgebouwde grenzen tegelijk: draagkracht schept geen aanspraak op nóg meer belasting, en afwendbaar lijden vraagt antwoord zonder dat dit zelfopoffering vereist.
 
 Betrokkenheid kan verantwoordelijkheid vergroten omdat nabijheid informatie en handelingsmogelijkheid geeft. Zij maakt verantwoordelijkheid niet oneindig.
 

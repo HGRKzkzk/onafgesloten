@@ -43,13 +43,13 @@ source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
     Menselijke tegenspraak hoeft geen afschrijving te worden; dierlijk voelen wordt niet minder werkelijk door het ontbreken van menselijke taal.
 
 13. **Onafwendbaar lijden vraagt draagkracht; afwendbaar lijden vraagt antwoord.**  
-    Dat antwoord is geen onbeperkte aanspraak: verantwoordelijkheid mag worden begrensd, gedeeld, overgedragen en waar dat verantwoord kan beëindigd.
+    Dat antwoord is geen onbeperkte aanspraak: verantwoordelijkheid mag worden begrensd, gedeeld, overgedragen en waar dat verantwoord kan worden beëindigd.
 
 14. **Geen actor krijgt vanzelf het recht de antwoordruimte van een ander op te gebruiken.**  
     Sluitingsmacht legitimeert zichzelf niet.
 
-15. **Hoe groter de sluitingsmacht, hoe zwaarder de heropeningsplicht.**  
-    Macht moet proportionaliteit, onafhankelijke toetsing en werkelijke terugkoppeling organiseren.
+15. **Hoe groter de sluitingsmacht, hoe zwaarder de plicht tot rechtvaardiging, toetsing en correctie.**  
+    Niet iedere legitieme sluiting hoeft later te worden heropend; zij moet wel haar noodzaak, reikwijdte en gevolgen kunnen laten toetsen.
 
 16. **Zachtheid heeft klauwen nodig.**  
     Beschermen is niet hetzelfde als overheersen.
@@ -60,8 +60,8 @@ source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
 18. **Geen doel. Geen verplichte zin. Wel mogelijke zin.**  
     Zin kan lokaal verschijnen, breken, terugkeren en gevierd worden.
 
-19. **De binnenkant van leven is misschien geen vreemdeling in de kosmos.**  
-    OOV onderzoekt of subjectiviteit de plaatselijke vorming van een diepere ontvankelijkheid is, zonder de kosmos tot één groot ik te verklaren.
+19. **Een kosmische binnenkant blijft een vraag, geen grondslag.**  
+    De mogelijkheid dat ervaring dieper in werkelijkheid wortelt mag worden onderzocht, maar de regionale kern staat of valt er niet mee.
 
 20. **Ook dit project blijft onaf.**  
     Zijn begrippen zijn zoeklichten onder correctieplicht.
@@ -76,7 +76,7 @@ De inzet is daarom niet onbeperkte openheid en ook niet definitieve sluiting. De
 
 Wij zijn geen afgeronde heersers boven de wereld. Wij zijn kleine, afhankelijke dieren die kunnen voelen, antwoorden, verwonden, beschermen, maken en vieren. Onze klauwen zijn nodig waar zachtheid anders wordt uitgebuit; onze zachtheid is nodig opdat de klauw niet zelf tot roofdier wordt.
 
-De cosmopsychische verschuiving maakt ons niet groter, maar plaatst onze kleinheid anders. Misschien zijn wij geen toevallige binnenkanten in een werkelijkheid die uitsluitend buitenkant is, maar plaatsen waar die werkelijkheid begrensd, kwetsbaar en aanspreekbaar wordt. Dat verleent ons geen kosmische opdracht, onsterfelijkheid of hoger gezag. Het maakt iedere plaatselijke binnenkant juist kostbaar: de samenhang van het geheel kan nooit in de plaats treden van het verschil dat alleen dit wezen van hieruit kan voelen en beantwoorden.
+Over de kosmische achtergrond daarvan blijft de tekst bewust terughoudend. Misschien verschijnt ervaring pas bij bepaalde levende organisatie; misschien wortelt zij dieper in werkelijkheid. Geen van beide mogelijkheden mag worden gebruikt om het concrete verschil tussen perspectieven, de onherroepelijkheid van dood of de verantwoordelijkheid voor plaatselijke schade te relativeren.
 
 De politieke en ethische inzet wordt daarmee scherper. Niet iedere vorm hoeft voortdurend open te staan en niet ieder lijden kan worden voorkomen. Wel moeten mensen en instituties leren onderscheiden waar antwoordruimte wordt vernietigd, waar afwendbaar lijden blijft voortbestaan en waar macht haar eigen sluiting niet meer door gevolgen laat begrenzen.
 
@@ -86,13 +86,11 @@ Wie veel sluitingsmacht bezit, draagt daarom een zwaardere plicht tot rechtvaard
 
 Misschien kan de kern uiteindelijk in drie zinnen rusten:
 
-*Vormen ontstaan in verhoudingen die hen voorafgaan, dragen en overstijgen; misschien krijgt werkelijkheid in hun begrensde leven plaatselijk een binnenkant.*
+*Vormen ontstaan in verhoudingen die hen voorafgaan, dragen en overstijgen; in sommige levende vormen verschijnt een werkelijk perspectief van binnenuit.*
 
 *Zij leven niet door alles open te laten, maar door verschil zo te dragen dat antwoord, grens, herstel en verandering mogelijk blijven.*
 
 *Wat verschijnt, verschijnt onaf — en juist daarom kan het werkelijk raken.*
-
-> **Wie de antwoordruimte van een ander kan sluiten, draagt de plicht die macht corrigeerbaar te houden.**
 
 ---
 
@@ -109,7 +107,7 @@ Misschien kan de kern uiteindelijk in drie zinnen rusten:
 - Wanneer is harde uitsluiting noodzakelijk om schade te stoppen, en hoe voorkomt zij permanente vijandvorming?
 - Wanneer is antwoordruimte werkelijk voldoende, en hoe wegen actor, relatie, onafhankelijke derde en instituut wanneer zij daarover verschillen?
 - Hoe kunnen maatschappelijke draagstructuren antwoordend gedrag voeden zonder zachte disciplinering of dominante normaliteit te produceren?
-- Hoe moet de plicht tot heropening toenemen naarmate sluitingsmacht groter wordt?
+- Hoe bepalen we welke toets- en correctieplicht passend is naarmate sluitingsmacht groter wordt, zonder van heropening zelf een absolute norm te maken?
 - Hoe kan wederkerigheid primair zijn zonder haar als gegeven, symmetrisch of afdwingbaar voor te stellen?
 - Hoe voorkomen we dat draagkracht en herstelvermogen juist de meest veerkrachtige vorm tot vaste drager van restlast maken?
 - Wanneer is wachten beschermende rust, en wanneer wordt nalaten zelf onderdeel van de schadelijke draagroute?
