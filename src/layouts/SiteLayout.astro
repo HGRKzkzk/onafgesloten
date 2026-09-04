@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import '../styles/visual-accent.css';
+import '../styles/navigation.css';
 
 interface Props {
   title?: string;
@@ -14,6 +15,7 @@ const {
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const home = `${base}/`;
+const isChapter = Astro.url.pathname.includes('/hoofdstukken/');
 ---
 <!doctype html>
 <html lang="nl">
@@ -25,10 +27,11 @@ const home = `${base}/`;
     <title>{title}</title>
   </head>
   <body>
+    <a class="skip-link" href="#main-content">Ga naar inhoud</a>
     <header class="site-header">
       <a class="brand" href={home}>Ontologie van Onafgesloten Vorm</a>
       <nav aria-label="Hoofdnavigatie">
-        <a href={`${home}#leesroute`}>Leesroute</a>
+        <a href={`${home}#leesroute`}>{isChapter ? 'Inhoud' : 'Leesroute'}</a>
         <a href={`${base}/hoofdstukken/99-kern-in-twintig-zinnen/`}>Kern</a>
       </nav>
     </header>
