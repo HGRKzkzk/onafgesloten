@@ -5,29 +5,51 @@ import '../styles/home.css';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 
+const vooraf = chapters.find(
+  (chapter) => chapter.slug === '00-vooraf'
+);
+
 const publicChapters = chapters.filter(
-  (chapter) => chapter.slug !== 'vooraf'
+  (chapter) => chapter.slug !== '00-vooraf'
 );
 ---
 
-<SiteLayout title="Onafgesloten">
+<SiteLayout title="Ontologie van Onafgesloten Vorm">
   <main class="home">
 
     <section class="home-intro">
-      <h1>Onafgesloten</h1>
+      <h1>Ontologie van Onafgesloten Vorm</h1>
 
       <p>
-        Onafgesloten is een filosofische verkenning van hoe levende,
-        relationele en institutionele vormen samenhang bewaren terwijl
-        zij veranderlijk, afhankelijk en corrigeerbaar blijven.
+        Een filosofische verkenning van hoe levende, relationele en
+        institutionele vormen samenhang bewaren terwijl zij veranderlijk,
+        afhankelijk en corrigeerbaar blijven.
       </p>
     </section>
 
     <section
       class="home-route"
+      id="leesroute"
       aria-label="Hoofdstukken"
     >
       <div class="home-chapters">
+        {vooraf && (
+          <a
+            class="home-chapter"
+            href={`${base}/hoofdstukken/${vooraf.slug}/`}
+          >
+            <span class="home-chapter__number">
+              Vooraf
+            </span>
+
+            <span class="home-chapter__body">
+              <span class="home-chapter__title">
+                {vooraf.title}
+              </span>
+            </span>
+          </a>
+        )}
+
         {publicChapters.map((chapter, index) => {
           const number = String(index + 1).padStart(2, '0');
 
@@ -44,12 +66,6 @@ const publicChapters = chapters.filter(
                 <span class="home-chapter__title">
                   {chapter.title}
                 </span>
-
-                {chapter.description && (
-                  <span class="home-chapter__description">
-                    {chapter.description}
-                  </span>
-                )}
               </span>
             </a>
           );

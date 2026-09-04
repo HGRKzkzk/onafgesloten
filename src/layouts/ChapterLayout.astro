@@ -9,7 +9,8 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const parts = Astro.url.pathname.split('/').filter(Boolean);
 const urlSlug = parts.at(-1) ?? '';
 
-const slug = frontmatter.slug ?? urlSlug;
+const frontmatterSlug = frontmatter.slug ?? '';
+const slug = chapterBySlug(frontmatterSlug) ? frontmatterSlug : urlSlug;
 
 const chapter = chapterBySlug(slug);
 const currentIndex = chapters.findIndex((item) => item.slug === slug);
@@ -27,14 +28,14 @@ const next =
 const title =
   frontmatter.title ??
   chapter?.title ??
-  'Onafgesloten';
+  'Ontologie van Onafgesloten Vorm';
 
 const summary =
   frontmatter.summary ??
   frontmatter.description ??
   chapter?.summary ??
   chapter?.description ??
-  'Een hoofdstuk uit Onafgesloten.';
+  'Een hoofdstuk uit de Ontologie van Onafgesloten Vorm.';
 
 const label =
   chapter?.label ??
@@ -44,18 +45,6 @@ const label =
 const chapterUrl = (chapterSlug: string) =>
   `${base}/hoofdstukken/${chapterSlug}/`;
 
-/*
- * Zoek automatisch naar een academisch Markdownbestand
- * met dezelfde slug als het publieke hoofdstuk.
- *
- * Bijvoorbeeld:
- *
- * publieke pagina:
- * src/pages/hoofdstukken/01-wat-verschijnt-verschijnt-onaf.md
- *
- * academische laag:
- * src/academisch/01-wat-verschijnt-verschijnt-onaf.md
- */
 const academicModules = import.meta.glob('../academisch/*.md', {
   eager: true
 });
@@ -71,7 +60,7 @@ const hasAcademicLayer = Boolean(AcademicContent);
 ---
 
 <SiteLayout
-  title={`${title} — Onafgesloten`}
+  title={`${title} — Ontologie van Onafgesloten Vorm`}
   description={summary}
 >
   <main class="chapter-layout">
@@ -96,7 +85,7 @@ const hasAcademicLayer = Boolean(AcademicContent);
       )}
     </header>
 
-    <article class="prose">
+    <article class="prose chapter-prose">
       <slot />
     </article>
 
@@ -197,3 +186,9 @@ const hasAcademicLayer = Boolean(AcademicContent);
 
   <GlossaryPopover />
 </SiteLayout>
+
+<style is:global>
+  .chapter-prose > h2:first-child {
+    display: none;
+  }
+</style>
