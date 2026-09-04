@@ -284,5 +284,61 @@ export const glossary: Record<string, GlossaryEntry> = {
     chapterOfOrigin: '05-draagkracht-grens-en-passende-sluiting',
     short:
       'Het vermogen van een persoon, organisme of systeem om verstoring op te vangen, zich aan te passen of functioneren en samenhang te hervinden.'
+  },
+
+  draagroute: {
+    term: 'Draagroute',
+    type: 'projectbegrip',
+    chapterOfOrigin: '06-draagroutes-ritme-en-herstel',
+    short:
+      'De weg waarlangs spanning, onzekerheid of belasting door personen, relaties, taken en instituties wordt ontvangen, verdeeld, teruggelegd of geblokkeerd.'
+  },
+
+  restlast: {
+    term: 'Restlast',
+    type: 'projectbegrip',
+    chapterOfOrigin: '06-draagroutes-ritme-en-herstel',
+    short:
+      'De spanning, onzekerheid, tijdsdruk of schade die een ordening niet oplost en daardoor ergens anders door een actor, groep of omgeving wordt gedragen.'
+  },
+
+  herstel: {
+    term: 'Herstel',
+    type: 'precisering',
+    chapterOfOrigin: '06-draagroutes-ritme-en-herstel',
+    short:
+      'Niet noodzakelijk terugkeer naar de oude toestand, maar hernieuwd vermogen om te voelen, begrenzen, verbinden, kiezen en antwoorden.'
+  },
+
+  transformatie: {
+    term: 'Transformatie',
+    type: 'precisering',
+    chapterOfOrigin: '06-draagroutes-ritme-en-herstel',
+    short:
+      'Een verandering waarbij de eerdere vorm niet volledig terugkeert, maar relevante samenhang in een andere ordening wordt voortgezet.'
+  },
+
+  systeemdenken: {
+    term: 'Systeemdenken',
+    type: 'gangbaar',
+    chapterOfOrigin: '06-draagroutes-ritme-en-herstel',
+    short:
+      'Een benadering die verschijnselen onderzoekt als onderdeel van samenhangende systemen met relaties, terugkoppelingen en onderlinge afhankelijkheden.'
+  },
+
+  'emotionele-arbeid': {
+    term: 'Emotionele arbeid',
+    type: 'gangbaar',
+    chapterOfOrigin: '06-draagroutes-ritme-en-herstel',
+    short:
+      'Werk waarbij iemand eigen gevoelens en uitingen moet reguleren om een professioneel of sociaal gewenste emotionele toestand bij anderen mogelijk te maken.'
+  },
+
+  'posttraumatische-groei': {
+    term: 'Posttraumatische groei',
+    type: 'gangbaar',
+    chapterOfOrigin: '06-draagroutes-ritme-en-herstel',
+    short:
+      'Ger rapporteerde positieve veranderingen in betekenis, prioriteiten of relaties na ingrijpende ervaringen; geen bewijs dat trauma noodzakelijk of wenselijk was.'
   }
 };
