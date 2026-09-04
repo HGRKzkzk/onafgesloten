@@ -53,33 +53,32 @@ We zijn werkelijk iemand, maar niet uitsluitend uit onszelf.
 
   <figure class="uitkijkje__figure">
     <img
-      src="https://images.metmuseum.org/CRDImages/as/web-additional/DP141042.jpg"
-      alt="Hokusai's Grote golf bij Kanagawa: een hoge golf buigt zich boven kleine boten, met de Fuji op de achtergrond."
+      src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/45000/45837/ISS024-E-014580_lrg.jpg?crop=faces%2Cfocalpoint&fit=clip&h=960&w=1440"
+      alt="Hurricane Igor gezien vanuit het internationale ruimtestation: een spiraal van wolken rond een duidelijk oog boven de Atlantische Oceaan."
       loading="lazy"
     />
     <figcaption>
-      Katsushika Hokusai, <em>Under the Wave off Kanagawa (The Great Wave)</em>, ca. 1830–32.
-      The Metropolitan Museum of Art. Open Access, publiek domein.
+      Orkaan Igor boven de Atlantische Oceaan, gefotografeerd vanuit het ISS op 14 september 2010.
+      NASA Earth Observatory / Expedition 24 crew.
     </figcaption>
   </figure>
 
-  <h3 class="uitkijkje__title">De golf bestaat echt</h3>
+  <h3 class="uitkijkje__title">De storm is echt, maar nergens los verkrijgbaar</h3>
 
   <p>
-    In Hokusai's <em>Grote golf bij Kanagawa</em> is de golf onmiddellijk herkenbaar. Zij heeft een contour,
-    een richting, bijna zelfs klauwen. Toch kun je haar nergens uit de zee knippen zonder dat zij ophoudt
-    deze golf te zijn. Dat maakt haar niet minder werkelijk. Juist haar tijdelijke, afhankelijke vorm maakt
-    haar zichtbaar.
+    Vanuit de ruimte is een orkaan onmiddellijk als vorm herkenbaar: een oog, spiraalbanden, een richting en een
+    geschiedenis. Toch kun je de storm nergens uit de atmosfeer tillen alsof hij een zelfstandig voorwerp is.
+    Hij bestaat bij de gratie van lucht, water, warmte, drukverschillen en beweging.
   </p>
 
   <p>
-    Misschien is dat een bruikbaar beeld voor veel meer levende vormen: werkelijk onderscheiden, zonder ooit
-    volledig los te zijn van wat hen draagt.
+    Dat maakt de storm niet minder werkelijk. Het laat juist zien dat een vorm onderscheiden kan zijn zonder
+    los te staan van het veld dat haar draagt.
   </p>
 
   <p class="uitkijkje__source">
-    <a href="https://www.metmuseum.org/art/collection/search/56353" target="_blank" rel="noopener noreferrer">
-      The Metropolitan Museum of Art — objectpagina en Open Access-informatie
+    <a href="https://science.nasa.gov/earth/earth-observatory/hurricane-igor-from-the-space-station-45837/" target="_blank" rel="noopener noreferrer">
+      NASA Earth Observatory — beeld, context en herkomst
     </a>
   </p>
 </aside>
