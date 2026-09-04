@@ -91,9 +91,7 @@ Een mens hoeft niet iedere mogelijke toekomst beschikbaar te houden om vrij te z
 
 Belangrijker is of voldoende <span class="begrip" data-term="antwoordruimte">antwoordruimte</span> behouden blijft: de basale voorwaarden om later opnieuw te kunnen voelen, begrijpen, weigeren, herstellen, relaties aangaan, richting veranderen en op nieuwe omstandigheden antwoorden.
 
-Vrijheid betekent hier dus niet maximale opties op ieder moment.
-
-> **Vrijheid vraagt voldoende voorwaarden om opnieuw te kunnen antwoorden.**
+Dat is hier vooral relevant als criterium voor begrenzing. De volledige uitwerking van antwoordruimte als vrijheidsbegrip volgt in het volgende hoofdstuk.
 
 Dat maakt ook duidelijk waarom sommige begrenzingen juist vrijheid kunnen beschermen. Een kind wordt niet vrijer wanneer niemand het tegen een drukke weg beschermt. Iemand in acute verwarring kan tijdelijk baat hebben bij een grens die voorkomt dat een onomkeerbare beslissing binnen enkele minuten alles sluit. Een werknemer wordt niet vrijer wanneer “eigen verantwoordelijkheid” betekent dat iedere structurele overbelasting bij hemzelf wordt teruggelegd.
 
