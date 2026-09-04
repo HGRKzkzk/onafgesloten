@@ -373,5 +373,30 @@ export const glossary: Record<string, GlossaryEntry> = {
     chapterOfOrigin: '07-gezondheid-zonder-ideaalvorm',
     short:
       'Lijden dat redelijkerwijs voorkomen, verminderd of beëindigd kan worden zonder elders disproportionele schade te veroorzaken; het vraagt antwoord, maar geen onbeperkte zelfopoffering.'
+  },
+
+  waarheid: {
+    term: 'Waarheid',
+    type: 'gangbaar',
+    chapterOfOrigin: '10-taal-kennis-en-intelligentie',
+    short:
+      'De vraag of een uitspraak of overtuiging werkelijk klopt; verschillende waarheidstheorieën leggen daarbij andere accenten op correspondentie, samenhang, praktijk en rechtvaardiging.',
+    url: 'https://plato.stanford.edu/entries/truth/'
+  },
+
+  sluitingsmacht: {
+    term: 'Sluitingsmacht',
+    type: 'projectbegrip',
+    chapterOfOrigin: '10-taal-kennis-en-intelligentie',
+    short:
+      'Het feitelijke vermogen om voor een ander relevante mogelijkheden, categorieën, middelen of correctieroutes te beperken of af te sluiten.'
+  },
+
+  corrigeerbaarheid: {
+    term: 'Corrigeerbaarheid',
+    type: 'projectbegrip',
+    chapterOfOrigin: '10-taal-kennis-en-intelligentie',
+    short:
+      'De eigenschap dat terugkoppeling niet alleen wordt ontvangen, maar waar nodig ook classificatie, doel, bevoegdheid of voortzetting werkelijk kan veranderen.'
   }
 };
