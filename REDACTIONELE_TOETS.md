@@ -88,12 +88,27 @@ Controleer bij iedere verwijzing:
 
 Zo niet, dan krijgt de horizon te veel verklarende zwaarte.
 
-## 8. Vijf vragen vóór iedere inhoudelijke merge
+## 8. Uitkijkjes hebben een eigen geheugen
+
+Voor ieder nieuw of vervangen uitkijkje wordt `UITKIJKJES_REGISTER.md` geraadpleegd en in dezelfde wijziging bijgewerkt.
+
+Controleer niet alleen op hetzelfde werk, maar ook op concentratie van maker, medium, periode, regio en functie. Exact hetzelfde werk wordt in beginsel maar één keer gebruikt. Hergebruik van een maker vraagt een inhoudelijke reden, zeker wanneer diens traditie al sterk vertegenwoordigd is.
+
+Diversiteit is geen doel op zichzelf. Een uitkijkje moet eerst iets doen wat de hoofdtekst niet al doet: concretiseren, vertragen, ontregelen, een tegenbeeld geven, schaal verschuiven, humor toelaten of de culturele horizon verbreden.
+
+Daarbij geldt:
+
+> **Een uitkijkje dat nodig is om het argument te bewijzen, staat in de verkeerde laag.**
+
+De inventaris wordt ook gebruikt om bredere blinde vlekken te zien. Een reeks afzonderlijk goede schilderijen kan samen alsnog een eenzijdige canon vormen.
+
+## 9. Zes vragen vóór iedere inhoudelijke merge
 
 1. Heeft deze passage één duidelijke thuislaag?
 2. Vertrekt zij vanuit ervaring en verschil, of vanuit ons eigen vocabulaire?
 3. Voegt zij iets toe, of legt zij een bestaand begrip opnieuw uit?
 4. Wordt een normatieve of politieke conclusie eerlijk als keuze en uitwerking gemarkeerd?
 5. Kan een tegenvoorbeeld deze passage werkelijk veranderen?
+6. Is bij een nieuw uitkijkje het register gecontroleerd en bijgewerkt?
 
 Als drie of meer vragen niet overtuigend met *ja* kunnen worden beantwoord, verdient de passage eerst verdere redactie.
