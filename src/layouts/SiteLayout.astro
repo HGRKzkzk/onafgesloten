@@ -9,7 +9,7 @@ interface Props {
 }
 
 const {
-  title = 'Ontologie van Onafgesloten Vorm',
+  title = 'Onafgesloten Vorm',
   description = 'Een filosofische verkenning van vorm, verhouding, vrijheid, betekenis en antwoord.'
 } = Astro.props;
 
@@ -29,16 +29,12 @@ const isChapter = Astro.url.pathname.includes('/hoofdstukken/');
   <body>
     <a class="skip-link" href="#main-content">Ga naar inhoud</a>
     <header class="site-header">
-      <a class="brand" href={home}>Ontologie van Onafgesloten Vorm</a>
+      <a class="brand" href={home}>Onafgesloten Vorm</a>
       <nav aria-label="Hoofdnavigatie">
         <a href={`${home}#leesroute`}>{isChapter ? 'Inhoud' : 'Leesroute'}</a>
         <a href={`${base}/hoofdstukken/99-kern-in-twintig-zinnen/`}>Kern</a>
       </nav>
     </header>
     <slot />
-    <footer class="site-footer">
-      <span>Werkversie · september 2026</span>
-      <span>Tekst, vorm en ordening blijven herzienbaar.</span>
-    </footer>
   </body>
 </html>
