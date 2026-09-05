@@ -61,17 +61,19 @@ import { uitkijkjeVisuals } from '../data/uitkijkjeVisuals';
       card.append(figure);
     }
 
-    const source = document.createElement('p');
-    source.className = 'uitkijkje__source uitkijkje__source--visual';
+    if (!card.querySelector('.uitkijkje__source--visual')) {
+      const source = document.createElement('p');
+      source.className = 'uitkijkje__source uitkijkje__source--visual';
 
-    const link = document.createElement('a');
-    link.href = visual.sourceUrl;
-    link.target = '_blank';
-    link.rel = 'noopener noreferrer';
-    link.textContent = visual.sourceLabel;
+      const link = document.createElement('a');
+      link.href = visual.sourceUrl;
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+      link.textContent = visual.sourceLabel;
 
-    source.append('Beeld: ', link);
-    card.append(source);
+      source.append('Beeld: ', link);
+      card.append(source);
+    }
   });
 })();
 </script>
