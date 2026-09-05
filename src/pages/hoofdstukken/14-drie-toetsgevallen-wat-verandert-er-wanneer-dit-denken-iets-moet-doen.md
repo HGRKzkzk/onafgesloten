@@ -3,7 +3,7 @@ layout: ../../layouts/ChapterLayout.astro
 order: 14
 title: "Drie toetsgevallen — wat verandert er wanneer dit denken iets moet doen?"
 description: "Drie concrete stresstests: twee waarin het begrippenkader iets kan toevoegen en één waarin het expliciet moet wijken voor een voldoende domeinspecifiek criterium."
-slug: "twee-toetsgevallen-wat-verandert-er-wanneer-oov-iets-moet-doen"
+slug: "14-drie-toetsgevallen-wat-verandert-er-wanneer-dit-denken-iets-moet-doen"
 status: "publieke-werkversie"
 
 source:
