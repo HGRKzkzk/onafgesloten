@@ -1,6 +1,6 @@
 ## Verwantschap
 
-De gedachte dat gezondheid niet eenvoudig samenvalt met statistische normaliteit heeft een duidelijke verwantschap met Georges Canguilhem. In *Le normal et le pathologique* maakt hij onderscheid tussen het normale als statistisch gemiddelde en het normatieve vermogen van levende wezens om binnen veranderende omstandigheden nieuwe verhoudingen tot hun omgeving te vormen. Dat ligt dicht bij de formulering van gezondheid als draagbare onafheid, al wordt hier niet beweerd dat OOV een voortzetting van Canguilhem is.
+De gedachte dat gezondheid niet eenvoudig samenvalt met statistische normaliteit heeft een duidelijke verwantschap met Georges Canguilhem. In *Le normal et le pathologique* maakt hij onderscheid tussen het normale als statistisch gemiddelde en het normatieve vermogen van levende wezens om binnen veranderende omstandigheden nieuwe verhoudingen tot hun omgeving te vormen. Dat ligt dicht bij de formulering van gezondheid als draagbare onafheid, al wordt hier niet beweerd dat Onafgesloten Vorm een voortzetting van Canguilhem is.
 
 Ook disability studies en kritische benaderingen van normaliteit zijn relevant. Zij laten zien dat beperkingen niet uitsluitend in een lichaam gelokaliseerd hoeven te worden, maar mede ontstaan in de verhouding tussen lichaam, infrastructuur, verwachtingen en sociale inrichting. Dat ondersteunt de bescheiden gedachte dat functioneren contextafhankelijk is en dat afwijking van een dominante norm niet automatisch pathologie betekent.
 
@@ -14,7 +14,7 @@ Relevant is ook dat functioneren en subjectief welzijn niet altijd samenvallen. 
 
 Binnen psychiatrie en psychologie bestaat bovendien een lange discussie over de relatie tussen distress, dysfunction, deviance en danger. Moderne classificatiesystemen proberen klinische stoornissen niet puur op zeldzaamheid te baseren, maar betrekken lijden en disfunctioneren. Dat voorkomt echter niet alle normatieve problemen: wat als dysfunction geldt, hangt gedeeltelijk af van verwachtingen over welke functies relevant zijn en in welke omgeving.
 
-Deze literatuur bewijst niet dat de OOV-driehoek verstarring–uiteenvallen–schadelijke stabiliteit een klinisch model is. Dat is zij niet. Zij biedt hoogstens een filosofische vraagstructuur die naast empirische diagnostiek gebruikt kan worden.
+Deze literatuur bewijst niet dat de projectmatige driehoek verstarring–uiteenvallen–schadelijke stabiliteit een klinisch model is. Dat is zij niet. Zij biedt hoogstens een filosofische vraagstructuur die naast empirische diagnostiek gebruikt kan worden.
 
 ## Tegenlicht
 
@@ -24,7 +24,7 @@ Daarom kan zelfdefinitie niet de enige maat zijn. Er blijven empirische en relat
 
 Een tweede tegenwerping treft het begrip **schadelijke stabiliteit**. Bijna ieder duurzaam systeem kent kosten. Wanneer is stabiliteit werkelijk schadelijk en wanneer is sprake van een onvermijdelijke prijs van functioneren? Het begrip heeft alleen waarde wanneer de last concreet kan worden gevolgd: wie of wat wordt opgebruikt, welke terugkoppeling wordt genegeerd en welke alternatieven bestaan werkelijk?
 
-Een derde risico is normatieve circulariteit. Als gezondheid wordt omschreven met termen als antwoordruimte, herstel en ontvankelijkheid, kan iedere gewenste OOV-eigenschap eenvoudigweg “gezond” worden genoemd. Daarom moet gezondheid hier niet als morele goedkeuring functioneren. Een moreel slechte actor kan lichamelijk gezond zijn; een ernstig zieke persoon kan ethisch volwaardig en relationeel rijk leven.
+Een derde risico is normatieve circulariteit. Als gezondheid wordt omschreven met termen als antwoordruimte, herstel en ontvankelijkheid, kan iedere gewenste projecteigenschap eenvoudigweg “gezond” worden genoemd. Daarom moet gezondheid hier niet als morele goedkeuring functioneren. Een moreel slechte actor kan lichamelijk gezond zijn; een ernstig zieke persoon kan ethisch volwaardig en relationeel rijk leven.
 
 > **Gezondheid en morele waarde vallen niet samen.**
 

@@ -4,7 +4,7 @@
 
 De publieke tekst maakt onderscheid tussen een vooraf gegeven kosmisch doel en lokaal of relationeel ervaren betekenis. Dat sluit aan bij brede existentiële tradities waarin zin niet noodzakelijk wordt afgeleid uit een objectieve bestemming van de kosmos, maar ontstaat in verhouding tot handelen, betrokkenheid, verantwoordelijkheid, verbondenheid en eindigheid.
 
-De precieze metafysische posities van denkers als Camus, Sartre, de Beauvoir en Frankl verschillen sterk. OOV neemt daarom niet één van hen over als fundament. De verwantschap ligt beperkter in de weigering om menselijke betekenis afhankelijk te maken van bewijs voor een kosmisch einddoel.
+De precieze metafysische posities van denkers als Camus, Sartre, de Beauvoir en Frankl verschillen sterk. Onafgesloten Vorm neemt daarom niet één van hen over als fundament. De verwantschap ligt beperkter in de weigering om menselijke betekenis afhankelijk te maken van bewijs voor een kosmisch einddoel.
 
 ### Rouw als veranderende verhouding
 
@@ -16,7 +16,7 @@ Dat past bij de publieke formulering dat de verhouding niet verdwijnt doordat we
 
 Binnen hedendaags rouwonderzoek wordt ook gesproken over *meaning reconstruction*: het opnieuw ordenen van identiteit, wereldbeeld en levensverhaal nadat een verlies bestaande betekeniskaders heeft doorbroken. Daarbij worden onder meer sense-making, identiteit, betekenis en doel onderzocht.
 
-OOV sluit hierbij aan waar rouw niet wordt opgevat als simpelweg terugkeren naar een toestand van vóór het verlies. De eigen stap is de scherpere normatieve grens dat achteraf gevonden betekenis nooit mag worden teruggeprojecteerd als rechtvaardiging van vermijdbaar verlies.
+Dit project sluit hierbij aan waar rouw niet wordt opgevat als simpelweg terugkeren naar een toestand van vóór het verlies. De eigen stap is de scherpere normatieve grens dat achteraf gevonden betekenis nooit mag worden teruggeprojecteerd als rechtvaardiging van vermijdbaar verlies.
 
 ## Empirische bedding
 
@@ -32,7 +32,7 @@ Dat ondersteunt de terughoudende publieke formulering: het bestaan van een inner
 
 Onderzoek naar betekenisreconstructie onderscheidt verschillende processen, waaronder het kunnen begrijpen van het verlies, veranderingen in identiteit, het hervinden van richting en soms ook benefit finding. Deze begrippen mogen niet worden samengevoegd tot één universeel herstelpad.
 
-Voor OOV is vooral relevant dat empirisch onderzoek betekenisvorming na verlies kan beschrijven zonder daaruit te hoeven concluderen dat het verlies zelf noodzakelijk of wenselijk was.
+Voor Onafgesloten Vorm is vooral relevant dat empirisch onderzoek betekenisvorming na verlies kan beschrijven zonder daaruit te hoeven concluderen dat het verlies zelf noodzakelijk of wenselijk was.
 
 ## Tegenlicht
 
@@ -50,7 +50,7 @@ De publieke grens — betekenis achteraf is geen noodzaak vooraf — moet dit bl
 
 ### De dood als filosofische stresstest
 
-OOV spreekt veel over onafgeslotenheid, heropening en antwoordruimte. De dood vormt daarom een echte grensproef. Als ieder definitief einde alsnog semantisch als “onaf” wordt geabsorbeerd, wordt het begrip niet falsifieerbaar genoeg.
+Onafgesloten Vorm spreekt veel over onafgeslotenheid, heropening en antwoordruimte. De dood vormt daarom een echte grensproef. Als ieder definitief einde alsnog semantisch als “onaf” wordt geabsorbeerd, wordt het begrip niet falsifieerbaar genoeg.
 
 Hoofdstuk 11 moet daarom toestaan dat concrete antwoordruimte volledig eindigt. Wat daarna verandert, verandert in de overlevenden, in herinneringen, instituties, materiële sporen en culturele praktijken — niet noodzakelijk in de gestorven persoon zelf.
 
@@ -69,7 +69,7 @@ Hoofdstuk 11 probeert vier onderscheidingen bijeen te houden:
 3. **Rouw zonder herstelplicht:** de verhouding tot verlies kan veranderen zonder dat de gestorvene, het oude leven of de vroegere vorm wordt hersteld.
 4. **Viering zonder bezit:** iets kan gevierd worden juist omdat het niet permanent beschikbaar of volledig toe-eigenbaar is.
 
-De specifieke OOV-stap zit vooral in de combinatie van onherroepelijkheid en relationele voortwerking. Een vorm kan definitief eindigen terwijl de effecten en vragen die zij in andere vormen heeft achtergelaten verder veranderen.
+De specifieke stap van Onafgesloten Vorm zit vooral in de combinatie van onherroepelijkheid en relationele voortwerking. Een vorm kan definitief eindigen terwijl de effecten en vragen die zij in andere vormen heeft achtergelaten verder veranderen.
 
 Dat is geen argument voor persoonlijk voortbestaan na de dood. Evenmin is het een argument tegen religieuze of metafysische interpretaties daarvan. De publieke kern blijft regionaal: voor de achterblijvende menselijke ervaring kan een wederkerige relatie eindigen terwijl herinnering, betekenis en verantwoordelijkheid blijven verschuiven.
 
@@ -84,4 +84,4 @@ Dat is geen argument voor persoonlijk voortbestaan na de dood. Evenmin is het ee
 - Steffen, E. M. & Klass, D. (2023). Continuing bonds in the existential, phenomenological, and cultural study of grief.
 - Camus, A. *Le Mythe de Sisyphe* (1942).
 - de Beauvoir, S. *Une mort très douce* (1964), als literaire-filosofische getuigenis van verlies en lichamelijke eindigheid.
-- *The Epic of Gilgamesh*, Oud-Babylonische en latere Mesopotamische teksttradities; gebruikt hier uitsluitend als artistiek/literair tegenbeeld, niet als bewijs voor OOV.
+- *The Epic of Gilgamesh*, Oud-Babylonische en latere Mesopotamische teksttradities; gebruikt hier uitsluitend als artistiek/literair tegenbeeld, niet als bewijs voor Onafgesloten Vorm.
