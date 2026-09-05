@@ -11,7 +11,7 @@ source:
 divergence:
   status: "substantieel-herwerkt"
   note: "Integrale compressie: cosmopsychische gedachte nadrukkelijker als excursie, rivalen en verliesvoorwaarden behouden, regionale kern en empirisch onderzoek krijgen voorrang."
-lastSyncCheck: "2026-09-04"
+lastSyncCheck: "2026-09-05"
 ---
 
 Dit hoofdstuk is een uitstap naar de horizon.
@@ -100,7 +100,7 @@ Dat is ook de reden waarom hoofdstuk 11 niet achteraf wordt heropend. Zelfs een 
 
 ## Vorm en individuering
 
-De eigen vraag van OOV ligt hier minder in cosmopsychisme zelf dan in het begrip <span class="begrip" data-term="vorm">vorm</span>.
+De eigen vraag van dit project ligt hier minder in cosmopsychisme zelf dan in het begrip <span class="begrip" data-term="vorm">vorm</span>.
 
 Een perspectief kan worden onderzocht als een plaatselijke geschiedenis waarin een breder veld samenhang, grens en richting krijgt. Een grens selecteert welke verschillen samen worden gedragen. Geheugen geeft die selectie duur. Kwetsbaarheid maakt sommige veranderingen belangrijker dan andere. Ritme ordent ontvangen, bewaren, handelen en herstellen.
 
