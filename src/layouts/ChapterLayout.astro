@@ -28,14 +28,14 @@ const next =
 const title =
   frontmatter.title ??
   chapter?.title ??
-  'Ontologie van Onafgesloten Vorm';
+  'Onafgesloten Vorm';
 
 const summary =
   frontmatter.summary ??
   frontmatter.description ??
   chapter?.summary ??
   chapter?.description ??
-  'Een hoofdstuk uit de Ontologie van Onafgesloten Vorm.';
+  'Een hoofdstuk uit Onafgesloten Vorm.';
 
 const label =
   chapter?.label ??
@@ -60,7 +60,7 @@ const hasAcademicLayer = Boolean(AcademicContent);
 ---
 
 <SiteLayout
-  title={`${title} — Ontologie van Onafgesloten Vorm`}
+  title={`${title} — Onafgesloten Vorm`}
   description={summary}
 >
   <main class="chapter-layout">
