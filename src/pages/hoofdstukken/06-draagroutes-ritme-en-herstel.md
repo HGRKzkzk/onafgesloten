@@ -8,7 +8,7 @@ description: "Over hoe spanning door lichamen, relaties en instituties beweegt, 
 source:
   primary: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
   divergence: "Uitgebreid met restlast, temporele asymmetrie, herstel als heropening en expliciete begrenzing van groeiverhalen."
-lastSyncCheck: "2026-09-04"
+lastSyncCheck: "2026-09-05"
 ---
 Spanning blijft zelden op de plek waar zij ontstaat. Zij beweegt door lichamen, relaties en instituties en krijgt ergens vorm. Werkdruk wordt hoofdpijn. Een onopgelost beleidsconflict wordt een tegenstrijdige opdracht aan een uitvoerder. Maatschappelijke onzekerheid wordt vijandigheid tegenover een zichtbare groep. Onuitgesproken verdriet wordt ruzie.
 
@@ -16,7 +16,7 @@ Dat maakt het verleidelijk om alleen te kijken naar de plek waar de schade zicht
 
 Een <span class="begrip" data-term="draagroute">**draagroute**</span> is de weg waarlangs spanning wordt ontvangen, verdeeld, begrensd, verwerkt, teruggelegd of geblokkeerd. *Invulling* beschrijft waar zij concreet verschijnt. Invulling is niet verkeerd: zonder lichaam, taak, taal, ritueel of besluit kan spanning nergens worden gedragen. Schade ontstaat wanneer een veld zijn spanning langdurig in een vorm laat neerslaan zonder dat die vorm de gevolgen kan terugleggen.
 
-Een organisatie kan wendbaar lijken doordat medewerkers voortdurend rond slechte systemen improviseren. Een gezin kan stabiel lijken doordat één lid alle onrust uit. Een economie kan efficiënt lijken doordat zorg, natuur of toekomstige generaties de <span class="begrip" data-term="restlast">**restlast**</span> dragen. Wat lokaal als zwakte verschijnt, kan elders zijn georganiseerd.
+Een organisatie kan wendbaar lijken doordat medewerkers voortdurend rond slechte systemen improviseren. Een gezin kan stabiel lijken doordat één lid alle onrust uit. Een economie kan efficiënt lijken doordat zorg, natuur of toekomstige generaties de last dragen die in het primaire ontwerp niet wordt opgelost. Wat lokaal als zwakte verschijnt, kan elders zijn georganiseerd.
 
 > **Een draagroute wordt schadelijk wanneer de last zichtbaar wordt maar de draagbeslissing buiten beeld blijft.**
 
@@ -26,15 +26,13 @@ Daarmee verschuift de eerste vraag. Niet meteen: *wie moet sterker worden?* Eers
 
 Dat voorkomt twee makkelijke fouten. De eerste is individualisering: doen alsof de persoon die bezwijkt automatisch de zwakke schakel is. De tweede is het omgekeerde: alles aan “het systeem” toeschrijven en geen individuele verantwoordelijkheid meer overhouden. Een draagroute kan verklaren waarom een patroon steeds terugkeert zonder iedere concrete handeling te verontschuldigen.
 
-## Restlast verdwijnt niet
+## Wat na een ordening overblijft
 
 Iedere ordening laat iets over. Een besluit neemt niet alle onzekerheid weg. Een grens beschermt de ene mogelijkheid en sluit een andere af. Een taakverdeling maakt handelen mogelijk, maar verplaatst ook werk.
 
-Daarom bestaat er geen organisatie zonder <span class="begrip" data-term="restlast">**restlast**</span>: spanning, risico, tijdsdruk of schade die niet in het primaire ontwerp wordt opgelost en ergens terechtkomt.
+Er blijft dus vaak spanning, risico, tijdsdruk, schade of verlies over dat ergens terechtkomt. Daarvoor is geen afzonderlijk projectbegrip nodig. De morele vraag begint waar zulke lasten structureel dezelfde kant op bewegen.
 
-De morele vraag begint waar die restlast structureel dezelfde kant op beweegt.
-
-Een medewerker die één keer een fout herstelt, draagt een incident. Een medewerker die jarenlang systeemfouten opvangt zonder dat de bron verandert, wordt onderdeel van de draagroute. Een mantelzorger die tijdelijk bijspringt, draagt anders dan iemand voor wie “tijdelijk” de vaste ordening is geworden. Een dier dat één beperking ondergaat is iets anders dan een dier wiens hele leefwereld uit onze restlast bestaat.
+Een medewerker die één keer een fout herstelt, draagt een incident. Een medewerker die jarenlang systeemfouten opvangt zonder dat de bron verandert, wordt onderdeel van de draagroute. Een mantelzorger die tijdelijk bijspringt, draagt anders dan iemand voor wie “tijdelijk” de vaste ordening is geworden. Een dier dat één beperking ondergaat is iets anders dan een dier wiens hele leefwereld onze economische spanning absorbeert.
 
 > **Dat iemand een last kan dragen, vertelt nog niet waarom die last bij diegene hoort.**
 
@@ -88,9 +86,11 @@ Dit bewaakt ook iets anders: groei kan niet worden afgedwongen door iemand voort
 
 <span class="begrip" data-term="herstel">**Herstel**</span> is niet altijd terugkeer naar de oude toestand. Wat gedragen is, verandert de drager. Na liefde, trauma, verlies of institutionele beschadiging bestaat de eerdere vorm vaak niet meer. Herstel kan dan een nieuwe ordening zijn waarin de geschiedenis niet wordt gewist, maar opnieuw draaglijk wordt.
 
-> **Herstel is heropening van vormvermogen.**
+> **Herstel is niet noodzakelijk terugkeer. Het kan betekenen dat opnieuw voelen, begrenzen en antwoorden mogelijk wordt in een andere samenhang.**
 
-Een herstelde vorm hoeft niet weer hetzelfde te presteren. Zij kan kleiner, voorzichtiger of anders georganiseerd zijn en toch levender, omdat zij opnieuw kan voelen, begrenzen en antwoorden.
+Daarvoor was eerder het woord *vormvermogen* gebruikt. Dat woord voegt bij nader inzien te weinig toe. *Handelingsvermogen* benoemt preciezer waar handelen centraal staat; *plasticiteit* waar veranderbaarheid wordt bedoeld; *adaptief vermogen* waar aanpassing aan omstandigheden telt; *veerkracht* waar herstel na belasting wordt onderzocht; en *herstelvermogen* waar het vermogen tot herstel zelf de vraag is. *Vormvermogen* dreigde die verschillende verschijnselen vooral onder één projectwoord samen te trekken.
+
+De zin kan zonder verlies concreter zeggen wat hier bedoeld wordt: een herstelde vorm hoeft niet weer hetzelfde te presteren. Zij kan kleiner, voorzichtiger of anders georganiseerd zijn en toch levender, omdat zij opnieuw kan voelen, begrenzen en antwoorden.
 
 Dat betekent ook dat “weer functioneren” een te smalle maat is. Een werknemer kan weer aanwezig zijn en nog nauwelijks reserve hebben. Een relatie kan weer rustig lijken terwijl één partij alleen conflict vermijdt. Een instituut kan een fout herstellen zonder de route te veranderen waardoor dezelfde fout opnieuw ontstaat.
 
