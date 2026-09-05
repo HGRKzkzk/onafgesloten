@@ -5,7 +5,7 @@ title: "Zelfbegrenzing — ook dit denken blijft onaf"
 slug: "zelfbegrenzing-ook-dit-denken-blijft-onaf"
 status: "uitgewerkt-met-academische-laag"
 source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
-description: "Een slothoofdstuk over de voorwaarden waaronder OOV zichzelf moet kunnen begrenzen, herzien of gedeeltelijk verlaten."
+description: "Een slothoofdstuk over de voorwaarden waaronder Onafgesloten Vorm zichzelf moet kunnen begrenzen, herzien of gedeeltelijk verlaten."
 divergence: "Integrale compressie: hoofdstuk is uitsluitend de interne onderhouds- en verlieslaag; culturele vergelijking blijft in hoofdstuk 15."
 lastSyncCheck: "2026-09-04"
 ---
@@ -20,13 +20,13 @@ Een denken dat overal woorden voor heeft, heeft nog niet overal iets gezien.
 
 ## Niet iedere laag staat even hard
 
-OOV bevat verschillende soorten uitspraken. Die mogen niet hetzelfde gewicht krijgen.
+Onafgesloten Vorm bevat verschillende soorten uitspraken. Die mogen niet hetzelfde gewicht krijgen.
 
 De regionale kern blijft het dichtst bij ervaring en onderzoek: levende en voelende vormen verschijnen begrensd, relationeel en historisch; verschil kan voor hen werkelijk ertoe doen; draagkracht, herstel en afhankelijkheid zijn niet los van omgeving te begrijpen.
 
-Projectbegrippen zoals <span class="begrip" data-term="antwoordruimte">antwoordruimte</span>, <span class="begrip" data-term="draagroute">draagroute</span>, <span class="begrip" data-term="restlast">restlast</span> en <span class="begrip" data-term="corrigeerbaarheid">corrigeerbaarheid</span> hebben een andere status. Hun bestaansrecht is instrumenteel: zij moeten een relevant onderscheid scherper zichtbaar maken. Als een bestaand begrip hetzelfde beter doet, hoeft OOV geen eigen woord te behouden.
+Projectbegrippen zoals <span class="begrip" data-term="antwoordruimte">antwoordruimte</span>, <span class="begrip" data-term="draagroute">draagroute</span>, <span class="begrip" data-term="restlast">restlast</span> en <span class="begrip" data-term="corrigeerbaarheid">corrigeerbaarheid</span> hebben een andere status. Hun bestaansrecht is instrumenteel: zij moeten een relevant onderscheid scherper zichtbaar maken. Als een bestaand begrip hetzelfde beter doet, hoeft het project geen eigen woord te behouden.
 
-Normatieve keuzes zoals wederkerigheid, het gewicht van afwendbaar lijden en corrigeerbare macht worden niet door de ontologie bewezen. Zij moeten afzonderlijk verdedigbaar blijven.
+Normatieve keuzes zoals wederkerigheid, het gewicht van afwendbaar lijden en corrigeerbare macht volgen niet noodzakelijk uit de beschrijvende of metafysische uitgangspunten. Zij moeten afzonderlijk verdedigbaar blijven.
 
 De cosmopsychische horizon uit hoofdstuk 12 is het zachtst. Zij mag inspireren, maar niet dragen.
 
@@ -82,7 +82,7 @@ Daarom blijft de vraag:
 
 *Is hier werkelijk dezelfde structuur zichtbaar, of maakt onze taal haar hetzelfde?*
 
-Een koe, burger, rouwende, algoritme en ecosysteem zijn niet vijf uitwerkingen van één verborgen OOV-object. Vergelijkingen mogen alleen zover gaan als hun verschillen toelaten.
+Een koe, burger, rouwende, algoritme en ecosysteem zijn niet vijf uitwerkingen van één verborgen object van dit denken. Vergelijkingen mogen alleen zover gaan als hun verschillen toelaten.
 
 Dit is ook de grens van het verlangen naar een “complete” theorie. Niet alles hoeft door hetzelfde raster te passen om serieus genomen te worden.
 
@@ -105,7 +105,7 @@ Voor een substantieel nieuw begrip, hoofdstuk of toepassing volstaat daarom een 
 3. Wat zou laten zien dat het centrale begrip te ruim, dubbelop of verkeerd gekozen is?
 4. Welke empirische kennis kan de toepassing corrigeren?
 5. Welke normatieve stap wordt gekozen in plaats van afgeleid?
-6. Waar zou minder OOV-taal preciezer zijn?
+6. Waar zou minder projecttaal preciezer zijn?
 
 Geen formulier, maar een gewoonte van onderhoud.
 
