@@ -2,6 +2,7 @@
 import SiteLayout from './SiteLayout.astro';
 import { chapters, chapterBySlug } from '../data/chapters';
 import GlossaryPopover from '../components/GlossaryPopover.astro';
+import UitkijkjeVisuals from '../components/UitkijkjeVisuals.astro';
 
 const { frontmatter } = Astro.props;
 
@@ -180,6 +181,7 @@ const hasAcademicLayer = Boolean(AcademicContent);
 
   </main>
 
+  <UitkijkjeVisuals />
   <GlossaryPopover />
 </SiteLayout>
 
