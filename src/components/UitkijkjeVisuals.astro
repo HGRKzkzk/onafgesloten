@@ -41,6 +41,7 @@ import { uitkijkjeVisuals } from '../data/uitkijkjeVisuals';
     image.src = visual.src;
     image.alt = visual.alt;
     image.loading = 'lazy';
+    image.decoding = 'async';
 
     const caption = document.createElement('figcaption');
     caption.textContent = visual.caption;
@@ -67,7 +68,7 @@ import { uitkijkjeVisuals } from '../data/uitkijkjeVisuals';
     link.rel = 'noopener noreferrer';
     link.textContent = visual.sourceLabel;
 
-    source.append(link);
+    source.append('Beeld: ', link);
     card.append(source);
   });
 })();
