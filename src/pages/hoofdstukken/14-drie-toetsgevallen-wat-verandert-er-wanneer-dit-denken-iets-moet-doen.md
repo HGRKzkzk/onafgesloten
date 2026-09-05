@@ -2,7 +2,7 @@
 layout: ../../layouts/ChapterLayout.astro
 order: 14
 title: "Drie toetsgevallen — wat verandert er wanneer dit denken iets moet doen?"
-description: "Drie concrete stresstests: twee waarin het begrippenkader iets kan toevoegen en één waarin het expliciet moet wijken voor een voldoende domeinspecifiek criterium."
+description: "Drie concrete stresstests: twee waarin het begrippenkader de vraag verschuift en één waarin het moet wijken."
 slug: "14-drie-toetsgevallen-wat-verandert-er-wanneer-dit-denken-iets-moet-doen"
 status: "publieke-werkversie"
 
@@ -12,25 +12,19 @@ source:
 
 divergence:
   status: "substantieel-herwerkt"
-  note: "Integrale redactieronde: hoofdstuk 14 is ontvlochten van hoofdstuk 13, theoretische heruitleg is teruggebracht en de casussen dragen nu meer van het argument zelf."
+  note: "Aangescherpt tot drie verschillende daden: de vraag verschuiven bij dier en uitvoering, en projecttaal laten wijken waar een ander domein de primaire beslissing al draagt."
 
 lastSyncCheck: "2026-09-05"
 ---
-Een filosofisch begrippenkader verdient zijn plaats niet doordat het steeds nieuwe verschijnselen in zijn eigen taal kan opnemen. Het moet verschil maken wanneer een concrete situatie onoverzichtelijk, moreel beladen of institutioneel vastgelopen is.
+Een begrippenkader verdient zijn plaats niet doordat het overal woorden voor heeft. Het moet in een concrete situatie iets scherper zichtbaar maken dan zonder die woorden al zichtbaar was.
 
-Daarom volgen hier drie gevallen. Niet om de doctrine uit het vorige hoofdstuk opnieuw uit te leggen, maar om te zien wat er gebeurt wanneer zij werkelijk iets moet onderscheiden. De derde toets is anders dan de eerste twee: daar moet blijken of het kader ook kan herkennen wanneer het beter niet spreekt.
+Daarom volgen drie gevallen. In de eerste twee ontbreken eenvoudige schurken. Juist daar moet blijken of begrippen als draagroute, sluitingsmacht en corrigeerbaarheid meer doen dan een bekende morele intuïtie hernoemen. Het derde geval is anders: daar moet dit denken kunnen merken dat het niets toe te voegen heeft.
 
-Het eerste geval gaat over een niet-menselijk dier in een productiesysteem. Het tweede over een burger tegenover een uitvoeringsinstitutie. In beide gevallen ontbreken eenvoudige schurken. Juist dan moet zichtbaar worden of begrippen als antwoordruimte, draagroute en sluitingsmacht méér doen dan een bekende intuïtie opnieuw benoemen. Het derde geval is eenvoudiger en daarom strenger: een administratieve fout waarvan recht en berekening al bepalen wat er moet gebeuren.
-
-De toets blijft kort:
+Drie vragen zijn genoeg:
 
 1. Wat staat er concreet op het spel?
-2. Wie kan de omstandigheden van wie bepalen?
-3. Waar komt spanning of onzekerheid terecht?
-4. Welke terugkoppeling kan werkelijk iets veranderen?
-5. Welke grens is noodzakelijk, en welke vooral gemakkelijk?
-6. Wat kan dit kader hier niet zelf beslissen?
-7. Welke feiten zouden deze duiding moeten verzwakken?
+2. Waar landt de last of onzekerheid?
+3. Wat zou deze duiding weerleggen?
 
 Een toepassing die alleen bevestiging kan vinden, toetst niets.
 
@@ -47,143 +41,86 @@ Voor een toetsgeval is dat een goede herinnering: begin niet bij “de koe” al
 </div>
 </aside>
 
-Stel een melkkoe leeft in een bedrijf waar voeding, hygiëne en medische zorg voldoende zijn om haar gezond en productief te houden. Zij heeft weinig vrije bewegingsruimte, kan nauwelijks naar buiten, heeft beperkte mogelijkheid om sociale nabijheid of afstand te kiezen en wordt binnen het productiesysteem voortgeplant en van haar kalf gescheiden. Er is geen doelbewuste mishandeling. De boer houdt zich aan regels, zorgt naar eigen inzicht behoorlijk en is voor zijn inkomen afhankelijk van het bedrijf.
+Stel een melkkoe leeft in een bedrijf waar voeding, hygiëne en medische zorg voldoende zijn om haar gezond en productief te houden. Zij kan nauwelijks naar buiten, heeft weinig mogelijkheid om afstand of nabijheid te kiezen en wordt van haar kalf gescheiden. Er is geen doelbewuste mishandeling. De boer houdt zich aan de regels, zorgt naar eigen inzicht behoorlijk en is voor zijn inkomen afhankelijk van het bedrijf.
 
-De eerste vraag is niet of melkveehouderij in abstracto geoorloofd is, maar:
+De eerste vraag is niet of melkveehouderij in abstracto geoorloofd is, maar wat er voor dit dier werkelijk op het spel staat.
 
-> **Wat staat er voor dit dier werkelijk op het spel?**
+Productiviteit geeft daarop geen volledig antwoord. Een dier kan blijven eten, groeien en melk geven terwijl relevante gedragsmogelijkheden sterk zijn vernauwd. Tegelijk is begrenzing niet vanzelf verkeerd: beschutting, medische zorg en een hek kunnen ook beschermen.
 
-Pijn, rust, beweging, nabijheid, dreiging en sociaal contact doen voor een koe aantoonbaar verschil. Dat hoeft niet uit menselijke taal te worden afgeleid. Lichaam, gedrag, voorkeur, vermijding en herstel vormen terugkoppeling vanuit een eigen hier.
+De asymmetrie blijft groot. Mensen bepalen vrijwel de hele leefwereld. Daardoor verschuift de rechtvaardigingslast: niet iedere beperking hoeft te verdwijnen, maar degene die haar organiseert moet kunnen uitleggen waarom zij nodig is en welke gevolgen zij voor het dier heeft.
 
-Daarom is productiviteit geen volledige welzijnsmaat. Een dier kan blijven functioneren terwijl relevante mogelijkheden sterk zijn vernauwd.
+Hier begint de empirische grens. Dit kader bepaalt niet hoeveel vierkante meter een koe nodig heeft of welk moeder-kalfcontact welzijn bevordert. Daarvoor zijn ethologie, diergeneeskunde en concrete observatie nodig.
 
-Tegelijk is menselijke begrenzing niet vanzelf verkeerd. Voedselzekerheid, medische zorg, beschutting en bescherming kunnen reële draagkracht bieden. Ook een wild dier leeft niet in maximale vrijheid.
+De eigen vraag verschijnt ergens anders. Economische marges, arbeidskosten en productiedoelen verdwijnen niet wanneer ze buiten het welzijnsdossier blijven. Ze kunnen als minder ruimte, minder herstel of minder uitwijkmogelijkheid in het leven van het dier terechtkomen.
 
-De asymmetrie blijft echter groot: mensen bepalen vrijwel de hele leefwereld. Daarmee verschuift de rechtvaardigingslast. Wie mogelijkheden wegneemt, moet kunnen uitleggen waarom die beperking nodig is, welke gevolgen zij heeft en of een minder sluitende inrichting redelijkerwijs mogelijk is.
+Een hek dat voorkomt dat een koe een snelweg oploopt beperkt en beschermt. Een beperking die vooral blijft bestaan omdat een minder belastende inrichting duurder is, vraagt een andere rechtvaardiging.
 
-Hier houdt dit kader op en begint empirische kennis. Het kan niet bepalen hoeveel ruimte een koe nodig heeft of welk moeder-kalfcontact welzijn bevordert. Daarvoor zijn ethologie, diergeneeskunde en concrete observatie nodig.
+Deze duiding verzwakt wanneer degelijk onderzoek laat zien dat de beperking voor het dier nauwelijks relevant verschil maakt, terwijl een minder beperkende inrichting elders grote moeilijk vermijdbare schade veroorzaakt. Dan mag “meer openheid” niet alsnog de gewenste uitkomst worden.
 
-### Waar komt de belasting terecht?
-
-Economische marges, arbeidskosten en productiedoelen verdwijnen niet wanneer zij buiten beeld blijven. Zij kunnen in het lichaam en gedrag van het dier terechtkomen: minder ruimte, hogere productiedruk, minder herstel, minder mogelijkheid tot ontwijken.
-
-De vraag wordt dan:
-
-*Is deze beperking noodzakelijk, of draagt het dier vooral spanning die elders duurder zou moeten worden opgelost?*
-
-Een hek dat voorkomt dat een koe een snelweg oploopt beperkt én beschermt. Een beperking die uitsluitend blijft bestaan omdat een minder belastende inrichting duurder is, vraagt een andere rechtvaardiging.
-
-Wanneer betrouwbare kennis ernstige en redelijk vermijdbare schade laat zien, kan die schade niet als moreel neutrale productiekost worden behandeld. Maar het antwoord ligt niet al in dit kader besloten. Aanpassing, overgang, normering of beëindiging zijn politieke en empirische keuzes die afzonderlijk moeten worden onderbouwd.
-
-### Vertegenwoordiging zonder buikspreken
-
-Het dier kan geen bezwaarbrief schrijven. Juist daarom mag degene met macht niet ook als enige bepalen wat als relevante terugkoppeling telt.
-
-Dierenartsen, ethologen, toezichthouders en verzorgers kunnen gedrag en lichamelijke signalen institutioneel gewicht geven. Hun taak is niet te beweren dat zij precies weten wat het dier “wil”, maar om waarneembare gevolgen serieus te laten meetellen.
-
-### Wat zou deze duiding verzwakken?
-
-Als degelijk onderzoek laat zien dat een bepaalde beperking nauwelijks relevant verschil maakt voor welzijn of gedrag, terwijl een minder beperkende inrichting grote moeilijk vermijdbare schade elders veroorzaakt, mag “meer openheid” niet alsnog de gewenste uitkomst worden.
-
-Omgekeerd: wanneer productiviteit als bewijs van welzijn blijft gelden terwijl consistente terugkoppeling ernstige aantasting laat zien, wordt de bestaande inrichting moeilijker te rechtvaardigen.
-
-Daar zit de praktische winst: niet minder sluiting als ideaal, maar de vraag **welke sluiting op wiens lichaam rust en door welke kennis zij corrigeerbaar blijft**.
-
-<aside class="uitkijkje">
-<h3 class="uitkijkje__title">Bartleby zegt liever niet</h3>
-<div class="uitkijkje__text">
-
-In Herman Melvilles *Bartleby, the Scrivener* antwoordt een kantoorklerk op steeds meer verzoeken met dezelfde merkwaardige zin: “I would prefer not to.”
-
-Het verhaal legt die weigering niet netjes uit. De werkgever probeert haar achtereenvolgens te begrijpen, verdragen, oplossen en organiseren. Bartleby blijft ondertussen zitten.
-
-Soms hoeft een nee even nergens heen.
-
-</div>
-</aside>
+> **Productiviteit kan hier sluiting verbergen: het dier functioneert terwijl de weg waarlangs de last wordt afgewenteld buiten het dossier blijft.**
 
 ## Geval II — de burger tegenover een uitvoeringsinstitutie
 
-Stel een burger is voor zijn inkomen afhankelijk van een publieke uitkering. Een uitvoeringsorganisatie moet controleren of publiek geld rechtmatig wordt verstrekt. Een risicosignaal leidt ertoe dat extra bewijs nodig is en betaling tijdelijk wordt opgeschort. De brief maakt beperkt duidelijk waarom. De burger begrijpt de procedure onvoldoende en kan daardoor huur, energie of boodschappen moeilijk betalen.
+Stel een burger is voor zijn inkomen afhankelijk van een publieke uitkering. Een risicosignaal leidt ertoe dat extra bewijs nodig is en betaling tijdelijk wordt opgeschort. De brief legt beperkt uit waarom. De burger begrijpt de procedure onvoldoende en kan daardoor huur, energie of boodschappen moeilijk betalen.
 
-Ook hier hoeft niemand kwaadwillend te zijn. De wet kan een legitiem doel hebben. De medewerker kan zorgvuldig handelen. Het systeem kan technisch functioneren zoals ontworpen.
+Ook hier hoeft niemand kwaadwillend te zijn. De wet kan een legitiem doel hebben. De medewerker kan zorgvuldig handelen. De maatregel kan juridisch verdedigbaar zijn.
 
-Toch kan de verhouding schadelijk worden.
-
-De juridische vraag *mag deze maatregel?* blijft noodzakelijk. Maar daarnaast verschijnt een andere:
+De juridische vraag *mag deze maatregel?* blijft noodzakelijk. Maar zij beantwoordt niet vanzelf een tweede vraag:
 
 > **Waarom moest de onzekerheid van het instituut op deze manier in het leven van deze burger terechtkomen?**
 
-De organisatie bepaalt termijnen, bewijsstandaarden, geldstromen en routes. De burger moet antwoorden binnen een vorm die hij niet zelf heeft ontworpen. Als betaling wordt opgeschort, raakt procedurele onzekerheid direct aan wonen, voeding en het vermogen om nog rustig te reageren.
+De organisatie bepaalt termijnen, bewijsstandaarden en geldstromen. De burger moet binnen die vorm antwoorden. Wanneer betaling wordt opgeschort, wordt procedurele onzekerheid vertaald in bestaansonzekerheid.
 
-Dat maakt de ervaring van de burger relevant zonder haar tot automatisch vonnis te maken. “Ik kan hierdoor mijn huur niet betalen” bewijst niet dat de beschikking juridisch fout is. Het is wel kennis over een gevolg dat in het dossier kan ontbreken.
+De ervaring van de burger is daarbij gevolgkennis, geen automatisch vonnis. “Ik kan mijn huur niet betalen” bewijst niet dat de beschikking juridisch fout is. Het laat wel een gevolg zien dat in de juridische beoordeling niet noodzakelijk volledig wordt meegewogen.
 
-### Van incident naar patroon
+Stel nu dat twee procedures uiteindelijk even vaak tot de juiste beslissing komen. De ene vangt onzekerheid tijdelijk institutioneel op. De andere laat burgers wachten, voorschieten, bewijs verzamelen en later herstelwerk doen.
 
-Stel vervolgens dat dezelfde procedure herhaaldelijk mensen tijdelijk zonder inkomen laat, terwijl een betekenisvol deel van die beslissingen later wordt hersteld.
+Dan is de einduitkomst gelijk, maar de <span class="begrip" data-term="draagroute">draagroute</span> niet.
 
-Dan verandert de situatie. De foutkans is niet langer het enige relevante gegeven. Ook de plaats waar de onzekerheid wordt geparkeerd wordt zichtbaar.
+Dat is de winst van het begrip: niet iedere last krijgt een nieuwe naam, maar zichtbaar wordt langs welke relationele of institutionele weg dezelfde onzekerheid bij verschillende dragers kan landen.
 
-Twee procedures kunnen uiteindelijk even nauwkeurig zijn en toch moreel verschillen. De ene vangt onzekerheid institutioneel op; de andere laat burgers wachttijd, bestaansonzekerheid en herstelarbeid dragen.
+Als de burger werkelijk fraudeert, blijft harde begrenzing mogelijk. Onderzoek, terugvordering en sanctie kunnen gerechtvaardigd zijn. Maar één handeling hoeft geen permanente identiteit te worden; de grens moet de schade stoppen, niet meer van de persoon vastleggen dan daarvoor nodig is.
 
-Dat is precies het soort verschuiving waarvoor draagroute als begrip iets kan toevoegen. Het woord is alleen nuttig zolang er werkelijk een last door een relationele of institutionele ordening wordt verdeeld, doorgeschoven of geconcentreerd. Het is geen algemene naam voor ieder ontstaan van last.
+Ook spreken is nog geen corrigeren. Een hoorzitting, klachtenformulier of klantonderzoek bewijst weinig wanneer relevante nieuwe informatie de maatregel of werkwijze feitelijk nooit kan veranderen.
 
-### En als de burger werkelijk fraudeert?
+Deze duiding verzwakt wanneer een zware opschorting aantoonbaar noodzakelijk is om ernstige schade te voorkomen, lichtere alternatieven niet werken, noodvoorzieningen beschikbaar zijn en onafhankelijke toetsing snel werkt. Dan is de zwaarte van de maatregel op zichzelf geen tegenargument.
 
-Dan verdwijnt de mogelijkheid van harde begrenzing niet. Onderzoek, terugvordering en sanctie kunnen gerechtvaardigd zijn. Een collectieve draagstructuur moet misbruik kunnen stoppen.
+> **De verschoven vraag is dus niet alleen of de beslissing klopt, maar waarom de onzekerheid van het instituut in dit leven moest landen en of nieuwe informatie de werkwijze nog werkelijk kan veranderen.**
 
-Maar ook dan volgt uit één handeling niet automatisch een permanente identiteit. De vraag blijft welke consequentie nodig en proportioneel is om schade te stoppen en te herstellen.
+## Geval III — wanneer het denken moet stoppen
 
-Een handeling kan hard worden begrensd zonder de actor voor altijd tot die handeling te reduceren.
+Soms is een fout gewoon een fout.
 
-### Spreken is nog geen corrigeren
+Stel een burger heeft door een aantoonbare rekenfout €800 te weinig ontvangen. De gegevens zijn compleet, de berekening is controleerbaar en het recht laat geen redelijke twijfel toe.
 
-Een instituut kan burgers uitgebreid laten spreken en toch hetzelfde blijven doen. Hoorzittingen, klachtenformulieren en klantonderzoek zijn geen bewijs van corrigeerbaarheid wanneer relevante nieuwe informatie de maatregel, classificatie of werkwijze feitelijk nooit kan veranderen.
+De organisatie heeft €800 te weinig betaald.
 
-Dat betekent niet dat ieder bezwaar moet winnen. Het betekent dat het systeem niet zo gesloten mag zijn dat zijn uitgangspunt al vóór de reactie onaantastbaar vaststaat.
+Zij moet dat bedrag corrigeren en betalen.
 
-### Wat zou deze duiding verzwakken?
+We zouden nog kunnen spreken over antwoordruimte, draagroute of institutionele ontvankelijkheid. Voor deze beslissing maakt dat niets beter. Een relationele omweg kan zelfs ontwijking worden wanneer zij de eenvoudige verplichting vervangt.
 
-Als een zware tijdelijke opschorting aantoonbaar noodzakelijk blijkt om ernstige, nauwelijks herstelbare fraude te voorkomen, lichtere alternatieven falen, noodvoorzieningen beschikbaar blijven en onafhankelijke toetsing snel en effectief werkt, kan de ernst van de ingreep op zichzelf geen tegenargument zijn.
+Maar zwijgen wordt pas moeilijker waar de woorden wél verleidelijk blijven.
 
-Omgekeerd: wanneer dezelfde schade zich aantoonbaar blijft herhalen, een minder schadelijk alternatief beschikbaar is en het proces niet verandert omdat de schade buiten de eigen prestatie-indicatoren valt, wordt “de regel correct uitgevoerd” een te dun antwoord.
+Stel daarom een arts heeft na zorgvuldig en herhaald onderzoek een diagnose vastgesteld die medisch voldoende zeker is en onomkeerbare gevolgen benoemt. De uitslag is ingrijpend. Zij verandert iemands toekomst. Er zal tijd nodig zijn voor uitleg, verwerking en keuzes over behandeling.
 
-## Geval III — de fout die gewoon een fout is
+Juist daar ligt de verleiding om te zeggen dat geen vorm ooit definitief is, dat antwoordruimte moet worden beschermd of dat het verhaal nog openligt.
 
-Stel een burger heeft door een aantoonbare administratieve rekenfout €800 te weinig ontvangen. De relevante gegevens zijn compleet. De berekening kan worden gecontroleerd. Het toepasselijke recht laat geen redelijke twijfel over het bedrag bestaan.
+Voor de diagnose zelf kan dat misleidend zijn.
 
-We zouden ook hier kunnen vragen naar antwoordruimte, draagroute, institutionele ontvankelijkheid of sluitingsmacht. Maar voor de primaire beslissing voegen die vragen niets toe.
-
-De berekening was fout.
-
-De burger had recht op €800 meer.
-
-De organisatie moet de fout herstellen en betalen.
-
-Een uitgebreid gesprek over de ervaring van de burger kan zelfs een ontwijking worden wanneer het de simpele verplichting vervangt. “Wij willen begrijpen wat dit met u heeft gedaan” is geen beter antwoord op een vaststaande onderbetaling dan: “Wij hebben €800 te weinig betaald. Dat corrigeren we.”
-
-Hier verliest het kader dus een toepassing.
+Als het medische criterium de relevante feitelijke vraag voldoende beantwoordt, maakt deze taal de uitslag niet menselijker door haar minder bepaald te laten klinken. De diagnose moet juist helder worden meegedeeld. Daarna kunnen andere vragen ontstaan, maar de feitelijke vaststelling hoeft niet door dit project te worden heropend.
 
 > **Waar een domeinspecifiek criterium het probleem voldoende bepaalt, moet projecttaal wijken tenzij zij aantoonbaar iets relevants zichtbaar maakt dat anders buiten beeld blijft.**
 
-Dat is geen bevoegdheidsregel waarmee Onafgesloten Vorm vervolgens zelf mag bepalen wanneer een ander domein “voldoende” heeft gesproken. In dit geval dragen recht en berekening de beslissing al. Het kader krijgt geen extra stem omdat het graag nog een relationele vraag zou willen stellen.
+Dat is geen bevoegdheidsregel waarmee Onafgesloten Vorm vervolgens zelf mag bepalen wanneer een ander domein “voldoende” heeft gesproken. In het rekenvoorbeeld dragen recht en berekening de primaire beslissing. In het medische voorbeeld draagt de voldoende zekere diagnostiek de feitelijke vaststelling. Dit kader krijgt geen extra stem omdat het graag nog iets over onafgeslotenheid wil zeggen.
 
-Ook het omgekeerde moet mogelijk blijven. Een domein kan zijn eigen vraag correct beantwoorden en toch relevante gevolgen buiten zijn afbakening laten. Als dezelfde rekenfout bijvoorbeeld structureel één groep treft, maandenlange bestaansonzekerheid veroorzaakt of door een herstelproces telkens opnieuw wordt geproduceerd, ontstaat een andere vraag. Dan kan een veldmatige of institutionele analyse opnieuw iets toevoegen. Niet omdat de juridische uitkomst onjuist was, maar omdat zij niet de enige relevante vraag beantwoordde.
+Als dezelfde rekenfout structureel één groep treft of telkens door hetzelfde herstelproces wordt geproduceerd, ontstaat wél een andere vraag. Dan zijn we terug bij geval II: niet omdat de berekening ineens minder duidelijk was, maar omdat herhaling een institutionele verdeling van last zichtbaar maakt.
 
-De grens ligt dus niet bij de pretentie dat dit project kan vaststellen wanneer een zaak “werkelijk klaar” is. De grens ligt eenvoudiger: **wanneer projecttaal geen onderscheid verandert, geen relevant gevolg zichtbaar maakt en geen blinde vlek blootlegt, moet zij niet worden toegevoegd.**
+Hier is de juiste handeling dus niet verrijken, maar stoppen: corrigeren waar iets fout is, erkennen wat vaststaat, en daarna alleen spreken als er werkelijk een andere vraag is.
 
-Soms is preciezer denken: ophouden met hernoemen.
+| Geval | Wat verandert | Wat dit denken niet doet |
+|---|---|---|
+| I | De vraag verschuift van productiviteit naar op wiens lichaam de beperking rust. | Geen welzijnsmaat, geen vierkante meters, geen verbod op veehouderij. |
+| II | Twee even rechtmatige procedures kunnen moreel verschillen door de route van onzekerheid en herstelwerk. | Geen uitspraak of deze beschikking juridisch fout is. |
+| III | Voor de primaire beslissing verandert niets. | Geen relationele omweg waar recht, berekening of diagnostiek het relevante feit al dragen. |
 
-## Wat de drie gevallen samen laten zien
-
-De eerste twee gevallen bevatten asymmetrieën waarin één actor de leefvoorwaarden van een andere vorm sterk kan bepalen. Daar kan het kader iets zichtbaar maken dat binnen afzonderlijke vakgebieden gemakkelijk uiteenvalt: waar onzekerheid of belasting terechtkomt, welke signalen werkelijk iets kunnen veranderen en wie zich moet verantwoorden wanneer dat niet gebeurt.
-
-Het derde geval legt juist de grens bloot. Niet ieder probleem wordt beter wanneer het relationeler, fenomenologischer of institutioneler wordt beschreven. Soms hebben recht, geneeskunde, techniek, statistiek of een andere discipline het relevante onderscheid al scherper gemaakt.
-
-Dat is geen universele uitkomstmachine. Dierenwelzijnsethiek, bestuursrecht, zorgethiek, proportionaliteitsdenken en professionele uitvoeringskennis kunnen bovendien vaak tot dezelfde conclusie komen als dit kader.
-
-De meerwaarde van Onafgesloten Vorm moet daarom klein en concreet blijven: het kader verdient praktisch gewicht wanneer het **eerder zichtbaar maakt waar last, onzekerheid of sluitingsmacht terechtkomt**, of wanneer het laat zien dat een formeel correct systeem zijn eigen relevante terugkoppeling niet kan verwerken.
-
-Waar dat niet gebeurt, moeten andere begrippen het werk gewoon mogen doen.
-
----
+De meerwaarde blijft klein en concreet: eerder zichtbaar maken waar last, onzekerheid of sluitingsmacht terechtkomt, of waar een formeel correct systeem relevante terugkoppeling niet kan verwerken. Waar dat niet gebeurt, moeten andere begrippen het werk doen.
