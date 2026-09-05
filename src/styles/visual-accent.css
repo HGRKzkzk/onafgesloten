@@ -46,26 +46,6 @@ h3,
   display: none;
 }
 
-/*
-  Niet ieder uitkijkje heeft een verantwoord, inhoudelijk passend beeld nodig.
-  Tekst-only uitkijkjes krijgen daarom een eigen abstracte visuele opening:
-  zichtbaar als tweede leeslaag, maar zonder te doen alsof decoratie bewijs is.
-*/
-.uitkijkje:not(:has(.uitkijkje__figure))::before {
-  content: '';
-  display: block;
-  height: clamp(5rem, 13vw, 7.5rem);
-  margin: 0 0 .9rem;
-  border-bottom: 1px solid color-mix(in srgb, var(--title-ink) 15%, transparent);
-  background:
-    radial-gradient(circle at 18% 58%, var(--illustration-node) 0 .22rem, transparent .27rem),
-    radial-gradient(circle at 52% 34%, var(--illustration-node) 0 .16rem, transparent .21rem),
-    radial-gradient(circle at 83% 63%, var(--illustration-node) 0 .2rem, transparent .25rem),
-    linear-gradient(154deg, transparent 0 18%, var(--illustration-line-soft) 18.4% 19%, transparent 19.4% 42%, var(--illustration-line) 42.4% 43%, transparent 43.4% 67%, var(--illustration-line-soft) 67.4% 68%, transparent 68.4%),
-    linear-gradient(24deg, transparent 0 31%, var(--illustration-line-soft) 31.4% 32%, transparent 32.4% 61%, var(--illustration-line) 61.4% 62%, transparent 62.4%);
-  opacity: .78;
-}
-
 .brand {
   color: var(--title-ink);
 }
