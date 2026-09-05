@@ -43,8 +43,8 @@ source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
    De invulling blijft gezond zolang zij verdere mogelijkheid niet volledig bezet.
 
 <!-- laag: instrumenteel -->
-10. **Herstel is heropening van vormvermogen.**  
-    Niet altijd terugkeer; soms een andere samenhang.
+10. **Herstel is niet noodzakelijk terugkeer.**  
+    Het kan een andere samenhang zijn waarin opnieuw voelen, begrenzen en antwoorden mogelijk wordt.
 
 <!-- laag: instrumenteel/normatief -->
 11. **Vrijheid is het behoud van voldoende antwoordruimte binnen bepaaldheid.**  
@@ -129,7 +129,7 @@ Misschien kan de kern uiteindelijk in drie zinnen rusten:
 - Hoe kunnen maatschappelijke draagstructuren antwoordend gedrag voeden zonder zachte disciplinering of dominante normaliteit te produceren?
 - Hoe bepalen we welke toets- en correctieplicht passend is naarmate sluitingsmacht groter wordt, zonder van heropening zelf een absolute norm te maken?
 - Hoe kan wederkerigheid primair zijn zonder haar als gegeven, symmetrisch of afdwingbaar voor te stellen?
-- Hoe voorkomen we dat draagkracht en herstelvermogen juist de meest veerkrachtige vorm tot vaste drager van restlast maken?
+- Hoe voorkomen we dat draagkracht en herstelvermogen juist de meest veerkrachtige vorm tot vaste drager van overblijvende belasting maken?
 - Wanneer is wachten beschermende rust, en wanneer wordt nalaten zelf onderdeel van de schadelijke draagroute?
 - Hoe onderscheiden we afwendbaar lijden van tragiek die niet zonder grotere schade kan worden weggenomen?
 - Hoe bepalen we soort- en individueel eigen antwoordruimte bij niet-menselijke dieren zonder menselijke autonomie als verborgen maatstaf te gebruiken?
