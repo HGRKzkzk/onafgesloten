@@ -66,7 +66,7 @@ Daarom moet onderscheid blijven bestaan tussen ten minste:
 - affectieve waardering: toestanden krijgen positieve of negatieve gedragsmatige betekenis;
 - bewuste ervaring: er is iets dat het is om die toestand te hebben.
 
-De grenzen tussen deze niveaus zijn empirisch en filosofisch niet volledig opgelost. OOV mag ze daarom niet met één woord dichtzetten.
+De grenzen tussen deze niveaus zijn empirisch en filosofisch niet volledig opgelost. Dit project mag ze daarom niet met één woord dichtzetten.
 
 ### Interoceptie is geen directe waarheid
 
@@ -92,11 +92,11 @@ Ook de dialogische lijn kent tegenlicht. Niet iedere verhouding kan werkelijk we
 
 Bubers I–Thou-taal kan daardoor te verheven worden wanneer zij rechtstreeks op institutionele of asymmetrische relaties wordt toegepast.
 
-Voor OOV betekent dit dat tweede-persoonserkenning niet hetzelfde mag worden als een verplichte dialoog. Soms is bescherming, vertegenwoordiging, afstand of tijdelijke asymmetrie juist noodzakelijk.
+Voor Onafgesloten Vorm betekent dit dat tweede-persoonserkenning niet hetzelfde mag worden als een verplichte dialoog. Soms is bescherming, vertegenwoordiging, afstand of tijdelijke asymmetrie juist noodzakelijk.
 
 ## Eigen stap
 
-De eigen stap van *Onafgesloten* ligt niet in de wetenschappelijke claim dat alle levende regulatie bewust is, en evenmin in de filosofische claim dat gevoel onfeilbaar toegang geeft tot waarheid.
+De eigen stap van *Onafgesloten Vorm* ligt niet in de wetenschappelijke claim dat alle levende regulatie bewust is, en evenmin in de filosofische claim dat gevoel onfeilbaar toegang geeft tot waarheid.
 
 De tekst probeert drie onderscheiden niveaus samen te houden.
 
