@@ -11,7 +11,7 @@ source:
 divergence:
   status: "substantieel-herwerkt"
   note: "Publieke uitwerking met uitgebreidere ervaringslaag, scherpere grens tussen afhankelijkheid en bezit, en nieuwe begrippenhulp."
-lastSyncCheck: "2026-09-04"
+lastSyncCheck: "2026-09-05"
 ---
 Een mens begint nergens alleen.
 
@@ -91,7 +91,7 @@ Dat blijft belangrijk. Maar wanneer autonomie alleen betekent dat een keuze vrij
 
 Een relationele benadering van autonomie probeert dit niet op te lossen door autonomie af te schaffen. Zij vraagt eerder onder welke sociale en materiële voorwaarden iemand werkelijk in staat raakt een eigen leven mede richting te geven. <span class="begrip" data-term="relationele-autonomie">Relationele autonomie</span> is daarmee geen vriendelijk woord voor afhankelijkheid, maar een correctie op het idee dat afhankelijkheid en zelfbestuur elkaars eenvoudige tegenpolen zijn.
 
-Binnen Onafgesloten betekent autonomie voorlopig: binnen ontvangen bepaaldheid voldoende eigen antwoord kunnen ontwikkelen.
+Binnen dit project betekent autonomie voorlopig: binnen ontvangen bepaaldheid voldoende eigen antwoord kunnen ontwikkelen.
 
 Ontvangen.
 
