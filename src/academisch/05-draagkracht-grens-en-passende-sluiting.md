@@ -6,7 +6,7 @@ Een eerste verwantschap ligt bij denken over <span class="begrip" data-term="aut
 
 Een tweede verwantschap ligt bij ethiek en recht rond proportionaliteit en minst beperkende interventie. Daar wordt ingrijpen sterker gerechtvaardigd naarmate het gevaar ernstiger is, terwijl tegelijk de vraag blijft of hetzelfde beschermingsdoel met minder beperking kan worden bereikt. Het hoofdstuk neemt daaruit geen kant-en-klare juridische norm over, maar herkent een vergelijkbare ordening: informeren vóór overtuigen, overtuigen vóór beperken, beperken vóór overnemen; tijdelijk en herstelbaar vóór permanent en onomkeerbaar.
 
-Een derde aansluiting bestaat met onderzoek naar <span class="begrip" data-term="resilience">resilience</span> en adaptatie. In ecologie, psychologie en systeemonderzoek verwijst resilience grofweg naar het vermogen verstoring op te vangen, zich aan te passen of functie en samenhang te hervinden. Dat raakt aan draagkracht, maar beide begrippen zijn niet identiek. Draagkracht benadrukt hier niet alleen wat een systeem technisch kan verdragen, maar ook hoe lasten worden verdeeld en of herstelruimte behouden blijft.
+Een derde aansluiting bestaat met onderzoek naar <span class="begrip" data-term="resilience">resilience</span> en adaptatie. In ecologie, psychologie en systeemonderzoek verwijst resilience grofweg naar het vermogen verstoring op te vangen, zich aan te passen of functie en samenhang te hervinden. Dat raakt aan draagkracht, maar beide begrippen zijn niet identiek. Draagkracht benadrukt hier niet alleen wat een systeem technisch kan verdragen, maar ook hoe lasten worden verdeeld, waar het vermogen om te dragen vandaan komt en of herstelruimte behouden blijft.
 
 ## Empirische bedding
 
@@ -32,23 +32,35 @@ Een tweede tegenwerping richt zich op het begrip **passende sluiting**. Dat kan 
 
 Een derde risico is het verheerlijken van resilience. In beleid en organisaties kan “veerkracht” een manier worden om structurele belasting te individualiseren: de omgeving blijft hetzelfde, maar mensen moeten leren er beter tegen te kunnen. Dat is precies waar draagkracht als normatief begrip moet weigeren mee te gaan.
 
-> **Draagkracht is geen aanspraak op draagkracht.**
+Maar de omgekeerde formulering is eveneens te eenvoudig. Zeggen dat draagkracht geen aanspraak op draagkracht geeft, beschermt de drager tegen instrumentalisering, maar kan tegelijk doen alsof bestaande capaciteit, bezit en macht moreel neutrale gegevenheden zijn. Iemand die kan dragen, wordt daardoor niet van een ander. Toch volgt daar niet uit dat wat diegene kan dragen uitsluitend vanuit hemzelf begrepen kan worden.
+
+> **Draagkracht maakt de drager niet beschikbaar, maar laat hem ook niet buiten verantwoordelijkheid.**
+
+Dat onderscheid wordt scherp wanneer ernstige en afwendbare nood tegenover grote beschikbare draagkracht staat. Nood geeft geen onbeperkte aanspraak op het lichaam, de aandacht, arbeid of het leven van een ander. Maar zij kan wel een antwoordplicht doen ontstaan: de plicht om zich tot die nood te verhouden en niet zonder rechtvaardiging weg te kijken wanneer handelen werkelijk mogelijk is.
+
+Ook dat beginsel heeft een grens. Wie veel kan dragen, mag niet juist daarom eindeloos worden belast. Anders wordt competentie, zorgzaamheid of veerkracht een straf. Een draagplicht die de toekomstige antwoordruimte van de drager uitput of vernietigt, kan zichzelf tegenspreken.
 
 ## Eigen stap
 
-De eigen stap van *Onafgesloten* ligt in de combinatie van drie onderscheiden vragen.
+De eigen stap van *Onafgesloten* ligt daarom niet alleen in de vraag hoeveel een afzonderlijke vorm kan dragen. Draagkracht is een **relationele, temporele en veldmatige verhouding**.
 
-**Ten eerste: wat kan een vorm dragen zonder minimale samenhang en antwoordbaarheid te verliezen?** Dat is de beschrijvende vraag naar draagkracht.
+**Ten eerste: wat kan een vorm nu dragen zonder minimale samenhang en antwoordbaarheid te verliezen?** Dat is de beschrijvende vraag naar actuele draagkracht. Zij vereist ook aandacht voor herstel en reserve: wat vandaag mogelijk is, hoeft morgen niet opnieuw mogelijk te zijn wanneer de kosten zich opstapelen.
 
-**Ten tweede: welke begrenzing beschermt verdere mogelijkheid, en welke sluit meer dan nodig?** Dat is de vraag naar passende sluiting.
+**Ten tweede: waar komt die draagkracht vandaan?** Capaciteit heeft een voorgeschiedenis. Vaardigheid kan door oefening zijn opgebouwd, veerkracht door steun mogelijk zijn gemaakt, vermogen door arbeid, bezit, instituties en samenwerking zijn ontstaan. Omgekeerd kan de draagkracht van de één mede berusten op lasten die elders in het veld worden gedragen. Rechtmatig verkregen is daarom niet zonder meer hetzelfde als rechtvaardig verkregen.
 
-**Ten derde: wie mag die grens trekken en welke rechtvaardigingslast hoort daarbij?** Dat is al een normatieve en politieke vraag en mag niet stilzwijgend uit de eerste twee worden afgeleid.
+**Ten derde: hoe zijn draagkracht en draaglast verdeeld?** Een momentopname kan verhullen dat de ene actor veel kan dragen doordat een andere actor structureel kosten, risico of uitputting draagt. Extreme concentratie van vermogen of handelingsmacht roept daarom niet alleen de vraag op wat de sterke actor ermee behoort te doen, maar ook hoe die asymmetrie kon ontstaan en zichzelf in stand houdt.
 
-Daarmee ontstaat een belangrijk onderscheid tussen bescherming en overheersing. Een tijdelijke grens kan antwoordruimte bewaren. Dezelfde grens kan onrechtmatig worden wanneer degene die haar oplegt niet corrigeerbaar is, geen lichtere alternatieven onderzoekt of de kosten structureel bij de zwakkere actor neerlegt.
+**Ten vierde: welke begrenzing beschermt verdere mogelijkheid, en welke sluit meer dan nodig?** Dat is de vraag naar passende sluiting.
 
-De kern is daarom niet maximale openheid en ook niet maximale veiligheid. Het gaat om een vorm die genoeg kan sluiten om niet uiteen te vallen, zonder haar bescherming te laten veranderen in een onbeperkt recht op bezit van de toekomst.
+**Ten vijfde: wie mag die grens trekken en welke rechtvaardigingslast hoort daarbij?** Dat is een normatieve en politieke vraag en mag niet stilzwijgend uit de eerste vier worden afgeleid.
 
-Dat verklaart ook waarom antwoordruimte niet gemaximaliseerd hoeft te worden. Werkelijke keuzes, beloften, grenzen en verantwoordelijkheden sluiten mogelijkheden af. Het relevante criterium is of noodzakelijke sluiting **onnodig herstel- en vormvermogen vernietigt**.
+Deze vragen veranderen ook wat verantwoordelijkheid betekent. **Meer draagkracht kan meer verantwoordelijkheid meebrengen, maar nooit louter omdat iemand meer aankan.** De zwaarte van een beroep hangt mede af van de ernst en afwendbaarheid van de nood, de kosten van handelen en niet-handelen, de herkomst en verdeling van draagkracht, bestaande verantwoordelijkheden en wat er na het dragen aan antwoordruimte overblijft.
+
+Daarmee ontstaat een belangrijk onderscheid tussen bescherming en overheersing, maar ook tussen solidariteit en uitbuiting. Uitbuiting kan plaatsvinden wanneer een zorgzame of competente actor telkens opnieuw wordt belast omdat die “het aankan”. Zij kan eveneens plaatsvinden wanneer lasten structureel bij velen terechtkomen terwijl draagkracht, vermogen of beslissingsmacht zich elders ophoopt. In beide gevallen moet niet alleen naar afzonderlijke personen, maar naar het veld worden gekeken.
+
+De kern is daarom niet maximale openheid, maximale veiligheid of maximale opoffering. Het gaat om verhoudingen waarin vormen genoeg kunnen dragen en begrenzen om niet uiteen te vallen, terwijl lasten, mogelijkheden en herstelruimte niet zo worden verdeeld dat de antwoordruimte van sommigen de permanente grondstof voor die van anderen wordt.
+
+Dat verklaart ook waarom antwoordruimte niet gemaximaliseerd hoeft te worden. Werkelijke keuzes, beloften, grenzen en verantwoordelijkheden sluiten mogelijkheden af. Het relevante criterium is of noodzakelijke sluiting **onnodig herstel- en vormvermogen vernietigt**, en of de verdeling van draaglast en draagkracht zelf voldoende open blijft voor kritiek en correctie.
 
 ## Bronnen
 
