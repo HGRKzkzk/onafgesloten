@@ -46,6 +46,48 @@ h3,
   display: none;
 }
 
+.rustpunt {
+  position: relative;
+  width: min(8.5rem, 28vw);
+  height: 2.5rem;
+  margin: 4.2rem 0 3.2rem clamp(.25rem, 5vw, 3.5rem);
+  opacity: .68;
+}
+
+.rustpunt::before,
+.rustpunt::after {
+  content: '';
+  position: absolute;
+}
+
+.rustpunt::before {
+  left: 0;
+  top: 1.2rem;
+  width: 100%;
+  height: 1px;
+  background:
+    linear-gradient(
+      90deg,
+      transparent 0 4%,
+      var(--illustration-line-soft) 4% 28%,
+      transparent 28% 36%,
+      var(--illustration-line) 36% 69%,
+      transparent 69% 78%,
+      var(--illustration-line-soft) 78% 96%,
+      transparent 96%
+    );
+}
+
+.rustpunt::after {
+  left: 47%;
+  top: .92rem;
+  width: .5rem;
+  height: .5rem;
+  border: 1px solid var(--illustration-node);
+  border-radius: 50%;
+  background: var(--paper, #fbf7f1);
+}
+
 .brand {
   color: var(--title-ink);
 }
