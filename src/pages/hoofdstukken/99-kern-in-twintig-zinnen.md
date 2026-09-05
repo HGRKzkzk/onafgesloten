@@ -82,7 +82,7 @@ De politieke en ethische inzet wordt daarmee scherper. Niet iedere vorm hoeft vo
 
 > **Geen actor krijgt vanzelf het recht de antwoordruimte van een ander op te gebruiken.**
 
-Wie veel sluitingsmacht bezit, draagt daarom een zwaardere plicht tot rechtvaardiging, onafhankelijke toetsing en werkelijke correctie. Dat is geen afleiding die noodzakelijk uit de ontologie volgt, maar een gekozen politieke en ethische consequentie ervan: corrigeerbare macht in dienst van wederkerigheid, waarvoor voldoende antwoordruimte en herstelvermogen noodzakelijke voorwaarden zijn.
+Wie veel sluitingsmacht bezit, draagt daarom een zwaardere plicht tot rechtvaardiging, onafhankelijke toetsing en werkelijke correctie. Dat volgt niet noodzakelijk uit de beschrijvende of metafysische uitgangspunten van het project, maar is een gekozen politieke en ethische positie: corrigeerbare macht in dienst van wederkerigheid, waarvoor voldoende antwoordruimte en herstelvermogen noodzakelijke voorwaarden zijn.
 
 Misschien kan de kern uiteindelijk in drie zinnen rusten:
 
@@ -98,7 +98,7 @@ Misschien kan de kern uiteindelijk in drie zinnen rusten:
 
 - Hoe kan draagkracht per domein worden onderzocht zonder haar tot één maat te reduceren?
 - Wanneer is een sluiting werkelijk passend, wanneer wordt heropening zelf destructief, en wie mag dat bepalen?
-- Hoe ver reikt de regionale ontologie buiten levende en betekenisdragende vormen?
+- Hoe ver reikt de regionale kern buiten levende en betekenisdragende vormen?
 - Is voelen een sterke nieuwigheid van levende organisatie, of de gevormde verschijning van een diepere ontvankelijkheid?
 - Kan de kosmos een binnenkant hebben zonder één alomvattend subject te zijn?
 - Welke grens, selectiviteit, geschiedenis en inzet maken van een breder veld een werkelijk plaatselijk perspectief?
