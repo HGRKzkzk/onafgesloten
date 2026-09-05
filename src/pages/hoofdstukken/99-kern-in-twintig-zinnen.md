@@ -98,11 +98,11 @@ Wij zijn geen afgeronde heersers boven de wereld. Wij zijn kleine, afhankelijke 
 
 Over de kosmische achtergrond daarvan blijft de tekst bewust terughoudend. Misschien verschijnt ervaring pas bij bepaalde levende organisatie; misschien wortelt zij dieper in werkelijkheid. Geen van beide mogelijkheden mag worden gebruikt om het concrete verschil tussen perspectieven, de onherroepelijkheid van dood of de verantwoordelijkheid voor plaatselijke schade te relativeren.
 
-De politieke en ethische inzet wordt daarmee scherper. Niet iedere vorm hoeft voortdurend open te staan en niet ieder lijden kan worden voorkomen. Wel moeten mensen en instituties leren onderscheiden waar antwoordruimte wordt vernietigd, waar afwendbaar lijden blijft voortbestaan en waar macht haar eigen sluiting niet meer door gevolgen laat begrenzen.
+De politieke en ethische inzet wordt daarmee scherper. Niet iedere vorm hoeft voortdurend open te staan en niet ieder lijden kan worden voorkomen. Wel moeten mensen en instituties leren onderscheiden waar iemand de reële mogelijkheid verliest om nog te weigeren, corrigeren, vertrekken of herstellen, waar afwendbaar lijden blijft voortbestaan en waar macht haar eigen sluiting niet meer door gevolgen laat begrenzen.
 
 > **Geen actor krijgt vanzelf het recht de antwoordruimte van een ander op te gebruiken.**
 
-Wie veel sluitingsmacht bezit, draagt daarom een zwaardere plicht tot rechtvaardiging, onafhankelijke toetsing en werkelijke correctie. Dat is geen afleiding die noodzakelijk uit de ontologie volgt, maar een gekozen politieke en ethische consequentie ervan: corrigeerbare macht in dienst van wederkerigheid, waarvoor voldoende antwoordruimte en herstelvermogen noodzakelijke voorwaarden zijn.
+Wie veel sluitingsmacht bezit, draagt daarom een zwaardere plicht tot rechtvaardiging, onafhankelijke toetsing en werkelijke correctie. Dat volgt niet noodzakelijk uit de beschrijvende of metafysische uitgangspunten, maar is een gekozen politieke en ethische consequentie: corrigeerbare macht in dienst van wederkerigheid, waarvoor voldoende mogelijkheden tot antwoorden en herstel noodzakelijke voorwaarden zijn.
 
 Misschien kan de kern uiteindelijk in drie zinnen rusten:
 
@@ -118,7 +118,7 @@ Misschien kan de kern uiteindelijk in drie zinnen rusten:
 
 - Hoe kan draagkracht per domein worden onderzocht zonder haar tot één maat te reduceren?
 - Wanneer is een sluiting werkelijk passend, wanneer wordt heropening zelf destructief, en wie mag dat bepalen?
-- Hoe ver reikt de regionale ontologie buiten levende en betekenisdragende vormen?
+- Hoe ver reikt de beschrijvende kern buiten levende en betekenisdragende vormen?
 - Is voelen een sterke nieuwigheid van levende organisatie, of de gevormde verschijning van een diepere ontvankelijkheid?
 - Kan de kosmos een binnenkant hebben zonder één alomvattend subject te zijn?
 - Welke grens, selectiviteit, geschiedenis en inzet maken van een breder veld een werkelijk plaatselijk perspectief?
