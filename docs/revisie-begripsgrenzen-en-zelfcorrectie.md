@@ -8,22 +8,22 @@ Deze revisie is geen uitbreiding. De bewijslast draait om: projecttaal moet aant
 
 ## 1. Claimlagen in de kern
 
-De twintig kernzinnen krijgen alleen in de bron stille metadata voor hun status:
+De twintig kernzinnen hebben alleen in de bron stille metadata voor hun status:
 
 - `beschrijvend/metafysisch`
 - `normatief`
 - `instrumenteel`
 - combinaties waar een zin werkelijk meer dan één laag bevat
 
-De publieke tekst blijft ongewijzigd zichtbaar. Doel is te voorkomen dat normatieve keuzes ongemerkt als beschrijvende of metafysische gevolgtrekkingen gaan functioneren.
+De publieke tekst blijft zonder zichtbare labels. Doel is te voorkomen dat normatieve keuzes ongemerkt als beschrijvende of metafysische gevolgtrekkingen gaan functioneren.
 
 ## 2. Een mislukte toets in hoofdstuk 14
 
-Naast gevallen waarin het kader iets zichtbaar maakt, komt een geval waarin het expliciet moet wijken.
+Naast gevallen waarin het kader iets zichtbaar maakt, bevat hoofdstuk 14 nu een geval waarin het expliciet moet wijken.
 
-Werkcasus: een burger heeft door een aantoonbare administratieve rekenfout €800 te weinig ontvangen. Het toepasselijke recht en de berekening zijn ondubbelzinnig. In zo'n geval maken antwoordruimte, draagroute of institutionele ontvankelijkheid de primaire beslissing niet beter. De fout moet worden erkend en het bedrag moet worden betaald.
+Een burger heeft door een aantoonbare administratieve rekenfout €800 te weinig ontvangen. Het toepasselijke recht en de berekening zijn ondubbelzinnig. In zo'n geval maken antwoordruimte, draagroute of institutionele ontvankelijkheid de primaire beslissing niet beter. De fout moet worden erkend en het bedrag moet worden betaald.
 
-Voorlopige toepassingsgrens:
+Toepassingsgrens:
 
 > Waar een domeinspecifiek criterium het probleem voldoende bepaalt, moet projecttaal wijken tenzij zij aantoonbaar iets relevants zichtbaar maakt dat anders buiten beeld blijft.
 
@@ -31,39 +31,46 @@ Voorlopige toepassingsgrens:
 
 ## 3. Begrippensnoei
 
-### Antwoordruimte — behouden en versmallen
+### Antwoordruimte — behouden en versmald
 
-Beperk tot de reële mogelijkheid om binnen een verhouding nog relevant verschil te kunnen maken door bijvoorbeeld te antwoorden, weigeren, corrigeren, vertrekken of herstellen. Niet gebruiken als verzamelnaam voor autonomie, welzijn, vrijheid of alle voorwaarden voor een goed leven.
+Beperkt tot de reële mogelijkheid om binnen een verhouding nog relevant verschil te kunnen maken door bijvoorbeeld te antwoorden, weigeren, corrigeren, vertrekken of herstellen. Niet als verzamelnaam voor autonomie, welzijn, vrijheid of alle voorwaarden voor een goed leven.
 
-### Draagroute — behouden en begrenzen
+### Draagroute — behouden en begrensd
 
 Alleen gebruiken wanneer lasten werkelijk relationeel of institutioneel worden verdeeld, doorgeschoven of geconcentreerd. De onderscheidende vraag is: langs welke weg is deze last hier terechtgekomen?
 
-### Restlast — degraderen
+### Restlast — gedegradeerd
 
-Geen zelfstandig dragend projectbegrip meer. Alleen nog als gewone, beperkte aanduiding voor last of verlies dat na een gerechtvaardigde beslissing werkelijk resteert. Waar concretere taal mogelijk is, krijgt die voorrang.
+Geen zelfstandig dragend projectbegrip meer. Alleen nog als gewone, beperkte aanduiding waar het woord zelf nuttig is; waar concretere taal mogelijk is, krijgt die voorrang. Hoofdstuk 6 en 14 zijn daarop aangepast.
 
-### Vormvermogen — onder verdenking
+### Vormvermogen — verlaten
 
-Vergelijk expliciet met agency/handelingsvermogen, plasticiteit, adaptief vermogen, veerkracht en herstelvermogen. Alleen behouden wanneer precies kan worden aangewezen welk verschijnsel `vormvermogen` onderscheidend vangt. De uitkomst mag verwijdering zijn.
+De vergelijking met bestaande begrippen levert onvoldoende eigen werk op:
+
+- `handelingsvermogen` / `agency` is preciezer wanneer handelen centraal staat;
+- `plasticiteit` benoemt veranderbaarheid zonder herstel te veronderstellen;
+- `adaptief vermogen` benoemt aanpassing aan veranderde omstandigheden;
+- `veerkracht` en `herstelvermogen` hebben reeds ontwikkelde betekenissen rond belasting en herstel.
+
+`Vormvermogen` probeerde breder de mogelijkheid te benoemen dat een vorm na verstoring opnieuw samenhang vindt zonder naar de oude toestand terug te keren. Juist die breedte maakte het begrip te weinig onderscheidend: het trok verschillende vermogens samen onder één projectwoord.
+
+De inhoudelijke gedachte blijft zonder het begrip behouden: herstel hoeft geen terugkeer te zijn; het kan een andere samenhang zijn waarin opnieuw voelen, begrenzen en antwoorden mogelijk wordt. Kernzin 10 en hoofdstuk 6 zijn daarom herschreven en de academische verdieping registreert expliciet waarom het begrip wijkt.
 
 ## 4. Hoofdstuk 16 als spoor van zelfcorrectie
 
-Hoofdstuk 16 wordt pas na bovenstaande wijzigingen bijgewerkt. Het moet niet alleen stellen dat begrippen kunnen verdwijnen, maar registreren wat deze revisie daadwerkelijk heeft gekost: wat is versmald, gedegradeerd, behouden of verlaten, en waarom.
+Hoofdstuk 16 registreert nu wat deze revisie daadwerkelijk heeft gekost: `antwoordruimte` is versmald, `draagroute` begrensd, `restlast` gedegradeerd en `vormvermogen` verlaten.
 
-Geen nieuw metabegrip invoeren voor deze methode. Geen `snoeiplicht`, `zwijgcriterium`, `domeinvoorrang` of vergelijkbare nieuwe projecttaal.
+Er is geen nieuw metabegrip ingevoerd voor deze methode. Geen `snoeiplicht`, `zwijgcriterium`, `domeinvoorrang` of vergelijkbare nieuwe projecttaal.
 
-## Acceptatiecriteria
+## Acceptatiecriteria — stand na tweede iteratie
 
-De revisie is inhoudelijk pas klaar wanneer:
-
-- de twintig kernzinnen intern naar claimlaag controleerbaar zijn;
-- hoofdstuk 14 ten minste één geval bevat waarin projecttaal expliciet moet wijken;
-- ten minste één bestaand projectbegrip aantoonbaar status verliest;
-- `vormvermogen` een echte vergelijking met bestaande begrippen heeft doorstaan of is verwijderd;
-- hoofdstuk 16 de feitelijke zelfcorrectie registreert zonder nieuw meta-apparaat;
-- nergens wordt gesuggereerd dat Onafgesloten Vorm zelf altijd mag bepalen wanneer een domeinspecifiek criterium `voldoende` is.
+- [x] de twintig kernzinnen zijn intern naar claimlaag controleerbaar;
+- [x] hoofdstuk 14 bevat een geval waarin projecttaal expliciet moet wijken;
+- [x] bestaande projectbegrippen hebben aantoonbaar status verloren;
+- [x] `vormvermogen` is met bestaande begrippen vergeleken en als zelfstandig projectbegrip verwijderd;
+- [x] hoofdstuk 16 registreert de feitelijke zelfcorrectie zonder nieuw meta-apparaat;
+- [x] nergens wordt Onafgesloten Vorm tot algemene scheidsrechter gemaakt over wanneer een domeinspecifiek criterium `voldoende` is.
 
 ## Bewuste grens
 
-Technische identifiers en historische bronverwijzingen vallen buiten deze revisie. De inzet is verlies, begrenzing en precisie, niet een nieuw hoofdstuk of een groter systeem.
+Technische identifiers en historische bronverwijzingen vallen buiten deze revisie. Daardoor kan `vormvermogen` nog in de historische bronversie voorkomen. De publieke en academische huidige tekst behandelt het niet langer als zelfstandig projectbegrip. De inzet is verlies, begrenzing en precisie, niet het herschrijven van de ontstaansgeschiedenis.
