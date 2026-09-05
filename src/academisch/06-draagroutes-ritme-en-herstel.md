@@ -32,17 +32,29 @@ Een tweede bezwaar betreft ritme. Vertragen, wachten en beschermen kunnen belang
 
 Daarom kan *passend ritme* niet betekenen dat de machtigste actor het tempo van de ander definieert. De mogelijkheid tot vertraging moet zelf corrigeerbaar blijven, en waar ernstige afwendbare schade voortduurt kan wachten medeverantwoordelijkheid worden.
 
-Een derde bezwaar treft het herstelbegrip. Wanneer herstel wordt gedefinieerd als “heropening van vormvermogen”, bestaat het risico dat bijna elke uitkomst als herstel kan worden beschreven. Dan wordt het begrip moeilijk weerlegbaar.
+Een derde bezwaar treft het herstelbegrip. Wanneer herstel met een nieuw overkoepelend vermogen wordt gedefinieerd, bestaat het risico dat bijna elke uitkomst als herstel kan worden beschreven. Dan wordt het begrip moeilijk weerlegbaar.
 
-Daarom moet herstel ook domeinspecifiek getoetst kunnen worden. Bij een mens kan dat onder meer gaan om ervaren veiligheid, autonomie, relaties en functioneren; bij een ecosysteem om concrete ecologische indicatoren; bij een instituut om foutcorrectie, toegankelijkheid en werkelijk veranderde werkwijzen. Het filosofische begrip vervangt zulke maatstaven niet.
+Daarom moet herstel domeinspecifiek getoetst kunnen worden. Bij een mens kan dat onder meer gaan om ervaren veiligheid, autonomie, relaties en functioneren; bij een ecosysteem om concrete ecologische indicatoren; bij een instituut om foutcorrectie, toegankelijkheid en werkelijk veranderde werkwijzen. Het filosofische begrip vervangt zulke maatstaven niet.
+
+## Waarom `vormvermogen` hier verdwijnt
+
+Een eerdere versie noemde herstel “heropening van vormvermogen”. Bij vergelijking blijkt dat woord onvoldoende eigen werk te doen.
+
+*Handelingsvermogen* of *agency* is preciezer wanneer de mogelijkheid tot intentioneel of betekenisvol handelen centraal staat. *Plasticiteit* benoemt veranderbaarheid zonder daarmee herstel of wenselijkheid te veronderstellen. *Adaptief vermogen* richt zich op aanpassing aan veranderde omstandigheden. *Veerkracht* en *herstelvermogen* hebben elk eigen, reeds ontwikkelde betekenissen rond het omgaan met belasting en herstel.
+
+`Vormvermogen` probeerde iets breders te vangen: de mogelijkheid dat een vorm na verstoring opnieuw samenhang vindt zonder naar haar eerdere toestand terug te keren. Maar precies die breedte blijkt het probleem. Het woord onderscheidt niet scherp genoeg welk vermogen wordt bedoeld en kan daardoor handelingsvermogen, veranderbaarheid, aanpassing, veerkracht en herstel onder één projectterm laten samenvallen.
+
+Wat inhoudelijk behouden moet blijven, kan zonder dat woord preciezer worden gezegd: herstel hoeft geen terugkeer naar de oude toestand te zijn; het kan een andere samenhang zijn waarin opnieuw voelen, begrenzen en antwoorden mogelijk wordt. Waar een discipline vervolgens specifieker kan aangeven welk vermogen of welke indicator relevant is, krijgt die taal voorrang.
+
+Hier levert begrippensnoei dus werkelijk verlies op: `vormvermogen` wordt niet versmald maar als zelfstandig projectbegrip verlaten.
 
 ## Eigen stap
 
 De eigen stap ligt in het samenbrengen van drie vragen die vaak afzonderlijk worden behandeld:
 
-1. **Waar loopt de last?** Niet alleen waar verschijnt schade, maar welke actor, relatie of institutie absorbeert onzekerheid, tijdsdruk en restlast?
+1. **Waar loopt de last?** Niet alleen waar verschijnt schade, maar welke actor, relatie of institutie absorbeert onzekerheid, tijdsdruk en overblijvende belasting?
 2. **Op welk ritme moet worden geantwoord?** Niet alleen wat is inhoudelijk juist, maar hoeveel tijd, herhaling, rust en volgorde kan de betrokken vorm dragen?
-3. **Wat telt als herstel?** Niet noodzakelijk terugkeer naar de oude toestand, maar hernieuwd vermogen om te voelen, begrenzen, verbinden, corrigeren of transformeren.
+3. **Wat telt als herstel?** Niet noodzakelijk terugkeer naar de oude toestand, maar hernieuwde mogelijkheid om te voelen, begrenzen, verbinden, corrigeren of transformeren.
 
 Daarmee verschuift de aandacht van geïsoleerde veerkracht naar de organisatie van belasting.
 
