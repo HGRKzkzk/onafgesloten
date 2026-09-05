@@ -20,6 +20,7 @@ export const uitkijkjeVisuals: Record<string, UitkijkjeVisual> = {
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:Music_rests.svg',
     sourceLabel: 'Wikimedia Commons — afbeelding en rechteninformatie'
   },
+
   'Een paar akkoorden zijn soms genoeg': {
     src: 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Miles%20Davis%20by%20Palumbo.jpg',
     alt: 'Jazzmusicus Miles Davis in een zwart-witportret van Tom Palumbo.',
@@ -27,6 +28,7 @@ export const uitkijkjeVisuals: Record<string, UitkijkjeVisual> = {
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:Miles_Davis_by_Palumbo.jpg',
     sourceLabel: 'Wikimedia Commons — foto, maker en licentie'
   },
+
   'Nijntje hoeft niet groot te worden': {
     src: 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Sculptuur%20%27Nijntje%27%20door%20Marc%20Bruna%2C%20Nijntjepleintje%2C%20Utrecht.jpg',
     alt: 'Het beeld van Nijntje op het Nijntjepleintje in Utrecht.',
@@ -34,6 +36,7 @@ export const uitkijkjeVisuals: Record<string, UitkijkjeVisual> = {
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:Sculptuur_%27Nijntje%27_door_Marc_Bruna%2C_Nijntjepleintje%2C_Utrecht.jpg',
     sourceLabel: 'Wikimedia Commons — foto en licentie'
   },
+
   'Stoelen, lichamen, bijna-botsingen': {
     src: 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Pina%20Bausch.jpg',
     alt: 'Pina Bausch samen met dansers van Tanztheater Wuppertal.',
@@ -41,6 +44,7 @@ export const uitkijkjeVisuals: Record<string, UitkijkjeVisual> = {
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:Pina_Bausch.jpg',
     sourceLabel: 'Wikimedia Commons — foto, maker en licentie'
   },
+
   'Een toren van taal': {
     src: 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Brueghel-tower-of-babel.jpg',
     alt: 'Pieter Bruegel de Oude, De Toren van Babel, met een kolossale toren in aanbouw.',
@@ -48,6 +52,7 @@ export const uitkijkjeVisuals: Record<string, UitkijkjeVisual> = {
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:Brueghel-tower-of-babel.jpg',
     sourceLabel: 'Wikimedia Commons — afbeelding en rechteninformatie'
   },
+
   'Gilgamesj vindt geen achterdeur': {
     src: 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Tablet%20V%20of%20the%20Epic%20of%20Gilgamesh.jpg',
     alt: 'Een kleitablet met spijkerschrift uit het Gilgamesj-epos.',
@@ -55,6 +60,7 @@ export const uitkijkjeVisuals: Record<string, UitkijkjeVisual> = {
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:Tablet_V_of_the_Epic_of_Gilgamesh.jpg',
     sourceLabel: 'Wikimedia Commons — object, foto en licentie'
   },
+
   'Bureaucratie heeft een lange komische geschiedenis': {
     src: 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Que%20diable%20Macaire%2C%20te%20voil%C3%A0%20%C3%A0%20la%20t%C3%AAte%20d%27un%20bureau%20de%20charit%C3%A9%2C%20BAL95-02%20%2832%29.jpg',
     alt: 'Een satirische prent van Honoré Daumier met Robert Macaire bij een liefdadigheidsbureau.',
@@ -62,6 +68,7 @@ export const uitkijkjeVisuals: Record<string, UitkijkjeVisual> = {
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:Que_diable_Macaire,_te_voil%C3%A0_%C3%A0_la_t%C3%AAte_d%27un_bureau_de_charit%C3%A9,_BAL95-02_(32).jpg',
     sourceLabel: 'Wikimedia Commons — prent en rechteninformatie'
   },
+
   'Een lege hoek wordt een speelplaats': {
     src: 'https://commons.wikimedia.org/wiki/Special:Redirect/file/PlaygroundAldovanEyck1962.jpg',
     alt: 'Een koepelvormig speeltoestel naar ontwerp van Aldo van Eyck.',
@@ -69,6 +76,7 @@ export const uitkijkjeVisuals: Record<string, UitkijkjeVisual> = {
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:PlaygroundAldovanEyck1962.jpg',
     sourceLabel: 'Wikimedia Commons — foto, ontwerp en licentie'
   },
+
   'De koe kijkt niet terug als beleidsmodel': {
     src: 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Paulus%20Potter%20-%20Young%20Bull.JPG',
     alt: 'Paulus Potter, De stier, met een monumentaal rund in een Nederlands landschap.',
@@ -76,6 +84,7 @@ export const uitkijkjeVisuals: Record<string, UitkijkjeVisual> = {
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:Paulus_Potter_-_Young_Bull.JPG',
     sourceLabel: 'Wikimedia Commons — afbeelding en rechteninformatie'
   },
+
   'Bartleby zegt liever niet': {
     src: 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Bartleby%20ou%20la%20formule%3B%20Bartleby%2C%20the%20Scrivener%20-%20A%20Story%20of%20Wall%20Street.png',
     alt: 'Een boekomslag voor Bartleby, the Scrivener van Herman Melville.',
@@ -83,6 +92,7 @@ export const uitkijkjeVisuals: Record<string, UitkijkjeVisual> = {
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bartleby_ou_la_formule%3B_Bartleby,_the_Scrivener_-_A_Story_of_Wall_Street.png',
     sourceLabel: 'Wikimedia Commons — omslag en licentie'
   },
+
   'Geen canon is cultureel neutraal': {
     src: 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Raphael%20School%20of%20Athens.jpg',
     alt: 'Rafaëls School van Athene met een grote groep klassieke filosofen in monumentale architectuur.',
@@ -90,6 +100,7 @@ export const uitkijkjeVisuals: Record<string, UitkijkjeVisual> = {
     sourceUrl: 'https://commons.wikimedia.org/wiki/File:Raphael_School_of_Athens.jpg',
     sourceLabel: 'Wikimedia Commons — afbeelding en rechteninformatie'
   },
+
   'Een schilderij dat naar zijn eigen kijken kijkt': {
     src: 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Las%20Meninas%20%281656%29%2C%20by%20Velazquez.jpg',
     alt: 'Diego Velázquez, Las Meninas, met de schilder, hoffiguren, een spiegel en verschillende kijkrichtingen.',
