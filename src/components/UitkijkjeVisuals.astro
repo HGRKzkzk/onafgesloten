@@ -28,8 +28,10 @@ import { uitkijkjeVisuals } from '../data/uitkijkjeVisuals';
     const visual = visuals[title];
 
     if (!visual) {
+      card.dataset.missingVisual = 'true';
       console.warn(
-        `[Onafgesloten] Uitkijkje zonder concreet beeld: ${title}`
+        `[Onafgesloten] Redactioneel uitkijkje zonder concreet beeld: ${title}. ` +
+        'Kies een toonbaar beeld of vervang het uitkijkje zelf.'
       );
       return;
     }
