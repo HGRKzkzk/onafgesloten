@@ -34,11 +34,13 @@ Een derde risico is het verheerlijken van resilience. In beleid en organisaties 
 
 Maar de omgekeerde formulering is eveneens te eenvoudig. Zeggen dat draagkracht geen aanspraak op draagkracht geeft, beschermt de drager tegen instrumentalisering, maar kan tegelijk doen alsof bestaande capaciteit, bezit en macht moreel neutrale gegevenheden zijn. Iemand die kan dragen, wordt daardoor niet van een ander. Toch volgt daar niet uit dat wat diegene kan dragen uitsluitend vanuit hemzelf begrepen kan worden.
 
-> **Draagkracht maakt de drager niet beschikbaar, maar laat hem ook niet buiten verantwoordelijkheid.**
+> **Draagkracht maakt de drager niet beschikbaar. Maar ontvankelijkheid die kan dragen en toch nooit bewogen raakt om te dragen, mist iets van wat ontvankelijkheid betekent.**
 
-Dat onderscheid wordt scherp wanneer ernstige en afwendbare nood tegenover grote beschikbare draagkracht staat. Nood geeft geen onbeperkte aanspraak op het lichaam, de aandacht, arbeid of het leven van een ander. Maar zij kan wel een antwoordplicht doen ontstaan: de plicht om zich tot die nood te verhouden en niet zonder rechtvaardiging weg te kijken wanneer handelen werkelijk mogelijk is.
+Daarmee moet een onderscheid worden bewaakt tussen **draagkracht**, **draagbereidheid** en **draagplicht**. Draagkracht zegt wat iemand kan dragen. Draagbereidheid zegt of en hoe iemand zich door de nood van een ander laat bewegen. Draagplicht zegt wat van buitenaf daadwerkelijk van iemand mag worden verlangd of afgedwongen. Die derde volgt niet rechtstreeks uit de eerste.
 
-Ook dat beginsel heeft een grens. Wie veel kan dragen, mag niet juist daarom eindeloos worden belast. Anders wordt competentie, zorgzaamheid of veerkracht een straf. Een draagplicht die de toekomstige antwoordruimte van de drager uitput of vernietigt, kan zichzelf tegenspreken.
+Nood geeft geen onbeperkte aanspraak op het lichaam, de aandacht, arbeid of het leven van een ander. Maar een ontvankelijke houding kan evenmin doen alsof eigen vermogen om te helpen moreel betekenisloos is. Er is dus geen automatische externe aanspraak op de drager, maar wel een interne aanspreekbaarheid: waar ernstige en afwendbare nood werkelijk binnen bereik komt, behoort ten minste de mogelijkheid tot een beweging naar dragen open te blijven.
+
+Ook dat heeft een grens. Wie veel kan dragen, mag niet juist daarom eindeloos worden belast. Anders wordt competentie, zorgzaamheid of veerkracht een straf. Een draagplicht die de toekomstige antwoordruimte van de drager uitput of vernietigt, kan zichzelf tegenspreken.
 
 ## Eigen stap
 
@@ -54,7 +56,7 @@ De eigen stap van *Onafgesloten* ligt daarom niet alleen in de vraag hoeveel een
 
 **Ten vijfde: wie mag die grens trekken en welke rechtvaardigingslast hoort daarbij?** Dat is een normatieve en politieke vraag en mag niet stilzwijgend uit de eerste vier worden afgeleid.
 
-Deze vragen veranderen ook wat verantwoordelijkheid betekent. **Meer draagkracht kan meer verantwoordelijkheid meebrengen, maar nooit louter omdat iemand meer aankan.** De zwaarte van een beroep hangt mede af van de ernst en afwendbaarheid van de nood, de kosten van handelen en niet-handelen, de herkomst en verdeling van draagkracht, bestaande verantwoordelijkheden en wat er na het dragen aan antwoordruimte overblijft.
+Deze vragen veranderen ook wat verantwoordelijkheid betekent. **Meer draagkracht kan meer verantwoordelijkheid meebrengen, maar nooit louter omdat iemand meer aankan.** Tussen kunnen dragen en moeten dragen ligt de verhouding zelf: de ernst en afwendbaarheid van de nood, de kosten van handelen en niet-handelen, de herkomst en verdeling van draagkracht, bestaande verantwoordelijkheden, alternatieve draagroutes en wat er na het dragen aan antwoordruimte overblijft.
 
 Daarmee ontstaat een belangrijk onderscheid tussen bescherming en overheersing, maar ook tussen solidariteit en uitbuiting. Uitbuiting kan plaatsvinden wanneer een zorgzame of competente actor telkens opnieuw wordt belast omdat die “het aankan”. Zij kan eveneens plaatsvinden wanneer lasten structureel bij velen terechtkomen terwijl draagkracht, vermogen of beslissingsmacht zich elders ophoopt. In beide gevallen moet niet alleen naar afzonderlijke personen, maar naar het veld worden gekeken.
 
