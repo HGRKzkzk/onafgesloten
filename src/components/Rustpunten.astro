@@ -1,0 +1,35 @@
+---
+const rustpuntVoorKoppen = new Set([
+  'Niet alles hoeft nu',
+  'Herstel verandert de drager',
+  'Verantwoordelijkheid zonder totale oorsprong',
+  'De dood sluit werkelijk',
+  'Corrigeren vóórdat iemand breekt',
+  'Wat moet kunnen verdwijnen'
+]);
+---
+
+<script
+  type="application/json"
+  id="rustpunten-data"
+  set:html={JSON.stringify([...rustpuntVoorKoppen])}
+></script>
+
+<script is:inline>
+(() => {
+  const dataNode = document.getElementById('rustpunten-data');
+  if (!dataNode) return;
+
+  const targets = new Set(JSON.parse(dataNode.textContent || '[]'));
+
+  document.querySelectorAll('.chapter-prose > h2').forEach((heading) => {
+    const title = heading.textContent?.trim();
+    if (!title || !targets.has(title)) return;
+
+    const rustpunt = document.createElement('div');
+    rustpunt.className = 'rustpunt';
+    rustpunt.setAttribute('aria-hidden', 'true');
+    heading.before(rustpunt);
+  });
+})();
+</script>
