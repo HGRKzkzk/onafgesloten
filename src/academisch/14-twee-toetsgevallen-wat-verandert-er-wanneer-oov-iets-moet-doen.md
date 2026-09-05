@@ -2,7 +2,7 @@
 
 De twee toetsgevallen staan niet in een theoretisch vacuüm. In de diercasus sluit de analyse aan bij hedendaagse dierenwelzijnswetenschap, benaderingen waarin positieve en negatieve ervaring centraal staan, en ethische discussies over belangen, agency en menselijke verantwoordelijkheid tegenover niet-menselijke dieren. In de institutiecassus bestaan duidelijke parallellen met proportionaliteitsdenken, procedurele rechtvaardigheid, administrative burden, street-level bureaucracy en literatuur over accountability en herstel.
 
-Dat betekent dat OOV hier geen claim op inhoudelijke oorspronkelijkheid kan ontlenen aan afzonderlijke conclusies als “productiviteit is niet hetzelfde als welzijn”, “een zware maatregel vraagt zwaardere rechtvaardiging” of “een bezwaarroute moet effectief zijn”. Zulke inzichten bestaan ruim buiten dit project.
+Dat betekent dat Onafgesloten Vorm hier geen claim op inhoudelijke oorspronkelijkheid kan ontlenen aan afzonderlijke conclusies als “productiviteit is niet hetzelfde als welzijn”, “een zware maatregel vraagt zwaardere rechtvaardiging” of “een bezwaarroute moet effectief zijn”. Zulke inzichten bestaan ruim buiten dit project.
 
 De eigen inzet ligt eerder in de gezamenlijke ordening van vijf vragen: wat doet voor een betrokken vorm werkelijk verschil, waar landt de restlast, wie bezit sluitingsmacht, welke terugkoppeling kan de ordening veranderen, en welke toekomstige antwoordmogelijkheden blijven over?
 
@@ -12,25 +12,25 @@ De eigen inzet ligt eerder in de gezamenlijke ordening van vijf vragen: wat doet
 
 Dierenwelzijn kan niet betrouwbaar worden afgeleid uit één indicator zoals productie, afwezigheid van ziekte of overleving. Hedendaagse welzijnsbenaderingen combineren doorgaans lichamelijke toestand, gedrag, affectieve toestand en mogelijkheden om gemotiveerd gedrag uit te oefenen. De precieze beoordeling is soort- en contextspecifiek.
 
-Daaruit volgt niet rechtstreeks de OOV-notie van antwoordruimte. Wel ondersteunt deze literatuur de bescheidener empirische premisse dat een productief en medisch verzorgd dier nog relevante gedragsmatige of affectieve beperkingen kan ondervinden.
+Daaruit volgt niet rechtstreeks de projectnotie van antwoordruimte. Wel ondersteunt deze literatuur de bescheidener empirische premisse dat een productief en medisch verzorgd dier nog relevante gedragsmatige of affectieve beperkingen kan ondervinden.
 
 ### Uitvoering en administratieve lasten
 
 Onderzoek naar publieke uitvoering laat zien dat toegang tot rechten en voorzieningen mede wordt bepaald door informatiekosten, nalevingskosten en psychologische lasten. Procedures kunnen formeel beschikbaar zijn en toch feitelijk moeilijk toegankelijk worden voor mensen met weinig tijd, geld, kennis of mentale ruimte.
 
-Lipsky's klassieke analyse van street-level bureaucracy maakt bovendien zichtbaar dat beleid niet alleen in wet- en regelgeving bestaat, maar mede in dagelijkse keuzes, routines, caseloads en discretionaire praktijken van uitvoerders. Dat sluit aan bij het OOV-begrip draagroute, maar bewijst dat begrip niet.
+Lipsky's klassieke analyse van street-level bureaucracy maakt bovendien zichtbaar dat beleid niet alleen in wet- en regelgeving bestaat, maar mede in dagelijkse keuzes, routines, caseloads en discretionaire praktijken van uitvoerders. Dat sluit aan bij het projectbegrip draagroute, maar bewijst dat begrip niet.
 
 ### Procedurele rechtvaardigheid
 
 Literatuur over procedural justice wijst erop dat ervaren rechtvaardigheid niet uitsluitend door de materiële uitkomst wordt bepaald. Gehoord worden, begrijpelijke uitleg, respectvolle behandeling, neutraliteit en betrouwbaarheid van besluitvorming kunnen zelfstandig relevant zijn.
 
-OOV maakt hier een extra onderscheid: spreekruimte is nog geen antwoordruimte. Een procedure kan mensen correct horen en toch structureel zo zijn ingericht dat relevante terugkoppeling nauwelijks het systeemontwerp kan veranderen. Dat onderscheid moet empirisch worden onderzocht en niet alleen retorisch worden gesteld.
+Onafgesloten Vorm maakt hier een extra onderscheid: spreekruimte is nog geen antwoordruimte. Een procedure kan mensen correct horen en toch structureel zo zijn ingericht dat relevante terugkoppeling nauwelijks het systeemontwerp kan veranderen. Dat onderscheid moet empirisch worden onderzocht en niet alleen retorisch worden gesteld.
 
 ## Tegenlicht
 
 ### 1. De casussen kunnen te gemakkelijk zijn
 
-Beide voorbeelden zijn zo gekozen dat de asymmetrie van macht duidelijk zichtbaar is. Daardoor bestaat het risico dat OOV vooral laat zien wat al moreel plausibel was. Een sterkere test vereist ook grensgevallen waarin minder sluiting slechter uitpakt, waarin de zwakkere actor onbetrouwbare informatie geeft, of waarin snelle harde begrenzing noodzakelijk is.
+Beide voorbeelden zijn zo gekozen dat de asymmetrie van macht duidelijk zichtbaar is. Daardoor bestaat het risico dat het kader vooral laat zien wat al moreel plausibel was. Een sterkere test vereist ook grensgevallen waarin minder sluiting slechter uitpakt, waarin de zwakkere actor onbetrouwbare informatie geeft, of waarin snelle harde begrenzing noodzakelijk is.
 
 De publieke tekst probeert dit te ondervangen door expliciete tegencondities toe te voegen. Maar twee casussen zijn geen validatie van het hele kader.
 
@@ -52,7 +52,7 @@ Zonder dit onderscheid kan machtsanalyse omslaan in een nieuwe automatische schu
 
 ### 4. Empirische onzekerheid kan niet door normatieve taal worden opgelost
 
-Bij zowel dierenwelzijn als uitvoering kunnen gegevens onvolledig, conflicterend of moeilijk interpreteerbaar zijn. OOV mag onzekerheid niet automatisch behandelen als reden om de minst sluitende optie te kiezen. Soms kan voorzorg dat rechtvaardigen; soms kunnen andere risico's zwaarder wegen.
+Bij zowel dierenwelzijn als uitvoering kunnen gegevens onvolledig, conflicterend of moeilijk interpreteerbaar zijn. Dit kader mag onzekerheid niet automatisch behandelen als reden om de minst sluitende optie te kiezen. Soms kan voorzorg dat rechtvaardigen; soms kunnen andere risico's zwaarder wegen.
 
 De theorie moet daarom ook onder onzekerheid expliciet maken welke normatieve keuze wordt gemaakt en welk verlies daarbij wordt geaccepteerd.
 
@@ -69,11 +69,11 @@ Een beslissing wordt niet alleen beoordeeld op intentie, regelconformiteit of ui
 
 Daarmee kan dezelfde formele uitkomst verschillend worden beoordeeld. Twee systemen kunnen bijvoorbeeld evenveel fouten uiteindelijk corrigeren, terwijl het ene tussentijds bestaansrisico institutioneel opvangt en het andere dat risico volledig bij de burger neerlegt. Twee veehouderijsystemen kunnen vergelijkbare medische uitkomsten hebben terwijl zij aantoonbaar verschillen in gedragsmatige mogelijkheden en chronische belasting.
 
-De stap blijft echter conditioneel. Als bestaande juridische, ethologische of bestuurskundige begrippen een situatie al volledig en zonder relevant verlies beschrijven, moet OOV niet doen alsof haar eigen terminologie noodzakelijk is.
+De stap blijft echter conditioneel. Als bestaande juridische, ethologische of bestuurskundige begrippen een situatie al volledig en zonder relevant verlies beschrijven, moet Onafgesloten Vorm niet doen alsof de eigen terminologie noodzakelijk is.
 
 De sterkste praktische claim is daarom bescheiden:
 
-> OOV is alleen nuttig wanneer het de locatie van last, de asymmetrie van sluitingsmacht of de afwezigheid van werkelijke correctie eerder en scherper zichtbaar maakt dan een analyse die alleen naar regel, intentie of einduitkomst kijkt.
+> Onafgesloten Vorm is alleen nuttig wanneer het de locatie van last, de asymmetrie van sluitingsmacht of de afwezigheid van werkelijke correctie eerder en scherper zichtbaar maakt dan een analyse die alleen naar regel, intentie of einduitkomst kijkt.
 
 Dat is ook de falsificatienorm voor verdere toetsgevallen.
 
