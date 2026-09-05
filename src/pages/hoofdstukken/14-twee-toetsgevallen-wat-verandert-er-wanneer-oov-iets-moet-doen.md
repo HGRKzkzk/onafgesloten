@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/ChapterLayout.astro
 order: 14
-title: "Twee toetsgevallen — wat verandert er wanneer dit denken iets moet doen?"
-description: "Twee concrete stresstests waarin het begrippenkader moet laten zien of het meer doet dan bestaande morele intuïties in eigen taal herhalen."
+title: "Drie toetsgevallen — wat verandert er wanneer dit denken iets moet doen?"
+description: "Drie concrete stresstests: twee waarin het begrippenkader iets kan toevoegen en één waarin het expliciet moet wijken voor een voldoende domeinspecifiek criterium."
 slug: "twee-toetsgevallen-wat-verandert-er-wanneer-oov-iets-moet-doen"
 status: "publieke-werkversie"
 
@@ -18,9 +18,9 @@ lastSyncCheck: "2026-09-05"
 ---
 Een filosofisch begrippenkader verdient zijn plaats niet doordat het steeds nieuwe verschijnselen in zijn eigen taal kan opnemen. Het moet verschil maken wanneer een concrete situatie onoverzichtelijk, moreel beladen of institutioneel vastgelopen is.
 
-Daarom volgen hier twee gevallen. Niet om de doctrine uit het vorige hoofdstuk opnieuw uit te leggen, maar om te zien wat er gebeurt wanneer zij werkelijk iets moet onderscheiden.
+Daarom volgen hier drie gevallen. Niet om de doctrine uit het vorige hoofdstuk opnieuw uit te leggen, maar om te zien wat er gebeurt wanneer zij werkelijk iets moet onderscheiden. De derde toets is anders dan de eerste twee: daar moet blijken of het kader ook kan herkennen wanneer het beter niet spreekt.
 
-Het eerste gaat over een niet-menselijk dier in een productiesysteem. Het tweede over een burger tegenover een uitvoeringsinstitutie. In beide gevallen ontbreken eenvoudige schurken. Juist dan moet zichtbaar worden of begrippen als antwoordruimte, draagroute en sluitingsmacht méér doen dan een bekende intuïtie opnieuw benoemen.
+Het eerste geval gaat over een niet-menselijk dier in een productiesysteem. Het tweede over een burger tegenover een uitvoeringsinstitutie. In beide gevallen ontbreken eenvoudige schurken. Juist dan moet zichtbaar worden of begrippen als antwoordruimte, draagroute en sluitingsmacht méér doen dan een bekende intuïtie opnieuw benoemen. Het derde geval is eenvoudiger en daarom strenger: een administratieve fout waarvan recht en berekening al bepalen wat er moet gebeuren.
 
 De toets blijft kort:
 
@@ -63,7 +63,7 @@ De asymmetrie blijft echter groot: mensen bepalen vrijwel de hele leefwereld. Da
 
 Hier houdt dit kader op en begint empirische kennis. Het kan niet bepalen hoeveel ruimte een koe nodig heeft of welk moeder-kalfcontact welzijn bevordert. Daarvoor zijn ethologie, diergeneeskunde en concrete observatie nodig.
 
-### Waar landt de restlast?
+### Waar komt de belasting terecht?
 
 Economische marges, arbeidskosten en productiedoelen verdwijnen niet wanneer zij buiten beeld blijven. Zij kunnen in het lichaam en gedrag van het dier terechtkomen: minder ruimte, hogere productiedruk, minder herstel, minder mogelijkheid tot ontwijken.
 
@@ -110,7 +110,7 @@ Ook hier hoeft niemand kwaadwillend te zijn. De wet kan een legitiem doel hebben
 
 Toch kan de verhouding schadelijk worden.
 
-De juridische vraag — *mag deze maatregel?* — blijft noodzakelijk. Maar daarnaast verschijnt een andere:
+De juridische vraag *mag deze maatregel?* blijft noodzakelijk. Maar daarnaast verschijnt een andere:
 
 > **Waarom moest de onzekerheid van het instituut op deze manier in het leven van deze burger terechtkomen?**
 
@@ -126,7 +126,7 @@ Dan verandert de situatie. De foutkans is niet langer het enige relevante gegeve
 
 Twee procedures kunnen uiteindelijk even nauwkeurig zijn en toch moreel verschillen. De ene vangt onzekerheid institutioneel op; de andere laat burgers wachttijd, bestaansonzekerheid en herstelarbeid dragen.
 
-Dat is precies het soort verschuiving waarvoor draagroute als begrip iets kan toevoegen.
+Dat is precies het soort verschuiving waarvoor draagroute als begrip iets kan toevoegen. Het woord is alleen nuttig zolang er werkelijk een last door een relationele of institutionele ordening wordt verdeeld, doorgeschoven of geconcentreerd. Het is geen algemene naam voor ieder ontstaan van last.
 
 ### En als de burger werkelijk fraudeert?
 
@@ -148,23 +148,41 @@ Als een zware tijdelijke opschorting aantoonbaar noodzakelijk blijkt om ernstige
 
 Omgekeerd: wanneer dezelfde schade zich aantoonbaar blijft herhalen, een minder schadelijk alternatief beschikbaar is en het proces niet verandert omdat de schade buiten de eigen prestatie-indicatoren valt, wordt “de regel correct uitgevoerd” een te dun antwoord.
 
-## Wat beide gevallen werkelijk gemeen hebben
+## Geval III — de fout die gewoon een fout is
 
-Niet autonomie in dezelfde vorm. Niet dezelfde morele status. Niet dezelfde manier van antwoorden.
+Stel een burger heeft door een aantoonbare administratieve rekenfout €800 te weinig ontvangen. De relevante gegevens zijn compleet. De berekening kan worden gecontroleerd. Het toepasselijke recht laat geen redelijke twijfel over het bedrag bestaan.
 
-Wel een asymmetrie: één actor kan de leefvoorwaarden van een andere vorm sterk bepalen.
+We zouden ook hier kunnen vragen naar antwoordruimte, draagroute, institutionele ontvankelijkheid of sluitingsmacht. Maar voor de primaire beslissing voegen die vragen niets toe.
 
-Daarom vraagt dit kader in beide gevallen naar iets wat in afzonderlijke disciplines gemakkelijk uiteenvalt:
+De berekening was fout.
 
-- wat doet voor de betrokken vorm werkelijk verschil;
-- wie bepaalt de omgeving;
-- waar komt spanning of onzekerheid terecht;
-- welke signalen kunnen die ordening veranderen;
-- en wie moet zich verantwoorden wanneer dat niet gebeurt?
+De burger had recht op €800 meer.
 
-Dat is geen universele uitkomstmachine. Dierenwelzijnsethiek, bestuursrecht, zorgethiek, proportionaliteitsdenken en professionele uitvoeringskennis kunnen vaak tot dezelfde conclusie komen.
+De organisatie moet de fout herstellen en betalen.
 
-De meerwaarde van Onafgesloten Vorm moet dus kleiner en concreter worden geformuleerd: het kader verdient praktisch gewicht wanneer het **eerder zichtbaar maakt waar last, onzekerheid of sluitingsmacht terechtkomt**, of wanneer het laat zien dat een formeel correct systeem zijn eigen relevante terugkoppeling niet kan verwerken.
+Een uitgebreid gesprek over de ervaring van de burger kan zelfs een ontwijking worden wanneer het de simpele verplichting vervangt. “Wij willen begrijpen wat dit met u heeft gedaan” is geen beter antwoord op een vaststaande onderbetaling dan: “Wij hebben €800 te weinig betaald. Dat corrigeren we.”
+
+Hier verliest het kader dus een toepassing.
+
+> **Waar een domeinspecifiek criterium het probleem voldoende bepaalt, moet projecttaal wijken tenzij zij aantoonbaar iets relevants zichtbaar maakt dat anders buiten beeld blijft.**
+
+Dat is geen bevoegdheidsregel waarmee Onafgesloten Vorm vervolgens zelf mag bepalen wanneer een ander domein “voldoende” heeft gesproken. In dit geval dragen recht en berekening de beslissing al. Het kader krijgt geen extra stem omdat het graag nog een relationele vraag zou willen stellen.
+
+Ook het omgekeerde moet mogelijk blijven. Een domein kan zijn eigen vraag correct beantwoorden en toch relevante gevolgen buiten zijn afbakening laten. Als dezelfde rekenfout bijvoorbeeld structureel één groep treft, maandenlange bestaansonzekerheid veroorzaakt of door een herstelproces telkens opnieuw wordt geproduceerd, ontstaat een andere vraag. Dan kan een veldmatige of institutionele analyse opnieuw iets toevoegen. Niet omdat de juridische uitkomst onjuist was, maar omdat zij niet de enige relevante vraag beantwoordde.
+
+De grens ligt dus niet bij de pretentie dat dit project kan vaststellen wanneer een zaak “werkelijk klaar” is. De grens ligt eenvoudiger: **wanneer projecttaal geen onderscheid verandert, geen relevant gevolg zichtbaar maakt en geen blinde vlek blootlegt, moet zij niet worden toegevoegd.**
+
+Soms is preciezer denken: ophouden met hernoemen.
+
+## Wat de drie gevallen samen laten zien
+
+De eerste twee gevallen bevatten asymmetrieën waarin één actor de leefvoorwaarden van een andere vorm sterk kan bepalen. Daar kan het kader iets zichtbaar maken dat binnen afzonderlijke vakgebieden gemakkelijk uiteenvalt: waar onzekerheid of belasting terechtkomt, welke signalen werkelijk iets kunnen veranderen en wie zich moet verantwoorden wanneer dat niet gebeurt.
+
+Het derde geval legt juist de grens bloot. Niet ieder probleem wordt beter wanneer het relationeler, fenomenologischer of institutioneler wordt beschreven. Soms hebben recht, geneeskunde, techniek, statistiek of een andere discipline het relevante onderscheid al scherper gemaakt.
+
+Dat is geen universele uitkomstmachine. Dierenwelzijnsethiek, bestuursrecht, zorgethiek, proportionaliteitsdenken en professionele uitvoeringskennis kunnen bovendien vaak tot dezelfde conclusie komen als dit kader.
+
+De meerwaarde van Onafgesloten Vorm moet daarom klein en concreet blijven: het kader verdient praktisch gewicht wanneer het **eerder zichtbaar maakt waar last, onzekerheid of sluitingsmacht terechtkomt**, of wanneer het laat zien dat een formeel correct systeem zijn eigen relevante terugkoppeling niet kan verwerken.
 
 Waar dat niet gebeurt, moeten andere begrippen het werk gewoon mogen doen.
 
