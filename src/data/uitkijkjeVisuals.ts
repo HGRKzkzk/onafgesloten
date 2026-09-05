@@ -6,6 +6,12 @@ export type UitkijkjeVisual = {
   sourceLabel: string;
 };
 
+/*
+ * Redactionele regel: een concreet uitkijkje krijgt een concreet, toonbaar
+ * beeld van het onderwerp of werk waarover de tekst spreekt. Als zo'n beeld
+ * niet verantwoord beschikbaar is, moet het uitkijkje zelf worden herkozen;
+ * een abstract motief is geen inhoudelijke vervanging.
+ */
 export const uitkijkjeVisuals: Record<string, UitkijkjeVisual> = {
   'Ook muziek bestaat uit niet-spelen': {
     src: 'https://upload.wikimedia.org/wikipedia/commons/a/a2/Music_rests.svg',
