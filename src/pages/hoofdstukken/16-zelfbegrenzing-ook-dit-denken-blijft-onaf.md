@@ -58,7 +58,9 @@ Zelfbegrenzing blijft leeg wanneer zij alleen opsomt wat ooit zou kunnen verdwij
 
 `Draagroute` blijft eveneens, maar alleen waar last werkelijk relationeel of institutioneel wordt verdeeld, doorgeschoven of geconcentreerd. Het begrip voegt iets toe wanneer de vraag *langs welke weg is deze last hier terechtgekomen?* een andere analyse opent dan alleen de vraag hoeveel iemand kan dragen.
 
-`Vormvermogen` heeft die test nog niet doorstaan. Het staat voorlopig onder verdenking omdat nog niet duidelijk genoeg is wat het onderscheidt van handelingsvermogen, plasticiteit, adaptief vermogen, veerkracht of herstelvermogen. Het begrip mag dus verdwijnen wanneer die vergelijking geen eigen werk oplevert.
+`Vormvermogen` is na vergelijking verlaten als zelfstandig projectbegrip. Het woord probeerde de mogelijkheid te benoemen dat een vorm na verstoring opnieuw samenhang vindt zonder noodzakelijk naar haar eerdere toestand terug te keren. Maar die breedte bleek onvoldoende onderscheidend. Handelingsvermogen of agency is preciezer waar handelen centraal staat; plasticiteit waar veranderbaarheid wordt bedoeld; adaptief vermogen waar aanpassing telt; veerkracht en herstelvermogen waar omgang met belasting en herstel worden onderzocht. Het eigen woord trok die verschillende verschijnselen eerder samen dan dat het een nieuw onderscheid zichtbaar maakte.
+
+De inhoudelijke gedachte blijft zonder verlies staan: herstel hoeft geen terugkeer te zijn. Het kan een andere samenhang zijn waarin opnieuw voelen, begrenzen en antwoorden mogelijk wordt. Daarom luidt kernzin 10 nu concreter en is `vormvermogen` ook uit hoofdstuk 6 verwijderd.
 
 Deze uitkomsten zijn ongelijk, en dat is juist de bedoeling. Zelfcorrectie hoeft niet bij ieder begrip tot hetzelfde ritueel van “nuanceren maar behouden” te leiden.
 
