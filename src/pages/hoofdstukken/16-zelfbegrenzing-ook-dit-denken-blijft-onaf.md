@@ -60,7 +60,7 @@ Zelfbegrenzing blijft leeg wanneer zij alleen opsomt wat ooit zou kunnen verdwij
 
 `Vormvermogen` is na vergelijking verlaten als zelfstandig projectbegrip. Het woord probeerde de mogelijkheid te benoemen dat een vorm na verstoring opnieuw samenhang vindt zonder noodzakelijk naar haar eerdere toestand terug te keren. Maar die breedte bleek onvoldoende onderscheidend. Handelingsvermogen of agency is preciezer waar handelen centraal staat; plasticiteit waar veranderbaarheid wordt bedoeld; adaptief vermogen waar aanpassing telt; veerkracht en herstelvermogen waar omgang met belasting en herstel worden onderzocht. Het eigen woord trok die verschillende verschijnselen eerder samen dan dat het een nieuw onderscheid zichtbaar maakte.
 
-De inhoudelijke gedachte blijft zonder verlies staan: herstel hoeft geen terugkeer te zijn. Het kan een andere samenhang zijn waarin opnieuw voelen, begrenzen en antwoorden mogelijk wordt. Daarom luidt kernzin 10 nu concreter en is `vormvermogen` ook uit hoofdstuk 6 verwijderd.
+De achterliggende gedachte hoeft daarmee niet te verdwijnen: herstel hoeft geen terugkeer te zijn en kan een andere samenhang opleveren waarin opnieuw voelen, begrenzen en antwoorden mogelijk wordt. Wat wél verloren gaat, is de suggestie dat deze verschillende mogelijkheden samen één afzonderlijk vermogen vormen. Kernzin 10 en hoofdstuk 6 spreken daarom concreter en laten per domein ruimte voor preciezere bestaande begrippen.
 
 Deze uitkomsten zijn ongelijk, en dat is juist de bedoeling. Zelfcorrectie hoeft niet bij ieder begrip tot hetzelfde ritueel van “nuanceren maar behouden” te leiden.
 
