@@ -14,7 +14,7 @@ divergence:
   status: "substantieel-herwerkt"
   note: "Publieke uitbreiding met scherpere uitwerking van veldmatig kijken, institutionele draagroutes, onafhankelijke correctie, asymmetrie, georganiseerde sluiting en corrigeerbare macht."
 
-lastSyncCheck: "2026-09-04"
+lastSyncCheck: "2026-09-05"
 ---
 Geen vorm draagt zichzelf alleen. Rond ieder individu bestaat een veld van materiële, affectieve, culturele, ecologische en institutionele voorwaarden. Sommige zijn zichtbaar; andere vallen pas op wanneer zij verdwijnen.
 
@@ -50,7 +50,7 @@ Een regel kan nodig zijn en toch verkeerd uitpakken. Een classificatie kan bruik
 
 Dat vraagt meer dan een klachtenformulier.
 
-Een bezwaarmogelijkheid die alleen werkt voor wie tijd, taal, geld, gezondheid en dossierkennis over heeft, is formeel open en feitelijk smal. Een evaluatie die alleen meet wat al in de oorspronkelijke indicatoren paste, kan precies de gevolgen missen waarvoor zij bedoeld was. Een loket dat steeds opnieuw om dezelfde informatie vraagt, verplaatst de administratieve <span class="begrip" data-term="restlast">restlast</span> naar degene die het minst over de organisatie beschikt.
+Een bezwaarmogelijkheid die alleen werkt voor wie tijd, taal, geld, gezondheid en dossierkennis over heeft, is formeel open en feitelijk smal. Een evaluatie die alleen meet wat al in de oorspronkelijke indicatoren paste, kan precies de gevolgen missen waarvoor zij bedoeld was. Een loket dat steeds opnieuw om dezelfde informatie vraagt, verplaatst de administratieve last naar degene die het minst over de organisatie beschikt.
 
 Institutionele openheid is daarom geen houding. Zij moet in routes, bevoegdheden, termijnen en herstelmogelijkheden worden gebouwd.
 
@@ -197,7 +197,7 @@ De plicht ligt preciezer: **sluitingsmacht moet haar eigen noodzaak, reikwijdte 
 
 Waar heropening veilig en relevant mogelijk is, kan dat herstel betekenen. Waar heropening zelf nieuwe schade veroorzaakt, kan juist het respecteren van de grens de corrigeerbare uitkomst zijn.
 
-<span class="begrip" data-term="proportionaliteit">Proportionaliteit</span> gaat daarom niet alleen over de zwaarte van de oorspronkelijke ingreep, maar ook over duur, reikwijdte, herstelbaarheid en wie de restlast draagt.
+<span class="begrip" data-term="proportionaliteit">Proportionaliteit</span> gaat daarom niet alleen over de zwaarte van de oorspronkelijke ingreep, maar ook over duur, reikwijdte, herstelbaarheid en wie de overblijvende last draagt.
 
 Ook uitzonderlijk inzicht of een reële noodsituatie heft de correctieplicht niet op. Waarheid, urgentie en gezag zijn verschillende vragen. Wie uitzonderlijke macht opeist omdat hij uitzonderlijk inzicht of uitzonderlijke noodzaak claimt, mag niet als enige beslissen wanneer die uitzondering eindigt.
 
@@ -222,15 +222,15 @@ De institutionele uitwerking hoeft niet te worden voorgesteld alsof zij logisch 
 
 De samenhang is minder dwingend en daardoor eerlijker.
 
-OOV begint met een ontologische beschrijving van gedragen en onafgesloten vorm. Vervolgens kiest zij ethisch voor wederkerigheid: de ander blijft een bron van relevante terugkoppeling en wordt niet zonder voldoende rechtvaardiging opgebruikt of van basale antwoordvoorwaarden beroofd. Antwoordruimte, herstel en vermindering van afwendbaar lijden krijgen binnen die keuze hun normatieve plaats.
+Dit project begint met beschrijvende en metafysische uitspraken over gedragen en onafgesloten vorm. Vervolgens kiest het ethisch voor wederkerigheid: de ander blijft een bron van relevante terugkoppeling en wordt niet zonder voldoende rechtvaardiging opgebruikt of van basale antwoordvoorwaarden beroofd. Antwoordruimte, herstel en vermindering van afwendbaar lijden krijgen binnen die keuze hun normatieve plaats.
 
 Daaruit ontstaat een politieke en institutionele doctrine van **corrigeerbare macht**: wie de voorwaarden van andermans antwoorden kan bepalen, moet die macht kunnen rechtvaardigen, laten toetsen en waar nodig laten veranderen.
 
-De onafhankelijke derde, bezwaar- en herstelroutes, pluraliteit, transparante bevoegdheid en reële uittreedbaarheid zijn geen automatische consequenties van de ontologie. Het zijn institutionele vormen die passen bij die gekozen normatieve inzet en die zelf weer empirisch en politiek moeten worden getoetst.
+De onafhankelijke derde, bezwaar- en herstelroutes, pluraliteit, transparante bevoegdheid en reële uittreedbaarheid zijn geen automatische consequenties van die beschrijvende of metafysische uitgangspunten. Het zijn institutionele vormen die passen bij die gekozen normatieve inzet en die zelf weer empirisch en politiek moeten worden getoetst.
 
 Deze lagen mogen elkaar richting geven zonder in elkaar te worden geschoven:
 
-- **ontologische kern:** vorm, verhouding, verschil, voelen en onafgeslotenheid;
+- **beschrijvende/metafysische kern:** vorm, verhouding, verschil, voelen en onafgeslotenheid;
 - **ethische keuze:** wederkerigheid, bescherming van antwoordruimte en vermindering van afwendbaar lijden;
 - **institutionele doctrine:** corrigeerbare macht, onafhankelijke toetsing en passende sluiting;
 - **concrete inrichting:** wetten, procedures, rollen, technologieën en begrotingen die altijd opnieuw op hun gevolgen moeten worden beoordeeld.
