@@ -7,7 +7,7 @@ status: "uitgewerkt-met-academische-laag"
 description: "Over gezondheid als draagbare onafheid: tussen verstarring, uiteenvallen en schadelijke stabiliteit, zonder van één ideaalvorm de maat van alle leven te maken."
 source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
 divergence: "Integraal gecomprimeerd: gezondheid en pathologie behouden hun thuisbasis; wederkerigheid, antwoordruimte en asymmetrie worden niet langer vooruitlopend volledig uitgewerkt."
-lastSyncCheck: "2026-09-04"
+lastSyncCheck: "2026-09-05"
 ---
 Gezondheid is hier niet de afwezigheid van spanning en ook niet permanente openheid. Zij is draagbare onafheid: genoeg samenhang om te blijven bestaan, genoeg gevoeligheid om geraakt te worden, genoeg grens om niet te verdwijnen en genoeg herstelruimte om na verandering opnieuw vorm te vinden.
 
@@ -64,7 +64,7 @@ Die derde categorie is belangrijk omdat functioneren gemakkelijk voor gezondheid
 
 > **Functioneren bewijst alleen dat iets nog functioneert. Het zegt nog niet wat daarvoor wordt opgebruikt.**
 
-Hier helpen de eerder ingevoerde <span class="begrip" data-term="draagroute">draagroute</span> en <span class="begrip" data-term="restlast">restlast</span>: gezondheid is niet alleen zichtbaar waar de prestatie verschijnt, maar ook in de prijs en de route waarlangs die prijs wordt gedragen.
+Hier helpt de eerder ingevoerde <span class="begrip" data-term="draagroute">draagroute</span>: gezondheid is niet alleen zichtbaar waar de prestatie verschijnt, maar ook in de prijs en de route waarlangs die prijs wordt gedragen.
 
 Dat zijn geen universele diagnoses. Verstarring kan tijdelijk beschermen tegen overspoeling; chaos kan volgen op langdurige onderdrukking. Het uiterlijk vertelt niet vanzelf waar spanning vandaan kwam of welke interventie passend is.
 
