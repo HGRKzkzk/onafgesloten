@@ -1,0 +1,79 @@
+---
+import { uitkijkjeVisuals } from '../data/uitkijkjeVisuals';
+---
+
+<script
+  type="application/json"
+  id="uitkijkje-visuals-data"
+  set:html={JSON.stringify(uitkijkjeVisuals)}
+></script>
+
+<script is:inline>
+(() => {
+  const dataNode = document.getElementById('uitkijkje-visuals-data');
+  if (!dataNode) return;
+
+  const visuals = JSON.parse(dataNode.textContent || '{}');
+
+  document.querySelectorAll('.uitkijkje').forEach((card) => {
+    if (card.querySelector('.uitkijkje__figure')) return;
+
+    const title = card
+      .querySelector('.uitkijkje__title')
+      ?.textContent
+      ?.trim();
+
+    if (!title) return;
+
+    const visual = visuals[title];
+
+    if (!visual) {
+      card.dataset.missingVisual = 'true';
+      console.warn(
+        `[Onafgesloten] Redactioneel uitkijkje zonder concreet beeld: ${title}. ` +
+        'Kies een toonbaar beeld of vervang het uitkijkje zelf.'
+      );
+      return;
+    }
+
+    const figure = document.createElement('figure');
+    figure.className = 'uitkijkje__figure';
+
+    const image = document.createElement('img');
+    image.src = visual.src;
+    image.alt = visual.alt;
+    image.loading = 'lazy';
+    image.decoding = 'async';
+
+    const caption = document.createElement('figcaption');
+    caption.textContent = visual.caption;
+
+    figure.append(image, caption);
+
+    const text = card.querySelector('.uitkijkje__text');
+    const titleNode = card.querySelector('.uitkijkje__title');
+
+    if (text) {
+      card.insertBefore(figure, text);
+    } else if (titleNode?.nextSibling) {
+      card.insertBefore(figure, titleNode.nextSibling);
+    } else {
+      card.append(figure);
+    }
+
+    if (!card.querySelector('.uitkijkje__source--visual')) {
+      const source = document.createElement('p');
+      source.className = 'uitkijkje__source uitkijkje__source--visual';
+
+      const link = document.createElement('a');
+      link.href = visual.sourceUrl;
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+      link.textContent = visual.sourceLabel;
+
+      source.append('Beeld: ', link);
+      card.append(source);
+    }
+  });
+})();
+</script>
