@@ -5,9 +5,9 @@ title: "Zelfbegrenzing — ook dit denken blijft onaf"
 slug: "zelfbegrenzing-ook-dit-denken-blijft-onaf"
 status: "uitgewerkt-met-academische-laag"
 source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
-description: "Een slothoofdstuk over de voorwaarden waaronder OOV zichzelf moet kunnen begrenzen, herzien of gedeeltelijk verlaten."
+description: "Een slothoofdstuk over de voorwaarden waaronder Onafgesloten Vorm zichzelf moet kunnen begrenzen, herzien of gedeeltelijk verlaten."
 divergence: "Integrale compressie: hoofdstuk is uitsluitend de interne onderhouds- en verlieslaag; culturele vergelijking blijft in hoofdstuk 15."
-lastSyncCheck: "2026-09-04"
+lastSyncCheck: "2026-09-05"
 ---
 
 De grootste bedreiging voor dit project is niet een tegenargument, maar succes als allesverklaring.
@@ -20,13 +20,13 @@ Een denken dat overal woorden voor heeft, heeft nog niet overal iets gezien.
 
 ## Niet iedere laag staat even hard
 
-OOV bevat verschillende soorten uitspraken. Die mogen niet hetzelfde gewicht krijgen.
+Dit project bevat verschillende soorten uitspraken. Die mogen niet hetzelfde gewicht krijgen.
 
 De regionale kern blijft het dichtst bij ervaring en onderzoek: levende en voelende vormen verschijnen begrensd, relationeel en historisch; verschil kan voor hen werkelijk ertoe doen; draagkracht, herstel en afhankelijkheid zijn niet los van omgeving te begrijpen.
 
-Projectbegrippen zoals <span class="begrip" data-term="antwoordruimte">antwoordruimte</span>, <span class="begrip" data-term="draagroute">draagroute</span>, <span class="begrip" data-term="restlast">restlast</span> en <span class="begrip" data-term="corrigeerbaarheid">corrigeerbaarheid</span> hebben een andere status. Hun bestaansrecht is instrumenteel: zij moeten een relevant onderscheid scherper zichtbaar maken. Als een bestaand begrip hetzelfde beter doet, hoeft OOV geen eigen woord te behouden.
+Projectbegrippen zoals <span class="begrip" data-term="antwoordruimte">antwoordruimte</span>, <span class="begrip" data-term="draagroute">draagroute</span> en <span class="begrip" data-term="corrigeerbaarheid">corrigeerbaarheid</span> hebben een andere status. Hun bestaansrecht is instrumenteel: zij moeten een relevant onderscheid scherper zichtbaar maken. Als een bestaand begrip hetzelfde beter doet, hoeft dit project geen eigen woord te behouden.
 
-Normatieve keuzes zoals wederkerigheid, het gewicht van afwendbaar lijden en corrigeerbare macht worden niet door de ontologie bewezen. Zij moeten afzonderlijk verdedigbaar blijven.
+Normatieve keuzes zoals wederkerigheid, het gewicht van afwendbaar lijden en corrigeerbare macht worden niet door beschrijvende of metafysische uitgangspunten bewezen. Zij moeten afzonderlijk verdedigbaar blijven.
 
 De cosmopsychische horizon uit hoofdstuk 12 is het zachtst. Zij mag inspireren, maar niet dragen.
 
@@ -40,7 +40,7 @@ De cosmopsychische bruggedachte mag verdwijnen wanneer zij geen onderscheidend v
 
 Antwoordruimte moet worden versmald of verlaten wanneer autonomie, capability, handelingsruimte, welzijn of procedurele rechtvaardigheid in een domein hetzelfde preciezer beschrijven.
 
-Draagroute en restlast verliezen hun plaats wanneer zij structureel niet meer doen dan bestaande verdelings- of systeemmechanismen poëtisch hernoemen.
+Draagroute verliest zijn plaats wanneer het niet meer doet dan een bestaand verdelings- of systeemmechanisme poëtisch hernoemen.
 
 De doctrine van corrigeerbare macht moet worden herzien wanneer zij in de praktijk vooral extra procedure produceert zonder betere correctie of bescherming tegen willekeur.
 
@@ -48,11 +48,27 @@ En *wat verschijnt, verschijnt onaf* mag niet worden gebruikt waar onafheid niet
 
 > **Onafgeslotenheid is geen verbod op bepaaldheid, eindigheid of conclusie.**
 
+## Wat deze revisie al heeft gekost
+
+Zelfbegrenzing blijft leeg wanneer zij alleen opsomt wat ooit zou kunnen verdwijnen. Daarom wordt hier ook bijgehouden wat tijdens het werk werkelijk status heeft verloren.
+
+`Restlast` is niet langer een zelfstandig dragend projectbegrip. Het woord kan in gewoon Nederlands nog bruikbaar zijn voor last of verlies dat na een keuze of ingreep overblijft. Maar waar we concreter kunnen zeggen dat iemand schade, risico, wachttijd, verlies of extra arbeid draagt, heeft die taal voorrang. In hoofdstuk 14 is daarom ook de kop *Waar landt de restlast?* vervangen door de concretere vraag *Waar komt de belasting terecht?*
+
+`Antwoordruimte` blijft voorlopig staan, maar smaller dan voorheen. Het is geen verzamelnaam voor autonomie, welzijn, vrijheid of alles wat een goed leven mogelijk maakt. Het begrip is alleen onderscheidend wanneer een verhouding of machtsstructuur de reële mogelijkheid raakt om later nog relevant verschil te kunnen maken door bijvoorbeeld te antwoorden, weigeren, corrigeren, vertrekken of herstellen.
+
+`Draagroute` blijft eveneens, maar alleen waar last werkelijk relationeel of institutioneel wordt verdeeld, doorgeschoven of geconcentreerd. Het begrip voegt iets toe wanneer de vraag *langs welke weg is deze last hier terechtgekomen?* een andere analyse opent dan alleen de vraag hoeveel iemand kan dragen.
+
+`Vormvermogen` heeft die test nog niet doorstaan. Het staat voorlopig onder verdenking omdat nog niet duidelijk genoeg is wat het onderscheidt van handelingsvermogen, plasticiteit, adaptief vermogen, veerkracht of herstelvermogen. Het begrip mag dus verdwijnen wanneer die vergelijking geen eigen werk oplevert.
+
+Deze uitkomsten zijn ongelijk, en dat is juist de bedoeling. Zelfcorrectie hoeft niet bij ieder begrip tot hetzelfde ritueel van “nuanceren maar behouden” te leiden.
+
 ## Tegenvoorbeelden moeten iets kunnen kosten
 
 Een theorie kan gemakkelijk bescheiden lijken door overal tegenvoorbeelden te noemen. Dat helpt weinig wanneer ieder tegenvoorbeeld uiteindelijk als nieuwe verfijning wordt opgenomen.
 
 Een serieus tegenvoorbeeld kan verschillende dingen doen: een toepassing corrigeren, een begrip regionaal beperken, een verbinding tussen begrippen verbreken, laten zien dat een externe discipline het werk beter doet, of een onderdeel eenvoudig overbodig maken.
+
+Hoofdstuk 14 bevat daarom nu ook een geval waarin de uitkomst niet een verfijning van het kader is. Bij een ondubbelzinnige administratieve rekenfout bepalen recht en berekening wat de primaire correctie is. Extra projecttaal maakt die beslissing niet beter. Daar moet zij wijken.
 
 Dat laatste is geen mislukking.
 
@@ -82,7 +98,7 @@ Daarom blijft de vraag:
 
 *Is hier werkelijk dezelfde structuur zichtbaar, of maakt onze taal haar hetzelfde?*
 
-Een koe, burger, rouwende, algoritme en ecosysteem zijn niet vijf uitwerkingen van één verborgen OOV-object. Vergelijkingen mogen alleen zover gaan als hun verschillen toelaten.
+Een koe, burger, rouwende, algoritme en ecosysteem zijn niet vijf uitwerkingen van één verborgen object. Vergelijkingen mogen alleen zover gaan als hun verschillen toelaten.
 
 Dit is ook de grens van het verlangen naar een “complete” theorie. Niet alles hoeft door hetzelfde raster te passen om serieus genomen te worden.
 
@@ -105,7 +121,7 @@ Voor een substantieel nieuw begrip, hoofdstuk of toepassing volstaat daarom een 
 3. Wat zou laten zien dat het centrale begrip te ruim, dubbelop of verkeerd gekozen is?
 4. Welke empirische kennis kan de toepassing corrigeren?
 5. Welke normatieve stap wordt gekozen in plaats van afgeleid?
-6. Waar zou minder OOV-taal preciezer zijn?
+6. Waar zou minder projecttaal preciezer zijn?
 
 Geen formulier, maar een gewoonte van onderhoud.
 
