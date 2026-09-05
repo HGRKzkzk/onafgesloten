@@ -7,7 +7,7 @@ status: "bronversie-met-uitkijkjes"
 description: "Over hoe spanning door lichamen, relaties en instituties beweegt, waarom tempo en volgorde ertoe doen en waarom herstel niet altijd terugkeer betekent."
 source:
   primary: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
-  divergence: "Uitgebreid met restlast, temporele asymmetrie, herstel als heropening en expliciete begrenzing van groeiverhalen."
+  divergence: "Uitgebreid met temporele asymmetrie, herstel als niet-noodzakelijke terugkeer en expliciete begrenzing van groeiverhalen; restlast en vormvermogen zijn in latere revisie als projectbegrippen teruggebracht respectievelijk verlaten."
 lastSyncCheck: "2026-09-05"
 ---
 Spanning blijft zelden op de plek waar zij ontstaat. Zij beweegt door lichamen, relaties en instituties en krijgt ergens vorm. Werkdruk wordt hoofdpijn. Een onopgelost beleidsconflict wordt een tegenstrijdige opdracht aan een uitvoerder. Maatschappelijke onzekerheid wordt vijandigheid tegenover een zichtbare groep. Onuitgesproken verdriet wordt ruzie.
@@ -90,7 +90,7 @@ Dit bewaakt ook iets anders: groei kan niet worden afgedwongen door iemand voort
 
 Daarvoor was eerder het woord *vormvermogen* gebruikt. Dat woord voegt bij nader inzien te weinig toe. *Handelingsvermogen* benoemt preciezer waar handelen centraal staat; *plasticiteit* waar veranderbaarheid wordt bedoeld; *adaptief vermogen* waar aanpassing aan omstandigheden telt; *veerkracht* waar herstel na belasting wordt onderzocht; en *herstelvermogen* waar het vermogen tot herstel zelf de vraag is. *Vormvermogen* dreigde die verschillende verschijnselen vooral onder één projectwoord samen te trekken.
 
-De zin kan zonder verlies concreter zeggen wat hier bedoeld wordt: een herstelde vorm hoeft niet weer hetzelfde te presteren. Zij kan kleiner, voorzichtiger of anders georganiseerd zijn en toch levender, omdat zij opnieuw kan voelen, begrenzen en antwoorden.
+De zin kan concreter zeggen wat hier bedoeld wordt: een herstelde vorm hoeft niet weer hetzelfde te presteren. Zij kan kleiner, voorzichtiger of anders georganiseerd zijn en toch levender, omdat zij opnieuw kan voelen, begrenzen en antwoorden. Wat verloren gaat is juist de suggestie dat al die mogelijkheden één afzonderlijk vermogen vormen.
 
 Dat betekent ook dat “weer functioneren” een te smalle maat is. Een werknemer kan weer aanwezig zijn en nog nauwelijks reserve hebben. Een relatie kan weer rustig lijken terwijl één partij alleen conflict vermijdt. Een instituut kan een fout herstellen zonder de route te veranderen waardoor dezelfde fout opnieuw ontstaat.
 
