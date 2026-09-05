@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/ChapterLayout.astro
 order: 14
-title: "Twee toetsgevallen — wat verandert er wanneer OOV iets moet doen?"
-description: "Twee concrete stresstests waarin OOV moet laten zien of het meer doet dan bestaande morele intuïties in eigen taal herhalen."
+title: "Twee toetsgevallen — wat verandert er wanneer dit denken iets moet doen?"
+description: "Twee concrete stresstests waarin het begrippenkader moet laten zien of het meer doet dan bestaande morele intuïties in eigen taal herhalen."
 slug: "twee-toetsgevallen-wat-verandert-er-wanneer-oov-iets-moet-doen"
 status: "publieke-werkversie"
 
@@ -14,7 +14,7 @@ divergence:
   status: "substantieel-herwerkt"
   note: "Integrale redactieronde: hoofdstuk 14 is ontvlochten van hoofdstuk 13, theoretische heruitleg is teruggebracht en de casussen dragen nu meer van het argument zelf."
 
-lastSyncCheck: "2026-09-04"
+lastSyncCheck: "2026-09-05"
 ---
 Een filosofisch begrippenkader verdient zijn plaats niet doordat het steeds nieuwe verschijnselen in zijn eigen taal kan opnemen. Het moet verschil maken wanneer een concrete situatie onoverzichtelijk, moreel beladen of institutioneel vastgelopen is.
 
@@ -29,7 +29,7 @@ De toets blijft kort:
 3. Waar komt spanning of onzekerheid terecht?
 4. Welke terugkoppeling kan werkelijk iets veranderen?
 5. Welke grens is noodzakelijk, en welke vooral gemakkelijk?
-6. Wat kan OOV hier niet zelf beslissen?
+6. Wat kan dit kader hier niet zelf beslissen?
 7. Welke feiten zouden deze duiding moeten verzwakken?
 
 Een toepassing die alleen bevestiging kan vinden, toetst niets.
@@ -61,7 +61,7 @@ Tegelijk is menselijke begrenzing niet vanzelf verkeerd. Voedselzekerheid, medis
 
 De asymmetrie blijft echter groot: mensen bepalen vrijwel de hele leefwereld. Daarmee verschuift de rechtvaardigingslast. Wie mogelijkheden wegneemt, moet kunnen uitleggen waarom die beperking nodig is, welke gevolgen zij heeft en of een minder sluitende inrichting redelijkerwijs mogelijk is.
 
-Hier houdt OOV op en begint empirische kennis. Het kader kan niet bepalen hoeveel ruimte een koe nodig heeft of welk moeder-kalfcontact welzijn bevordert. Daarvoor zijn ethologie, diergeneeskunde en concrete observatie nodig.
+Hier houdt dit kader op en begint empirische kennis. Het kan niet bepalen hoeveel ruimte een koe nodig heeft of welk moeder-kalfcontact welzijn bevordert. Daarvoor zijn ethologie, diergeneeskunde en concrete observatie nodig.
 
 ### Waar landt de restlast?
 
@@ -73,7 +73,7 @@ De vraag wordt dan:
 
 Een hek dat voorkomt dat een koe een snelweg oploopt beperkt én beschermt. Een beperking die uitsluitend blijft bestaan omdat een minder belastende inrichting duurder is, vraagt een andere rechtvaardiging.
 
-Wanneer betrouwbare kennis ernstige en redelijk vermijdbare schade laat zien, kan die schade niet als moreel neutrale productiekost worden behandeld. Maar het antwoord ligt niet al in OOV besloten. Aanpassing, overgang, normering of beëindiging zijn politieke en empirische keuzes die afzonderlijk moeten worden onderbouwd.
+Wanneer betrouwbare kennis ernstige en redelijk vermijdbare schade laat zien, kan die schade niet als moreel neutrale productiekost worden behandeld. Maar het antwoord ligt niet al in dit kader besloten. Aanpassing, overgang, normering of beëindiging zijn politieke en empirische keuzes die afzonderlijk moeten worden onderbouwd.
 
 ### Vertegenwoordiging zonder buikspreken
 
@@ -154,7 +154,7 @@ Niet autonomie in dezelfde vorm. Niet dezelfde morele status. Niet dezelfde mani
 
 Wel een asymmetrie: één actor kan de leefvoorwaarden van een andere vorm sterk bepalen.
 
-Daarom vraagt OOV in beide gevallen naar iets wat in afzonderlijke disciplines gemakkelijk uiteenvalt:
+Daarom vraagt dit kader in beide gevallen naar iets wat in afzonderlijke disciplines gemakkelijk uiteenvalt:
 
 - wat doet voor de betrokken vorm werkelijk verschil;
 - wie bepaalt de omgeving;
@@ -164,7 +164,7 @@ Daarom vraagt OOV in beide gevallen naar iets wat in afzonderlijke disciplines g
 
 Dat is geen universele uitkomstmachine. Dierenwelzijnsethiek, bestuursrecht, zorgethiek, proportionaliteitsdenken en professionele uitvoeringskennis kunnen vaak tot dezelfde conclusie komen.
 
-De meerwaarde van OOV moet dus kleiner en concreter worden geformuleerd: het kader verdient praktisch gewicht wanneer het **eerder zichtbaar maakt waar last, onzekerheid of sluitingsmacht terechtkomt**, of wanneer het laat zien dat een formeel correct systeem zijn eigen relevante terugkoppeling niet kan verwerken.
+De meerwaarde van Onafgesloten Vorm moet dus kleiner en concreter worden geformuleerd: het kader verdient praktisch gewicht wanneer het **eerder zichtbaar maakt waar last, onzekerheid of sluitingsmacht terechtkomt**, of wanneer het laat zien dat een formeel correct systeem zijn eigen relevante terugkoppeling niet kan verwerken.
 
 Waar dat niet gebeurt, moeten andere begrippen het werk gewoon mogen doen.
 
