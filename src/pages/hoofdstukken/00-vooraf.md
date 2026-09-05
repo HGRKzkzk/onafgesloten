@@ -14,7 +14,7 @@ divergence:
   status: "substantieel-herwerkt"
   note: "Publieke herschrijving met toegankelijker opening, aangescherpte zelfbegrenzing en twee culturele uitkijkjes."
 
-lastSyncCheck: "2026-08-25"
+lastSyncCheck: "2026-09-05"
 
 themes:
   - zelfbegrenzing
@@ -35,7 +35,7 @@ Dit project begint bij dat kleine ongemak.
 
 Wat als een mens werkelijk iemand is, maar nooit volledig samenvalt met de vorm waarin die persoon nu verschijnt? Wat als afhankelijkheid niet alleen een tekort aan zelfstandigheid is, maar een voorwaarde waaronder levende wezens überhaupt kunnen bestaan? Wat als grenzen noodzakelijk zijn, maar juist gezond blijven doordat zij niet vergeten dat er ook iets buiten hun huidige bereik ligt?
 
-De naam die ik aan dat onderzoek geef is **Ontologie van Onafgesloten Vorm**, kortweg OOV. De naam is groot; de inzet moet bescheidener blijven.
+De naam die ik aan dit onderzoek geef is **Onafgesloten Vorm**.
 
 Ik probeer woorden te vinden voor iets wat in het gewone leven voortdurend zichtbaar wordt en toch gemakkelijk uit beeld raakt: niets levends bestaat alleen uit zichzelf, vormen ontstaan en blijven bestaan in verhouding tot wat hen draagt, en geen gezonde grens bezit vanzelfsprekend voorgoed het laatste woord over wat zij begrenst.
 
@@ -88,9 +88,9 @@ Dat is nadrukkelijk niet de bedoeling.
 
 Ik bied dus geen verborgen natuurwet, geen kosmische blauwdruk en geen formule waarmee mensen, organismen, relaties en instituties op dezelfde manier kunnen worden berekend. Ik vertrek vanuit verschijnselen die wij daadwerkelijk kunnen ervaren en onderzoeken: voelen, afhankelijkheid, spanning, groei, uitputting, ontmoeting, conflict, verlies, herstel en betekenis. Van daaruit vraag ik welke wijze van bestaan daarin zichtbaar wordt.
 
-Mijn inzet is <span class="begrip" data-term="ontologie">ontologisch</span>, omdat ik niet alleen wil vragen *hoe* wij iets ervaren, maar ook wat voor soort bestaan in die ervaring zichtbaar wordt. Wat moet een levend, lerend of betekenisdragend wezen kennelijk kunnen zijn om geraakt te worden, iets vast te houden, te veranderen en opnieuw te antwoorden?
+Sommige van die vragen zijn <span class="begrip" data-term="ontologie">ontologisch</span>: zij raken aan wat voor soort bestaan zichtbaar wordt in levende, lerende of betekenisdragende vormen. Maar dat maakt dit project als geheel nog geen ontologie. Het beweegt ook door fenomenologie, ethiek, relationeel denken, politiek en institutionele analyse, afhankelijk van wat de vraag vraagt.
 
-Mijn toegang blijft tegelijk <span class="begrip" data-term="fenomenologie">fenomenologisch</span>. Ik begin bij wat verschijnt, niet bij een denkbeeldig gezichtspunt buiten de wereld vanwaaruit alles in één keer te overzien zou zijn.
+Mijn toegang is in de eerste plaats <span class="begrip" data-term="fenomenologie">fenomenologisch</span>. Ik begin bij wat verschijnt, niet bij een denkbeeldig gezichtspunt buiten de wereld vanwaaruit alles in één keer te overzien zou zijn.
 
 Daarom houd ik de <span class="begrip" data-term="regionale-reikwijdte">reikwijdte regionaal</span>. De rijkste uitspraken in deze tekst gaan over levende, voelende, lerende, relationele en institutionele vormen. Zij mogen niet zonder tussenstappen worden uitgebreid naar iedere steen, planeet of elementair deeltje.
 
