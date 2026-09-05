@@ -1,81 +1,62 @@
 ## Verwantschap
 
-De twee toetsgevallen staan niet in een theoretisch vacuüm. In de diercasus sluit de analyse aan bij hedendaagse dierenwelzijnswetenschap, benaderingen waarin positieve en negatieve ervaring centraal staan, en ethische discussies over belangen, agency en menselijke verantwoordelijkheid tegenover niet-menselijke dieren. In de institutiecassus bestaan duidelijke parallellen met proportionaliteitsdenken, procedurele rechtvaardigheid, administrative burden, street-level bureaucracy en literatuur over accountability en herstel.
+De drie toetsgevallen staan niet in een theoretisch vacuüm. In de diercasus sluit de analyse aan bij dierenwelzijnswetenschap en ethische discussies over belangen, agency en menselijke verantwoordelijkheid tegenover niet-menselijke dieren. In de institutiecassus bestaan duidelijke parallellen met proportionaliteitsdenken, procedurele rechtvaardigheid, administrative burden, street-level bureaucracy en literatuur over accountability en herstel. Het derde geval raakt aan een andere methodische vraag: wanneer een domein zijn eigen feitelijke of normatieve vraag voldoende draagt, is extra filosofische terminologie niet vanzelf een verbetering.
 
-Dat betekent dat Onafgesloten Vorm hier geen claim op inhoudelijke oorspronkelijkheid kan ontlenen aan afzonderlijke conclusies als “productiviteit is niet hetzelfde als welzijn”, “een zware maatregel vraagt zwaardere rechtvaardiging” of “een bezwaarroute moet effectief zijn”. Zulke inzichten bestaan ruim buiten dit project.
+Daarmee ontleent Onafgesloten Vorm geen inhoudelijke oorspronkelijkheid aan conclusies als “productiviteit is niet hetzelfde als welzijn”, “een zware maatregel vraagt zwaardere rechtvaardiging” of “een fout moet worden hersteld”. Zulke inzichten bestaan ruim buiten dit project.
 
-De eigen inzet ligt eerder in de gezamenlijke ordening van vijf vragen: wat doet voor een betrokken vorm werkelijk verschil, waar landt de restlast, wie bezit sluitingsmacht, welke terugkoppeling kan de ordening veranderen, en welke toekomstige antwoordmogelijkheden blijven over?
+De eigen inzet is smaller: nagaan of aandacht voor de route van last, asymmetrie van sluitingsmacht en daadwerkelijke corrigeerbaarheid een relevante vraag verschuift die anders buiten beeld blijft. Als dat niet gebeurt, moet projecttaal wijken.
 
 ## Empirische bedding
 
 ### Dierlijk welzijn
 
-Dierenwelzijn kan niet betrouwbaar worden afgeleid uit één indicator zoals productie, afwezigheid van ziekte of overleving. Hedendaagse welzijnsbenaderingen combineren doorgaans lichamelijke toestand, gedrag, affectieve toestand en mogelijkheden om gemotiveerd gedrag uit te oefenen. De precieze beoordeling is soort- en contextspecifiek.
+Dierenwelzijn kan niet betrouwbaar worden afgeleid uit één indicator zoals productie, afwezigheid van ziekte of overleving. Hedendaagse welzijnsbenaderingen combineren lichamelijke toestand, gedrag, affectieve toestand en mogelijkheden om gemotiveerd gedrag uit te oefenen. De precieze beoordeling is soort- en contextspecifiek.
 
-Daaruit volgt niet rechtstreeks de projectnotie van antwoordruimte. Wel ondersteunt deze literatuur de bescheidener empirische premisse dat een productief en medisch verzorgd dier nog relevante gedragsmatige of affectieve beperkingen kan ondervinden.
+Daaruit volgt niet rechtstreeks een projectbegrip. Wel ondersteunt deze literatuur de empirische premisse dat een productief en medisch verzorgd dier nog relevante gedragsmatige of affectieve beperkingen kan ondervinden. Hoeveel ruimte, sociaal contact of moeder-kalfcontact nodig is, moet door domeinkennis worden onderzocht.
 
 ### Uitvoering en administratieve lasten
 
-Onderzoek naar publieke uitvoering laat zien dat toegang tot rechten en voorzieningen mede wordt bepaald door informatiekosten, nalevingskosten en psychologische lasten. Procedures kunnen formeel beschikbaar zijn en toch feitelijk moeilijk toegankelijk worden voor mensen met weinig tijd, geld, kennis of mentale ruimte.
+Onderzoek naar publieke uitvoering laat zien dat toegang tot rechten en voorzieningen mede wordt bepaald door informatiekosten, nalevingskosten en psychologische lasten. Procedures kunnen formeel beschikbaar zijn en toch feitelijk zwaar uitpakken voor mensen met weinig tijd, geld, kennis of mentale ruimte.
 
-Lipsky's klassieke analyse van street-level bureaucracy maakt bovendien zichtbaar dat beleid niet alleen in wet- en regelgeving bestaat, maar mede in dagelijkse keuzes, routines, caseloads en discretionaire praktijken van uitvoerders. Dat sluit aan bij het projectbegrip draagroute, maar bewijst dat begrip niet.
+Lipsky's analyse van street-level bureaucracy maakt bovendien zichtbaar dat beleid mede vorm krijgt in dagelijkse keuzes, routines, caseloads en discretionaire praktijken. Dat sluit aan bij de vraag langs welke weg onzekerheid en herstelarbeid bij burger of organisatie terechtkomen, maar bewijst geen projectbegrip.
 
-### Procedurele rechtvaardigheid
+### Procedurele rechtvaardigheid en correctie
 
 Literatuur over procedural justice wijst erop dat ervaren rechtvaardigheid niet uitsluitend door de materiële uitkomst wordt bepaald. Gehoord worden, begrijpelijke uitleg, respectvolle behandeling, neutraliteit en betrouwbaarheid van besluitvorming kunnen zelfstandig relevant zijn.
 
-Onafgesloten Vorm maakt hier een extra onderscheid: spreekruimte is nog geen antwoordruimte. Een procedure kan mensen correct horen en toch structureel zo zijn ingericht dat relevante terugkoppeling nauwelijks het systeemontwerp kan veranderen. Dat onderscheid moet empirisch worden onderzocht en niet alleen retorisch worden gesteld.
+Onafgesloten Vorm maakt hier een beperkt extra onderscheid: spreken is nog geen corrigeren. Een procedure kan mensen correct horen en toch zo zijn ingericht dat relevante nieuwe informatie de werkwijze nauwelijks kan veranderen. Dat verschil moet empirisch aantoonbaar zijn; anders is het slechts retorische herformulering.
 
 ## Tegenlicht
 
-### 1. De casussen kunnen te gemakkelijk zijn
+### 1. Geval I en II kunnen nog steeds te gemakkelijk zijn
 
-Beide voorbeelden zijn zo gekozen dat de asymmetrie van macht duidelijk zichtbaar is. Daardoor bestaat het risico dat het kader vooral laat zien wat al moreel plausibel was. Een sterkere test vereist ook grensgevallen waarin minder sluiting slechter uitpakt, waarin de zwakkere actor onbetrouwbare informatie geeft, of waarin snelle harde begrenzing noodzakelijk is.
+Beide situaties maken machtsasymmetrie en verplaatste lasten relatief zichtbaar. Daardoor blijft het risico bestaan dat het kader vooral ordent wat dierenethiek en bestuursrecht al kunnen zeggen. De publieke tekst probeert de meerwaarde daarom niet in de uitkomst te leggen, maar in één verschoven vraag per geval.
 
-De publieke tekst probeert dit te ondervangen door expliciete tegencondities toe te voegen. Maar twee casussen zijn geen validatie van het hele kader.
+### 2. Draagroute mag geen algemene naam voor last worden
 
-### 2. Antwoordruimte kan een containerbegrip worden
-
-Wanneer pijn, keuze, sociale relaties, herstel, bestaanszekerheid, agency en procedurele toegang allemaal onder antwoordruimte vallen, dreigt het begrip te veel te verklaren. Dan wordt vrijwel ieder belang een gebrek aan antwoordruimte zodra het wordt geschonden.
-
-Het begrip blijft alleen bruikbaar wanneer per domein concreet wordt aangegeven welke minimale voorwaarden voor relevant toekomstig antwoorden bedoeld worden en hoe die empirisch of normatief worden onderscheiden van andere belangen.
+Het begrip is alleen nuttig waar last relationeel of institutioneel wordt verdeeld, doorgeschoven of geconcentreerd. Zodra ieder negatief gevolg een draagroute heet, verdwijnt het onderscheidende werk. De toetsvraag blijft: *langs welke weg is deze last hier terechtgekomen, en zou dezelfde uitkomst met een andere verdeling mogelijk zijn geweest?*
 
 ### 3. Sluitingsmacht is niet hetzelfde als schuld
 
-De partij met de meeste feitelijke macht is niet automatisch de partij met de meeste schuld. Zij kan wel een grotere handelingsmogelijkheid of verantwoordingslast hebben. Deze drie vragen moeten uit elkaar blijven:
+De partij met de meeste feitelijke macht is niet automatisch de partij met de meeste schuld. Zij kan wel een grotere handelingsmogelijkheid of verantwoordingslast hebben. Deze vragen moeten uit elkaar blijven: wie veroorzaakte de schade, wie kan haar nu veranderen, en wie moet zich voor de sluiting verantwoorden?
 
-- wie veroorzaakte of koos de schade;
-- wie kan haar nu veranderen;
-- wie moet zich voor de sluiting verantwoorden?
+### 4. Het derde geval mag geen achterdeur krijgen
 
-Zonder dit onderscheid kan machtsanalyse omslaan in een nieuwe automatische schuldtoewijzing.
+Dat een medische diagnose, juridische vaststelling of berekening een vraag voldoende kan beantwoorden, betekent niet dat alle gevolgen daarmee zijn beschreven. Maar een nieuwe vraag is niet hetzelfde als een correctie op de eerste. Wanneer dezelfde fout structureel één groep treft, ontstaat een institutionele vraag omdat er een patroon zichtbaar wordt, niet omdat de oorspronkelijke berekening minder definitief was.
 
-### 4. Empirische onzekerheid kan niet door normatieve taal worden opgelost
-
-Bij zowel dierenwelzijn als uitvoering kunnen gegevens onvolledig, conflicterend of moeilijk interpreteerbaar zijn. Dit kader mag onzekerheid niet automatisch behandelen als reden om de minst sluitende optie te kiezen. Soms kan voorzorg dat rechtvaardigen; soms kunnen andere risico's zwaarder wegen.
-
-De theorie moet daarom ook onder onzekerheid expliciet maken welke normatieve keuze wordt gemaakt en welk verlies daarbij wordt geaccepteerd.
+Dat onderscheid is nodig om te voorkomen dat Onafgesloten Vorm via “er is altijd nog een andere laag” alsnog het laatste woord opeist.
 
 ## Eigen stap
 
-De praktische bijdrage van hoofdstuk 14 is niet een nieuwe beslisformule, maar een **draaglastanalyse van macht**.
+De praktische bijdrage van hoofdstuk 14 is geen nieuwe beslisformule. Het hoofdstuk laat drie mogelijke uitkomsten van dezelfde methodische houding zien:
 
-Een beslissing wordt niet alleen beoordeeld op intentie, regelconformiteit of uiteindelijke uitkomst, maar ook op de tussenliggende verdeling van onzekerheid en herstelkosten. Dat levert vier opeenvolgende vragen op:
+1. **Verschuiven:** bij het dier wordt niet alleen naar productiviteit gekeken, maar naar de vraag op wiens lichaam een noodzakelijke of economische beperking rust.
+2. **Verschuiven:** bij uitvoering wordt niet alleen naar rechtmatigheid of einduitkomst gekeken, maar naar de route waarlangs institutionele onzekerheid en herstelarbeid worden verdeeld.
+3. **Stoppen:** waar recht, berekening of voldoende zekere diagnostiek de primaire vraag al dragen, voegt projecttaal niets toe aan die beslissing.
 
-1. **Sluiting:** welke relevante mogelijkheid wordt door wie beperkt?
-2. **Draagroute:** waar landt de onzekerheid of schade tijdens die beperking?
-3. **Correctie:** welke signalen kunnen de beslissing, procedure of inrichting werkelijk veranderen?
-4. **Rest:** wat blijft ook na een gerechtvaardigde beslissing verloren of door iemand gedragen?
+De sterkste claim blijft daarom bescheiden:
 
-Daarmee kan dezelfde formele uitkomst verschillend worden beoordeeld. Twee systemen kunnen bijvoorbeeld evenveel fouten uiteindelijk corrigeren, terwijl het ene tussentijds bestaansrisico institutioneel opvangt en het andere dat risico volledig bij de burger neerlegt. Twee veehouderijsystemen kunnen vergelijkbare medische uitkomsten hebben terwijl zij aantoonbaar verschillen in gedragsmatige mogelijkheden en chronische belasting.
-
-De stap blijft echter conditioneel. Als bestaande juridische, ethologische of bestuurskundige begrippen een situatie al volledig en zonder relevant verlies beschrijven, moet Onafgesloten Vorm niet doen alsof de eigen terminologie noodzakelijk is.
-
-De sterkste praktische claim is daarom bescheiden:
-
-> Onafgesloten Vorm is alleen nuttig wanneer het de locatie van last, de asymmetrie van sluitingsmacht of de afwezigheid van werkelijke correctie eerder en scherper zichtbaar maakt dan een analyse die alleen naar regel, intentie of einduitkomst kijkt.
-
-Dat is ook de falsificatienorm voor verdere toetsgevallen.
+> Onafgesloten Vorm is alleen nuttig wanneer het een relevante verdeling van last, asymmetrie van sluitingsmacht of afwezigheid van werkelijke correctie eerder en scherper zichtbaar maakt. Waar dat niet gebeurt, moeten andere begrippen het werk doen.
 
 ## Bronnen
 
