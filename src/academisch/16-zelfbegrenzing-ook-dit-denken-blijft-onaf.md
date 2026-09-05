@@ -2,11 +2,11 @@
 
 Dit hoofdstuk raakt aan meerdere tradities van wetenschaps- en begripskritiek zonder met één daarvan samen te vallen.
 
-Bij Popper ligt een klassieke nadruk op weerlegbaarheid: een theorie moet risico lopen op empirische tegenspraak. OOV is echter geen enkelvoudige empirische theorie. Een deel van het project bestaat uit fenomenologische beschrijvingen, een deel uit projectbegrippen en een deel uit normatieve keuzes. Daarom kan falsifieerbaarheid hier niet overal hetzelfde betekenen.
+Bij Popper ligt een klassieke nadruk op weerlegbaarheid: een theorie moet risico lopen op empirische tegenspraak. Onafgesloten Vorm is echter geen enkelvoudige empirische theorie. Een deel van het project bestaat uit fenomenologische beschrijvingen, een deel uit projectbegrippen en een deel uit normatieve keuzes. Daarom kan falsifieerbaarheid hier niet overal hetzelfde betekenen.
 
-Lakatos' idee van onderzoeksprogramma's is bruikbaarder voor de vraag hoe een samenhangend kader zich in de tijd kan ontwikkelen zonder ieder probleem als ad-hoc uitzondering te absorberen. De analogie is beperkt: OOV is geen natuurwetenschappelijk onderzoeksprogramma met een formele harde kern en voorspellende hulphypothesen. Wel is het onderscheid relevant tussen productieve aanpassing en beschermende reparatie.
+Lakatos' idee van onderzoeksprogramma's is bruikbaarder voor de vraag hoe een samenhangend kader zich in de tijd kan ontwikkelen zonder ieder probleem als ad-hoc uitzondering te absorberen. De analogie is beperkt: dit is geen natuurwetenschappelijk onderzoeksprogramma met een formele harde kern en voorspellende hulphypothesen. Wel is het onderscheid relevant tussen productieve aanpassing en beschermende reparatie.
 
-Kuhn laat zien dat begrippen, problemen en maatstaven mede binnen paradigma's worden gevormd. Voor OOV is dat vooral een waarschuwing: een vocabulaire kan zo dominant worden dat het alleen nog ziet wat binnen zijn eigen categorieën verschijnt.
+Kuhn laat zien dat begrippen, problemen en maatstaven mede binnen paradigma's worden gevormd. Voor dit project is dat vooral een waarschuwing: een vocabulaire kan zo dominant worden dat het alleen nog ziet wat binnen zijn eigen categorieën verschijnt.
 
 Conceptuele engineering en conceptual ethics voegen een ander perspectief toe. Begrippen hoeven niet alleen beschreven te worden zoals zij al bestaan; zij kunnen ook worden ontworpen, herzien of vervangen op basis van het werk dat zij moeten doen. Voor projectbegrippen als antwoordruimte, draagroute en sluitingsmacht is dat direct relevant.
 
@@ -14,7 +14,7 @@ Daarnaast sluit het hoofdstuk aan bij reflexieve methodologie in sociale wetensc
 
 ## Empirische en methodologische bedding
 
-Voor een project als OOV is één falsificatiemodel ontoereikend. Minstens vier soorten claims moeten uit elkaar worden gehouden:
+Voor een project als Onafgesloten Vorm is één falsificatiemodel ontoereikend. Minstens vier soorten claims moeten uit elkaar worden gehouden:
 
 1. **Empirisch toetsbare claims.** Bijvoorbeeld uitspraken over dierenwelzijn, stress, herstel, institutionele effecten of menselijke cognitie. Hier moeten relevante empirische disciplines beslissend kunnen corrigeren.
 2. **Fenomenologische of beschrijvende claims.** Deze worden getoetst op ervaringsadequaatheid, interne consistentie, grensgevallen en vergelijkende beschrijving, niet op één experiment.
@@ -37,7 +37,7 @@ Daarom is het onvoldoende om tegenargumenten, beperkingen en alternatieve tradit
 
 Niet ieder vruchtbaar filosofisch begrip maakt scherpe voorspellingen. Begrippen kunnen oriënteren, ordenen of onderscheid zichtbaar maken zonder de structuur van een natuurwetenschappelijke hypothese te hebben.
 
-De eis is daarom niet dat ieder OOV-begrip Popperiaans falsifieerbaar wordt. De eis is dat geen begrip ongevoelig wordt voor tegenvoorbeelden, betere concepten of domeinspecifieke kennis.
+De eis is daarom niet dat ieder projectbegrip Popperiaans falsifieerbaar wordt. De eis is dat geen begrip ongevoelig wordt voor tegenvoorbeelden, betere concepten of domeinspecifieke kennis.
 
 ### 3. Een centrale vocabulaire kan schijnsamenhang produceren
 
@@ -49,11 +49,11 @@ Cross-domain analogieën verdienen daarom een dubbele toets: niet alleen waar de
 
 Hoe langer een project bestaat, hoe meer sociale, emotionele en redactionele investering in zijn centrale woorden ontstaat. Daardoor kunnen begrippen worden beschermd omdat zij herkenbaarheid geven, niet omdat zij nog nodig zijn.
 
-Dat probleem is niet uniek aan OOV. Maar juist een project dat sluitingsmacht en correctieplicht benadrukt, moet ook zijn eigen canoniserende mechanismen zichtbaar houden.
+Dat probleem is niet uniek aan Onafgesloten Vorm. Maar juist een project dat sluitingsmacht en correctieplicht benadrukt, moet ook zijn eigen canoniserende mechanismen zichtbaar houden.
 
 ## Eigen stap
 
-De eigen stap van dit hoofdstuk is geen algemene theorie over wetenschappelijke vooruitgang. Zij is een onderhoudsdiscipline voor OOV zelf.
+De eigen stap van dit hoofdstuk is geen algemene theorie over wetenschappelijke vooruitgang. Zij is een onderhoudsdiscipline voor het project zelf.
 
 Die discipline maakt drie niveaus van verlies expliciet:
 
@@ -81,4 +81,4 @@ Als het antwoord structureel nee is, is corrigeerbaarheid vooral retorisch.
 - Pierre Bourdieu & Loïc Wacquant, *An Invitation to Reflexive Sociology*.
 - Donna Haraway, "Situated Knowledges" — relevant voor de positiegebondenheid van kennis zonder daarmee iedere waarheidsclaim te relativeren.
 
-Deze bronnen ondersteunen verschillende onderdelen van de methodologische bedding. Geen ervan levert de OOV-onderhoudsdiscipline als geheel; die combinatie blijft een projectinterne synthese.
+Deze bronnen ondersteunen verschillende onderdelen van de methodologische bedding. Geen ervan levert deze onderhoudsdiscipline als geheel; die combinatie blijft een projectinterne synthese.
