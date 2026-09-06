@@ -70,6 +70,10 @@ const publicChapters = chapters.filter(
 
         {publicChapters.map((chapter, index) => {
           const number = String(index + 1).padStart(2, '0');
+          const routeLabel =
+            chapter.label === 'Kern' || chapter.label === 'Slot'
+              ? chapter.label
+              : number;
 
           return (
             <a
@@ -77,7 +81,7 @@ const publicChapters = chapters.filter(
               href={`${base}/hoofdstukken/${chapter.slug}/`}
             >
               <span class="home-chapter__number">
-                {number}
+                {routeLabel}
               </span>
 
               <span class="home-chapter__body">
