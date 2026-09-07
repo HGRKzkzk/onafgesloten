@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/ChapterLayout.astro
 order: 14
-title: "Drie toetsgevallen — wat verandert er wanneer dit denken iets moet doen?"
+title: "Drie toetsgevallen: wat verandert er wanneer dit denken iets moet doen?"
 description: "Drie concrete stresstests: twee waarin het begrippenkader de vraag verschuift en één waarin het moet wijken."
 slug: "14-drie-toetsgevallen-wat-verandert-er-wanneer-dit-denken-iets-moet-doen"
 status: "publieke-werkversie"
@@ -28,7 +28,7 @@ Drie vragen zijn genoeg:
 
 Een toepassing die alleen bevestiging kan vinden, toetst niets.
 
-## Geval I — de melkkoe in een intensief productiesysteem
+## Geval I: de melkkoe in een intensief productiesysteem
 
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">De koe kijkt niet terug als beleidsmodel</h3>
@@ -59,7 +59,7 @@ Deze duiding verzwakt wanneer degelijk onderzoek laat zien dat de beperking voor
 
 > **Productiviteit kan hier sluiting verbergen: het dier functioneert terwijl de weg waarlangs de last wordt afgewenteld buiten het dossier blijft.**
 
-## Geval II — de burger tegenover een uitvoeringsinstitutie
+## Geval II: de burger tegenover een uitvoeringsinstitutie
 
 Stel een burger is voor zijn inkomen afhankelijk van een publieke uitkering. Een risicosignaal leidt ertoe dat extra bewijs nodig is en betaling tijdelijk wordt opgeschort. De brief legt beperkt uit waarom. De burger begrijpt de procedure onvoldoende en kan daardoor huur, energie of boodschappen moeilijk betalen.
 
@@ -87,7 +87,7 @@ Deze duiding verzwakt wanneer een zware opschorting aantoonbaar noodzakelijk is 
 
 > **De verschoven vraag is dus niet alleen of de beslissing klopt, maar waarom de onzekerheid van het instituut in dit leven moest landen en of nieuwe informatie de werkwijze nog werkelijk kan veranderen.**
 
-## Geval III — wanneer het denken moet stoppen
+## Geval III: wanneer het denken moet stoppen
 
 Soms is een fout gewoon een fout.
 
