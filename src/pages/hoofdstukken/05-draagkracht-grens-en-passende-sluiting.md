@@ -50,7 +50,7 @@ Een mens mag slapen terwijl een conflict nog niet opgelost is. Een slachtoffer h
 
 Soms beschermt juist het tijdelijke dichtgaan wat later misschien weer open kan.
 
-Daarom hoort ook tijd bij begrenzing. Wat uiteindelijk mogelijk of wenselijk kan zijn, hoeft niet nu te gebeuren. Heropening kan te vroeg komen. Een gesprek dat vandaag alleen nieuwe schade oplevert kan over maanden wel draagbaar zijn — of nooit nodig blijken.
+Daarom hoort ook tijd bij begrenzing. Wat uiteindelijk mogelijk of wenselijk kan zijn, hoeft niet nu te gebeuren. Heropening kan te vroeg komen. Een gesprek dat vandaag alleen nieuwe schade oplevert kan over maanden wel draagbaar zijn, of nooit nodig blijken.
 
 > **Een terugweg hoeft geen open deur te zijn. Soms is zij alleen het feit dat de deur niet voor eeuwig door één partij wordt dichtgemetseld.**
 
