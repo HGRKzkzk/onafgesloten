@@ -60,7 +60,9 @@ Die zin vermijdt twee uitersten: het soevereine zelf dat zichzelf volledig heeft
 </figure>
 <div class="uitkijkje__text">
 
-In Delacroix’ *La Liberté guidant le peuple* loopt vrijheid tussen lichamen, puin, strijd en geschiedenis. Zelfs de personificatie van Vrijheid staat niet buiten de wereld.
+Delacroix schildert Vrijheid niet buiten de omstandigheden. Ze loopt door puin, tussen gewonde en dode lichamen, samen met mensen die vechten en volgen.
+
+Daarom past het beeld hier. Vrijheid verschijnt niet pas wanneer geschiedenis, lichaam en gevaar verdwijnen. Zij verschijnt in wat mensen binnen zulke omstandigheden nog kunnen doen, riskeren en weigeren.
 
 </div>
 <p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_Liberty_Leading_the_People.jpeg">Open bron · Wikimedia Commons</a></p>
@@ -106,11 +108,11 @@ Vrijheid rechtvaardigt dus noch *meer keuze is altijd beter*, noch *wij weten wa
 <h3 class="uitkijkje__title">Een paar akkoorden zijn soms genoeg</h3>
 <div class="uitkijkje__text">
 
-Op *Kind of Blue* spelen Miles Davis en zijn medemuzikanten niet in een muzikale leegte. Er zijn toonsoorten, modi, afspraken, een tempo, andere spelers en een geschiedenis van luisteren. Toch klinkt de muziek nergens als een invuloefening.
+Op *Kind of Blue* spelen Miles Davis en zijn medemuzikanten binnen duidelijke muzikale voorwaarden: een tempo, een modaal kader, een vorm en andere spelers om rekening mee te houden. Niet iedere noot ligt vooraf vast.
 
-Een trompettist begint. Een pianist laat ruimte. Iemand antwoordt. Iemand zwijgt.
+Juist daardoor kunnen de musici reageren op wat er net klinkt. Een frase van de trompet verandert wat de pianist of saxofonist daarna kan doen, zonder dat iemand de muziek hoeft te verlaten om iets eigens te spelen.
 
-Dan gaat het stuk verder.
+Dat is het punt hier: vrijheid is niet de afwezigheid van voorwaarden. Goede voorwaarden kunnen juist de ruimte maken waarin een werkelijk antwoord mogelijk wordt.
 
 </div>
 </aside>
