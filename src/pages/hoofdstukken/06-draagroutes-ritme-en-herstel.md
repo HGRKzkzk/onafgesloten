@@ -76,7 +76,7 @@ Intuïtie mag daarbij het alarm slaan; zij mag niet alleen het vonnis schrijven.
 
 Ook de aard van een passend antwoord verandert door de tijd. Wie ontredderd is, heeft misschien eerst ontvangst en enige stabiliteit nodig; tegenspraak kan dan feitelijk juist en toch ontijdig zijn. Later kan bevestiging juist verstarren en wordt scherpe correctie noodzakelijk.
 
-Een bruikbare beweging kan lopen van ontvangen naar stabiliseren, samen verkennen, tegenspreken en opnieuw plaatsen. Dat is geen protocol en geen ladder waarop iedereen dezelfde kant op moet. Het is een herinnering dat geen enkele omgangsvorm — empathie, dialoog, kritiek of grens — altijd gezond is.
+Een bruikbare beweging kan lopen van ontvangen naar stabiliseren, samen verkennen, tegenspreken en opnieuw plaatsen. Dat is geen protocol en geen ladder waarop iedereen dezelfde kant op moet. Het is een herinnering dat geen enkele omgangsvorm altijd gezond is, of het nu gaat om empathie, dialoog, kritiek of grens.
 
 Dit bewaakt ook iets anders: groei kan niet worden afgedwongen door iemand voortdurend met “het moeilijke gesprek” te confronteren. Soms ontstaat antwoordruimte juist doordat druk tijdelijk afneemt. Organische groei vraagt uitnodiging en omstandigheden, geen gespreksplicht.
 
