@@ -44,7 +44,7 @@ De meest nabije toegang tot deze gedachte is niet een abstracte theorie, maar he
 
 Zelfs wanneer we alleen zijn, zijn we niet uitsluitend uit onszelf samengesteld. We dragen taal die we niet hebben uitgevonden, gebaren die we van anderen hebben geleerd, herinneringen waarin andere mensen voorkomen en gewoonten die ooit ergens zijn ontstaan. Ook onze lichamelijke ritmes zijn niet het resultaat van een bewuste keuze.
 
-Afhankelijkheid is daarom niet iets wat pas verschijnt wanneer zelfstandigheid mislukt. Zij gaat eraan vooraf. Dat maakt een mens niet minder werkelijk als individu. Integendeel: juist binnen al die afhankelijkheden kan een eigen plaats ontstaan — een lichaam vanwaaruit iets wordt gevoeld, herinnerd, verlangd en beantwoord.
+Afhankelijkheid is daarom niet iets wat pas verschijnt wanneer zelfstandigheid mislukt. Zij gaat eraan vooraf. Dat maakt een mens niet minder werkelijk als individu. Integendeel: juist binnen al die afhankelijkheden kan een eigen plaats ontstaan: een lichaam vanwaaruit iets wordt gevoeld, herinnerd, verlangd en beantwoord.
 
 We zijn werkelijk iemand, maar niet uitsluitend uit onszelf.
 
@@ -85,7 +85,7 @@ We zijn werkelijk iemand, maar niet uitsluitend uit onszelf.
 
 ### Vorm is geen vergissing
 
-Het woord <span class="begrip" data-term="vorm">vorm</span> kan gemakkelijk klinken alsof er ergens achter de zichtbare werkelijkheid iets oorspronkelijkers schuilgaat — alsof de grens alleen een oppervlakkige verpakking is die we moeten doorzien. Dat is hier niet de bedoeling. Vorm is nodig, want zonder vorm is er geen *hier* vanwaar iets kan gebeuren.
+Het woord <span class="begrip" data-term="vorm">vorm</span> kan gemakkelijk klinken alsof er ergens achter de zichtbare werkelijkheid iets oorspronkelijkers schuilgaat, alsof de grens alleen een oppervlakkige verpakking is die we moeten doorzien. Dat is hier niet de bedoeling. Vorm is nodig, want zonder vorm is er geen *hier* vanwaar iets kan gebeuren.
 
 Een huid maakt verschil tussen binnen en buiten. Een taal heeft regels waardoor woorden herkenbaar worden. Een vriendschap krijgt vorm doordat bepaalde herinneringen, verwachtingen en gewoonten samen iets vormen wat andere relaties niet zijn. Ook verantwoordelijkheid vraagt vorm: als geen handeling ergens aan kan worden toegeschreven, kan niemand ergens op worden aangesproken. Als iedere grens onmiddellijk verdacht wordt, kan ook zorg nergens meer landen.
 
@@ -163,7 +163,7 @@ Hier wordt onafgeslotenheid praktisch belangrijk. We verwarren stabiliteit gemak
 
 Er is dus een verschil tussen *deze vorm blijft bestaan* en *deze vorm kan blijven bestaan zonder haar eigen gevoeligheid op te gebruiken*. Een autoritaire orde kan stabiel zijn. Een verslaving kan een herkenbaar patroon hebben. Een uitgeput mens kan nog steeds iedere ochtend op tijd op zijn werk verschijnen.
 
-Voortbestaan vertelt ons dat een vorm op de een of andere manier wordt gedragen. Het vertelt nog niet hoe — en ook niet door wie.
+Voortbestaan vertelt ons dat een vorm op de een of andere manier wordt gedragen. Het vertelt nog niet hoe of door wie.
 
 <aside class="uitkijkje uitkijkje--beeld">
   <p class="uitkijkje__label">Even opzij</p>
@@ -206,7 +206,7 @@ Hier ontstaat een mogelijke misvatting. Als gesloten vormen kunnen verstarren, z
 
 Openheid zonder selectie wordt geen vrijheid maar overspoeling. Daarom heeft onafgeslotenheid <span class="begrip" data-term="draagkracht">draagkracht</span> nodig. Draagkracht is hier niet simpelweg hardheid of incasseringsvermogen, maar de mogelijkheid om verschil te ontvangen zonder onmiddellijk uiteen te vallen of alles wat stoort buiten te sluiten.
 
-Soms betekent dat méér kunnen verdragen; soms betekent het juist minder hoeven dragen. Een mens die na weken slaaptekort niets meer kan hebben, hoeft niet noodzakelijk weerbaarder te worden — misschien moet hij slapen. Een team dat bezwijkt onder tegenstrijdige opdrachten heeft niet automatisch een training in veerkracht nodig — misschien moet iemand beslissen welke opdracht werkelijk voorrang heeft.
+Soms betekent dat méér kunnen verdragen; soms betekent het juist minder hoeven dragen. Een mens die na weken slaaptekort niets meer kan hebben, hoeft niet noodzakelijk weerbaarder te worden. Misschien moet hij slapen. Een team dat bezwijkt onder tegenstrijdige opdrachten heeft niet automatisch een training in veerkracht nodig. Misschien moet iemand beslissen welke opdracht werkelijk voorrang heeft.
 
 Een vorm wordt niet gezonder doordat zij steeds meer spanning kan absorberen. Zij wordt gezonder wanneer spanning een weg kan vinden waarop voelen, grens, correctie en herstel mogelijk blijven.
 
