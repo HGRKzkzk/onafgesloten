@@ -48,9 +48,9 @@ De concrete wederkerige verhouding tot de levende ander is beëindigd. De dode k
 <h3 class="uitkijkje__title">Gilgamesj vindt geen achterdeur</h3>
 <div class="uitkijkje__text">
 
-In het oude Mesopotamische *Gilgamesj-epos* wordt de dood van Enkidu geen tussenstation in een keurige groeicurve. Gilgamesj raakt ontregeld en zoekt letterlijk naar een uitweg uit sterfelijkheid. Die zoektocht levert hem geen menselijk privilege op.
+In het oude Mesopotamische *Gilgamesj-epos* sterft Enkidu en Gilgamesj raakt ontregeld. Hij gaat op zoek naar onsterfelijkheid, maar keert terug zonder de dood te hebben overwonnen of Enkidu terug te krijgen.
 
-Soms krijgt verlies geen oplossing. Er moet alleen opnieuw geleefd worden in een werkelijkheid die anders is geworden.
+Dat maakt het verhaal hier scherp: verlies kan iemand veranderen en inzicht kan achteraf ontstaan, maar geen van beide maakt de dood ongedaan. Betekenis na verlies is geen groeiplicht en geen metafysische achterdeur.
 
 </div>
 </aside>
