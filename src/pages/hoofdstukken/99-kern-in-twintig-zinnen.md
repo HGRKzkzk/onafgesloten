@@ -51,7 +51,7 @@ source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
     Niet alle mogelijkheden hoeven open te blijven; wel de basale voorwaarden om later opnieuw te kunnen voelen, weigeren, herstellen en antwoorden.
 
 <!-- laag: beschrijvend/metafysisch + normatief -->
-12. **De ander blijft meer dan mijn categorie — ook wanneer hij niet in mijn taal spreekt.**  
+12. **De ander blijft meer dan mijn categorie, ook wanneer hij niet in mijn taal spreekt.**  
     Menselijke tegenspraak hoeft geen afschrijving te worden; dierlijk voelen wordt niet minder werkelijk door het ontbreken van menselijke taal.
 
 <!-- laag: normatief -->
