@@ -1,0 +1,22 @@
+---
+import { lateUitkijkjes } from '../data/lateUitkijkjes';
+
+const { slug } = Astro.props as { slug: string };
+const item = lateUitkijkjes[slug];
+---
+
+{item && (
+  <aside class="uitkijkje uitkijkje--late" data-label="Uitkijkje">
+    <h3 class="uitkijkje__title">{item.title}</h3>
+    <figure class="uitkijkje__figure">
+      <img src={item.visual.src} alt={item.visual.alt} loading="lazy" decoding="async" />
+      <figcaption>{item.visual.caption}</figcaption>
+    </figure>
+    <div class="uitkijkje__text">
+      {item.paragraphs.map((paragraph) => <p>{paragraph}</p>)}
+    </div>
+    <p class="uitkijkje__source">
+      Beeld: <a href={item.visual.sourceUrl} target="_blank" rel="noopener noreferrer">{item.visual.sourceLabel}</a>
+    </p>
+  </aside>
+)}
