@@ -202,7 +202,7 @@ Liefde staat niet boven recht, grens of waarheid. Zij kan blind maken. Zorg kan 
 
 Zij is geen vervanging voor rechtvaardigheid.
 
-Wat liefde wel kan bewaren is de weigering de ander volledig te laten samenvallen met diens functie voor mij — zelfs wanneer ik afstand moet nemen, een grens moet handhaven of tegen diens handelen in moet gaan.
+Wat liefde wel kan bewaren is de weigering de ander volledig te laten samenvallen met diens functie voor mij, zelfs wanneer ik afstand moet nemen, een grens moet handhaven of tegen diens handelen in moet gaan.
 
 > **Zachtheid heeft klauwen nodig, en klauwen hoeven niet te vergeten wat zij beschermen.**
 

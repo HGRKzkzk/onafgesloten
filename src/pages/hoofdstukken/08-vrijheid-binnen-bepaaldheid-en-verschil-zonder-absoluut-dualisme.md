@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/ChapterLayout.astro
 order: 8
-title: "Vrijheid binnen bepaaldheid — en verschil zonder absoluut dualisme"
+title: "Vrijheid binnen bepaaldheid en verschil zonder absoluut dualisme"
 description: "Over vrijheid zonder oorzaakloosheid, verantwoordelijkheid zonder soeverein zelf en verbondenheid die verschil, grens en asymmetrie niet uitwist."
 slug: "08-vrijheid-binnen-bepaaldheid-en-verschil-zonder-absoluut-dualisme"
 status: "publieke-werkversie"

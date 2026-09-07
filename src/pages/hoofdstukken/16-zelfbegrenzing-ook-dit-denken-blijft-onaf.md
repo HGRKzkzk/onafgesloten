@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/ChapterLayout.astro
 order: 16
-title: "Zelfbegrenzing — ook dit denken blijft onaf"
+title: "Zelfbegrenzing: ook dit denken blijft onaf"
 slug: "zelfbegrenzing-ook-dit-denken-blijft-onaf"
 status: "uitgewerkt-met-academische-laag"
 source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"

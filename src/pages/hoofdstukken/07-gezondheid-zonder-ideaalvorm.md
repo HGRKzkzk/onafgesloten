@@ -26,7 +26,7 @@ Daarom is gezondheid hier geen wedstrijd in nabijheid tot één ideaal, maar een
 </figure>
 <div class="uitkijkje__text">
 
-Leonardo’s Vitruviusman is een schitterend schema van verhouding — en juist daardoor een aardig waarschuwingsbord. Niemand leeft werkelijk als diagram. Het lichaam zweet, veroudert, is asymmetrisch, wordt ziek, herstelt gedeeltelijk en weigert geregeld de maatvoering.
+Leonardo’s Vitruviusman is een schitterend schema van verhouding en juist daardoor een aardig waarschuwingsbord. Niemand leeft werkelijk als diagram. Het lichaam zweet, veroudert, is asymmetrisch, wordt ziek, herstelt gedeeltelijk en weigert geregeld de maatvoering.
 
 Een ideaal kan helpen kijken. Het wordt gevaarlijk wanneer het levende lichaam vervolgens als slechte uitvoering van het schema verschijnt.
 
@@ -110,4 +110,4 @@ Hoe ver dat antwoord reikt, wie het moet geven en wanneer bescherming zelf pater
 
 Gezondheid zelf blijft bescheidener.
 
-Zij vraagt niet of een leven optimaal, normaal of onbeperkt veerkrachtig is. Zij vraagt of een levende vorm nog voldoende samenhang, gevoeligheid, grens en herstelvermogen heeft om haar eigen leven te blijven dragen — en of wat als haar functioneren verschijnt niet stiekem door een andere drager wordt betaald.
+Zij vraagt niet of een leven optimaal, normaal of onbeperkt veerkrachtig is. Zij vraagt of een levende vorm nog voldoende samenhang, gevoeligheid, grens en herstelvermogen heeft om haar eigen leven te blijven dragen, en of wat als haar functioneren verschijnt niet stiekem door een andere drager wordt betaald.

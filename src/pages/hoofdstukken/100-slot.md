@@ -17,7 +17,7 @@ Die vraag wordt politiek en ethisch zodra de ene vorm veel macht krijgt over de 
 
 Wij zijn daarin geen afgeronde heersers boven de wereld, maar kleine, afhankelijke dieren die kunnen voelen, antwoorden, verwonden, beschermen, maken en vieren. Onze klauwen zijn nodig waar zachtheid anders wordt uitgebuit; onze zachtheid is nodig opdat de klauw niet zelf tot roofdier wordt.
 
-> **Wat verschijnt, verschijnt onaf — en juist daarom kan het werkelijk raken.**
+> **Wat verschijnt, verschijnt onaf, en juist daarom kan het werkelijk raken.**
 
 ---
 
