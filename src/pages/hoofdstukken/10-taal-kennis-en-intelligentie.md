@@ -74,7 +74,7 @@ Dat vraagt een dubbele discipline.
 
 Aan de ene kant moeten we werkelijk durven zeggen dat sommige verklaringen beter zijn dan andere. Een meetinstrument kan nauwkeuriger zijn dan een indruk. Een theorie kan meer verschijnselen verklaren met minder noodgrepen. Een getuigenis kan door onafhankelijk bewijs worden bevestigd.
 
-Aan de andere kant moet een goede waarheidspraxis ruimte behouden voor de mogelijkheid dat juist het goed werkende kader iets mist.
+Aan de andere kant moet een goede omgang met waarheid ruimte behouden voor de mogelijkheid dat juist het goed werkende kader iets mist.
 
 > **Kennis is een tijdelijke sluiting onder correctieplicht.**
 
@@ -102,7 +102,7 @@ Daarom is niet iedere flexibiliteit een teken van kwaliteit. Een theorie die wer
 
 ## Wetenschap als georganiseerde correctie
 
-Wetenschap is een krachtige vorm van georganiseerde ontvankelijkheid wanneer zij afbakent, meet, toetst, herhaalt, vergelijkt, onzekerheid zichtbaar maakt en haar claims proportioneert aan bewijs.
+Wetenschap is een krachtige vorm van georganiseerde ontvankelijkheid wanneer zij afbakent, meet, toetst, herhaalt, vergelijkt, onzekerheid zichtbaar maakt en haar claims afstemt op het beschikbare bewijs.
 
 Dat betekent niet dat wetenschap één methode heeft of dat onderzoekers vrij zijn van belangen, instituties en geschiedenis. Wetenschappelijke kennis ontstaat zelf binnen systemen van financiering, publicatie, reputatie, meetpraktijken en disciplinaire gewoonten.
 
@@ -132,9 +132,9 @@ Dat onderscheid wordt cruciaal wanneer kennis asymmetrisch verdeeld is. Een arts
 
 Die asymmetrie is niet onrechtvaardig omdat kennis ongelijk verdeeld is. Zij wordt problematisch wanneer de deskundige partij ook alleen mag bepalen welke vragen geldig zijn, welke gevolgen meetellen en wanneer de procedure als afgerond geldt.
 
-Dan verandert epistemische voorsprong in <span class="begrip" data-term="sluitingsmacht">sluitingsmacht</span>.
+Dan verandert kennisvoorsprong in <span class="begrip" data-term="sluitingsmacht">sluitingsmacht</span>.
 
-Een waarheidsclaim wordt epistemisch gevaarlijk wanneer tegenspraak uitsluitend nog als bewijs van onbegrip kan worden verwerkt. Wie zegt *alleen iemand die het begrijpt is het met mij eens* heeft een constructie gemaakt waarin kritiek bij voorbaat niets meer kan veranderen.
+Een waarheidsclaim wordt gevaarlijk zodra tegenspraak uitsluitend nog als bewijs van onbegrip kan worden verwerkt. Wie zegt *alleen iemand die het begrijpt is het met mij eens* heeft een constructie gemaakt waarin kritiek bij voorbaat niets meer kan veranderen.
 
 > **Waarheid die alleen kan blijven staan doordat haar toetsing wordt opgeschort, verandert van kennisclaim in sluitingsmacht.**
 
@@ -158,7 +158,7 @@ De vraag is hoe beide vormen van kennis elkaar kunnen corrigeren zonder dat éé
 
 Dat vraagt soms onafhankelijke meting, soms langduriger observatie, soms gesprek, soms een second opinion en soms het erkennen dat een onzekerheid voorlopig niet kan worden opgeheven.
 
-Epistemische wederkerigheid betekent dus niet dat iedere stem hetzelfde gewicht krijgt op iedere feitelijke vraag. Zij betekent dat relevante terugkoppeling niet principieel onschadelijk mag worden gemaakt door degene die het beoordelingskader beheert.
+Dat betekent niet dat iedere stem hetzelfde gewicht krijgt op iedere feitelijke vraag. Wel moet relevante terugkoppeling werkelijk iets kunnen betekenen, ook wanneer zij komt van iemand die het beoordelingskader niet beheert.
 
 ## Modellen zijn hulpmiddelen, geen bestemmingen
 
