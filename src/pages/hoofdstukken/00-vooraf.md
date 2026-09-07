@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/ChapterLayout.astro
 order: 0
-title: "Vooraf — geen theorie van alles"
+title: "Vooraf: geen theorie van alles"
 description: "Een uitnodiging om mee te denken over onafgesloten vorm, zonder van die gedachte een theorie van alles te maken."
 slug: "vooraf"
 status: "publieke-werkversie"
@@ -23,7 +23,7 @@ themes:
   - cosmopsychische-intuïtie
 ---
 
-## Vooraf — geen theorie van alles
+## Vooraf: geen theorie van alles
 
 Soms weten we opvallend snel wat iets is.
 
@@ -68,7 +68,7 @@ Dat is nadrukkelijk niet de bedoeling.
 
   <p>
     Het is een mooie grap over systemen die bruikbaar worden door steeds meer werkelijkheid weg
-    te laten. Een kaart kan zo algemeen worden dat zij nergens meer ongelijk heeft — en daardoor
+    te laten. Een kaart kan zo algemeen worden dat zij nergens meer ongelijk heeft en daardoor
     ook nauwelijks nog ergens heen wijst.
   </p>
 
