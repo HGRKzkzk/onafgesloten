@@ -60,9 +60,9 @@ Institutionele openheid is daarom geen houding. Zij moet in routes, bevoegdheden
 <h3 class="uitkijkje__title">Bureaucratie heeft een lange komische geschiedenis</h3>
 <div class="uitkijkje__text">
 
-Honoré Daumier maakte een carrière van mensen achter toga’s, bureaus en functies die net iets groter lijken dan de mensen zelf. Zijn karikaturen zijn vol opgeblazen ernst, papier, houdingen en gezichten die al een halve procedure lijken te zijn.
+Daumier tekent rechters, advocaten en bestuurders achter toga’s, bureaus en stapels papier; hun houding en kleding maken de functie soms letterlijk groter dan de persoon.
 
-Soms heeft een heel bestuurskundig probleem alleen een te grote hoed en een bureau nodig.
+De grap werkt omdat hij iets institutioneels zichtbaar maakt: status en procedure kunnen zoveel gewicht krijgen dat de concrete mens en de gevolgen van een besluit uit beeld raken. De te grote hoed is dan niet alleen komisch, maar een beeld van macht die haar drager overschaduwt.
 
 </div>
 </aside>
