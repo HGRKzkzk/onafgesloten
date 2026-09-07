@@ -49,9 +49,9 @@ Een goede categorie is niet waardeloos omdat zij grenzen heeft. Zij wordt gevaar
 <h3 class="uitkijkje__title">Een toren van taal</h3>
 <div class="uitkijkje__text">
 
-Bruegels *Toren van Babel* is tegelijk technisch wonder en communicatieve nachtmerrie. Hoe hoger de constructie, hoe indrukwekkender de orde — en hoe zichtbaarder de vraag of iedereen nog in dezelfde werkelijkheid werkt.
+Bruegels *Toren van Babel* toont een enorme bouwplaats: verdiepingen, steigers, arbeiders en materiaalstromen moeten op grote schaal op elkaar worden afgestemd. In het verhaal waarnaar het schilderij verwijst valt juist die gedeelde taal uiteen en stokt de coördinatie.
 
-Taal en kennis kunnen enorme bouwkracht geven. Dat is nog geen garantie dat de constructie terug kan luisteren.
+Een kennissysteem kan net zo indrukwekkend ordenen en classificeren, en toch slecht merken wanneer mensen, feiten of gevolgen niet meer in zijn begrippen passen. Dan is niet méér ordening het antwoord, maar een route waarop afwijkingen de taal en het systeem zelf kunnen corrigeren.
 
 </div>
 </aside>
