@@ -48,21 +48,19 @@ En *wat verschijnt, verschijnt onaf* mag niet worden gebruikt waar onafheid niet
 
 > **Onafgeslotenheid is geen verbod op bepaaldheid, eindigheid of conclusie.**
 
-## Wat deze revisie al heeft gekost
+## Niet ieder projectwoord hoeft te blijven
 
-Zelfbegrenzing blijft leeg wanneer zij alleen opsomt wat ooit zou kunnen verdwijnen. Daarom wordt hier ook bijgehouden wat tijdens het werk werkelijk status heeft verloren.
+Zelfbegrenzing blijft leeg wanneer alleen wordt opgesomd wat ooit misschien zou kunnen verdwijnen. Ook woorden die tijdens het denken bruikbaar zijn, hoeven niet allemaal als zelfstandig projectbegrip te blijven staan.
 
-`Restlast` is niet langer een zelfstandig dragend projectbegrip. Het woord kan in gewoon Nederlands nog bruikbaar zijn voor last of verlies dat na een keuze of ingreep overblijft. Maar waar we concreter kunnen zeggen dat iemand schade, risico, wachttijd, verlies of extra arbeid draagt, heeft die taal voorrang. In hoofdstuk 14 is daarom ook de kop *Waar landt de restlast?* vervangen door de concretere vraag *Waar komt de belasting terecht?*
+`Restlast` gebruik ik daarom niet als zelfstandig dragend begrip. In gewoon Nederlands kan het nog steeds een bruikbaar woord zijn voor last of verlies dat na een keuze of ingreep overblijft. Maar waar concreter kan worden gezegd dat iemand schade, risico, wachttijd, verlies of extra arbeid draagt, heeft die taal voorrang.
 
-`Antwoordruimte` blijft voorlopig staan, maar smaller dan voorheen. Het is geen verzamelnaam voor autonomie, welzijn, vrijheid of alles wat een goed leven mogelijk maakt. Het begrip is alleen onderscheidend wanneer een verhouding of machtsstructuur de reële mogelijkheid raakt om later nog relevant verschil te kunnen maken door bijvoorbeeld te antwoorden, weigeren, corrigeren, vertrekken of herstellen.
+`Antwoordruimte` blijft smaller. Het is geen verzamelnaam voor autonomie, welzijn, vrijheid of alles wat een goed leven mogelijk maakt. Het begrip voegt alleen iets toe wanneer een verhouding of machtsstructuur de reële mogelijkheid raakt om later nog relevant verschil te maken door bijvoorbeeld te antwoorden, weigeren, corrigeren, vertrekken of herstellen.
 
-`Draagroute` blijft eveneens, maar alleen waar last werkelijk relationeel of institutioneel wordt verdeeld, doorgeschoven of geconcentreerd. Het begrip voegt iets toe wanneer de vraag *langs welke weg is deze last hier terechtgekomen?* een andere analyse opent dan alleen de vraag hoeveel iemand kan dragen.
+`Draagroute` blijft alleen nuttig waar last werkelijk relationeel of institutioneel wordt verdeeld, doorgeschoven of geconcentreerd. Het begrip voegt iets toe wanneer de vraag *langs welke weg is deze last hier terechtgekomen?* een andere analyse opent dan alleen de vraag hoeveel iemand kan dragen.
 
-`Vormvermogen` is na vergelijking verlaten als zelfstandig projectbegrip. Het woord probeerde de mogelijkheid te benoemen dat een vorm na verstoring opnieuw samenhang vindt zonder noodzakelijk naar haar eerdere toestand terug te keren. Maar die breedte bleek onvoldoende onderscheidend. Handelingsvermogen of agency is preciezer waar handelen centraal staat; plasticiteit waar veranderbaarheid wordt bedoeld; adaptief vermogen waar aanpassing telt; veerkracht en herstelvermogen waar omgang met belasting en herstel worden onderzocht. Het eigen woord trok die verschillende verschijnselen eerder samen dan dat het een nieuw onderscheid zichtbaar maakte.
+`Vormvermogen` gebruik ik niet als apart projectbegrip. Soms gaat het preciezer over handelingsvermogen, plasticiteit, aanpassing, veerkracht of herstelvermogen. De gedachte die wel blijft staan is eenvoudiger: herstel hoeft geen terugkeer te zijn en kan een andere samenhang opleveren waarin opnieuw voelen, begrenzen en antwoorden mogelijk wordt.
 
-De achterliggende gedachte hoeft daarmee niet te verdwijnen: herstel hoeft geen terugkeer te zijn en kan een andere samenhang opleveren waarin opnieuw voelen, begrenzen en antwoorden mogelijk wordt. Wat wél verloren gaat, is de suggestie dat deze verschillende mogelijkheden samen één afzonderlijk vermogen vormen. Kernzin 10 en hoofdstuk 6 spreken daarom concreter en laten per domein ruimte voor preciezere bestaande begrippen.
-
-Deze uitkomsten zijn ongelijk, en dat is juist de bedoeling. Zelfcorrectie hoeft niet bij ieder begrip tot hetzelfde ritueel van “nuanceren maar behouden” te leiden.
+Zelfcorrectie hoeft dus niet bij ieder begrip tot hetzelfde ritueel van “nuanceren maar behouden” te leiden.
 
 ## Tegenvoorbeelden moeten iets kunnen kosten
 
@@ -70,7 +68,7 @@ Een theorie kan gemakkelijk bescheiden lijken door overal tegenvoorbeelden te no
 
 Een serieus tegenvoorbeeld kan verschillende dingen doen: een toepassing corrigeren, een begrip regionaal beperken, een verbinding tussen begrippen verbreken, laten zien dat een externe discipline het werk beter doet, of een onderdeel eenvoudig overbodig maken.
 
-Hoofdstuk 14 bevat daarom nu ook een geval waarin de uitkomst niet een verfijning van het kader is. Bij een ondubbelzinnige administratieve rekenfout bepalen recht en berekening wat de primaire correctie is. Extra projecttaal maakt die beslissing niet beter. Daar moet zij wijken.
+Hoofdstuk 14 bevat ook een geval waarin de uitkomst niet een verfijning van het kader is. Bij een ondubbelzinnige administratieve rekenfout bepalen recht en berekening wat de primaire correctie is. Extra projecttaal maakt die beslissing niet beter. Daar moet zij wijken.
 
 Dat laatste is geen mislukking.
 
@@ -113,19 +111,6 @@ Het verschil zit niet tussen open en dicht, maar tussen een grens die redenen ka
 Een bezwaar mag worden afgewezen. Een bron mag minder relevant blijken. Een vraag mag voorlopig onbeantwoord blijven. Maar het project moet niet doen alsof een onbeantwoorde vraag daardoor verdwenen is.
 
 Ook denken heeft rust, selectie en afsluiting nodig.
-
-## Een klein onderhoudsritme
-
-Voor een substantieel nieuw begrip, hoofdstuk of toepassing volstaat daarom een korte toets:
-
-1. Wat wordt werkelijk toegevoegd?
-2. Welke bestaande discipline doet dit mogelijk al beter?
-3. Wat zou laten zien dat het centrale begrip te ruim, dubbelop of verkeerd gekozen is?
-4. Welke empirische kennis kan de toepassing corrigeren?
-5. Welke normatieve stap wordt gekozen in plaats van afgeleid?
-6. Waar zou minder projecttaal preciezer zijn?
-
-Geen formulier, maar een gewoonte van onderhoud.
 
 ## Wat mag blijven staan
 
