@@ -157,7 +157,7 @@ Maar ook dat kan een prestatie-eis worden.
 
 Een mens mag een tijd niets nieuws willen. Een gemeenschap mag gewoonten bewaren. Een dier hoeft niet permanent verrijkt te worden met prikkels wanneer rust ontbreekt. Een theorie hoeft niet iedere week uit te dijen om onafgesloten te blijven.
 
-Onafgeslotenheid betekent niet voortdurende verandering. Zij betekent dat verandering mogelijk blijft waar verschil werkelijk iets laat zien — en dat ook rust, continuïteit en tijdelijke sluiting serieus genomen worden wanneer zij dragen wat anders uiteenvalt.
+Onafgeslotenheid betekent niet voortdurende verandering. Zij betekent dat verandering mogelijk blijft waar verschil werkelijk iets laat zien. Ook rust, continuïteit en tijdelijke sluiting moeten serieus worden genomen wanneer zij dragen wat anders uiteenvalt.
 
 Daarom wil ik spanning niet verheerlijken en rust niet wantrouwen.
 
@@ -165,6 +165,6 @@ Daarom wil ik spanning niet verheerlijken en rust niet wantrouwen.
 
 Tussen die twee ligt geen vast optimum. Er ligt een ritme dat per vorm, situatie en geschiedenis verschilt.
 
-Dat ritme brengt het volgende hoofdstuk dichterbij. Want zodra spanning niet alleen wordt gezien als iets dat moet verdwijnen, ontstaat een nieuwe vraag: **wat maakt het mogelijk haar te dragen zonder eraan ten onder te gaan — en welke grens beschermt precies genoeg om ontvankelijk te blijven?**
+Dat ritme brengt het volgende hoofdstuk dichterbij. Want zodra spanning niet alleen wordt gezien als iets dat moet verdwijnen, ontstaat een nieuwe vraag: **wat maakt het mogelijk haar te dragen zonder eraan ten onder te gaan, en welke grens beschermt precies genoeg om ontvankelijk te blijven?**
 
 ---
