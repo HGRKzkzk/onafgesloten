@@ -101,11 +101,9 @@ Daarom hebben kleine dieren klauwen nodig.
 <h3 class="uitkijkje__title">Nijntje hoeft niet groot te worden</h3>
 <div class="uitkijkje__text">
 
-Bij Dick Bruna is bijna alles klein en eenvoudig: een huis, een fiets, een traan, twee oren en een mond van twee streepjes. Toch wordt Nijntje nergens interessanter doordat zij groter, stoerder of ingewikkelder wordt.
+Dick Bruna tekent Nijntje met een paar lijnen, eenvoudige kleuren en een wereld op kleine schaal. Die eenvoud maakt haar niet minder aanwezig. Ze wil iets, schrikt, ontdekt, verliest en viert zonder eerst grootser of ingewikkelder te hoeven worden.
 
-Ze kijkt. Ze gaat ergens heen. Ze schrikt, ontdekt, wil, verliest, viert. De wereld om haar heen is groter, maar zij verdwijnt er niet in.
-
-Misschien is dat genoeg voor een paar bladzijden rust.
+Dat is precies het onderscheid van dit hoofdstuk: klein zijn is niet hetzelfde als kleingemaakt worden. Kwetsbaarheid, eenvoud of afhankelijkheid zijn geen redenen om een vorm minder serieus te nemen.
 
 </div>
 <p class="uitkijkje__source"><a href="https://www.nijntje.nl/over-nijntje">Meer over Nijntje en Dick Bruna</a></p>
@@ -135,11 +133,9 @@ De vraag is wat de kracht probeert te beschermen en hoeveel zij daarvoor hoeft t
 <h3 class="uitkijkje__title">Stoelen, lichamen, bijna-botsingen</h3>
 <div class="uitkijkje__text">
 
-In Pina Bauschs *Café Müller* bewegen lichamen door een ruimte vol stoelen. Mensen zoeken elkaar, missen elkaar, botsen bijna; een ander verplaatst haastig meubels uit hun weg.
+In Pina Bauschs *Café Müller* bewegen lichamen door een ruimte vol stoelen. Een andere speler schuift haastig stoelen uit hun baan om botsingen te voorkomen.
 
-Soms lijkt zorg op vasthouden. Soms op plaatsmaken. Soms komt iemand te laat.
-
-De dans gaat door zonder uit te leggen wie gelijk had.
+Dat maakt zorg hier heel concreet. Helpen hoeft niet te betekenen dat je de beweging van de ander overneemt. Soms verander je de omgeving zodat iemand zelf verder kan bewegen. En soms lukt dat niet op tijd: zorg neemt kwetsbaarheid niet weg.
 
 </div>
 </aside>
