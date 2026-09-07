@@ -61,20 +61,20 @@ Als zij later onhoudbaar blijkt, mag zij verdwijnen zonder dat de rest instort.
 
 ## Wat zou de bruggedachte werkelijk toevoegen?
 
-Een metafysische mogelijkheid verdient meer gewicht wanneer zij iets verheldert wat rivalen moeilijker verklaren, zonder grotere problemen terug te brengen.
+Een metafysische mogelijkheid verdient pas meer gewicht wanneer zij iets verheldert dat andere verklaringen moeilijker kunnen verklaren, zonder grotere problemen terug te brengen.
 
-Daarom moet de bruggedachte naast emergentistische en niet-reductieve vormen van physicalisme, neutral monisme, panpsychistische varianten en functionele of computationele benaderingen blijven staan.
+De bruggedachte is daarom één mogelijkheid naast andere serieuze benaderingen van bewustzijn, zoals emergentisme, niet-reductief physicalisme, neutral monisme, panpsychisme en functionele of computationele benaderingen.
 
-Op dit moment heeft zij geen eigen meetbare voorspelling waarmee zij rechtstreeks van zulke rivalen kan worden onderscheiden. Ik mag haar dus niet als empirische theorie presenteren.
+Op dit moment heeft zij geen eigen meetbare voorspelling waarmee zij rechtstreeks van zulke alternatieven kan worden onderscheiden. Ik mag haar dus niet als empirische theorie presenteren.
 
 Zij verliest voor mij aan kracht wanneer bijvoorbeeld blijkt dat:
 
-- biologische organisatie steeds beter verklaart waarom en wanneer ervaring verschijnt, zonder dat een fundamentelere ervaringslaag nog verklaringswerk doet;
+- biologische organisatie steeds beter verklaart waarom en wanneer ervaring verschijnt, zonder dat een fundamentelere ervaringslaag nog iets extra's verklaart;
 - zij geen beter antwoord geeft op het ontstaan van afzonderlijke subjecten dan de theorieën die zij wilde verbeteren;
 - woorden als *binnenkant* op kosmisch niveau alleen beeldspraak blijken;
 - iedere mogelijke uitkomst achteraf met haar verenigbaar wordt gemaakt.
 
-Dat zijn geen laboratoriumfalsificaties. Het zijn wel manieren waarop een filosofische hypothese haar reden van bestaan kan verliezen.
+Dat zijn geen rechtstreekse empirische weerleggingen. Het zijn wel manieren waarop een filosofische hypothese haar reden van bestaan kan verliezen.
 
 ## Geen wereldgeest in mensengedaante
 
@@ -98,7 +98,7 @@ Kosmische samenhang kan daarom geen snelweg rond concrete verantwoordelijkheid w
 
 Dat is ook de reden waarom hoofdstuk 11 niet achteraf wordt heropend. Zelfs een ware cosmopsychische theorie zou op zichzelf niet bewijzen dat een gestorven persoon als hetzelfde antwoordende subject voortduurt.
 
-## Vorm en individuering
+## Vorm en een eigen perspectief
 
 De eigen vraag van dit project ligt hier minder in cosmopsychisme zelf dan in het begrip <span class="begrip" data-term="vorm">vorm</span>.
 
@@ -129,8 +129,6 @@ Geen eindige vorm kan op alles antwoorden. Perspectief bestaat juist bij selecti
 Daarom is volledige responsiviteit geen eindtoestand en ook geen verborgen kosmisch wezen. Hoogstens is zij een grensgedachte die eraan herinnert dat geen werkelijk antwoord alles omvat.
 
 > **Wat een horizon is, mag richting geven aan een vraag. Het mag niet achteraf doen alsof het de grond onder alle antwoorden was.**
-
-Daarmee eindigt deze excursie.
 
 Misschien heeft de kosmos geen ik. Misschien is het ik een wijze waarop werkelijkheid plaatselijk een binnenkant krijgt. Misschien blijkt ook die formulering uiteindelijk te menselijk.
 

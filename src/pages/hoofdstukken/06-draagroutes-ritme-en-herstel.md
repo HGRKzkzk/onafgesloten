@@ -56,9 +56,7 @@ Misschien is prioriteren soms precies dat: iets níét nu laten klinken zodat he
 </div>
 </aside>
 
-Daarom hoop ik van intelligentie niet in de eerste plaats snelheid, maar overzicht. Snelheid kan noodzakelijk zijn in acute situaties. Zij mag handelen, maar niet vanzelf leiden.
-
-> **Snelheid zonder overzicht is versnelde sluiting.**
+Snelheid kan noodzakelijk zijn in acute situaties, maar zij mag handelen niet vanzelf leiden.
 
 Vertragen is evenmin altijd deugdzaam. Soms vergroot wachten de schade en is een onmiddellijke grens nodig. De vraag is naar passend ritme: kan de vorm ontvangen, reageren, integreren en herstellen op een tijdschaal die niet door één dominante actor wordt opgelegd?
 
@@ -68,7 +66,7 @@ Dat geldt ook relationeel. Niet ieder conflict wordt beter doordat beide partije
 
 Een mogelijke toekomstige terugweg is niet hetzelfde als een huidige plicht tot contact.
 
-Rust heeft tegelijk nieuwigheid nodig. Een vorm die alleen consolideert kan verstarren; een vorm die voortdurend door nieuwe prikkels, eisen of gebeurtenissen wordt geopend kan uiteenvallen. Nieuwigheid is vruchtbaar zolang rust nog mogelijk blijft; rust is vruchtbaar zolang nieuwigheid nog binnen kan komen. Leven vraagt daarom geen keuze tussen stilstand en verandering, maar een ritme waarin verschil kan verschijnen én worden opgenomen.
+Rust kan ook verstarren wanneer niets nieuws meer binnenkomt; voortdurende nieuwigheid kan een vorm juist uiteentrekken. Het gaat daarom om ritme: genoeg rust om verschil op te nemen, genoeg beweging om niet dicht te groeien.
 
 Die bescherming van rust heeft een grens. Rust houdt op ontvankelijk te zijn wanneer op basis van beschikbare feiten, kennis en corrigeerbare intuïtie voldoende aannemelijk is geworden dat ernstige afwendbare schade voortduurt, proportioneel handelen werkelijk mogelijk is en verder uitstel de schade mede blijft dragen. Dan kan niet-handelen zelf deel van de draagroute worden.
 
@@ -88,9 +86,7 @@ Dit bewaakt ook iets anders: groei kan niet worden afgedwongen door iemand voort
 
 > **Herstel is niet noodzakelijk terugkeer. Het kan betekenen dat opnieuw voelen, begrenzen en antwoorden mogelijk wordt in een andere samenhang.**
 
-Daarvoor was eerder het woord *vormvermogen* gebruikt. Dat woord voegt bij nader inzien te weinig toe. *Handelingsvermogen* benoemt preciezer waar handelen centraal staat; *plasticiteit* waar veranderbaarheid wordt bedoeld; *adaptief vermogen* waar aanpassing aan omstandigheden telt; *veerkracht* waar herstel na belasting wordt onderzocht; en *herstelvermogen* waar het vermogen tot herstel zelf de vraag is. *Vormvermogen* dreigde die verschillende verschijnselen vooral onder één projectwoord samen te trekken.
-
-De zin kan concreter zeggen wat hier bedoeld wordt: een herstelde vorm hoeft niet weer hetzelfde te presteren. Zij kan kleiner, voorzichtiger of anders georganiseerd zijn en toch levender, omdat zij opnieuw kan voelen, begrenzen en antwoorden. Wat verloren gaat is juist de suggestie dat al die mogelijkheden één afzonderlijk vermogen vormen.
+Daarvoor is geen apart projectbegrip nodig. Soms gaat het om handelingsvermogen, soms om plasticiteit, veerkracht of herstelvermogen. Hier is genoeg om concreet te zeggen wat er verandert: een herstelde vorm hoeft niet weer hetzelfde te presteren. Zij kan kleiner, voorzichtiger of anders georganiseerd zijn en toch opnieuw kunnen voelen, begrenzen en antwoorden.
 
 Dat betekent ook dat “weer functioneren” een te smalle maat is. Een werknemer kan weer aanwezig zijn en nog nauwelijks reserve hebben. Een relatie kan weer rustig lijken terwijl één partij alleen conflict vermijdt. Een instituut kan een fout herstellen zonder de route te veranderen waardoor dezelfde fout opnieuw ontstaat.
 
