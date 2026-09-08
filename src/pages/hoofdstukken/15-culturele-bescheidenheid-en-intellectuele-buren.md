@@ -10,7 +10,7 @@ source:
   version: "v4.1"
 divergence:
   status: "substantieel-herwerkt"
-  note: "Integrale compressie: hoofdstuk richt zich uitsluitend op externe verwantschap, vertaling en verschil; interne zelfafbouw verhuist naar hoofdstuk 16."
+  note: "Integrale compressie: hoofdstuk richt zich uitsluitend op externe verwantschap, vertaling en verschil; interne zelfafbouw staat in het volgende hoofdstuk."
 lastSyncCheck: "2026-09-05"
 ---
 
@@ -97,8 +97,7 @@ Enkele relaties kunnen voorlopig zo worden aangeduid:
 - kritische en feministische theorie: macht, positionaliteit en afhankelijkheid;
 - boeddhistische afhankelijkheidsanalyses: mogelijke resonantie rond niet-zelfstandigheid en wording, binnen eigen soteriologische en karmische kaders;
 - klassieke Chinese en Daoïstische filosofieën: mogelijke resonantie rond beweeglijkheid en situatieve responsiviteit, zonder *dao* tot een voorloper van dit project te maken;
-- Africana en Ubuntu-gerelateerde filosofieën: mogelijke resonantie rond relationele persoonsvorming, zonder van “Ubuntu” één Afrikaanse ontologie te maken;
-- cosmopsychisme: slechts de metafysische vraaghorizon uit hoofdstuk 12.
+- Africana en Ubuntu-gerelateerde filosofieën: mogelijke resonantie rond relationele persoonsvorming, zonder van “Ubuntu” één Afrikaanse ontologie te maken.
 
 Deze lijst is geen stamboom en ook geen erelijst. Zij is een kaart van gesprekken die nader onderzoek kunnen verdienen.
 
