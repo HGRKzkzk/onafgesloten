@@ -36,15 +36,15 @@ De zin waarmee dit hoofdstuk begint probeert die beweging te onderbreken:
 
 > **Wat verschijnt, verschijnt onaf.**
 
-Dat betekent niet dat niets werkelijk is. Het betekent juist dat iets werkelijk kan zijn zonder daarmee volledig te zijn.
+Iets kan werkelijk zijn zonder daarmee volledig te zijn.
 
 ### We beginnen midden in de wereld
 
-De meest nabije toegang tot deze gedachte is niet een abstracte theorie, maar het lichaam. We ademen lucht die er al was, eten wat we niet zelf hebben voortgebracht en worden warm gehouden door een omgeving die ons voorafgaat. We raken vermoeid, worden ziek, herstellen, verlangen naar nabijheid en kunnen zonder een dragende wereld niet blijven bestaan.
+De meest nabije toegang tot deze gedachte is het lichaam. We ademen lucht die er al was, eten wat we niet zelf hebben voortgebracht en worden warm gehouden door een omgeving die ons voorafgaat. We raken vermoeid, worden ziek, herstellen, verlangen naar nabijheid en kunnen zonder een dragende wereld niet blijven bestaan.
 
 Zelfs wanneer we alleen zijn, zijn we niet uitsluitend uit onszelf samengesteld. We dragen taal die we niet hebben uitgevonden, gebaren die we van anderen hebben geleerd, herinneringen waarin andere mensen voorkomen en gewoonten die ooit ergens zijn ontstaan. Ook onze lichamelijke ritmes zijn niet het resultaat van een bewuste keuze.
 
-Afhankelijkheid is daarom niet iets wat pas verschijnt wanneer zelfstandigheid mislukt. Zij gaat eraan vooraf. Dat maakt een mens niet minder werkelijk als individu. Integendeel: juist binnen al die afhankelijkheden kan een eigen plaats ontstaan: een lichaam vanwaaruit iets wordt gevoeld, herinnerd, verlangd en beantwoord.
+Afhankelijkheid verschijnt al vóór zelfstandigheid. Juist binnen al die afhankelijkheden kan een eigen plaats ontstaan: een lichaam vanwaaruit iets wordt gevoeld, herinnerd, verlangd en beantwoord.
 
 We zijn werkelijk iemand, maar niet uitsluitend uit onszelf.
 
@@ -85,17 +85,17 @@ We zijn werkelijk iemand, maar niet uitsluitend uit onszelf.
 
 ### Vorm is geen vergissing
 
-Het woord <span class="begrip" data-term="vorm">vorm</span> kan gemakkelijk klinken alsof er ergens achter de zichtbare werkelijkheid iets oorspronkelijkers schuilgaat, alsof de grens alleen een oppervlakkige verpakking is die we moeten doorzien. Dat is hier niet de bedoeling. Vorm is nodig, want zonder vorm is er geen *hier* vanwaar iets kan gebeuren.
+Vorm is hier geen oppervlakkige verpakking waarachter iets oorspronkelijkers schuilgaat. Zonder vorm is er geen *hier* vanwaar iets kan gebeuren.
 
 Een huid maakt verschil tussen binnen en buiten. Een taal heeft regels waardoor woorden herkenbaar worden. Een vriendschap krijgt vorm doordat bepaalde herinneringen, verwachtingen en gewoonten samen iets vormen wat andere relaties niet zijn. Ook verantwoordelijkheid vraagt vorm: als geen handeling ergens aan kan worden toegeschreven, kan niemand ergens op worden aangesproken. Als iedere grens onmiddellijk verdacht wordt, kan ook zorg nergens meer landen.
 
 Een wond moet ergens zitten om behandeld te kunnen worden. Een belofte moet door iemand zijn gedaan. Een nee moet van iemand mogen zijn.
 
-De <span class="begrip" data-term="grens">grens</span> is daarom niet alleen iets wat afscheidt. Zij maakt een eigen positie mogelijk: een plaats vanwaar iets kan ontvangen, bewaren en antwoorden.
+De <span class="begrip" data-term="grens">grens</span> scheidt en maakt tegelijk een eigen positie mogelijk: een plaats vanwaar iets kan ontvangen, bewaren en antwoorden.
 
 ### Werkelijk, maar niet uitgeput
 
-De fout begint dus niet wanneer we vormen herkennen. Zij begint wanneer we vergeten dat een vorm een geschiedenis heeft. Wat nu verschijnt, draagt voorwaarden mee die niet allemaal zichtbaar zijn. Er zijn gebeurtenissen aan voorafgegaan, andere mensen hebben eraan bijgedragen, mogelijkheden zijn verloren gegaan en andere nog niet gerealiseerd. Wat vandaag stabiel lijkt, kan morgen veranderen doordat iets terugspreekt wat tot dan toe buiten beeld bleef.
+De fout begint wanneer we vergeten dat een vorm een geschiedenis heeft. Wat nu verschijnt, draagt voorwaarden mee die niet allemaal zichtbaar zijn. Er zijn gebeurtenissen aan voorafgegaan, andere mensen hebben eraan bijgedragen, mogelijkheden zijn verloren gegaan en andere nog niet gerealiseerd. Wat vandaag stabiel lijkt, kan morgen veranderen doordat iets terugspreekt wat tot dan toe buiten beeld bleef.
 
 Dat geldt ook voor onszelf. Soms doe je iets waarvan je later denkt: *zo ben ik toch niet?* Je reageert harder dan je wilde, zegt ja terwijl alles in je nee zegt, kijkt weg wanneer iemand je nodig heeft of blijft juist praten lang nadat je had moeten luisteren.
 
@@ -103,7 +103,7 @@ De makkelijke uitweg is zeggen: *dat was ik niet.* Maar dat klopt vaak niet. Het
 
 Een daad kan volledig van mij zijn zonder volledig te zeggen wie ik ben. Een patroon kan werkelijk zijn zonder een voltooid portret te vormen. Een diagnose kan iets wezenlijks zichtbaar maken zonder de gehele persoon te worden. Een naam kan helpen herkennen en tegelijk te klein worden voor wat zij probeert vast te houden.
 
-Onaf betekent daarom niet: *het telt niet.* Het betekent: *het telt, maar het put niet uit.*
+Onaf betekent hier: *het telt, maar het put niet uit.*
 
 <aside class="uitkijkje uitkijkje--beeld uitkijkje--luchtgat">
   <p class="uitkijkje__label">Luchtgat</p>
@@ -147,7 +147,7 @@ Onaf betekent daarom niet: *het telt niet.* Het betekent: *het telt, maar het pu
 
 ### Gedragen verschil
 
-Een vorm bestaat niet doordat alles erin hetzelfde wordt, maar doordat verschil enige samenhang krijgt. Een lichaam blijft lichaam doordat allerlei processen niet samenvallen en toch samen worden gedragen. Ademhaling, hartslag, zenuwactiviteit, temperatuur en beweging hoeven niet hetzelfde te worden om bij één levend lichaam te horen.
+Een vorm krijgt samenhang doordat zij verschil draagt. Een lichaam blijft lichaam terwijl allerlei processen niet samenvallen. Ademhaling, hartslag, zenuwactiviteit, temperatuur en beweging hoeven niet hetzelfde te worden om bij één levend lichaam te horen.
 
 Hetzelfde geldt, op een andere manier, voor een relatie. Twee mensen hoeven elkaar niet volledig te begrijpen om een vriendschap te hebben. Ze hoeven zelfs niet voortdurend hetzelfde te willen. De relatie krijgt vorm doordat verschil niet onmiddellijk tot uiteenvallen leidt.
 
@@ -155,7 +155,7 @@ Daarom kunnen we vorm voorlopig omschrijven als **gedragen verschil**: er moet v
 
 Hier verschijnt ook het woord <span class="begrip" data-term="antwoord">antwoord</span>. Antwoorden betekent meer dan reageren. Een deurbel gaat en een hond blaft; een knie krijgt een tik en het been schiet omhoog. Veel reacties ontstaan zonder dat er iets hoeft te worden overwogen. Mensen kunnen soms iets anders doen: een impuls voelen en wachten, een gewoonte herkennen en proberen haar te veranderen, kritiek horen, zich eerst verdedigen en later toch terugkomen.
 
-We kunnen ontvangen wat ons bepaalt en daar, binnen grenzen, iets anders mee doen. Niet onbeperkt en niet vanuit niets, maar ook niet helemaal zonder eigen aandeel.
+We kunnen ontvangen wat ons bepaalt en daar, binnen grenzen en met een eigen aandeel, iets anders mee doen.
 
 ### Niet iedere stabiele vorm is gezond
 
@@ -202,22 +202,22 @@ Voortbestaan vertelt ons dat een vorm op de een of andere manier wordt gedragen.
 
 ### Openheid heeft draagkracht nodig
 
-Hier ontstaat een mogelijke misvatting. Als gesloten vormen kunnen verstarren, zouden we kunnen denken dat maximale openheid het antwoord is. Maar een vorm die alles binnenlaat houdt op een vorm te zijn. Een zenuwstelsel kan niet ieder geluid even belangrijk maken, een gesprek kan niet iedere mogelijke zijweg tegelijk volgen en een mens kan niet ieder beroep op zijn aandacht op hetzelfde moment beantwoorden.
+Een vorm die alles binnenlaat houdt op een vorm te zijn. Een zenuwstelsel kan niet ieder geluid even belangrijk maken, een gesprek kan niet iedere mogelijke zijweg tegelijk volgen en een mens kan niet ieder beroep op zijn aandacht op hetzelfde moment beantwoorden.
 
-Openheid zonder selectie wordt geen vrijheid maar overspoeling. Daarom heeft onafgeslotenheid <span class="begrip" data-term="draagkracht">draagkracht</span> nodig. Draagkracht is hier niet simpelweg hardheid of incasseringsvermogen, maar de mogelijkheid om verschil te ontvangen zonder onmiddellijk uiteen te vallen of alles wat stoort buiten te sluiten.
+Openheid zonder selectie eindigt in overspoeling. Daarom heeft onafgeslotenheid <span class="begrip" data-term="draagkracht">draagkracht</span> nodig: de mogelijkheid om verschil te ontvangen zonder onmiddellijk uiteen te vallen of alles wat stoort buiten te sluiten.
 
 Soms betekent dat méér kunnen verdragen; soms betekent het juist minder hoeven dragen. Een mens die na weken slaaptekort niets meer kan hebben, hoeft niet noodzakelijk weerbaarder te worden. Misschien moet hij slapen. Een team dat bezwijkt onder tegenstrijdige opdrachten heeft niet automatisch een training in veerkracht nodig. Misschien moet iemand beslissen welke opdracht werkelijk voorrang heeft.
 
-Een vorm wordt niet gezonder doordat zij steeds meer spanning kan absorberen. Zij wordt gezonder wanneer spanning een weg kan vinden waarop voelen, grens, correctie en herstel mogelijk blijven.
+Gezondheid vraagt dat spanning een weg kan vinden waarop voelen, grens, correctie en herstel mogelijk blijven.
 
-### Wat deze zin wel en niet zegt
+### Waar de zin stopt
 
-*Wat verschijnt, verschijnt onaf* is geen natuurwet. Het is ook geen truc waarmee ieder tegenvoorbeeld alsnog in dezelfde theorie kan worden opgenomen. Als alles eenvoudig “onaf” kan worden genoemd, zegt het woord uiteindelijk niets meer. De zin moet daarom een concreet onderscheid blijven maken.
+De formule moet een concreet onderscheid blijven maken. Als alles eenvoudig “onaf” kan worden genoemd, zegt het woord uiteindelijk niets meer.
 
-Hij zegt niet dat iedere situatie nog goed kan komen, dat ieder mens onbeperkte mogelijkheden bezit, dat een grens nooit definitief mag worden of dat verantwoordelijkheid oplost zodra we iemands geschiedenis begrijpen. Hij zegt iets beperkters: wat werkelijk voor ons staat, mag serieus worden genomen zonder dat we hoeven te doen alsof daarmee alles gezegd is.
+De inzet is beperkt: wat werkelijk voor ons staat, mag serieus worden genomen zonder dat we hoeven te doen alsof daarmee alles gezegd is.
 
 Een handeling heeft gevolgen. Een grens kan noodzakelijk zijn. Een toestand kan jarenlang duren. Een verlies kan onherroepelijk zijn. En toch kan de actuele vorm minder zijn dan de volledige werkelijkheid van wat zij vormt.
 
-Dat is geen belofte. Het is een manier om niet te snel het laatste woord uit te spreken.
+Het is een manier om niet te snel het laatste woord uit te spreken.
 
 > **Een vorm is werkelijk, maar zij is niet de volledige werkelijkheid van wat zij vormt.**
