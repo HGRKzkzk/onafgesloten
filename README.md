@@ -25,9 +25,13 @@ base: '/onafgesloten'
 
 ## Werken aan de inhoud
 
-De publieke hoofdstukken staan uitsluitend in:
+De hoofdtekst staat in:
 
 `src/pages/hoofdstukken/`
+
+De academische verdieping staat parallel daaraan in:
+
+`src/academisch/`
 
 Ieder hoofdstuk is een zelfstandige Markdown-insteekhoes. Bewerk dus niet `dist/`.
 
@@ -35,7 +39,7 @@ De volledige redactionele moedertekst staat apart in:
 
 `sources/OOV-kern-v4.1.md`
 
-Die map wordt niet als website gepubliceerd. De moedertekst kan historische terminologie bevatten; bij synchronisatie naar de publieke tekst geldt de naamgevingsconventie hierboven.
+Die map wordt niet als website gepubliceerd. De moedertekst kan historische terminologie bevatten; bij synchronisatie naar de hoofdtekst geldt de naamgevingsconventie hierboven.
 
 ## Volgorde en navigatie
 
