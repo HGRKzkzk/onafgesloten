@@ -9,7 +9,6 @@ status: "publieke-werkversie"
 source:
   id: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
   version: "v4.1"
-
 divergence:
   status: "substantieel-herwerkt"
   note: "Publieke uitbreiding met scherpere uitwerking van veldmatig kijken, institutionele draagroutes, onafhankelijke correctie, asymmetrie, georganiseerde sluiting en corrigeerbare macht."
@@ -18,41 +17,41 @@ lastSyncCheck: "2026-09-05"
 ---
 Geen vorm draagt zichzelf alleen. Rond ieder individu bestaat een veld van materiële, affectieve, culturele, ecologische en institutionele voorwaarden. Sommige zijn zichtbaar; andere vallen pas op wanneer zij verdwijnen.
 
-Wanneer een relatie of institutie hier een *vorm* wordt genoemd, betekent dat niet dat zij op dezelfde wijze leeft of voelt als een organisme. Het begrip wijst alleen op een overeenkomst die onderzoek verdient: ook zulke verbanden hebben grenzen, bewaren samenhang, verdelen spanning en kunnen wel of niet door gevolgen worden veranderd. Waar die overeenkomst ophoudt, moet ook de vertaling ophouden.
+Wanneer een relatie of institutie hier een *vorm* wordt genoemd, gebruik ik dat woord voor een overeenkomst die onderzoek verdient: ook zulke verbanden hebben grenzen, bewaren samenhang, verdelen spanning en kunnen wel of niet door gevolgen worden veranderd. Waar die overeenkomst ophoudt, moet ook de vertaling ophouden.
 
-Het veld is geen mystieke totaliteit en geen excuus waarmee individuele verantwoordelijkheid oplost. Het is een aandachtsterm voor verhoudingen waardoor bepaalde handelingen, gevoelens en betekenissen waarschijnlijker, moeilijker of ondenkbaar worden. Een rooster, algoritme, gebouw, familieverwachting of budget kan antwoorden vormgeven zonder zelf als persoon te spreken.
+Het veld is een aandachtsterm voor verhoudingen waardoor bepaalde handelingen, gevoelens en betekenissen waarschijnlijker, moeilijker of ondenkbaar worden. Een rooster, algoritme, gebouw, familieverwachting of budget kan antwoorden vormgeven zonder zelf als persoon te spreken.
 
-Veldmatig kijken corrigeert daarom twee uitersten. Tegen individualisme zegt het dat niemand vanuit een leegte handelt. Tegen systeemfatalisme zegt het dat een veld bestaat uit herhaalde praktijken, besluiten, infrastructuren en terugkoppelingsroutes die mensen kunnen veranderen.
+Veldmatig kijken laat tegelijk zien dat niemand vanuit een leegte handelt en dat een veld bestaat uit herhaalde praktijken, besluiten, infrastructuren en terugkoppelingsroutes die mensen kunnen veranderen.
 
-De eerste vraag wordt dan niet alleen: *wie deed wat?* Maar ook: *welke ordening maakte dit waarschijnlijk, wie ving de gevolgen op, en waar kon die ordening zelf worden tegengesproken?*
+Naast *wie deed wat?* komt daarom de vraag: *welke ordening maakte dit waarschijnlijk, wie ving de gevolgen op, en waar kon die ordening zelf worden tegengesproken?*
 
 ## Macht verdeelt mogelijkheid
 
 <span class="begrip" data-term="sluitingsmacht">Macht</span> is meer dan bevel of bezit. Zij bepaalt mede wat zichtbaar wordt, hoeveel tijd iemand krijgt, welke taal geldig is, wie mag corrigeren, waar risico terechtkomt en welke vorm als normaal verschijnt.
 
-Macht kan draagkracht scheppen. Recht, infrastructuur, onderwijs, zorg en sociale bescherming vergroten voor veel mensen de mogelijkheid om te handelen en opnieuw te antwoorden. Maar dezelfde ordeningen kunnen spanning ook onzichtbaar maken, versnellen, afwentelen of een tijdelijke categorie tot identiteit verheffen.
+Macht kan draagkracht scheppen. Recht, infrastructuur, onderwijs, zorg en sociale bescherming vergroten voor veel mensen de mogelijkheid om te handelen en opnieuw te antwoorden. Dezelfde ordeningen kunnen spanning ook onzichtbaar maken, versnellen, afwentelen of een tijdelijke categorie tot identiteit verheffen.
 
-Daarom is een algemene oproep tot openheid onvoldoende. Openheid kost tijd, aandacht, geld en vaak lichamelijke of emotionele arbeid. De institutionele vraag luidt steeds: **wie moet hier ontvankelijk zijn voor wie, tegen welke prijs, en wie kan weigeren zonder uit het systeem te vallen?**
+Een algemene oproep tot openheid is daarom onvoldoende. Openheid kost tijd, aandacht, geld en vaak lichamelijke of emotionele arbeid. De institutionele vraag luidt steeds: **wie moet hier ontvankelijk zijn voor wie, tegen welke prijs, en wie kan weigeren zonder uit het systeem te vallen?**
 
 Een organisatie kan aan de buitenkant soepel lijken doordat uitvoerders intern alle onzekerheid opvangen. Een digitale dienst kan efficiënt ogen doordat burgers zelf fouten moeten opsporen, bewijs verzamelen en meerdere loketten verbinden. Een team kan zijn targets halen doordat één medewerker structureel de uitzonderingen draagt die de metric niet ziet.
 
-Dan is het probleem niet alleen dat iemand te weinig <span class="begrip" data-term="draagkracht">draagkracht</span> heeft. De <span class="begrip" data-term="draagroute">draagroute</span> zelf is verkeerd ingericht.
+Dan ligt het probleem in de <span class="begrip" data-term="draagroute">draagroute</span> zelf.
 
-Soms moet niet de kwetsbare vorm flexibeler worden, maar het veld dat haar voortdurend belast.
+Soms moet het veld veranderen dat de kwetsbare vorm voortdurend belast.
 
 ## Instituties moeten kunnen sluiten
 
 Een institutie zonder grenzen kan haar taak niet vervullen. Zij moet dossiers afbakenen, bevoegdheden verdelen, termijnen stellen, categorieën gebruiken en soms een beslissing nemen die niet iedereen tevredenstelt. Ook bescherming vraagt sluiting: een school moet geweld kunnen stoppen, een rechter moet een geschil beëindigen, een toezichthouder moet een praktijk kunnen verbieden.
 
-Het probleem is dus niet dat instituties sluiten. Het probleem begint wanneer hun sluiting zichzelf aan toetsing onttrekt.
+Het probleem begint wanneer institutionele sluiting zichzelf aan toetsing onttrekt.
 
-Een regel kan nodig zijn en toch verkeerd uitpakken. Een classificatie kan bruikbaar zijn en toch een groep systematisch missen. Een besluit kan op het moment zelf gerechtvaardigd zijn en later door nieuwe informatie herzien moeten worden. Institutionele volwassenheid bestaat daarom niet uit foutloosheid, maar uit het vermogen fouten te vinden zonder eerst te eisen dat degene die geraakt werd het hele systeem begrijpt en bestuurt.
+Een regel kan nodig zijn en toch verkeerd uitpakken. Een classificatie kan bruikbaar zijn en toch een groep systematisch missen. Een besluit kan op het moment zelf gerechtvaardigd zijn en later door nieuwe informatie herzien moeten worden. Institutionele volwassenheid blijkt uit het vermogen fouten te vinden zonder eerst te eisen dat degene die geraakt werd het hele systeem begrijpt en bestuurt.
 
 Dat vraagt meer dan een klachtenformulier.
 
 Een bezwaarmogelijkheid die alleen werkt voor wie tijd, taal, geld, gezondheid en dossierkennis over heeft, is formeel open en feitelijk smal. Een evaluatie die alleen meet wat al in de oorspronkelijke indicatoren paste, kan precies de gevolgen missen waarvoor zij bedoeld was. Een loket dat steeds opnieuw om dezelfde informatie vraagt, verplaatst de administratieve last naar degene die het minst over de organisatie beschikt.
 
-Institutionele openheid is daarom geen houding. Zij moet in routes, bevoegdheden, termijnen en herstelmogelijkheden worden gebouwd.
+Institutionele openheid moet in routes, bevoegdheden, termijnen en herstelmogelijkheden worden gebouwd.
 
 ## Klauwen en open zenuwen
 
@@ -71,11 +70,11 @@ Een gezonde institutie heeft klauwen én open zenuwen. Zij moet kunnen handelen,
 
 <span class="begrip" data-term="corrigeerbaarheid">Corrigeerbaarheid</span> betekent hier méér dan feedback ontvangen. Terugkoppeling moet onder relevante omstandigheden classificaties, doelen, bevoegdheden, tempo of voortzetting kunnen veranderen.
 
-Dat onderscheid is essentieel. Veel systemen zijn zeer responsief in technische zin: zij registreren elk signaal, verzamelen data, beantwoorden berichten en verfijnen voorspellingen. Toch kunnen zij normatief volledig gesloten blijven wanneer geen enkel signaal hun koers mag veranderen.
+Veel systemen zijn zeer responsief in technische zin: zij registreren elk signaal, verzamelen data, beantwoorden berichten en verfijnen voorspellingen. Toch kunnen zij normatief volledig gesloten blijven wanneer geen enkel signaal hun koers mag veranderen.
 
 Een systeem dat iedere kritiek absorbeert en daarna hetzelfde blijft doen, is niet open maar slim gesloten.
 
-Omgekeerd betekent corrigeerbaarheid niet dat iedere klacht automatisch gelijk krijgt. Een institutie moet ook ongegronde claims kunnen afwijzen, belangen tegen elkaar afwegen en grenzen handhaven. Het beslissende punt is dat afwijzing zelf aan redenen, bewijs en toetsing gebonden blijft.
+Corrigeerbaarheid laat ook afwijzing toe. Een institutie moet ongegronde claims kunnen afwijzen, belangen tegen elkaar afwegen en grenzen handhaven. Die afwijzing blijft zelf aan redenen, bewijs en toetsing gebonden.
 
 **Tegenspraak mag nooit op zichzelf het bewijs zijn dat iemand niet kan antwoorden.**
 
@@ -89,27 +88,27 @@ Vervolgens komt de relationele laag in beeld: welke afhankelijkheden, blinde vle
 
 Tussen actor, relatie en instituut moet waar mogelijk een onafhankelijke derde kunnen worden ingeroepen. Dat kan informeel of formeel zijn: een vertrouwenspersoon, mediator, ombudsfunctie, beroepsgenoot, rechter, toezichthouder of andere positie die niet volledig samenvalt met degene die het oorspronkelijke besluit nam.
 
-De functie van die derde is niet noodzakelijk om de waarheid over te nemen. Zij bewaakt eerst iets beperkters en fundamentelers: of de redenen nog toetsbaar zijn, of de zwakkere partij werkelijk hoorbaar is, of relevante informatie kan terugkeren en of dezelfde macht niet tegelijk rechter over haar eigen grens is.
+De derde bewaakt of de redenen nog toetsbaar zijn, of de zwakkere partij werkelijk hoorbaar is, of relevante informatie kan terugkeren en of dezelfde macht niet tegelijk rechter over haar eigen grens is.
 
-Dat laatste is cruciaal. Een organisatie die zelf bepaalt wanneer haar eigen uitzonderingsmacht gerechtvaardigd is, zelf toetst of de gevolgen aanvaardbaar waren en zelf beslist wanneer die uitzondering eindigt, heeft formeel misschien meerdere stappen maar materieel één actor.
+Een organisatie die zelf bepaalt wanneer haar eigen uitzonderingsmacht gerechtvaardigd is, zelf toetst of de gevolgen aanvaardbaar waren en zelf beslist wanneer die uitzondering eindigt, heeft formeel misschien meerdere stappen maar materieel één actor.
 
 Een onafhankelijke derde onderbreekt die lus.
 
 Ook die derde mag geen nieuw monopolie op redelijkheid krijgen. Bevoegdheid moet begrensd zijn, belangen zichtbaar, vervanging of hoger beroep mogelijk en ook de correctieroute zelf corrigeerbaar.
 
-*Een volwassen systeem kent niet alleen regels en bezwaar, maar ook tussenruimtes waarin correctie mogelijk blijft vóórdat conflict verhardt.*
+*Een volwassen systeem bouwt tussenruimtes waarin correctie mogelijk blijft vóórdat conflict verhardt.*
 
 ## Corrigeren vóórdat iemand breekt
 
 Institutionele correctie komt vaak laat. Eerst moet iemand uitvallen, procederen, escaleren of publiek zichtbaar worden voordat het systeem erkent dat een patroon misschien niet incidenteel is.
 
-Dat is inefficiënt, maar vooral epistemisch arm. Een individueel signaal kan onduidelijk zijn; een reeks kleine signalen kan samen een patroon vormen. Daarom moet een institutionele draagroute niet alleen formele fouten tellen, maar ook zoeken naar terugkerende frictie: dezelfde uitzondering, dezelfde overdracht, dezelfde wachttijd, dezelfde groep die disproportioneel veel bewijs moet leveren.
+Dat is vooral epistemisch arm. Een individueel signaal kan onduidelijk zijn; een reeks kleine signalen kan samen een patroon vormen. Daarom moet een institutionele draagroute niet alleen formele fouten tellen, maar ook zoeken naar terugkerende frictie: dezelfde uitzondering, dezelfde overdracht, dezelfde wachttijd, dezelfde groep die disproportioneel veel bewijs moet leveren.
 
-Niet ieder ongemak is een systeemfout. Maar herhaling verandert de bewijslast. Als een model jarenlang zegt iets goed te voorspellen en dezelfde relevante werkelijkheid systematisch mist, is “dit geval past niet” op een gegeven moment geen afdoende verklaring meer.
+Een enkel ongemak is nog geen systeemfout. Herhaling verandert de bewijslast. Als een model jarenlang zegt iets goed te voorspellen en dezelfde relevante werkelijkheid systematisch mist, is “dit geval past niet” op een gegeven moment geen afdoende verklaring meer.
 
-De institutie moet dan niet alleen vragen hoe de burger beter in het model past, maar of het model zelf nog voldoende ziet.
+Dan moet het model zelf worden bevraagd: ziet het nog voldoende?
 
-Dit is waar uitvoering epistemisch belangrijk wordt. Wie dagelijks uitzonderingen opvangt, ziet vaak eerder waar beleid en werkelijkheid uit elkaar lopen. Dat maakt uitvoerders niet automatisch normatief beslissend, maar hun ervaring mag niet worden gereduceerd tot ruis rond de formele regel.
+Wie dagelijks uitzonderingen opvangt, ziet vaak eerder waar beleid en werkelijkheid uit elkaar lopen. Uitvoerders zijn daarmee niet automatisch normatief beslissend, maar hun ervaring mag niet worden gereduceerd tot ruis rond de formele regel.
 
 Een instituut dat zijn eigen uitvoerders alleen als implementatiekanaal ziet, verliest een belangrijk zintuig.
 
@@ -119,29 +118,29 @@ Een instituut dat zijn eigen uitvoerders alleen als implementatiekanaal ziet, ve
 
 Dan kan een wederkerigheidsval ontstaan: ieder reageert lokaal begrijpelijk op verwacht gevaar en produceert daarmee voor de ander juist nieuw bewijs dat wantrouwen nodig is.
 
-De uitweg hoeft niet te beginnen met morele bekering of volledige openheid. Zij kan bestaan uit kleine, toetsbare en herstelbare stappen: beperkte risico's, verificatie, vooraf bekende terugvalopties, gedeelde informatie en onafhankelijke derden. Vertrouwen kan groeien uit herhaald overleefde wederkerigheid.
+De uitweg kan klein beginnen: beperkte risico's, verificatie, vooraf bekende terugvalopties, gedeelde informatie en onafhankelijke derden. Vertrouwen kan groeien uit herhaald overleefde wederkerigheid.
 
-Maar wederzijds wantrouwen betekent niet wederzijds gelijke verantwoordelijkheid.
+Wederzijds wantrouwen maakt verantwoordelijkheid niet gelijk.
 
 Wanneer de ene actor veel meer vermogen heeft om toegang, inkomen, veiligheid, vrijheid of toekomst van de ander te bepalen, rust op die actor een zwaardere plicht om een veilige en controleerbare correctieroute mogelijk te maken. De burger hoeft niet eerst hetzelfde risico te nemen als de staat. Het kind hoeft de ouder niet even goed te kunnen corrigeren als andersom. Het slachtoffer hoeft de veroorzaker niet dezelfde toegang tot dialoog te geven die de veroorzaker zelf verlangt.
 
-Wederkerigheid vereist geen gelijke macht. Zij vereist dat macht niet immuun wordt voor relevante terugkoppeling.
+Wederkerigheid vraagt dat macht corrigeerbaar blijft waar zij de ander raakt, ook wanneer de macht zelf ongelijk verdeeld is.
 
-En soms vereist bescherming tijdelijk juist minder wederkerigheid in direct contact. Een onafhankelijke derde kan dan informatie, grenzen en correctie dragen zonder de zwakkere partij te dwingen tot onmiddellijke relationele heropening.
+Soms vereist bescherming tijdelijk minder wederkerigheid in direct contact. Een onafhankelijke derde kan dan informatie, grenzen en correctie dragen zonder de zwakkere partij te dwingen tot onmiddellijke relationele heropening.
 
 ## Wanneer er geen schurk is
 
 Schadelijke verhoudingen hebben niet altijd een actor nodig die kwaad wil. Een organisatie kan mensen uitputten terwijl iedere medewerker lokaal redelijk handelt; twee groepen kunnen elkaar bedreigen terwijl beide vooral op ervaren gevaar reageren; zorg kan verstikken zonder dat de verzorger wil overheersen.
 
-Het ontbreken van een schurk maakt schade niet minder werkelijk. Het bestaan van schade verplicht ons evenmin een schurk te vervaardigen.
+Het ontbreken van een schurk maakt schade niet minder werkelijk.
 
-Daarom moeten schuld, verantwoordelijkheid en sluitingsmacht uit elkaar kunnen blijven.
+Schuld, verantwoordelijkheid en sluitingsmacht moeten uit elkaar kunnen blijven.
 
 Schuld vraagt wie verwijtbaar verkeerd handelde. Verantwoordelijkheid vraagt wie nu redelijkerwijs iets kan of moet doen. Sluitingsmacht vraagt wie feitelijk de mogelijkheid heeft de schadelijke verhouding te veranderen, voort te zetten of te verplaatsen.
 
-Waar schuld diffuus is, hoeft verantwoordelijkheid dus niet diffuus te blijven. Geen schurk betekent niet: niemand hoeft te handelen. Het betekent dat verantwoordelijkheid uit vermogen, betrokkenheid en machtspositie moet worden afgeleid, niet uit de behoefte aan een vijand.
+Waar schuld diffuus is, kan verantwoordelijkheid uit vermogen, betrokkenheid en machtspositie volgen.
 
-Dat voorkomt twee fouten tegelijk. De eerste is moralisering: een structureel probleem reduceren tot slechte personen. De tweede is ontindividualisering: doen alsof “het systeem” handelde en daarom niemand nog beslissingen heeft genomen.
+Een structurele verklaring mag het probleem niet reduceren tot slechte personen en evenmin individuele beslissingen laten verdwijnen.
 
 Een veld kan gedrag verklaren zonder verantwoordelijkheid uit te wissen.
 
@@ -163,7 +162,7 @@ Een vergeten hoek van de stad kreeg ineens kinderen.
 
 Institutionele macht reikt ook tot wie niet op dezelfde manier kan terugspreken. Kinderen, mensen in zware afhankelijkheid en niet-menselijke dieren zijn niet minder relevant omdat hun antwoord niet in het standaardformulier past.
 
-Wie de leefomgeving, beweging, voortplanting, sociale relaties of dood van dieren organiseert, bezit feitelijke sluitingsmacht. Het ontbreken van menselijke taal verlaagt de verantwoordingsplicht niet. Het verhoogt juist de noodzaak om gedragsmatige, lichamelijke en relationele signalen actief waar te nemen en door onafhankelijke kennis te laten toetsen.
+Wie de leefomgeving, beweging, voortplanting, sociale relaties of dood van dieren organiseert, bezit feitelijke sluitingsmacht. Het ontbreken van menselijke taal verhoogt juist de noodzaak om gedragsmatige, lichamelijke en relationele signalen actief waar te nemen en door onafhankelijke kennis te laten toetsen.
 
 *Wie de leefwereld van een dier sluit, draagt verantwoordelijkheid voor de antwoordruimte die overblijft.*
 
@@ -181,23 +180,23 @@ Vorming kan richting geven zonder bestemming op te leggen. Een gemeenschap mag s
 
 Pluraliteit is daarmee meer dan tolerantie. Zij is ook een institutionele veiligheidsarchitectuur: geen enkele familie, school, organisatie, religie, markt, staat of technologie mag zonder tegenveld bepalen wat een mens volledig is of mag worden.
 
-Dat betekent niet dat ieder individu altijd uit iedere verbintenis zonder kosten kan stappen. Sommige verplichtingen zijn werkelijk. Maar waar vertrek structureel onmogelijk wordt, correctie zinloos en alternatieve vormen verdwijnen, verandert binding gemakkelijk in bezit.
+Sommige verplichtingen zijn werkelijk. Waar vertrek structureel onmogelijk wordt, correctie zinloos en alternatieve vormen verdwijnen, verandert binding gemakkelijk in bezit.
 
 ## Wanneer asymmetrie het veld begint te sluiten
 
-Niet iedere ongelijke verdeling van geld, kennis, bereik of bevoegdheid is daarom onrechtvaardig. Verschil in vermogen kan samenwerking, specialisatie en grote gezamenlijke projecten juist mogelijk maken.
+Ongelijke verdeling van geld, kennis, bereik of bevoegdheid kan samenwerking, specialisatie en grote gezamenlijke projecten mogelijk maken.
 
-Maar asymmetrie verandert van karakter wanneer zij niet alleen beïnvloedt **welk antwoord wint**, maar mede bepaalt **welke antwoorden nog levensvatbaar kunnen ontstaan**.
+Asymmetrie verandert van karakter wanneer zij niet alleen beïnvloedt **welk antwoord wint**, maar mede bepaalt **welke antwoorden nog levensvatbaar kunnen ontstaan**.
 
 Een actor kan zoveel toegang tot kapitaal, infrastructuur, informatie, distributie of politieke invloed verzamelen dat anderen formeel nog vrij zijn, maar materieel nauwelijks meer een tegenroute kunnen opbouwen. Er hoeft dan niemand rechtstreeks het zwijgen te worden opgelegd. Het veld zelf kan steeds smaller worden.
 
-De vraag is daarom niet alleen hoeveel macht geconcentreerd is, maar hoe <span class="begrip" data-term="antwoordbaarheid-van-macht">antwoordbaar</span> zij blijft. Kunnen anderen nog toetreden? Kunnen geraakten zich zonder buitensporige schade onttrekken? Kan tegenmacht zich organiseren? Kan de dominante positie werkelijk door regels, rechtspraak, politiek of andere instituties worden gecorrigeerd?
+Doorslaggevend is hoe <span class="begrip" data-term="antwoordbaarheid-van-macht">antwoordbaar</span> geconcentreerde macht blijft. Kunnen anderen nog toetreden? Kunnen geraakten zich zonder buitensporige schade onttrekken? Kan tegenmacht zich organiseren? Kan de dominante positie werkelijk door regels, rechtspraak, politiek of andere instituties worden gecorrigeerd?
 
 > **Asymmetrie wordt antagonistisch wanneer zij niet alleen uitkomsten beïnvloedt, maar de voorwaarden bepaalt waaronder andere actoren nog levensvatbaar kunnen antwoorden.**
 
-Daarmee is niet gelijkheid of decentralisatie de norm. Macht kan groot en geconcentreerd zijn zonder het veld te sluiten. Maar macht die de antwoordvoorwaarden van anderen bepaalt, moet zelf voldoende antwoordbaar blijven.
+Gelijkheid of decentralisatie zijn hier niet de hoogste norm. Macht kan groot en geconcentreerd zijn zonder het veld te sluiten. Macht die de antwoordvoorwaarden van anderen bepaalt, moet zelf voldoende antwoordbaar blijven.
 
-Waar toetreding, vertrek, organisatie van tegenmacht en correctie praktisch onwerkzaam worden, ontstaat <span class="begrip" data-term="veldsluiting">veldsluiting</span>: niet één afzonderlijke grens sluit dan het antwoord af, maar de ordening maakt alternatieve antwoorden steeds minder levensvatbaar.
+Waar toetreding, vertrek, organisatie van tegenmacht en correctie praktisch onwerkzaam worden, ontstaat <span class="begrip" data-term="veldsluiting">veldsluiting</span>: de ordening maakt alternatieve antwoorden steeds minder levensvatbaar.
 
 ## Sluitingsmacht en corrigeerbare macht
 
@@ -207,13 +206,13 @@ Machtsasymmetrie verandert de normatieve last. Wie meer vermogen heeft om grenze
 
 *Wie de antwoordruimte van een ander kan sluiten, draagt verantwoordelijkheid voor die macht.*
 
-Maar een eenvoudige “heropeningsplicht” is te grof. Niet iedere legitieme sluiting moet later worden teruggedraaid. Een contactverbod kan definitief passend blijven. Een slachtoffer kan besluiten geen relatie te herstellen. Een gevaarlijke praktijk kan blijvend verboden worden. Een instelling hoeft een afgewikkelde zaak niet eindeloos open te houden.
+Een eenvoudige heropeningsplicht is te grof. Niet iedere legitieme sluiting moet later worden teruggedraaid. Een contactverbod kan definitief passend blijven. Een slachtoffer kan besluiten geen relatie te herstellen. Een gevaarlijke praktijk kan blijvend verboden worden. Een instelling hoeft een afgewikkelde zaak niet eindeloos open te houden.
 
 De plicht ligt preciezer: **sluitingsmacht moet haar eigen noodzaak, reikwijdte en gevolgen kunnen laten toetsen, en mag geen grotere aanspraak op de toekomst maken dan waarvoor zij gerechtvaardigd is.**
 
 Waar heropening veilig en relevant mogelijk is, kan dat herstel betekenen. Waar heropening zelf nieuwe schade veroorzaakt, kan juist het respecteren van de grens de corrigeerbare uitkomst zijn.
 
-<span class="begrip" data-term="proportionaliteit">Proportionaliteit</span> gaat daarom niet alleen over de zwaarte van de oorspronkelijke ingreep, maar ook over duur, reikwijdte, herstelbaarheid en wie de overblijvende last draagt.
+<span class="begrip" data-term="proportionaliteit">Proportionaliteit</span> omvat de zwaarte, duur, reikwijdte en herstelbaarheid van de ingreep, en de vraag wie de overblijvende last draagt.
 
 Ook uitzonderlijk inzicht of een reële noodsituatie heft de correctieplicht niet op. Waarheid, urgentie en gezag zijn verschillende vragen. Wie uitzonderlijke macht opeist omdat hij uitzonderlijk inzicht of uitzonderlijke noodzaak claimt, mag niet als enige beslissen wanneer die uitzondering eindigt.
 
@@ -221,7 +220,7 @@ Anders kan een tijdelijke noodzakelijke sluiting zichzelf tot permanent gezag ma
 
 ## Van actor naar institutie
 
-De escalatievolgorde blijft daarom eenvoudig, maar niet mechanisch:
+De escalatievolgorde blijft eenvoudig:
 
 1. **actor:** kan de betrokken persoon zelf nog werkelijk waarnemen, weigeren, kiezen of hulp vragen?
 2. **relatie:** kunnen betrokkenen de spanning dragen en corrigeren zonder dat één partij de ander feitelijk bezit?
@@ -230,19 +229,17 @@ De escalatievolgorde blijft daarom eenvoudig, maar niet mechanisch:
 
 In acute situaties kunnen stappen worden overgeslagen. Wie onmiddellijk gevaar loopt hoeft niet eerst een zorgvuldig relationeel gesprek te voeren. Temporaliteit en asymmetrie wegen hier zwaar: wat later mogelijk wordt, hoeft nu niet verlangd te worden.
 
-De escalatieorde is dus geen ritueel van steeds meer overleg. Zij is een manier om macht niet eerder en niet zwaarder over te nemen dan nodig, zonder noodzakelijke bescherming uit te stellen.
+De escalatieorde helpt macht niet eerder en niet zwaarder over te nemen dan nodig, zonder noodzakelijke bescherming uit te stellen.
 
 ## Van kern naar doctrine
 
-De institutionele uitwerking hoeft niet te worden voorgesteld alsof zij logisch verborgen lag in *wat verschijnt, verschijnt onaf*.
-
-De samenhang is minder dwingend en daardoor eerlijker.
+De institutionele uitwerking volgt niet logisch uit *wat verschijnt, verschijnt onaf*.
 
 Dit project begint met beschrijvende en metafysische uitspraken over gedragen en onafgesloten vorm. Vervolgens kiest het ethisch voor wederkerigheid: de ander blijft een bron van relevante terugkoppeling en wordt niet zonder voldoende rechtvaardiging opgebruikt of van basale antwoordvoorwaarden beroofd. Antwoordruimte, herstel en vermindering van afwendbaar lijden krijgen binnen die keuze hun normatieve plaats.
 
 Daaruit ontstaat een politieke en institutionele doctrine van **corrigeerbare macht**: wie de voorwaarden van andermans antwoorden kan bepalen, moet die macht kunnen rechtvaardigen, laten toetsen en waar nodig laten veranderen.
 
-De onafhankelijke derde, bezwaar- en herstelroutes, pluraliteit, transparante bevoegdheid en reële uittreedbaarheid zijn geen automatische consequenties van die beschrijvende of metafysische uitgangspunten. Het zijn institutionele vormen die passen bij die gekozen normatieve inzet en die zelf weer empirisch en politiek moeten worden getoetst.
+De onafhankelijke derde, bezwaar- en herstelroutes, pluraliteit, transparante bevoegdheid en reële uittreedbaarheid zijn institutionele vormen die bij die normatieve inzet passen en zelf weer empirisch en politiek moeten worden getoetst.
 
 Deze lagen mogen elkaar richting geven zonder in elkaar te worden geschoven:
 

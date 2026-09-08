@@ -23,11 +23,11 @@ Maar kijk iets langer en dat beeld wordt vreemd.
 
 De stem waarmee ik tegenspreek heb ik niet zelf gemaakt. De woorden waarmee ik mijn eigenheid verdedig zijn ontvangen woorden. Zelfs het vermogen om een grens te stellen is ergens geoefend, mogelijk gemaakt of juist moeizaam veroverd in verhouding tot anderen.
 
-Een vroege en te eenvoudige versie van ontvankelijkheid zou daarom kunnen zeggen: eerst is er een zelfstandig individu, daarna kan dit individu besluiten meer of minder open te staan voor anderen. Het relationele vertrekpunt gaat verder.
+Ontvankelijkheid begint niet bij een volledig zelfstandig individu dat daarna besluit meer of minder open te staan. Het relationele vertrekpunt ligt eerder.
 
 > **Het zelf dat openstaat, is al mede gevormd door relaties die het niet heeft gekozen.**
 
-Dat betekent niet dat een mens niets eigens heeft. Het betekent dat eigenheid geen beginpunt zonder geschiedenis is.
+Eigenheid is werkelijk en heeft een geschiedenis.
 
 ## Je begint nooit bij nul
 
@@ -35,11 +35,11 @@ Lichaam, erfelijkheid, voeding, aanraking, taal, opvoeding, cultuur, techniek, e
 
 Dat geldt zelfs voor vermogens die zeer persoonlijk aanvoelen. Waar mijn aandacht vanzelf naartoe gaat, wat voor mij bedreigend voelt, hoe gemakkelijk ik rust vind, welke afstand prettig is, welke gebaren vertrouwd zijn en welk toekomstbeeld überhaupt voorstelbaar lijkt: het heeft allemaal een geschiedenis.
 
-Die geschiedenis bepaalt niet alles. Maar zij is ook niet slechts achtergrondinformatie over een verder zelfstandig ik.
+Die geschiedenis is meer dan achtergrondinformatie over een verder zelfstandig ik.
 
-Het lichaam zelf is geen puur biologisch begin dat later door cultuur wordt ingevuld. Lichamelijke gewoonten, waarneming en regulatie krijgen vorm binnen ritmes van slaap en arbeid, veiligheid en dreiging, aanraking en afstand, voeding, beweging, taal en verwachting. We leren niet eerst een volledig lichaam te zijn om het daarna in een wereld te gebruiken. We worden lichamelijk vaardig ín een wereld.
+Lichamelijke gewoonten, waarneming en regulatie krijgen vorm binnen ritmes van slaap en arbeid, veiligheid en dreiging, aanraking en afstand, voeding, beweging, taal en verwachting. We leren niet eerst een volledig lichaam te zijn om het daarna in een wereld te gebruiken. We worden lichamelijk vaardig ín een wereld.
 
-Daar raakt dit hoofdstuk aan wat binnen filosofie en menswetenschappen <span class="begrip" data-term="intersubjectiviteit">intersubjectiviteit</span> wordt genoemd: onze ervaring van onszelf en de wereld ontstaat niet in volledige afzondering van andere perspectieven. Dat betekent niet dat anderen mijn ervaring bezitten. Wel dat een wereld waarin anderen verschijnen vanaf vroeg in het leven meehelpt bepalen wat überhaupt als betekenisvol, bedreigend, vertrouwd of mogelijk verschijnt.
+Daar raakt dit hoofdstuk aan wat binnen filosofie en menswetenschappen <span class="begrip" data-term="intersubjectiviteit">intersubjectiviteit</span> wordt genoemd: onze ervaring van onszelf en de wereld ontstaat in aanwezigheid van andere perspectieven. Een wereld waarin anderen verschijnen helpt vanaf vroeg in het leven bepalen wat als betekenisvol, bedreigend, vertrouwd of mogelijk verschijnt.
 
 *Ontvankelijkheid komt niet later bij een zelfstandige vorm. Verhoudingen werken vanaf het begin mee aan wat een vorm kan zijn.*
 
@@ -49,33 +49,23 @@ Die verhoudingen reiken verder dan het sociale.
 
 Ieder organisme bestaat uit stromen van materie en energie, uit evolutionaire geschiedenis en uit een omgeving die het niet zelf heeft voortgebracht. Ademhaling, temperatuur, voedsel, micro-organismen, licht, zwaartekracht en beschutting zijn geen latere toevoegingen aan een organisme dat eerst al af was.
 
-Tegelijk is een organisme ook geen passief product van zijn omgeving. Het zoekt, vermijdt, bouwt, graaft, eet, beweegt, nestelt en verandert daarmee de wereld waarin het vervolgens verder leeft. Biologen spreken in zulke gevallen onder meer van <span class="begrip" data-term="nicheconstructie">nicheconstructie</span>: organismen passen zich niet alleen aan een gegeven omgeving aan, maar veranderen delen van die omgeving op manieren die op henzelf en soms op volgende generaties terugwerken.
+Tegelijk is een organisme ook geen passief product van zijn omgeving. Het zoekt, vermijdt, bouwt, graaft, eet, beweegt, nestelt en verandert daarmee de wereld waarin het vervolgens verder leeft. Biologen spreken in zulke gevallen onder meer van <span class="begrip" data-term="nicheconstructie">nicheconstructie</span>: organismen passen zich aan hun omgeving aan en veranderen delen ervan op manieren die op henzelf en soms op volgende generaties terugwerken.
 
-Dat beeld is belangrijk omdat het twee simpele verhalen tegelijk verstoort.
-
-Niet alleen *de omgeving maakt het organisme*.
-
-Niet alleen *het organisme gebruikt de omgeving*.
-
-Er is terugwerking.
+Organisme en omgeving veranderen elkaar.
 
 Een bever leeft in een landschap dat hij mede verandert. Een mens groeit op in een taal die eerdere mensen hebben gevormd en verandert die taal vervolgens zelf een beetje. Een buurt vormt het gedrag van bewoners, terwijl dagelijkse handelingen van bewoners diezelfde buurt veiliger, luidruchtiger, zorgzamer of vijandiger kunnen maken.
 
-Dat hoeft nog geen groot metafysisch principe te worden. Het laat voorlopig iets eenvoudigers zien: oorzaak en omgeving lopen in levende verhoudingen vaak in meer dan één richting.
+Voorlopig is genoeg dat oorzaak en omgeving in levende verhoudingen vaak in meer dan één richting lopen.
 
 ## Een grens ontstaat niet buiten de verhouding
 
-Een vorm snijdt zich dus niet uit de werkelijkheid los. Toch heeft zij een grens nodig.
-
-Dat is geen tegenspraak.
+Een vorm snijdt zich niet uit de werkelijkheid los. Toch heeft zij een grens nodig.
 
 Een cel kan alleen uitwisselen omdat er een membraan is. Een gesprek kan alleen werkelijk tussen twee mensen plaatsvinden wanneer hun stemmen niet volledig samenvallen. Een kind kan alleen gaandeweg zelf antwoorden wanneer het niet uitsluitend als verlengstuk van ouder, school of groep wordt behandeld.
 
 Relatie veronderstelt verschil.
 
-Twee vormen die volledig samenvallen kunnen elkaar niet ontmoeten of antwoorden. Het gaat daarom niet om versmelting, maar om wording in verhouding: ik kan door jou veranderen zonder jou te worden; jij kunt mij vormen zonder daarom volledig over mij te beschikken.
-
-Dat laatste is cruciaal.
+Twee vormen die volledig samenvallen kunnen elkaar niet ontmoeten of antwoorden. Het gaat om wording in verhouding: ik kan door jou veranderen zonder jou te worden; jij kunt mij vormen zonder daarom volledig over mij te beschikken.
 
 Dat iemand aan mijn ontstaan heeft bijgedragen, geeft diegene geen eigendomsrecht over wat ik daarna moet worden. Een ouder heeft een kind mede gevormd, maar bezit niet diens toekomst. Een gemeenschap geeft taal en herkenning, maar krijgt daarmee niet het laatste woord over identiteit. Een leraar kan beslissend zijn geweest voor een talent zonder eigenaar van dat talent te worden.
 
@@ -89,7 +79,7 @@ Autonomie wordt vaak gevoeld als: zelf kunnen kiezen.
 
 Dat blijft belangrijk. Maar wanneer autonomie alleen betekent dat een keuze vrij is voor zover zij uit een volledig zelfstandig individu voortkomt, wordt vrijwel iedere menselijke keuze verdacht. Niemand kiest zijn eerste taal, eerste lichaam, eerste verzorgers, historische tijd, economische uitgangspositie of het grootste deel van de categorieën waarmee een keuze überhaupt kan worden gedacht.
 
-Een relationele benadering van autonomie probeert dit niet op te lossen door autonomie af te schaffen. Zij vraagt eerder onder welke sociale en materiële voorwaarden iemand werkelijk in staat raakt een eigen leven mede richting te geven. <span class="begrip" data-term="relationele-autonomie">Relationele autonomie</span> is daarmee geen vriendelijk woord voor afhankelijkheid, maar een correctie op het idee dat afhankelijkheid en zelfbestuur elkaars eenvoudige tegenpolen zijn.
+Een relationele benadering van autonomie vraagt onder welke sociale en materiële voorwaarden iemand werkelijk in staat raakt een eigen leven mede richting te geven. <span class="begrip" data-term="relationele-autonomie">Relationele autonomie</span> corrigeert het idee dat afhankelijkheid en zelfbestuur elkaars eenvoudige tegenpolen zijn.
 
 Binnen dit project betekent autonomie voorlopig: binnen ontvangen bepaaldheid voldoende eigen antwoord kunnen ontwikkelen.
 
@@ -107,13 +97,13 @@ Herzien.
 
 Soms iets beginnen waarvoor de omgeving nog geen klaar model had.
 
-Dat antwoord is nooit volledig van mij alleen. Maar het is daarom niet onwerkelijk.
+Dat antwoord ontstaat nooit volledig uit mij alleen en kan toch werkelijk van mij zijn.
 
 *De mens is geen uitzondering op bepaaldheid; de mens is bepaaldheid die antwoord leert geven.*
 
-Deze formulering bewaart zowel verantwoordelijkheid als bescheidenheid. Wie alleen bepaaldheid ziet, kan ieder antwoord reduceren tot oorzaak en gevolg. Wie alleen autonomie ziet, vergeet hoeveel onzichtbare zorg, taal, materie en toeval nodig waren om überhaupt te kunnen kiezen.
+Wie alleen bepaaldheid ziet, kan ieder antwoord reduceren tot oorzaak en gevolg. Wie alleen autonomie ziet, vergeet hoeveel onzichtbare zorg, taal, materie en toeval nodig waren om überhaupt te kunnen kiezen.
 
-Het zelf is geen afgesloten bron en evenmin een doorgeefluik zonder eigen rol. Het is een plaats waar ontvangen bepaaldheid gedeeltelijk tot antwoord kan worden.
+Het zelf is een plaats waar ontvangen bepaaldheid gedeeltelijk tot antwoord kan worden.
 
 <aside class="uitkijkje uitkijkje--beeld" data-label="Even opzij">
 <p class="uitkijkje__label">Even opzij</p>
@@ -152,19 +142,15 @@ Relationeel denken moet daarom twee grenzen tegelijk vasthouden:
 
 Dat geldt ook wanneer een verhouding liefdevol begon of veel goeds heeft voortgebracht. Dankbaarheid is geen levenslang eigendomsbewijs. Geschiedenis mag meetellen zonder toekomst volledig te bezetten.
 
-## De omgeving denkt niet voor ons, maar denken gebeurt ook niet los van haar
-
-Een vergelijkbare voorzichtigheid geldt voor cognitie.
+## Denken heeft een omgeving
 
 Benaderingen van <span class="begrip" data-term="enactivisme">enactivisme</span> en belichaamde cognitie benadrukken dat waarnemen en denken niet goed begrepen worden wanneer alleen naar interne informatieverwerking wordt gekeken. Beweging, lichaam en praktische omgang met een omgeving doen mee aan wat een organisme kan waarnemen en begrijpen.
 
-Daarmee hoeft niet gezegd te zijn dat een stoel, straat of gesprekspartner letterlijk een deel van iedere gedachte is. De sterkste filosofische claims hierover zijn omstreden. Voor deze tekst is een bescheidener punt voldoende: onze vermogens verschijnen in wisselwerking met voorwaarden buiten het brein, en veranderen wanneer die voorwaarden veranderen.
+De sterkste filosofische claims hierover zijn omstreden. Voor deze tekst is een bescheidener punt voldoende: onze vermogens verschijnen in wisselwerking met voorwaarden buiten het brein, en veranderen wanneer die voorwaarden veranderen.
 
 Een trap maakt een andere beweging mogelijk dan een gladde wand. Een muziekinstrument opent andere handelingsmogelijkheden voor een geoefende speler dan voor iemand die het nooit heeft aangeraakt. Een telefoonnummer dat jarenlang automatisch uit de vingers kwam kan verdwijnen zodra het toestel het geheugenwerk structureel overneemt.
 
-De omgeving is dus niet slechts datgene waarover we denken. Zij kan ook meewerken aan de manier waarop denken, herinneren en handelen vorm krijgen.
-
-Maar opnieuw geldt: invloed is nog geen volledige bepaling. Dat een omgeving een vermogen mede draagt, betekent niet dat de persoon in die omgeving oplost.
+De omgeving werkt mee aan de manier waarop denken, herinneren en handelen vorm krijgen. Dat een omgeving een vermogen mede draagt, laat de persoon in die omgeving niet oplossen.
 
 ## Oorsprongsgeheugen
 
@@ -172,19 +158,17 @@ Wie zichzelf als volledig eigen oorsprong ziet, maakt veel werk onzichtbaar.
 
 Dat geldt individueel, maar ook cultureel en institutioneel. Degene die een inzicht het best verwoordt, is niet noodzakelijk de enige oorsprong ervan. In een groep kunnen velen eerder iets hebben gevoeld, gemist, geprobeerd of opgevangen voordat één persoon het patroon articuleert. Een uitvinding rust op materialen, technieken en kennis waarvan geen enkele uitvinder zelf de eerste maker was. Een organisatie kan succes toeschrijven aan strategie terwijl medewerkers jarenlang informele reparaties uitvoerden die nergens in het model voorkwamen.
 
-Auteurschap verdwijnt daarmee niet. Het wordt preciezer.
+Dat maakt auteurschap preciezer.
 
 Een spreker kan werkelijk iets nieuws formuleren. Een maker kan een vorm voortbrengen die er eerder niet was. Een mens kan verantwoordelijkheid dragen voor een beslissing die alleen door diegene genomen kon worden.
 
-Maar nieuwheid hoeft geen schepping uit het niets te zijn.
+Nieuwheid hoeft geen schepping uit het niets te zijn.
 
 Ideeën hebben vaak een genealogie: een route van lichamen, arbeid, mislukkingen, gesprekken, voorbeelden, weerstand en kleine signalen.
 
 Oorsprongsgeheugen is daarom een vorm van ontvankelijkheid. Een vorm blijft beter corrigeerbaar wanneer zij niet vergeet waarvan en van wie zij afhankelijk is. Zodra succes zijn eigen draagwereld onzichtbaar maakt, kan autonomie in mythe veranderen en erkenning in toe-eigening.
 
 Dat geldt ook voor dit project. Geen begrip hier ontstaat zonder taal die al bestond, filosofische buren, wetenschappelijke kennis, gesprekken, culturele beelden en ervaringen die niet door één schrijver zijn gemaakt.
-
-De vraag is dus niet hoe we eindelijk volledig van afhankelijkheid afkomen.
 
 De vraag is hoe een vorm binnen afhankelijkheid werkelijk eigen kan worden zonder haar oorsprongen te ontkennen en zonder erdoor bezeten te blijven.
 

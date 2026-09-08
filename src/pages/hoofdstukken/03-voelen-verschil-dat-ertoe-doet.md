@@ -18,21 +18,19 @@ Een steen kan veranderen. Zij kan splijten door vorst, afslijten door water, opw
 
 Bij een levend lichaam lijkt dat anders.
 
-Honger is niet alleen een meetbare daling van beschikbare energie. Beschadiging is niet alleen een verandering in weefsel. Kou, pijn, benauwdheid, dreiging, aanraking en nabijheid kunnen voor een organisme verschil maken op een manier die richting geeft aan wat het vervolgens doet. Het trekt weg, zoekt voedsel, bevriest, nadert, verdedigt, herstelt of verandert zijn aandacht.
+Honger heeft een meetbare lichamelijke kant en kan tegelijk richting geven aan wat een organisme vervolgens doet. Hetzelfde geldt voor beschadiging, kou, pijn, benauwdheid, dreiging, aanraking en nabijheid. Een organisme trekt weg, zoekt voedsel, bevriest, nadert, verdedigt, herstelt of verandert zijn aandacht.
 
 Hier begint voor mij het woord *voelen*.
 
-Niet als synoniem voor iedere biologische reactie en ook niet als claim dat elk organisme een rijk bewust innerlijk leven heeft. Ik gebruik het woord voor de plaats waar verschil niet alleen gebeurt, maar **ertoe doet voor een vorm**.
-
-Dat onderscheid is klein en zwaar tegelijk.
+Ik gebruik het voor de plaats waar verschil **ertoe doet voor een vorm**. Reactiviteit, regulatie, gevoeligheid, affect en bewuste ervaring vallen daarbij niet vanzelf samen.
 
 Een thermostaat reageert op temperatuur. Een plant groeit naar licht. Een bacterie beweegt langs een chemische gradiënt. Een hond kan kreunen, vermijden, zoeken, wachten en zich zichtbaar anders gedragen nadat iets pijnlijks is gebeurd. Een mens kan bovendien zeggen: *ik ben bang*, *ik schaam me*, *ik weet niet wat er is, maar iets klopt niet*.
 
-Die voorbeelden mogen niet te snel op één schaal worden gezet. Reactiviteit, regulatie, gevoeligheid, affect en bewuste ervaring zijn niet hetzelfde. Juist daarom moet het woord voelen begrensd blijven.
+Die voorbeelden mogen niet te snel op één schaal worden gezet. Juist daarom moet het woord voelen begrensd blijven.
 
-Maar ook het omgekeerde is riskant: doen alsof alleen datgene telt wat al volledig bewust, talig en rationeel kan worden uitgelegd.
+Ook het omgekeerde is riskant: doen alsof alleen datgene telt wat al volledig bewust, talig en rationeel kan worden uitgelegd.
 
-## Het lichaam weet niet alles, maar het is ook geen ruis
+## Het lichaam geeft signalen, geen vonnissen
 
 Een lichaam kan eerder reageren dan iemand begrijpt wat er gebeurt.
 
@@ -42,23 +40,17 @@ Dat soort signalen bewijzen op zichzelf nog niets over hun oorzaak.
 
 Ze kunnen verkeerd worden gelezen. Angst kan een oud patroon opnieuw activeren. Schaamte kan ontstaan uit een norm die niemand meer zou willen verdedigen. Een lichamelijke sensatie kan door ziekte, verwachting of stress meerdere betekenissen krijgen.
 
-Maar het feit dat een eerste uitleg onzeker is, maakt het gevoelde verschil niet onwerkelijk.
+De onzekerheid van een eerste uitleg maakt het gevoelde verschil niet onwerkelijk.
 
-<span class="begrip" data-term="interoceptie">Interoceptie</span> is de gangbare term voor het waarnemen en verwerken van signalen uit het eigen lichaam. Hartslag, ademhaling, spanning, temperatuur, verzadiging en andere interne signalen worden niet simpelweg één op één bewust. Zij worden verwerkt, geïntegreerd en geïnterpreteerd. Juist daarom is lichamelijk voelen geen onfeilbare innerlijke meter, maar ook geen willekeurige bijzaak.
+<span class="begrip" data-term="interoceptie">Interoceptie</span> is de gangbare term voor het waarnemen en verwerken van signalen uit het eigen lichaam. Hartslag, ademhaling, spanning, temperatuur, verzadiging en andere interne signalen worden niet simpelweg één op één bewust. Zij worden verwerkt, geïntegreerd en geïnterpreteerd. Lichamelijk voelen is daarmee geen onfeilbare meter, maar een signaal dat interpretatie vraagt.
 
 > **Wat mij raakt, is werkelijk als ervaring. Wat ik denk dat het betekent, blijft toetsbaar.**
-
-Die scheiding is voor deze tekst fundamenteel.
-
-Zonder haar dreigt aan de ene kant een rationalistische fout: alleen de correcte verklaring mag nog werkelijk heten. Aan de andere kant dreigt een subjectivistische fout: omdat iets sterk wordt gevoeld, moet de eerste verklaring ervan ook waar zijn.
-
-Ik wil beide vermijden.
 
 Een vernedering kan werkelijk gevoeld zijn terwijl de aangewezen oorzaak niet klopt. Een angst kan echt zijn zonder dat het gevreesde gevaar bestaat. Een verlangen kan oprecht worden ervaren en toch mede door verslaving, reclame, groepsdruk of een machtsverhouding zijn gevormd.
 
 Gevoel verdient daarom **erkenning zonder automatische bekrachtiging van zijn uitleg**.
 
-Dat maakt ook gesprek mogelijk. Ik hoef jouw pijn niet te ontkennen om je verklaring tegen te spreken. En jij hoeft mijn tegenspraak niet meteen te ervaren als bewijs dat je pijn niet telt.
+Dat maakt gesprek mogelijk. Ik hoef jouw pijn niet te ontkennen om je verklaring tegen te spreken. En jij hoeft mijn tegenspraak niet meteen te ervaren als bewijs dat je pijn niet telt.
 
 > **Wat jou raakt mag werkelijkheid worden, maar hoeft niemand anders onwerkelijk te maken.**
 
@@ -83,19 +75,15 @@ Het woord *gevoel* kan gemakkelijk te menselijk worden. Alsof voelen pas begint 
 
 Ik bedoel iets fundamentelers.
 
-Een levend wezen bestaat niet alleen doordat er processen in plaatsvinden, maar doordat sommige verschillen voor zijn voortbestaan, regulatie of handelen meer gewicht krijgen dan andere. Voedsel kan worden gezocht, schade vermeden, nabijheid opgezocht, rust afgedwongen. In sommige benaderingen van <span class="begrip" data-term="enactivisme">enactivisme</span> en zogenoemde *sense-making* wordt precies dat benadrukt: een organisme ontmoet zijn omgeving niet als een volledig neutraal veld, maar vanuit een eigen wijze van leven waarin sommige verschillen relevant worden.
+Bij een levend wezen krijgen sommige verschillen voor voortbestaan, regulatie of handelen meer gewicht dan andere. Voedsel kan worden gezocht, schade vermeden, nabijheid opgezocht, rust afgedwongen. In sommige benaderingen van <span class="begrip" data-term="enactivisme">enactivisme</span> en zogenoemde *sense-making* wordt precies dat benadrukt: een organisme ontmoet zijn omgeving vanuit een eigen wijze van leven waarin sommige verschillen relevant worden.
 
-Daaruit volgt nog niet automatisch bewustzijn.
+Dat is nog geen bewijs van bewustzijn. Een systeem kan reguleren zonder dat we goede reden hebben om aan te nemen dat er ook iets wordt ervaren. Biologische betekenis, affectieve gevoeligheid en bewuste ervaring kunnen samenhangen zonder identiek te zijn.
 
-Dat onderscheid moet scherp blijven. Een systeem kan reguleren zonder dat we goede reden hebben om aan te nemen dat er ook iets wordt ervaren. Biologische betekenis, affectieve gevoeligheid en bewuste ervaring kunnen samenhangen zonder identiek te zijn.
-
-Toch geeft deze lijn een belangrijk aanknopingspunt: betekenis hoeft niet pas te beginnen wanneer een mens er woorden aan geeft.
+Deze lijn biedt wel een belangrijk aanknopingspunt: betekenis hoeft niet pas te beginnen wanneer een mens er woorden aan geeft.
 
 De wereld verschijnt voor levende vormen niet overal op dezelfde manier. Een geurspoor dat voor mij nauwelijks iets betekent kan voor een hond een hele route openen. Een trillingspatroon dat ik niet opmerk kan voor een spin onmiddellijk verschil maken. Een kalf, kraai of octopus beweegt binnen een wereld waarin andere mogelijkheden, bedreigingen en aantrekkingen gewicht hebben.
 
-Dat gewicht is niet hetzelfde als menselijke interpretatie.
-
-Het is juist interessant omdat het laat zien dat “ertoe doen” meerdere vormen kan aannemen.
+Dat gewicht hoeft geen menselijke interpretatie te zijn. “Ertoe doen” kan meerdere vormen aannemen.
 
 ## Ik voel, dus ik ben
 
@@ -103,31 +91,29 @@ Daarom durf ik de zin op te schrijven:
 
 > **Ik voel, dus ik ben.**
 
-Niet als logische weerlegging van Descartes. Niet als bewijs dat denken onbelangrijk is. En ook niet als definitie waarmee alles wat niet voelend is buiten het bestaan zou vallen.
-
-De zin is een correctie op een rangorde.
+De zin is hier geen algemene bestaansdefinitie. Hij corrigeert een rangorde.
 
 In veel menselijke verhoudingen krijgt ervaring pas gewicht nadat zij goed is uitgelegd. Een patiënt moet precies kunnen aangeven waar het zit. Een burger moet zijn probleem in de juiste categorie krijgen. Een kind moet eerst netjes vertellen waarom het overstuur is. Een werknemer moet zijn uitputting liefst meetbaar maken voordat zij serieus wordt.
 
-Maar een wezen kan al geraakt zijn voordat het beschikt over de woorden, kennis of institutionele toegang waarmee het dat raken geloofwaardig kan maken.
+Een wezen kan al geraakt zijn voordat het beschikt over de woorden, kennis of institutionele toegang waarmee het dat raken geloofwaardig kan maken.
 
 Daarom wil ik voelen vóór verklaren plaatsen, zonder verklaren af te schaffen.
 
-Het gevoelde verschil is geen eindvonnis. Het is een beginpunt van onderzoek.
+Het gevoelde verschil is een beginpunt van onderzoek.
 
-Dat geldt ook voor mezelf. Mijn eerste gevoel heeft geen absoluut gezag over jou. Maar het verdient genoeg gewicht om niet meteen uit mijn eigen waarneming te worden weggeprocedeerd.
+Dat geldt ook voor mezelf. Mijn eerste gevoel heeft geen absoluut gezag over jou. Het verdient wel genoeg gewicht om niet meteen uit mijn eigen waarneming te worden weggeprocedeerd.
 
 ## Niet-menselijke dieren als eigen vormen
 
 De regionale kern houdt voor mij niet op bij de menselijke soort.
 
-Bij veel niet-menselijke dieren is het redelijk om niet alleen over reactie of regulatie te spreken, maar over <span class="begrip" data-term="sentience">sentience</span>: het vermogen om positieve of negatieve ervaringen te hebben, om pijn, comfort, dreiging, rust of andere toestanden niet alleen fysiologisch te ondergaan maar als ervaringskwaliteit te hebben.
+Bij veel niet-menselijke dieren is het redelijk om over <span class="begrip" data-term="sentience">sentience</span> te spreken: het vermogen om positieve of negatieve ervaringen te hebben, om pijn, comfort, dreiging, rust of andere toestanden als ervaringskwaliteit te ondergaan.
 
 Over de precieze verspreiding en aard van dierlijk bewustzijn bestaat wetenschappelijke en filosofische discussie. We weten niet voor iedere soort waar de grens ligt, en verschillende theorieën over bewustzijn trekken die grens anders.
 
-Maar die onzekerheid rechtvaardigt geen simpele menselijke default waarin taal als toegangsbewijs geldt.
+Die onzekerheid maakt menselijke taal geen toegangsbewijs.
 
-Veel dieren leren, vermijden, anticiperen, kiezen, herstellen, spelen, zorgen of zoeken actief sociale nabijheid. Hun gedrag en fysiologie geven geen volledige toegang tot een innerlijke wereld, maar ze zijn evenmin betekenisloze buitenkant.
+Veel dieren leren, vermijden, anticiperen, kiezen, herstellen, spelen, zorgen of zoeken actief sociale nabijheid. Gedrag en fysiologie bieden onvolledige maar relevante toegang tot wat voor een dier verschil kan maken.
 
 > **Wat een dier raakt, is niet minder werkelijk omdat het niet in onze taal terugspreekt.**
 
@@ -148,7 +134,7 @@ Dat bewijst niets over dierlijke ervaring. Het helpt wel om één gewoonte te do
 
 Een koe, hond, kraai of octopus hoeft daarom geen “mens zonder woorden” te worden.
 
-De vraag is niet hoeveel menselijke kenmerken een dier bezit, maar welke verschillen binnen zijn eigen levensvorm gewicht hebben. Kan het bewegen, vluchten, rusten, kiezen, verkennen, sociaal contact zoeken of vermijden, spelen, nestelen, jagen, schuilen? Wat gebeurt er wanneer zulke mogelijkheden langdurig verdwijnen?
+Relevant is welke verschillen binnen zijn eigen levensvorm gewicht hebben. Kan het bewegen, vluchten, rusten, kiezen, verkennen, sociaal contact zoeken of vermijden, spelen, nestelen, jagen, schuilen? Wat gebeurt er wanneer zulke mogelijkheden langdurig verdwijnen?
 
 Juist daar wordt empirische kennis onmisbaar. Ethologie, diergeneeskunde, gedragswetenschap en vergelijkende cognitie kunnen veel preciezer onderzoeken welke voorkeuren, stressreacties, sociale behoeften en herstelpatronen bij verschillende soorten voorkomen.
 
@@ -156,21 +142,15 @@ Deze filosofie mag dat werk niet vervangen.
 
 Zij kan wel één eis aan zichzelf stellen: **geen menselijke taal als verborgen maatstaf gebruiken voor de werkelijkheid van dierlijk voelen.**
 
-## Wat we niet kunnen weten, maar ook niet mogen overslaan
-
-Hier verschijnt een lastig epistemisch probleem.
+## De binnenkant van de ander
 
 Ik heb directe toegang tot mijn eigen ervaring op een manier waarop ik die niet tot jouw ervaring heb, laat staan tot die van een dier. Zelfs bij andere mensen werken we via gedrag, taal, context, lichaam en interpretatie.
 
 Toch leven we voortdurend alsof andere binnenkanten werkelijk zijn.
 
-Dat is geen zwakte die snel moet worden opgelost. Het is een structurele asymmetrie van ontmoeting: de ander kan zich tonen zonder ooit volledig beschikbaar te worden.
+Die asymmetrie is structureel: de ander kan zich tonen zonder ooit volledig beschikbaar te worden.
 
-Daarom vraagt voelen twee houdingen tegelijk.
-
-Ten eerste: **ernst**. Niet doen alsof alleen datgene bestaat wat ik zelf van binnenuit kan verifiëren.
-
-Ten tweede: **bescheidenheid**. Niet doen alsof mijn interpretatie van andermans binnenkant daardoor automatisch klopt.
+Dat vraagt ernst zonder bezit. Neem de mogelijke binnenkant van de ander serieus, ook waar je haar niet van binnenuit kunt verifiëren, en houd tegelijk ruimte voor de mogelijkheid dat je interpretatie ervan niet klopt.
 
 Waar menselijke instituties namens dieren beslissen, wordt die combinatie extra belangrijk. Vertegenwoordiging is nodig, maar mag geen buikspreken worden.
 
@@ -182,13 +162,11 @@ Bij mensen wordt die grens nog scherper omdat de ander kan terugspreken.
 
 Een filosofie die alleen vanuit het ik redeneert, kan de ander gemakkelijk opnemen als verschijnsel binnen mijn wereld: iemand die ik observeer, classificeer, behandel, help of bestrijd.
 
-Maar een ander mens is niet alleen informatie.
-
-Hij kan mij corrigeren. Zij kan weigeren. Iemand kan zeggen dat mijn hulp niet helpt, dat mijn categorie niet past, dat mijn herinnering onvolledig is of dat mijn goede bedoeling schade doet.
+Een ander mens kan mij corrigeren. Zij kan weigeren. Iemand kan zeggen dat mijn hulp niet helpt, dat mijn categorie niet past, dat mijn herinnering onvolledig is of dat mijn goede bedoeling schade doet.
 
 Hier wordt de tweede persoon filosofisch belangrijk.
 
-<span class="begrip" data-term="dialogische-filosofie">Dialogische filosofie</span>, onder meer bij Martin Buber, benadrukt dat een *jij* niet volledig kan worden herleid tot een object binnen mijn beschrijving. Dat betekent niet dat we zonder rollen, categorieën of analyse kunnen. Patiënt, medewerker, ouder, dader, burger: zulke woorden zijn vaak noodzakelijk.
+<span class="begrip" data-term="dialogische-filosofie">Dialogische filosofie</span>, onder meer bij Martin Buber, benadrukt dat een *jij* niet volledig kan worden herleid tot een object binnen mijn beschrijving. Rollen en categorieën blijven vaak noodzakelijk: patiënt, medewerker, ouder, dader, burger.
 
 Het gevaar ontstaat wanneer de categorie het gehele antwoord al lijkt te bevatten.
 
@@ -196,17 +174,15 @@ De ontmoeting met een ander garandeert geen harmonie. Juist een nee kan de tweed
 
 > **De ander is een terugweg uit mijn eigen sluiting.**
 
-Dat maakt ieder antwoord nog niet juist. De ander kan liegen, zich vergissen, manipuleren of zelf schade doen. Wederkerigheid betekent niet dat iedere stem dezelfde feitelijke of morele conclusie oplegt.
+De ander kan liegen, zich vergissen, manipuleren of zelf schade doen. Wederkerigheid betekent niet dat iedere stem dezelfde feitelijke of morele conclusie oplegt.
 
 Maar tegenspraak mag niet op zichzelf het bewijs worden dat iemand niet kan antwoorden.
 
 *Spreek mensen tegen zonder ze af te schrijven.*
 
-## Voelen zonder gevoelsregering
+## Voelen is geen eindvonnis
 
-Deze nadruk op voelen mag tenslotte niet omslaan in een politiek of moraal waarin de sterkste emotie automatisch wint.
-
-Dat zou juist de correctie vernietigen die hier nodig is.
+De sterkste emotie kan niet automatisch winnen.
 
 Voelen zegt: **er staat iets op het spel**.
 
@@ -220,7 +196,7 @@ Het zegt nog niet vanzelf:
 
 Daarvoor blijven waarneming, gesprek, kennis, vergelijking en institutionele toetsing nodig.
 
-De plaats van gevoel is dus niet boven de rede, maar ervoor en erdoorheen.
+Gevoel komt vóór de uitleg en blijft erdoorheen aanwezig.
 
 Een lichaam kan het alarm slaan. Het vonnis vraagt meer.
 

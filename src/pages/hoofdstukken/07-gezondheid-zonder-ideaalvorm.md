@@ -9,13 +9,13 @@ source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
 divergence: "Integraal gecomprimeerd: gezondheid en pathologie behouden hun thuisbasis; wederkerigheid, antwoordruimte en asymmetrie worden niet langer vooruitlopend volledig uitgewerkt."
 lastSyncCheck: "2026-09-05"
 ---
-Gezondheid is hier niet de afwezigheid van spanning en ook niet permanente openheid. Zij is draagbare onafheid: genoeg samenhang om te blijven bestaan, genoeg gevoeligheid om geraakt te worden, genoeg grens om niet te verdwijnen en genoeg herstelruimte om na verandering opnieuw vorm te vinden.
+Gezondheid is hier **draagbare onafheid**: genoeg samenhang om te blijven bestaan, genoeg gevoeligheid om geraakt te worden, genoeg grens om niet te verdwijnen en genoeg herstelruimte om na verandering opnieuw vorm te vinden.
 
 Dat schuift een hardnekkige gewoonte opzij. We spreken vaak over gezondheid alsof ergens een volledige, normale toestand bestaat waar een lichaam of geest zo dicht mogelijk bij moet blijven. Maar levende vormen verschillen van elkaar en veranderen zelf door leeftijd, geschiedenis, letsel, omgeving, ontwikkeling en toeval.
 
 Een kind, een zwangere, een topsporter, iemand met chronische pijn en iemand die herstelt van een depressie hebben niet dezelfde draagkracht, hetzelfde ritme of dezelfde mogelijkheden nodig om gezond te kunnen leven. Zelfs bij één persoon kan de betekenis van een grens veranderen. Wat gisteren vermijding was, kan vandaag noodzakelijke bescherming zijn.
 
-Daarom is gezondheid hier geen wedstrijd in nabijheid tot één ideaal, maar een vraag naar verhouding:
+Gezondheid wordt dan een vraag naar verhouding:
 
 *Kan deze vorm, in deze omstandigheden en met deze geschiedenis, verschil ontvangen zonder zichzelf of anderen structureel op te gebruiken?*
 
@@ -46,9 +46,9 @@ Een samenleving kan iemand als afwijkend ervaren terwijl die persoon zelf weinig
 
 *Het gemiddelde is geen morele maatstaf en gewenning is geen bewijs van gezondheid.*
 
-Daarmee verdwijnt <span class="begrip" data-term="pathologie">pathologie</span> niet. Sommige toestanden beschadigen werkelijk. Het punt is niet dat iedere diagnose slechts een sociale constructie is, maar dat een diagnose beschrijvend, klinisch en normatief werk door elkaar kan gaan doen.
+Sommige toestanden beschadigen werkelijk. Een diagnose kan tegelijk beschrijvend, klinisch en normatief werk gaan doen.
 
-Een naam kan toegang tot zorg openen. Dezelfde naam kan ook een persoon gaan samenvatten. Daarom blijft het onderscheid belangrijk tussen **een patroon herkennen** en **een vorm op dat patroon sluiten**.
+Een naam kan toegang tot zorg openen. Dezelfde naam kan ook een persoon gaan samenvatten. Belangrijk is het verschil tussen **een patroon herkennen** en **een vorm op dat patroon sluiten**.
 
 ## Drie ontsporingen
 
@@ -72,23 +72,19 @@ Dat zijn geen universele diagnoses. Verstarring kan tijdelijk beschermen tegen o
 
 De kritiek op verstarring kan zelf een nieuw ideaal voortbrengen: de gezonde mens als permanent flexibele, lerende, open en veerkrachtige persoon.
 
-Dat zou dezelfde fout in een nieuw jasje zijn.
-
 Een gezonde grens kan hard zijn. Een beperking kan blijvend zijn. Een lichaam kan iets definitief niet meer kunnen. Een persoon kan een leven zo inrichten dat bepaalde prikkels, relaties of eisen bewust worden vermeden.
 
-Ook <span class="begrip" data-term="resilience">resilience</span> is geen moreel maximum. Een systeem dat eindeloos terugveert terwijl dezelfde schade steeds opnieuw wordt toegediend is niet daarom gezond. Soms is de gezonde reactie niet beter leren verdragen, maar de belasting veranderen of beëindigen.
+Ook <span class="begrip" data-term="resilience">resilience</span> is geen moreel maximum. Een systeem dat eindeloos terugveert terwijl dezelfde schade steeds opnieuw wordt toegediend is niet daarom gezond. Soms moet de belasting veranderen of eindigen.
 
-Gezondheid zonder ideaalvorm betekent dus niet grenzeloze plasticiteit. Een grens, gewoonte of beperking moet worden beoordeeld op wat zij mogelijk maakt en wat zij kost.
+Ook grenzeloze plasticiteit is geen ideaal. Een grens, gewoonte of beperking moet worden beoordeeld op wat zij mogelijk maakt en wat zij kost.
 
 ## Van beschrijving naar keuze
 
-Tot hier is de inzet grotendeels beschrijvend. Levende vormen hebben grenzen, geschiedenis, draagkracht en verschillende manieren van herstel. Daaruit volgt niet vanzelf een ethiek.
+Tot hier is de inzet grotendeels beschrijvend. Levende vormen hebben grenzen, geschiedenis, draagkracht en verschillende manieren van herstel. Die beschrijving bewijst nog geen ethiek.
 
-Dat onderscheid moet expliciet blijven.
+De normatieve stap begint wanneer wij kiezen dat voelende en antwoordende vormen niet zonder voldoende rechtvaardiging mogen worden opgebruikt of van basale voorwaarden voor herstel en antwoord worden beroofd.
 
-Uit het feit dat levende vormen ontvankelijk en afhankelijk zijn volgt niet logisch dat wij ontvankelijkheid altijd moeten bevorderen. De normatieve stap begint pas wanneer wij kiezen dat voelende en antwoordende vormen niet zonder voldoende rechtvaardiging mogen worden opgebruikt of van basale voorwaarden voor herstel en antwoord worden beroofd.
-
-Die keuze zal in de volgende hoofdstukken preciezer worden uitgewerkt als vrijheid, <span class="begrip" data-term="antwoordruimte">antwoordruimte</span> en <span class="begrip" data-term="wederkerigheid">wederkerigheid</span>. Hier hoeft zij nog niet volledig te worden ingevuld.
+De volgende hoofdstukken werken die keuze verder uit als vrijheid, <span class="begrip" data-term="antwoordruimte">antwoordruimte</span> en <span class="begrip" data-term="wederkerigheid">wederkerigheid</span>.
 
 Voor gezondheid is voorlopig genoeg:
 
@@ -108,6 +104,4 @@ Daarom blijft het onderscheid tussen onafwendbaar en <span class="begrip" data-t
 
 Hoe ver dat antwoord reikt, wie het moet geven en wanneer bescherming zelf paternalistisch wordt, hoort bij de ethische en politieke hoofdstukken die volgen.
 
-Gezondheid zelf blijft bescheidener.
-
-Zij vraagt niet of een leven optimaal, normaal of onbeperkt veerkrachtig is. Zij vraagt of een levende vorm nog voldoende samenhang, gevoeligheid, grens en herstelvermogen heeft om haar eigen leven te blijven dragen, en of wat als haar functioneren verschijnt niet stiekem door een andere drager wordt betaald.
+Gezondheid vraagt of een levende vorm nog voldoende samenhang, gevoeligheid, grens en herstelvermogen heeft om haar eigen leven te blijven dragen, en of wat als haar functioneren verschijnt niet stiekem door een andere drager wordt betaald.
