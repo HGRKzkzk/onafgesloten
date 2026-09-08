@@ -132,9 +132,11 @@ Draagkracht groeit daarom niet alleen door training. Soms groeit zij doordat de 
 
 Dat maakt een populaire taal van veerkracht dubbelzinnig. Het kan bevrijdend zijn om te ontdekken dat herstel mogelijk is. Maar “jij bent sterk” kan ook betekenen: *dan kan deze last blijkbaar nog wel bij jou erbij*.
 
-> **Draagkracht is geen aanspraak op draagkracht.**
+> **Dat iemand iets kan dragen, geeft een ander nog niet het recht die last daar neer te leggen.**
 
-Dat iemand een last kán dragen, rechtvaardigt nog niet dat die last daar wordt neergelegd. Wie veel kan dragen, hoeft daarom niet veel te dragen.
+Grote draagkracht maakt iemand niet vanzelf beschikbaar voor andermans belasting.
+
+Dat verandert wanneer draagkracht samengaat met macht over de voorwaarden waaronder anderen kunnen antwoorden. Dan gaat het niet langer alleen om wat iemand kan dragen, maar om wat diens handelen of nalaten voor anderen kan sluiten. Zulke sluitingsmacht kan wel een zwaardere verantwoordingsplicht meebrengen.
 
 Dit geldt des te sterker wanneer dezelfde persoon, groep of levensvorm al langer de restlast opvangt. Een losse belasting kan herstelbaar lijken terwijl de geschiedenis ervan iets anders vertelt. De tiende extra taak is niet dezelfde taak als de eerste. Een nieuwe waarschuwing is niet neutraal wanneer eerdere waarschuwingen nooit gevolg kregen.
 
