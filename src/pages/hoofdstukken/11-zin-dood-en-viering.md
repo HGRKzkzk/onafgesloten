@@ -102,5 +102,3 @@ Ook hier bestaat geen plicht. Een feest kan misplaatst zijn. Een jubileum kan pi
 > **De kosmos hoeft ons niet te vieren opdat wij elkaar kunnen vieren.**
 
 Misschien is dat de bescheiden inzet van dit hoofdstuk: eindigheid hoeft niet eerst te worden overwonnen voordat betekenis werkelijk mag zijn. Wat voorbijgaat kan werkelijk geweest zijn. Wat sterft kan onherroepelijk weg zijn. En juist daarom hoeft wat leeft niet op eeuwigheid te wachten om ertoe te doen.
-
-Het volgende hoofdstuk opent opnieuw een kosmische vraag. Die vraag mag dit einde niet achteraf verzachten. Een metafysische horizon die de dood alsnog tot doorgang maakt, zou precies verliezen wat hier zichtbaar moest blijven: sommige sluitingen zijn werkelijk onherroepelijk.
