@@ -1,6 +1,6 @@
 # Content schema — Onafgesloten
 
-**Status:** werkdocument  
+**Status:** werkdocument  
 
 **Laatste inhoudelijke herziening:** augustus 2026
 
@@ -14,7 +14,7 @@ De publieke leesroute staat in:
 
 src/pages/hoofdstukken/
 
-De academische parallelle laag staat in:
+De academische verdieping staat in:
 
 src/academisch/
 
@@ -38,19 +38,19 @@ Elke laag — hoofdtekst, begrippenhulp, artistiek uitkijkje, academische verdie
 
 Concreet:
 
-- De ****genealogie**** van een begrip (verwante tradities, historische voorlopers) hoort thuis in de academische laag, onder Verwantschap. De korte begripsuitleg mag hoogstens één zin verwijzing bevatten ("verwant aan X"), geen eigen genealogie-uitleg.
+- De ****genealogie**** van een begrip (verwante tradities, historische voorlopers) hoort thuis in de academische verdieping, onder Verwantschap. De korte begripsuitleg mag hoogstens één zin verwijzing bevatten ("verwant aan X"), geen eigen genealogie-uitleg.
 
-- Een ****tegenwerping of alternatieve positie**** hoort thuis in de academische laag, onder Tegenlicht. Een artistiek uitkijkje mag een tegenbeeld tonen, maar mag dat tegenbeeld niet beargumenteren — zodra een uitkijkje een positie gaat verdedigen, hoort het niet meer bij uitkijkjes maar bij Tegenlicht.
+- Een ****tegenwerping of alternatieve positie**** hoort thuis in de academische verdieping, onder Tegenlicht. Een artistiek uitkijkje mag een tegenbeeld tonen, maar mag dat tegenbeeld niet beargumenteren — zodra een uitkijkje een positie gaat verdedigen, hoort het niet meer bij uitkijkjes maar bij Tegenlicht.
 
-- De ****formele definitie**** van een begrip staat uitsluitend in `src/data/glossary.ts` (zie sectie 7). De academische laag mag een begrip verdiepen, niet herdefiniëren.
+- De ****formele definitie**** van een begrip staat uitsluitend in `src/data/glossary.ts` (zie sectie 7). De academische verdieping mag een begrip verdiepen, niet herdefiniëren.
 
-- De academische laag mag geen claim herhalen die al (letterlijk of licht geparafraseerd) in de hoofdtekst staat, tenzij zij daar iets wezenlijks aan toevoegt.
+- De academische verdieping mag geen claim herhalen die al (letterlijk of licht geparafraseerd) in de hoofdtekst staat, tenzij zij daar iets wezenlijks aan toevoegt.
 
 Bij het afronden van een hoofdstuk wordt gecontroleerd:
 
 1\. Herhaalt de begrippenhulp een genealogie, tegenargument of esthetisch element dat elders hoort? Verplaats het.
 
-2\. Herhaalt de academische laag een zin of claim uit de hoofdtekst zonder toevoeging? Schrap of vervang.
+2\. Herhaalt de academische verdieping een zin of claim uit de hoofdtekst zonder toevoeging? Schrap of vervang.
 
 3\. Zou een lezer die alle lagen na elkaar leest merkbare herhaling ervaren? Zo ja, is deze regel geschonden.
 
@@ -123,7 +123,7 @@ Toegestane waarden:
 - `herziening-nodig`
 - `archief`
 
-De status beschrijft de redactionele toestand van de publieke tekst, niet die van de brontekst.
+De status beschrijft de redactionele toestand van de hoofdtekst, niet die van de brontekst.
 
 ### Bron en divergentie
 
@@ -137,7 +137,7 @@ source:
   version: "v4.1"
 ```
 
-Wanneer de publieke tekst substantieel is herschreven, gecomprimeerd, herschikt of uitgebreid, wordt ook `divergence` opgenomen:
+Wanneer de hoofdtekst substantieel is herschreven, gecomprimeerd, herschikt of uitgebreid, wordt ook `divergence` opgenomen:
 
 ```yaml
 source:
@@ -146,12 +146,12 @@ source:
 
 divergence:
   status: "substantieel-herwerkt"
-  note: "Publieke herschrijving met gewijzigde opbouw, toegankelijker register en nieuwe artistieke uitkijkjes."
+  note: "Herschrijving van de hoofdtekst met gewijzigde opbouw, toegankelijker register en nieuwe artistieke uitkijkjes."
 
 lastSyncCheck: "2026-08-25"
 ```
 
-De `divergence`-notitie hoeft geen wijzigingslog te worden. Zij beschrijft alleen voldoende om later te begrijpen waarom de publieke tekst niet meer één-op-één overeenkomt met de moedertekst.
+De `divergence`-notitie hoeft geen wijzigingslog te worden. Zij beschrijft alleen voldoende om later te begrijpen waarom de hoofdtekst niet meer één-op-één overeenkomt met de moedertekst.
 
 Deze velden worden gebruikt zodra sectie 14 van toepassing wordt op een hoofdstuk.
 
@@ -185,7 +185,7 @@ Een bestaande publieke slug wordt bij voorkeur niet gewijzigd, omdat externe lin
 
 ---
 
-## 6. Publieke tekstlaag
+## 6. Hoofdtekst
 
 De hoofdtekst moet zelfstandig leesbaar zijn zonder academische verdieping of uitkijkjes.
 
@@ -211,7 +211,7 @@ Begrippen moeten voldoende scherp zijn om verschil te maken.
 
 ## 7. Begrippenhulp in de lopende tekst
 
-De publieke hoofdstukken moeten ook leesbaar blijven voor lezers die niet vertrouwd zijn met filosofische, wetenschappelijke of OOV-specifieke terminologie.
+De hoofdtekst moet ook leesbaar blijven voor lezers die niet vertrouwd zijn met filosofische, wetenschappelijke of OOV-specifieke terminologie.
 
 Daarom kunnen geselecteerde begrippen in de lopende tekst aanklikbaar worden gemaakt. Deze begrippenhulp is een ondersteunende laag: zij moet een lezer helpen verder te lezen zonder de tekst visueel in een woordenboek te veranderen.
 
@@ -467,7 +467,7 @@ eventueel begrippenlijst of academische verdieping
 
 Een korte begripsdefinitie moet daarom geen mini-essay worden.
 
-Wanneer een begrip meer historische, theoretische of wetenschappelijke context nodig heeft, hoort die verdieping thuis in de academische laag of in een toekomstige begrippenpagina.
+Wanneer een begrip meer historische, theoretische of wetenschappelijke context nodig heeft, hoort die verdieping thuis in de academische verdieping of in een toekomstige begrippenpagina.
 
 ### Centrale woordenlijst
 
@@ -513,11 +513,11 @@ De begrippenhulp dient daarmee niet alleen toegankelijkheid, maar ook conceptuel
 
 ## 8. Verwijdertest
 
-De hoofdtekst moet zelfstandig leesbaar zijn (sectie 8). Dit wordt niet aangenomen, maar per hoofdstuk getoetst voordat het hoofdstuk als "inhoudelijk af" geldt.
+De hoofdtekst moet zelfstandig leesbaar zijn (sectie 6). Dit wordt niet aangenomen, maar per hoofdstuk getoetst voordat het hoofdstuk als "inhoudelijk af" geldt.
 
 Procedure:
 
-1\. Bekijk het hoofdstuk met begrippenhulp, uitkijkjes en academische laag volledig weggedacht — alleen de kale hoofdtekst.
+1\. Bekijk het hoofdstuk met begrippenhulp, uitkijkjes en academische verdieping volledig weggedacht — alleen de kale hoofdtekst.
 
 2\. Laat deze versie lezen door iemand die het project niet kent, of lees zelf met minstens één dag afstand.
 
@@ -525,7 +525,7 @@ Procedure:
 
    - Is elke zin begrijpelijk zonder externe toelichting?
 
-   - Steunt een claim in de hoofdtekst logisch op iets dat alleen in de academische laag wordt uitgelegd? Zo ja: verplaats die claim naar de hoofdtekst of herformuleer.
+   - Steunt een claim in de hoofdtekst logisch op iets dat alleen in de academische verdieping wordt uitgelegd? Zo ja: verplaats die claim naar de hoofdtekst of herformuleer.
 
    - Leest de tekst als een afgerond essay, of als een tekst met merkbare gaten waar ooit iets stond?
 
@@ -537,7 +537,7 @@ Een hoofdstuk telt pas als inhoudelijk af wanneer deze test is uitgevoerd.
 
 ## 9. Artistieke uitkijkjes
 
-Artistieke uitkijkjes zijn onderdeel van de publieke leeslaag, maar niet van de argumentatieve bewijslast.
+Artistieke uitkijkjes staan in de hoofdtekst, maar dragen niet de argumentatieve bewijslast.
 
 Een uitkijkje mag:
 
@@ -553,7 +553,7 @@ Een uitkijkje mag:
 
 - een gedachte juist compliceren.
 
-Een uitkijkje hoeft de tekst niet te bewijzen. Zodra een uitkijkje een positie gaat beargumenteren in plaats van tonen, hoort het thuis bij Tegenlicht in de academische laag (zie sectie 2 en 11), niet bij uitkijkjes.
+Een uitkijkje hoeft de tekst niet te bewijzen. Zodra een uitkijkje een positie gaat beargumenteren in plaats van tonen, hoort het thuis bij Tegenlicht in de academische verdieping (zie sectie 2 en 11), niet bij uitkijkjes.
 
 Gebruik momenteel:
 
@@ -655,7 +655,7 @@ Gebruik alleen afbeeldingen waarvan het hergebruik voldoende duidelijk is toeges
 
 ## 11. Academische verdieping
 
-De academische laag loopt parallel aan de publieke hoofdstukken.
+De academische verdieping loopt parallel aan de hoofdtekst.
 
 Voorbeeld:
 
@@ -697,7 +697,7 @@ Niet ieder hoofdstuk hoeft al deze onderdelen te bevatten.
 
 ---
 
-## 12. Stijlcontract: hoofdtekst versus academische laag
+## 12. Stijlcontract: hoofdtekst versus academische verdieping
 
 De twee lagen hebben verschillende registers. Bij twijfel geldt: zou deze zin, in dit register, vreemd klinken in de andere laag? Zo ja, staat hij in de juiste laag.
 
@@ -711,9 +711,9 @@ Voor de hoofdtekst:
 
 - mag een onbewezen filosofische inzet zijn, mits zelf al eerlijk over die status (zoals hoofdstuk 1 doet);
 
-- geen nieuwe claim die de hoofdtekst laat afhangen van iets wat alleen in de academische laag staat.
+- geen nieuwe claim die de hoofdtekst laat afhangen van iets wat alleen in de academische verdieping staat.
 
-Voor de academische laag:
+Voor de academische verdieping:
 
 - derde persoon of gehedged ("men kan tegenwerpen...");
 
@@ -753,13 +753,13 @@ Wanneer de tekst verder gaat dan de aangehaalde literatuur, moet dat zichtbaar b
 
 ---
 
-## 14. Brontekst en publieke tekst
+## 14. Brontekst en hoofdtekst
 
 `sources/` bevat redactionele moederteksten, eerdere versies en materiaal waaruit de publieke site wordt ontwikkeld.
 
 Bestanden in `sources/` worden niet automatisch gepubliceerd.
 
-De actuele publieke tekst staat uitsluitend in:
+De actuele hoofdtekst staat uitsluitend in:
 
 src/pages/hoofdstukken/
 
@@ -767,11 +767,11 @@ Dat betekent dat een wijziging aan een bronbestand niet vanzelf de website veran
 
 ### Expliciete divergentie
 
-Zodra een publiek hoofdstuk inhoudelijk afwijkt van zijn bronbestand in `sources/` — door compressie, herschrijving, herschikking of verplaatsing van materiaal naar de academische laag — wordt die afwijking benoemd, niet stilzwijgend gelaten. Gebruik daarvoor de frontmatter-velden uit sectie 4 (`source`, `divergence`, `lastSyncCheck`).
+Zodra een hoofdstuk in de hoofdtekst inhoudelijk afwijkt van zijn bronbestand in `sources/` — door compressie, herschrijving, herschikking of verplaatsing van materiaal naar de academische verdieping — wordt die afwijking benoemd, niet stilzwijgend gelaten. Gebruik daarvoor de frontmatter-velden uit sectie 4 (`source`, `divergence`, `lastSyncCheck`).
 
-`sources/` bewaart herkomst en redactionele geschiedenis, maar is niet automatisch normatief leidend voor de actuele publieke tekst. Wanneer een publieke hoofdstukversie inhoudelijk afwijkt van de moedertekst, wordt die divergentie als bewuste redactionele ontwikkeling beschouwd en niet automatisch teruggesynchroniseerd.
+`sources/` bewaart herkomst en redactionele geschiedenis, maar is niet automatisch normatief leidend voor de actuele hoofdtekst. Wanneer een hoofdtekstversie inhoudelijk afwijkt van de moedertekst, wordt die divergentie als bewuste redactionele ontwikkeling beschouwd en niet automatisch teruggesynchroniseerd.
 
-Dit voorkomt dat bron en publieke tekst bij een groeiend aantal hoofdstukken ongemerkt uit elkaar lopen zonder dat duidelijk is waarom. Een hoofdstuk zonder recente `lastSyncCheck` is zichtbaar een kandidaat om te controleren, in plaats van onopgemerkt te verouderen.
+Dit voorkomt dat bron en hoofdtekst bij een groeiend aantal hoofdstukken ongemerkt uit elkaar lopen zonder dat duidelijk is waarom. Een hoofdstuk zonder recente `lastSyncCheck` is zichtbaar een kandidaat om te controleren, in plaats van onopgemerkt te verouderen.
 
 ---
 
@@ -825,4 +825,4 @@ De architectuur volgt één hoofdregel:
 
 > inhoud moet langer meegaan dan de techniek waarmee zij op dit moment wordt gepubliceerd.
 
-Daarom blijven kerntekst, academische tekst, beelden en metadata zoveel mogelijk onafhankelijk van Astro-specifieke implementatiedetails.
+Daarom blijven hoofdtekst, academische verdieping, beelden en metadata zoveel mogelijk onafhankelijk van Astro-specifieke implementatiedetails.
