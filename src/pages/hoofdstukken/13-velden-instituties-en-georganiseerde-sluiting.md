@@ -183,6 +183,22 @@ Pluraliteit is daarmee meer dan tolerantie. Zij is ook een institutionele veilig
 
 Dat betekent niet dat ieder individu altijd uit iedere verbintenis zonder kosten kan stappen. Sommige verplichtingen zijn werkelijk. Maar waar vertrek structureel onmogelijk wordt, correctie zinloos en alternatieve vormen verdwijnen, verandert binding gemakkelijk in bezit.
 
+## Wanneer asymmetrie het veld begint te sluiten
+
+Niet iedere ongelijke verdeling van geld, kennis, bereik of bevoegdheid is daarom onrechtvaardig. Verschil in vermogen kan samenwerking, specialisatie en grote gezamenlijke projecten juist mogelijk maken.
+
+Maar asymmetrie verandert van karakter wanneer zij niet alleen beïnvloedt **welk antwoord wint**, maar mede bepaalt **welke antwoorden nog levensvatbaar kunnen ontstaan**.
+
+Een actor kan zoveel toegang tot kapitaal, infrastructuur, informatie, distributie of politieke invloed verzamelen dat anderen formeel nog vrij zijn, maar materieel nauwelijks meer een tegenroute kunnen opbouwen. Er hoeft dan niemand rechtstreeks het zwijgen te worden opgelegd. Het veld zelf kan steeds smaller worden.
+
+De vraag is daarom niet alleen hoeveel macht geconcentreerd is, maar hoe <span class="begrip" data-term="antwoordbaarheid-van-macht">antwoordbaar</span> zij blijft. Kunnen anderen nog toetreden? Kunnen geraakten zich zonder buitensporige schade onttrekken? Kan tegenmacht zich organiseren? Kan de dominante positie werkelijk door regels, rechtspraak, politiek of andere instituties worden gecorrigeerd?
+
+> **Asymmetrie wordt antagonistisch wanneer zij niet alleen uitkomsten beïnvloedt, maar de voorwaarden bepaalt waaronder andere actoren nog levensvatbaar kunnen antwoorden.**
+
+Daarmee is niet gelijkheid of decentralisatie de norm. Macht kan groot en geconcentreerd zijn zonder het veld te sluiten. Maar macht die de antwoordvoorwaarden van anderen bepaalt, moet zelf voldoende antwoordbaar blijven.
+
+Waar toetreding, vertrek, organisatie van tegenmacht en correctie praktisch onwerkzaam worden, ontstaat <span class="begrip" data-term="veldsluiting">veldsluiting</span>: niet één afzonderlijke grens sluit dan het antwoord af, maar de ordening maakt alternatieve antwoorden steeds minder levensvatbaar.
+
 ## Sluitingsmacht en corrigeerbare macht
 
 > **Geen actor krijgt vanzelf het recht de antwoordruimte van een ander op te gebruiken.**
