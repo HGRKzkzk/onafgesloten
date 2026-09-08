@@ -9,7 +9,6 @@ status: "publieke-werkversie"
 source:
   id: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
   version: "v4.1"
-
 divergence:
   status: "substantieel-herwerkt"
   note: "Publieke uitbreiding met scherpere uitwerking van draagkracht, antwoordruimte, paternalistische interventie, temporaliteit, asymmetrie en passende sluiting."
@@ -18,11 +17,11 @@ lastSyncCheck: "2026-09-04"
 ---
 Een vorm die alles binnenlaat, houdt op een vorm te zijn. Een zenuwstelsel kan niet ieder signaal even zwaar wegen. Een gesprek kan niet alle zijwegen volgen. Een mens kan niet iedere aanspraak tegelijk dragen. Een samenleving kan niet iedere mogelijkheid permanent openhouden.
 
-Selectie en sluiting zijn daarom geen ongelukken die pas ontstaan wanneer openheid mislukt. Zij horen bij iedere begrensde vorm. Iets kan alleen aandacht krijgen doordat iets anders even naar de achtergrond verdwijnt. Een keuze krijgt betekenis doordat andere mogelijkheden niet tegelijk worden uitgevoerd. Een huid beschermt juist doordat zij niet alles ongehinderd doorlaat.
+Selectie en sluiting horen bij iedere begrensde vorm. Iets kan alleen aandacht krijgen doordat iets anders even naar de achtergrond verdwijnt. Een keuze krijgt betekenis doordat andere mogelijkheden niet tegelijk worden uitgevoerd. Een huid beschermt juist doordat zij niet alles ongehinderd doorlaat.
 
-Een <span class="begrip" data-term="grens">grens</span> is dus niet vanzelf het tegendeel van ontvankelijkheid. Zij kan beschermen wat open moet kunnen blijven. Een membraan maakt een cel niet minder relationeel; het maakt selectieve uitwisseling mogelijk. Een pauze kan luisteren redden. Een helder nee kan voorkomen dat zorg in zelfverlies verandert.
+Een <span class="begrip" data-term="grens">grens</span> kan ontvankelijkheid beschermen. Een membraan maakt selectieve uitwisseling mogelijk. Een pauze kan luisteren redden. Een helder nee kan voorkomen dat zorg in zelfverlies verandert.
 
-Maar dezelfde grens kan ook verstarren. Wat eerst beschermde kan later opsluiten. Wat tijdelijk nodig was kan zichzelf vanzelfsprekend gaan vinden. De vraag is daarom niet óf een grens bestaat, maar wat zij doet, wie haar bepaalt en of haar gevolgen nog kunnen terugspreken.
+Dezelfde grens kan ook verstarren. Wat eerst beschermde kan later opsluiten. Wat tijdelijk nodig was kan zichzelf vanzelfsprekend gaan vinden. De relevante vraag is wat een grens doet, wie haar bepaalt en of haar gevolgen nog kunnen terugspreken.
 
 <aside class="uitkijkje" data-label="Uitkijkje">
 <p class="uitkijkje__label">Uitkijkje</p>
@@ -42,9 +41,7 @@ Draagkracht lijkt soms minder op “sterk genoeg zijn” dan op een vorm vinden 
 
 ## Niet alles openlaten
 
-Er bestaat een verleiding om onafgeslotenheid te verwarren met permanente beschikbaarheid. Alsof een goede vorm altijd bereikbaar, bespreekbaar en veranderbaar moet blijven.
-
-Dat zou zelf een vorm van dwang worden.
+Er bestaat een verleiding om onafgeslotenheid te verwarren met permanente beschikbaarheid. Alsof een goede vorm altijd bereikbaar, bespreekbaar en veranderbaar moet blijven. Dat zou zelf een vorm van dwang worden.
 
 Een mens mag slapen terwijl een conflict nog niet opgelost is. Een slachtoffer hoeft niet beschikbaar te zijn voor het herstelverlangen van degene die hem verwondde. Een relatie kan eindigen zonder dat beide partijen dezelfde behoefte aan een laatste gesprek hebben. Een instelling mag een aanvraag op enig moment afsluiten, zolang die afsluiting niet willekeurig is en er passende correctieroutes bestaan.
 
@@ -54,17 +51,17 @@ Daarom hoort ook tijd bij begrenzing. Wat uiteindelijk mogelijk of wenselijk kan
 
 > **Een terugweg hoeft geen open deur te zijn. Soms is zij alleen het feit dat de deur niet voor eeuwig door één partij wordt dichtgemetseld.**
 
-Dat onderscheid is belangrijk omdat heropenbaarheid anders gemakkelijk een aanspraak wordt. Alsof degene die wil herstellen, praten of veranderen daarmee recht krijgt op de aandacht en nabijheid van de ander. Dat volgt niet.
+Heropenbaarheid mag geen aanspraak worden. Wie wil herstellen, praten of veranderen krijgt daarmee geen recht op de aandacht en nabijheid van de ander.
 
 De belangen kunnen bovendien terecht asymmetrisch wegen. Wanneer iemand schade heeft veroorzaakt en een ander bescherming nodig heeft, hoeft de verhouding niet onmiddellijk symmetrisch te worden gemaakt. De veiligheid en rust van het slachtoffer kunnen zwaarder wegen dan het verlangen van de dader naar erkenning, vergeving of contact.
 
-Onafgeslotenheid betekent hier dus niet dat iedereen altijd weer toegang moet krijgen. Zij betekent dat een noodzakelijke sluiting niet méér hoeft te bezitten dan waarvoor zij gerechtvaardigd is.
+Een noodzakelijke sluiting hoeft niet méér te bezitten dan waarvoor zij gerechtvaardigd is.
 
 ## Passende sluiting
 
 Er is verschil tussen voortijdig sluiten, absoluut sluiten, grenzeloos openhouden, een noodzakelijk einde uitstellen en <span class="begrip" data-term="passende-sluiting">passend sluiten</span>.
 
-Passende sluiting is geen formule waarmee vooraf één juist besluit kan worden berekend. Het is een manier om een grens onder rechtvaardigingsdruk te houden.
+Passende sluiting houdt een grens onder rechtvaardigingsdruk.
 
 Een grens is sterker te verdedigen wanneer zij:
 
@@ -75,7 +72,7 @@ Een grens is sterker te verdedigen wanneer zij:
 - waar mogelijk tijdelijk, toetsbaar of herstelbaar is;
 - en verdere mogelijkheid beschermt in plaats van haar zonder noodzaak uit te wissen.
 
-Dat laatste betekent niet dat iedere mogelijkheid behouden moet blijven. Sommige keuzes zijn juist werkelijk doordat zij iets beëindigen. Een baan wordt opgezegd. Een behandeling wordt gestaakt. Een relatie eindigt. Een grens wordt definitief.
+Sommige keuzes zijn juist werkelijk doordat zij iets beëindigen. Een baan wordt opgezegd. Een behandeling wordt gestaakt. Een relatie eindigt. Een grens wordt definitief.
 
 Ook definitieve sluiting kan passend zijn.
 
@@ -83,7 +80,7 @@ Waar heropening zelf opnieuw ernstige schade veroorzaakt, kan het vasthouden aan
 
 > **Waar heropening de antwoordruimte verder vernietigt, kan sluiting zelf een vorm van ontvankelijkheid zijn.**
 
-De moeilijke vraag blijft natuurlijk wie dat bepaalt. Juist daarom kan passende sluiting nooit alleen betekenen: *ik heb besloten dat dit nodig is*. Hoe groter de macht om voor anderen af te sluiten, hoe zwaarder de behoefte aan redenen, toetsing en zicht op gevolgen wordt.
+Wie dat bepaalt, blijft een moeilijke vraag. Hoe groter de macht om voor anderen af te sluiten, hoe zwaarder de behoefte aan redenen, toetsing en zicht op gevolgen wordt.
 
 ## Antwoordruimte is geen maximale keuzevrijheid
 
@@ -93,9 +90,9 @@ Belangrijker is of voldoende <span class="begrip" data-term="antwoordruimte">ant
 
 Dat is hier vooral relevant als criterium voor begrenzing. De volledige uitwerking van antwoordruimte als vrijheidsbegrip volgt in hoofdstuk 8.
 
-Dat maakt ook duidelijk waarom sommige begrenzingen juist vrijheid kunnen beschermen. Een kind wordt niet vrijer wanneer niemand het tegen een drukke weg beschermt. Iemand in acute verwarring kan tijdelijk baat hebben bij een grens die voorkomt dat een onomkeerbare beslissing binnen enkele minuten alles sluit. Een werknemer wordt niet vrijer wanneer “eigen verantwoordelijkheid” betekent dat iedere structurele overbelasting bij hemzelf wordt teruggelegd.
+Sommige begrenzingen kunnen vrijheid beschermen. Een kind wordt niet vrijer wanneer niemand het tegen een drukke weg beschermt. Iemand in acute verwarring kan tijdelijk baat hebben bij een grens die voorkomt dat een onomkeerbare beslissing binnen enkele minuten alles sluit. Een werknemer wordt niet vrijer wanneer “eigen verantwoordelijkheid” betekent dat iedere structurele overbelasting bij hemzelf wordt teruggelegd.
 
-Maar het begrip antwoordruimte kan zelf paternalistisch worden gebruikt: *wij beperken jou nu voor je eigen toekomstige vrijheid.* Dat argument is gevaarlijk juist omdat het soms waar kan zijn.
+Het begrip antwoordruimte kan zelf paternalistisch worden gebruikt: *wij beperken jou nu voor je eigen toekomstige vrijheid.* Dat argument is gevaarlijk juist omdat het soms waar kan zijn.
 
 ## Beschermen zonder iemand te bezitten
 
@@ -114,11 +111,11 @@ De volgorde doet ertoe:
 
 *informeren vóór overtuigen; overtuigen vóór beperken; beperken vóór overnemen; tijdelijk en herstelbaar vóór permanent en onomkeerbaar.*
 
-Dat is geen mechanische ladder. In acute situaties kunnen stappen ontbreken. Maar iedere overslagen lichtere mogelijkheid vraagt een reden.
+In acute situaties kunnen stappen ontbreken. Iedere overgeslagen lichtere mogelijkheid vraagt een reden.
 
 Hier raakt antwoordruimte aan <span class="begrip" data-term="proportionaliteit">proportionaliteit</span>: de zwaarte van de ingreep moet in verhouding staan tot de ernst en waarschijnlijkheid van de schade die zij probeert te voorkomen.
 
-Een samenleving hoeft mensen niet naar een vermeend hoger, verstandiger of productiever leven te duwen. Zij mag wel voorwaarden beschermen waaronder iemand later nog werkelijk zelf kan antwoorden.
+Het doel van bescherming is hier het behoud van voorwaarden waaronder iemand later werkelijk zelf kan antwoorden, zonder een vermeend hoger, verstandiger of productiever leven op te leggen.
 
 ## Draagkracht is geen hardheid
 
@@ -128,15 +125,15 @@ Zij is geen vaste voorraad in het individu.
 
 Slaap, voedsel, veiligheid, taal, tijd, geld, lichamelijke gezondheid, relaties, instituties en eerdere ervaringen werken eraan mee. Een mens kan vandaag minder dragen dan gisteren zonder wezenlijk zwakker te zijn. Een team kan dankzij duidelijke afspraken veel onzekerheid verdragen en door maandenlange tegenstrijdige opdrachten plots nauwelijks nog iets. Een gezin kan lang “functioneren” terwijl één persoon vrijwel alle spanning absorbeert.
 
-Draagkracht groeit daarom niet alleen door training. Soms groeit zij doordat de last kleiner wordt. Soms doordat iemand rugdekking krijgt. Soms doordat een systeem eindelijk een signaal overneemt dat steeds bij dezelfde persoon bleef liggen.
+Training is één bron van draagkracht. De last kan ook kleiner worden, iemand kan rugdekking krijgen of een systeem kan eindelijk een signaal overnemen dat steeds bij dezelfde persoon bleef liggen.
 
-Dat maakt een populaire taal van veerkracht dubbelzinnig. Het kan bevrijdend zijn om te ontdekken dat herstel mogelijk is. Maar “jij bent sterk” kan ook betekenen: *dan kan deze last blijkbaar nog wel bij jou erbij*.
+Daarom is veerkrachttaal dubbelzinnig. Het kan bevrijdend zijn om te ontdekken dat herstel mogelijk is. Maar “jij bent sterk” kan ook betekenen: *dan kan deze last blijkbaar nog wel bij jou erbij*.
 
 > **Dat iemand iets kan dragen, geeft een ander nog niet het recht die last daar neer te leggen.**
 
 Grote draagkracht maakt iemand niet vanzelf beschikbaar voor andermans belasting.
 
-Dat verandert wanneer draagkracht samengaat met macht over de voorwaarden waaronder anderen kunnen antwoorden. Dan gaat het niet langer alleen om wat iemand kan dragen, maar om wat diens handelen of nalaten voor anderen kan sluiten. Zulke sluitingsmacht kan wel een zwaardere verantwoordingsplicht meebrengen.
+Bij sluitingsmacht verschuift de vraag. Dan gaat het om wat iemands handelen of nalaten voor anderen kan afsluiten. Zulke macht kan een zwaardere verantwoordingsplicht meebrengen.
 
 Dit geldt des te sterker wanneer dezelfde persoon, groep of levensvorm al langer de restlast opvangt. Een losse belasting kan herstelbaar lijken terwijl de geschiedenis ervan iets anders vertelt. De tiende extra taak is niet dezelfde taak als de eerste. Een nieuwe waarschuwing is niet neutraal wanneer eerdere waarschuwingen nooit gevolg kregen.
 
@@ -162,9 +159,9 @@ Soms bestaat er geen grens die iedereen voldoende ruimte laat.
 
 Een ouder moet beslissen voor een kind dat nog niet alles kan overzien. Een arts kan geconfronteerd worden met een patiënt wiens actuele wens en toekomstige mogelijkheden op gespannen voet staan. Een overheid moet vrijheid begrenzen wanneer iemand anderen ernstig bedreigt. Twee groepen kunnen aanspraken hebben die niet tegelijk volledig uitvoerbaar zijn.
 
-Dan helpt het niet om simpelweg “meer openheid” te eisen.
+Meer openheid is hier geen oplossing.
 
-Ook hoeft antwoordruimte niet gemaximaliseerd te worden alsof zij één meetbare hoeveelheid is. De vraag is eerder welke sluiting werkelijk noodzakelijk is en welke onomkeerbare vernietiging van toekomstig vorm- en herstelvermogen vermeden kan worden.
+Antwoordruimte laat zich evenmin als één meetbare hoeveelheid maximaliseren. De vraag is welke sluiting werkelijk noodzakelijk is en welke onomkeerbare vernietiging van toekomstig vorm- en herstelvermogen vermeden kan worden.
 
 Daarbij tellen onder meer mee:
 
@@ -175,7 +172,7 @@ Daarbij tellen onder meer mee:
 - welke lasten al eerder zijn gedragen;
 - en of de gekozen grens later nog kan worden getoetst of gecorrigeerd.
 
-Dat levert niet automatisch één antwoord op. Soms blijft er tragiek: iedere beschikbare keuze doet werkelijk iets verloren gaan.
+Soms blijft er tragiek: iedere beschikbare keuze doet werkelijk iets verloren gaan.
 
 Een filosofie die dat verlies wegredeneert omdat zij een elegant criterium heeft gevonden, sluit te snel.
 
@@ -189,7 +186,7 @@ Niet alles hoeft open. Niet alles kan open. Niet alles moet opnieuw.
 
 Maar een grens verdient aandacht voor wat zij beschermt, wat zij afsluit, wie daarover beslist en welke toekomst zij achterlaat.
 
-Een gezonde grens hoeft niet zacht te zijn. Zij kan hard, helder en definitief zijn. Haar ontvankelijkheid zit niet in voortdurende toegeeflijkheid, maar in het feit dat zij niet méér macht claimt dan nodig is om te beschermen wat werkelijk bescherming vraagt.
+Een gezonde grens kan hard, helder en definitief zijn. Haar ontvankelijkheid blijkt uit de beperkte machtsaanspraak: zij claimt niet méér dan nodig is om te beschermen wat werkelijk bescherming vraagt.
 
 *Draagkracht laat vruchtbare spanning bestaan. Een goede grens beschermt de mogelijkheid om daarna nog ergens op te kunnen antwoorden.*
 
