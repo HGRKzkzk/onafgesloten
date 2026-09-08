@@ -398,5 +398,21 @@ export const glossary: Record<string, GlossaryEntry> = {
     chapterOfOrigin: '10-taal-kennis-en-intelligentie',
     short:
       'De eigenschap dat terugkoppeling niet alleen wordt ontvangen, maar waar nodig ook classificatie, doel, bevoegdheid of voortzetting werkelijk kan veranderen.'
+  },
+
+  'antwoordbaarheid-van-macht': {
+    term: 'Antwoordbaarheid van macht',
+    type: 'projectbegrip',
+    chapterOfOrigin: '13-velden-instituties-en-georganiseerde-sluiting',
+    short:
+      'De mate waarin degenen die door macht geraakt worden haar betekenisvol kunnen betwisten, toetsen, begrenzen of doen veranderen.'
+  },
+
+  veldsluiting: {
+    term: 'Veldsluiting',
+    type: 'projectbegrip',
+    chapterOfOrigin: '13-velden-instituties-en-georganiseerde-sluiting',
+    short:
+      'Een toestand waarin een machtsverhouding niet alleen afzonderlijke keuzes begrenst, maar de voorwaarden zo structureert dat alternatieve actoren, antwoorden of correctieroutes nauwelijks nog levensvatbaar kunnen ontstaan.'
   }
 };
