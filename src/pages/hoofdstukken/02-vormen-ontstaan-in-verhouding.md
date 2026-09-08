@@ -23,7 +23,7 @@ Maar kijk iets langer en dat beeld wordt vreemd.
 
 De stem waarmee ik tegenspreek heb ik niet zelf gemaakt. De woorden waarmee ik mijn eigenheid verdedig zijn ontvangen woorden. Zelfs het vermogen om een grens te stellen is ergens geoefend, mogelijk gemaakt of juist moeizaam veroverd in verhouding tot anderen.
 
-Ontvankelijkheid veronderstelt geen eerst volledig zelfstandig individu dat daarna besluit meer of minder open te staan. Het relationele vertrekpunt ligt eerder.
+Ontvankelijkheid begint niet bij een volledig zelfstandig individu dat daarna besluit meer of minder open te staan. Het relationele vertrekpunt ligt eerder.
 
 > **Het zelf dat openstaat, is al mede gevormd door relaties die het niet heeft gekozen.**
 
