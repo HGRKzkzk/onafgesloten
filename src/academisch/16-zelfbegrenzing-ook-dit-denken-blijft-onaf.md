@@ -41,7 +41,7 @@ De eis is daarom niet dat ieder projectbegrip Popperiaans falsifieerbaar wordt. 
 
 ### 3. Een centrale vocabulaire kan schijnsamenhang produceren
 
-Wanneer dezelfde begrippen systematisch worden toegepast op dier, burger, rouw, instituut en kosmos, ontstaat vanzelf coherentie. Die coherentie kan epistemisch waardevol zijn, maar ook een artefact van de taal.
+Wanneer dezelfde begrippen systematisch worden toegepast op dier, burger, rouw en instituut, ontstaat vanzelf coherentie. Die coherentie kan epistemisch waardevol zijn, maar ook een artefact van de taal.
 
 Cross-domain analogieën verdienen daarom een dubbele toets: niet alleen waar de structuur overeenkomt, maar ook waar de analogie breekt. Het falen van de analogie is inhoudelijke informatie, geen ruis.
 
@@ -59,7 +59,7 @@ Die discipline maakt drie niveaus van verlies expliciet:
 
 - **toepassingsverlies:** een begrip blijkt in een bepaald domein niet bruikbaar;
 - **begripsverlies:** een projectbegrip blijkt redundant, te ruim of misleidend en wordt versmald of verlaten;
-- **architectuurverlies:** een verbinding tussen lagen — bijvoorbeeld van regionale fenomenologie naar metafysische horizon — blijkt niet te dragen en wordt opgegeven zonder dat alle overige lagen mee hoeven te vallen.
+- **architectuurverlies:** een verbinding tussen lagen, bijvoorbeeld van regionale beschrijving naar een bredere ontologische claim, blijkt niet te dragen en wordt opgegeven zonder dat alle overige lagen mee hoeven te vallen.
 
 Daarmee wordt voorkomen dat kritiek alleen tot verfijning kan leiden. Soms moet een onderdeel kleiner worden. Soms moet een verbinding verdwijnen. Soms moet een externe discipline eenvoudig voorrang krijgen.
 
