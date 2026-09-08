@@ -100,8 +100,8 @@ source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
     Sluitingsmacht legitimeert zichzelf niet.
 
 <!-- laag: normatief/instrumenteel -->
-18. **Hoe groter de sluitingsmacht, hoe zwaarder de plicht tot rechtvaardiging, toetsing en correctie.**  
-    Niet iedere legitieme sluiting hoeft later te worden heropend; zij moet wel haar noodzaak, reikwijdte en gevolgen kunnen laten toetsen.
+18. **Hoe groter de macht om de antwoordvoorwaarden van anderen te bepalen, hoe zwaarder de plicht die macht antwoordbaar te houden.**  
+    Niet iedere machtsconcentratie is sluiting; problematisch wordt zij waar tegenmacht, vertrek, toetreding of correctie feitelijk onwerkzaam worden.
 
 <!-- laag: normatief -->
 19. **Vorming mag richting geven zonder bestemming op te leggen.**  
