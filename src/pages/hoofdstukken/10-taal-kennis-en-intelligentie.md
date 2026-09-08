@@ -98,7 +98,7 @@ Wetenschappelijke kennis ontstaat binnen systemen van financiering, publicatie, 
 
 Haar kracht ligt mede in bredere correctiestructuren: reproduceerbaarheid, kritiek, alternatieve hypothesen, transparantie over methoden, onafhankelijke toetsing en de mogelijkheid dat een resultaat niet standhoudt.
 
-Die structuur is nooit perfect. Een claim krijgt er wel niet het laatste woord omdat degene die haar doet overtuigd of deskundig is; zij moet manieren overleven waarop anderen haar kunnen bevragen.
+Die structuur is nooit perfect. Een claim krijgt er niet het laatste woord omdat degene die haar doet overtuigd of deskundig is; zij moet manieren overleven waarop anderen haar kunnen bevragen.
 
 Onzekerheid kan daarbij juist een teken van precisie zijn. Een betrouwbaar kennisveld kan soms beter zeggen *hoe zeker* iets is dan onmiddellijk doen alsof één sluitend antwoord beschikbaar is.
 
