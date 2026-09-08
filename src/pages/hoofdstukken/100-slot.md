@@ -25,7 +25,7 @@ Wij zijn daarin geen afgeronde heersers boven de wereld, maar kleine, afhankelij
 
 Een slot hoeft niet te doen alsof alle vragen zijn opgelost. Maar een lange inventaris van losse open vragen maakt ook niet vanzelf duidelijk waar de werkelijke grenzen van het project liggen. Voor deze tekst blijven vooral vier grenzen bepalend.
 
-**Reikwijdte.** De kern staat het stevigst waar levende, voelende, relationele en institutionele vormen onderzocht kunnen worden aan de hand van ervaring en bestaande kennis. Of een binnenkant ook fundamenteler in de werkelijkheid wortelt, en hoe ver begrippen als vorm en ontvankelijkheid buiten die regionale kern reiken, blijft een metafysische vraag. De cosmopsychische mogelijkheid mag daar richting geven aan onderzoek, maar niet alsnog de grond onder het geheel worden.
+**Reikwijdte.** De kern staat het stevigst waar levende, voelende, relationele en institutionele vormen onderzocht kunnen worden aan de hand van ervaring en bestaande kennis. Hoe ver begrippen als vorm en ontvankelijkheid buiten die regionale kern reiken, laat deze tekst bewust open. Zij doet daar geen dragende metafysische uitspraak over.
 
 **Bescherming en sluiting.** Het project kan redenen geven om sluitingsmacht te begrenzen en antwoordruimte te beschermen. Het kan niet uit zichzelf bepalen wanneer harde uitsluiting in een concreet geval noodzakelijk is, wanneer heropening nieuwe schade veroorzaakt of wie daar uiteindelijk over mag beslissen. Daar blijven feiten, domeinspecifieke kennis, recht, macht en onafhankelijke toetsing beslissend.
 
