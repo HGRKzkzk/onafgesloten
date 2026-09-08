@@ -89,11 +89,9 @@ source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
 
 <small><a href="../11-zin-dood-en-viering/">11 · Zin, dood en viering</a></small>
 
-<!-- laag: metafysische hypothese onder methodologische begrenzing -->
-16. **Een kosmische binnenkant blijft een vraag, geen grondslag.**  
-    De mogelijkheid dat ervaring dieper in werkelijkheid wortelt mag worden onderzocht, maar de regionale kern staat of valt er niet mee.
-
-<small><a href="../12-waar-krijgt-werkelijkheid-een-binnenkant/">12 · Waar krijgt werkelijkheid een binnenkant?</a></small>
+<!-- laag: normatief/instrumenteel -->
+16. **Schuld, verantwoordelijkheid en sluitingsmacht vallen niet samen.**  
+    Een structureel probleem hoeft geen schurk te hebben; verantwoordelijkheid kan toch volgen uit vermogen, betrokkenheid en machtspositie.
 
 <!-- laag: normatief/instrumenteel -->
 17. **Geen actor krijgt vanzelf het recht de antwoordruimte van een ander op te gebruiken.**  
