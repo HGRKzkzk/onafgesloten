@@ -21,17 +21,15 @@ De taal waarin ik kies heb ik niet zelf gemaakt. Mijn lichaam opent sommige moge
 
 Als vrijheid alleen kan bestaan waar bepaaldheid ophoudt, blijft er weinig menselijke vrijheid over.
 
-De tegenovergestelde conclusie gaat echter te snel. Een niesbui, een paniekreactie, een onder dreiging gezette handtekening en een beslissing na weken overleg hebben allemaal oorzaken. Toch verschillen ze wezenlijk in de manier waarop iemand erin kan antwoorden.
+Een niesbui, een paniekreactie, een onder dreiging gezette handtekening en een beslissing na weken overleg hebben allemaal oorzaken. Toch verschillen ze wezenlijk in de manier waarop iemand erin kan antwoorden.
 
 > **Vrijheid is hier geen ontsnapping aan bepaaldheid, maar ruimte binnen bepaaldheid om ontvangen impulsen, redenen en omstandigheden te bemiddelen en er antwoord op te geven.**
 
 ## Niet oorzaakloos, wel antwoordend
 
-De relevante vraag is niet of een handeling een oorzaak heeft, maar hoe zij tot stand kwam.
+Relevant is hoe een handeling tot stand kwam.
 
 Kon ik informatie ontvangen? Kon ik redenen tegen elkaar afwegen? Kon ik uitstellen? Kon ik weigeren zonder dat mijn basale veiligheid onmiddellijk werd vernietigd? Kon ik mijn eerste impuls herkennen en eventueel anders handelen?
-
-Dat zijn vragen naar bemiddeling.
 
 Hier sluit vrijheid aan bij <span class="begrip" data-term="beteugeling">beteugeling</span>: een impuls hoeft niet onmiddellijk volledig tot handeling te worden. Zij kan worden gevoeld, vertraagd, onderzocht en soms veranderd.
 
@@ -45,13 +43,11 @@ Wie slecht slaapt, onder dreiging staat, geen begrijpelijke informatie krijgt of
 
 Een keuze kan op papier openstaan en in het leven vrijwel gesloten zijn.
 
-Daarom is <span class="begrip" data-term="autonomie">autonomie</span> niet alleen een innerlijke eigenschap. Zij hangt mede af van tijd, veiligheid, informatie, lichamelijke draagkracht, taal, sociale steun en materiële mogelijkheden.
+<span class="begrip" data-term="autonomie">Autonomie</span> hangt mede af van tijd, veiligheid, informatie, lichamelijke draagkracht, taal, sociale steun en materiële mogelijkheden.
 
-Dat wist verantwoordelijkheid niet uit. Het maakt haar nauwkeuriger.
+Dat maakt verantwoordelijkheid nauwkeuriger.
 
 > **De mens is bepaaldheid die antwoord leert geven.**
-
-Die zin vermijdt twee uitersten: het soevereine zelf dat zichzelf volledig heeft voortgebracht en de reductie van ieder menselijk handelen tot een gebeurtenis waarin redenen, reflectie, dwang en leren uiteindelijk niets meer uitmaken.
 
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">Vrijheid komt zelden alleen</h3>
@@ -74,11 +70,11 @@ Dwang hoeft niet altijd van buiten te komen.
 
 Iemand kan zijn gevormd in een omgeving waarin één levenspad vanzelfsprekend lijkt, waarin tegenspraak liefde kost of waarin een algoritmische omgeving precies die prikkels versterkt waarop hij voorspelbaar reageert. De uiteindelijke wens kan oprecht aanvoelen.
 
-Daaruit volgt niet dat die wens onvrij is. Maar *ik wil dit* bewijst evenmin automatisch dat de voorwaarden waaronder dat willen ontstond vrij waren.
+Een oprechte wens bewijst nog niet dat de voorwaarden waaronder zij ontstond vrij waren.
 
-Daarom is <span class="begrip" data-term="relationele-autonomie">relationele autonomie</span> relevant: niet omdat anderen beter weten wat iemand werkelijk wil, maar omdat relaties en instituties het vermogen tot herziening kunnen ondersteunen of beschadigen.
+<span class="begrip" data-term="relationele-autonomie">Relationele autonomie</span> richt de aandacht op hoe relaties en instituties het vermogen tot herziening kunnen ondersteunen of beschadigen.
 
-Een actor moet niet alleen een voorkeur kunnen uiten, maar ook enige mogelijkheid houden om die voorkeur te onderzoeken, ermee in conflict te raken en haar te veranderen.
+Een actor moet een voorkeur kunnen uiten en enige mogelijkheid houden om die voorkeur te onderzoeken, ermee in conflict te raken en haar te veranderen.
 
 Een systeem dat zegt *u hebt hiervoor gekozen* terwijl het informatie achterhoudt, alternatieven vrijwel onmogelijk maakt of kwetsbaarheden doelgericht uitbuit, verschuilt zich achter een te dun vrijheidsbegrip.
 
@@ -92,7 +88,7 @@ Daarom blijft één grens hard:
 
 Hier krijgt <span class="begrip" data-term="antwoordruimte">antwoordruimte</span> haar centrale betekenis.
 
-Vrijheid vraagt niet dat alle mogelijkheden zo lang mogelijk open blijven. Een leven krijgt juist vorm doordat sommige mogelijkheden worden afgesloten. Wie een belofte doet, een vak leert of een relatie beëindigt, sluit werkelijke toekomsten af.
+Een leven krijgt vorm doordat sommige mogelijkheden worden afgesloten. Wie een belofte doet, een vak leert of een relatie beëindigt, sluit werkelijke toekomsten af.
 
 Een onomkeerbare keuze kan vrij zijn.
 
@@ -100,9 +96,7 @@ De relevante vraag is of voldoende voorwaarden behouden blijven om later opnieuw
 
 > **Vrijheid is niet maximale keuzevrijheid op ieder moment, maar voldoende voorwaarden behouden om opnieuw te kunnen antwoorden.**
 
-Dat maakt ook duidelijk waarom bescherming soms keuze mag beperken. Een tijdelijke grens kan toekomstige vrijheid bewaren. Maar wie iemands actuele wil passeert in naam van diens toekomstige vrijheid krijgt een zwaardere rechtvaardigingslast. Lichtere middelen moeten serieus zijn overwogen en de interventie zelf moet toetsbaar blijven.
-
-Vrijheid rechtvaardigt dus noch *meer keuze is altijd beter*, noch *wij weten wat voor u werkelijk vrij is*.
+Een tijdelijke grens kan toekomstige vrijheid bewaren. Wie iemands actuele wil passeert in naam van diens toekomstige vrijheid krijgt wel een zwaardere rechtvaardigingslast. Lichtere middelen moeten serieus zijn overwogen en de interventie zelf moet toetsbaar blijven.
 
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">Een paar akkoorden zijn soms genoeg</h3>
@@ -112,7 +106,7 @@ Op *Kind of Blue* spelen Miles Davis en zijn medemuzikanten binnen duidelijke mu
 
 Juist daardoor kunnen de musici reageren op wat er net klinkt. Een frase van de trompet verandert wat de pianist of saxofonist daarna kan doen, zonder dat iemand de muziek hoeft te verlaten om iets eigens te spelen.
 
-Dat is het punt hier: vrijheid is niet de afwezigheid van voorwaarden. Goede voorwaarden kunnen juist de ruimte maken waarin een werkelijk antwoord mogelijk wordt.
+Goede voorwaarden kunnen de ruimte maken waarin een werkelijk antwoord mogelijk wordt.
 
 </div>
 </aside>
@@ -135,17 +129,17 @@ Stel iemand doet precies wat hij wil, maar een ander heeft die verlangens doelbe
 
 Toch wringt er iets.
 
-Dat laat zien dat vrijheid niet alleen gaat over het laatste keuzemoment. Ook de geschiedenis van het antwoordvermogen telt.
+Ook de geschiedenis van het antwoordvermogen telt.
 
 Kon de actor de beïnvloeding herkennen? Alternatieve informatie bereiken? Zich onttrekken? De eigen voorkeuren toetsen?
 
-Iedereen wordt beïnvloed. De grens ligt dus niet tussen beïnvloed en onbeïnvloed, maar tussen vorming die antwoordvermogen mede mogelijk maakt en vorming die haar eigen invloed aan correctie onttrekt.
+Iedereen wordt beïnvloed. Relevant is of beïnvloeding herkenbaar, betwistbaar en ontloopbaar blijft, en of zij het vermogen tot herziening mede mogelijk maakt of haar eigen invloed aan correctie onttrekt.
 
 Dan wordt beïnvloeding sluitingsmacht.
 
 ## Verbonden zonder opgelost te worden
 
-Het relationele vertrekpunt raakt hier aan non-duale tradities: zelf en wereld zijn niet volledig onafhankelijke blokken. Maar daaruit volgt niet dat verschil uiteindelijk onwerkelijk is.
+Het relationele vertrekpunt raakt hier aan non-duale tradities: zelf en wereld zijn niet volledig onafhankelijke blokken. Verschil blijft daarbij werkelijk.
 
 > **Niet absoluut twee betekent niet: eigenlijk één en dus zonder werkelijk verschil.**
 
@@ -157,6 +151,6 @@ Daarom geldt ook hier:
 
 Een inzicht in verbondenheid heft concrete verantwoordelijkheid, afstand of bescherming niet op. Geen metafysische eenheid geeft iemand recht op toegang tot degene die afstand nodig heeft.
 
-Vrijheid is dus niet buiten de wereld staan. Zij is binnen de wereld voldoende ruimte behouden om niet volledig samen te vallen met wat ons al gevormd heeft.
+Vrijheid ligt binnen de wereld: voldoende ruimte om niet volledig samen te vallen met wat ons al gevormd heeft.
 
-Of determinisme uiteindelijk metafysisch waar of onwaar is, beslist dit hoofdstuk niet. Het verplaatst de praktische vraag: niet *ben ik oorzaakloos?*, maar *kan wat mij vormt door mij worden ontvangen, onderzocht, begrensd en soms anders beantwoord?*
+Of determinisme uiteindelijk metafysisch waar of onwaar is, beslist dit hoofdstuk niet. Praktisch blijft de vraag: *kan wat mij vormt door mij worden ontvangen, onderzocht, begrensd en soms anders beantwoord?*
