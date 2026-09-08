@@ -8,7 +8,7 @@ export type Chapter = {
 };
 
 export const chapters: Chapter[] = [
-  { order: 0, label: 'Vooraf', title: 'Geen theorie van alles', slug: '00-vooraf', summary: 'De inzet en de grenzen van het project: regionale claims, een fenomenologische toegang en een open metafysische horizon.', main: true },
+  { order: 0, label: 'Vooraf', title: 'Geen theorie van alles', slug: '00-vooraf', summary: 'De inzet en de grenzen van het project: regionale claims, een fenomenologische toegang en expliciete zelfbegrenzing.', main: true },
   { order: 1, label: '01', title: 'Wat verschijnt, verschijnt onaf', slug: '01-wat-verschijnt-verschijnt-onaf', summary: 'Over vorm, grens en waarom een actuele verschijning niet de volledige werkelijkheid van een vorm uitput.', main: true },
   { order: 2, label: '02', title: 'Vormen ontstaan in verhouding', slug: '02-vormen-ontstaan-in-verhouding', summary: 'Over afhankelijkheid, autonomie en de verhoudingen die vanaf het begin meewerken aan wie iemand kan worden.', main: true },
   { order: 3, label: '03', title: 'Voelen: verschil dat ertoe doet', slug: '03-voelen-verschil-dat-ertoe-doet', summary: 'Over lichamelijke ervaring, betekenis, niet-menselijke dieren en de ander als tweede persoon.', main: true },
@@ -20,7 +20,6 @@ export const chapters: Chapter[] = [
   { order: 9, label: '09', title: 'Liefde, klauwen en wederzijdse bescherming', slug: '09-liefde-klauwen-en-wederzijdse-bescherming', summary: 'Over nabijheid en verschil, zachtheid en kracht, en bescherming zonder overheersing.', main: true },
   { order: 10, label: '10', title: 'Taal, kennis en intelligentie', slug: '10-taal-kennis-en-intelligentie', summary: 'Over kennis onder correctieplicht, taal zonder laatste woord en intelligentie als overzicht in plaats van louter snelheid.', main: true },
   { order: 11, label: '11', title: 'Zin, dood en viering', slug: '11-zin-dood-en-viering', summary: 'Over lokale betekenis, werkelijk einde, rouw en de mogelijkheid iets te vieren zonder het te bezitten.', main: true },
-  { order: 12, label: '12', title: 'Waar krijgt werkelijkheid een binnenkant?', slug: '12-waar-krijgt-werkelijkheid-een-binnenkant', summary: 'De cosmopsychische horizon: een voorzichtige vraag naar hoe perspectief en binnenkant in werkelijkheid kunnen verschijnen.', main: true },
   { order: 13, label: '13', title: 'Velden, instituties en georganiseerde sluiting', slug: '13-velden-instituties-en-georganiseerde-sluiting', summary: 'Over macht, draagstructuren, onafhankelijke correctie en instituties die door gevolgen veranderbaar moeten blijven.', main: true },
   { order: 14, label: '14', title: 'Drie toetsgevallen', slug: '14-drie-toetsgevallen-wat-verandert-er-wanneer-dit-denken-iets-moet-doen', summary: 'Drie concrete situaties: twee waarin het begrippenkader iets kan toevoegen en één waarin het expliciet moet wijken.', main: true },
   { order: 15, label: '15', title: 'Culturele bescheidenheid en intellectuele buren', slug: '15-culturele-bescheidenheid-en-intellectuele-buren', summary: 'Over verwantschap zonder annexatie: andere tradities, denkers en kunst hoeven niet tot bewijs van deze taal te worden gemaakt.', main: true },

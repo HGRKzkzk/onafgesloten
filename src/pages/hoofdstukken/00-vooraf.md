@@ -12,15 +12,14 @@ source:
 
 divergence:
   status: "substantieel-herwerkt"
-  note: "Publieke herschrijving met toegankelijker opening, aangescherpte zelfbegrenzing en twee culturele uitkijkjes."
+  note: "Publieke herschrijving met toegankelijker opening en aangescherpte zelfbegrenzing."
 
-lastSyncCheck: "2026-09-05"
+lastSyncCheck: "2026-09-08"
 
 themes:
   - zelfbegrenzing
   - fenomenologie
   - regionale-reikwijdte
-  - cosmopsychische-intuïtie
 ---
 
 ## Vooraf: geen theorie van alles
@@ -95,71 +94,6 @@ Mijn toegang is in de eerste plaats <span class="begrip" data-term="fenomenologi
 Daarom houd ik de <span class="begrip" data-term="regionale-reikwijdte">reikwijdte regionaal</span>. De rijkste uitspraken in deze tekst gaan over levende, voelende, lerende, relationele en institutionele vormen. Zij mogen niet zonder tussenstappen worden uitgebreid naar iedere steen, planeet of elementair deeltje.
 
 Dat is geen beleefde voetnoot achteraf, maar een methodische grens. Een filosofie die onderscheid wil maken tussen openheid en sluiting moet ook zelf kunnen stoppen waar haar woorden hun houvast verliezen.
-
-### Een grotere vraag aan de horizon
-
-Die zelfbegrenzing betekent niet dat de grotere vraag verdwijnt.
-
-Dat wij de binnenkant van werkelijkheid het duidelijkst ontmoeten in voelen, leven en aanspreekbaarheid, bewijst niet dat de rest van de werkelijkheid uitsluitend uit buitenkant bestaat. We weten simpelweg veel minder zodra we dat terrein verlaten.
-
-Er speelt voor mij daarom een cosmopsychische intuïtie mee. De gangbare term <span class="begrip" data-term="cosmopsychisme">cosmopsychisme</span> kan daarbij een sterkere these aanduiden dan ik hier nodig heb: bijvoorbeeld dat de kosmos als geheel zelf een fundamenteel subject is. Dat beweer ik niet.
-
-Mijn vraag is voorzichtiger.
-
-Misschien is de binnenkant die in levende wezens verschijnt als voelen, perspectief en betekenis geen volstrekt vreemde laatkomer in een werkelijkheid die daaraan oorspronkelijk totaal vreemd is. Misschien brengt leven die binnenkant niet eenvoudig uit niets voort, maar geeft het haar een plaats, een grens, een ritme en een gezichtspunt.
-
-Dat is een mogelijkheid die ik open wil houden, geen conclusie waarop de rest van het boek rust.
-
-<aside class="uitkijkje uitkijkje--beeld">
-  <p class="uitkijkje__label">Verder kijken</p>
-
-  <figure class="uitkijkje__figure">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/8/87/Flammarion.jpg"
-      alt="Een negentiende-eeuwse gravure van een reiziger die door de rand van de sterrenhemel heen kijkt."
-      loading="lazy"
-    />
-    <figcaption>
-      Anonieme kunstenaar, de zogenoemde <em>Flammarion-gravure</em>, voor het eerst gepubliceerd in 1888.
-      Publiek domein.
-    </figcaption>
-  </figure>
-
-  <h3 class="uitkijkje__title">Met het hoofd door de hemel</h3>
-
-  <p>
-    In een beroemde negentiende-eeuwse gravure steekt een reiziger zijn hoofd door de rand van
-    de zichtbare hemel. Aan de ene kant ligt het vertrouwde landschap; daarachter verschijnt
-    iets waarvoor zijn oude kaart nauwelijks woorden heeft.
-  </p>
-
-  <p>
-    Het beeld is verleidelijk omdat het suggereert dat er ergens één sluier hoeft te worden
-    opgetild en het geheel zich eindelijk zal tonen. Zo eenvoudig is het hier niet. Er is geen
-    belofte dat achter onze huidige grens één definitief antwoord wacht.
-  </p>
-
-  <p>
-    Maar de houding van de reiziger herken ik wel: niet doen alsof de grens van wat je nu kunt
-    zien ook de grens van het werkelijke moet zijn.
-  </p>
-
-  <p class="uitkijkje__source">
-    <a href="https://commons.wikimedia.org/wiki/File:Flammarion.jpg"
-       target="_blank"
-       rel="noopener noreferrer">
-      Wikimedia Commons — afbeelding en herkomst
-    </a>
-  </p>
-</aside>
-
-De vraag blijft dus: is plaatselijke subjectiviteit een uitzonderlijke onderbreking van een werkelijkheid zonder binnenkant, of verschijnt daarin iets dat dieper met de werkelijkheid zelf samenhangt?
-
-Ik weet het niet.
-
-Dat niet-weten is hier geen tijdelijk gat dat later koste wat kost moet worden gevuld. Het bepaalt mede de vorm van het onderzoek.
-
-Ik probeer daarom **regionaal te blijven in wat ik verantwoord durf te beweren, en cosmopsychisch open in de vraag die aan de horizon meespeelt.**
 
 ### Geen vervanging voor wetenschap
 

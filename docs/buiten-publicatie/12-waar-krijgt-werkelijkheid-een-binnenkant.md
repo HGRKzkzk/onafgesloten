@@ -1,17 +1,11 @@
 ---
-layout: ../../layouts/ChapterLayout.astro
-order: 12
 title: "Waar krijgt werkelijkheid een binnenkant?"
-description: "Over de vraag hoe perspectief en ervaring in werkelijkheid kunnen verschijnen, en waarom de cosmopsychische mogelijkheid een horizon blijft in plaats van een verborgen grondslag."
-slug: "waar-krijgt-werkelijkheid-een-binnenkant"
-status: "publieke-werkversie"
+status: "buiten-publicatie"
 source:
   id: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
   version: "v4.1"
-divergence:
-  status: "substantieel-herwerkt"
-  note: "Integrale compressie: cosmopsychische gedachte nadrukkelijker als excursie, rivalen en verliesvoorwaarden behouden, regionale kern en empirisch onderzoek krijgen voorrang."
-lastSyncCheck: "2026-09-05"
+note: "Voorlopig buiten de publieke kern gehouden: de cosmopsychische/metafysische laag voegt op dit moment te weinig toe en is niet sterk genoeg onderbouwd om het gewicht van een kernhoofdstuk te dragen."
+lastPublicVersion: "2026-09-08"
 ---
 
 Dit hoofdstuk is een uitstap naar de horizon.
