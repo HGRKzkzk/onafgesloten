@@ -6,7 +6,7 @@ slug: "zelfbegrenzing-ook-dit-denken-blijft-onaf"
 status: "uitgewerkt-met-academische-laag"
 source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
 description: "Een slothoofdstuk over de voorwaarden waaronder Onafgesloten Vorm zichzelf moet kunnen begrenzen, herzien of gedeeltelijk verlaten."
-divergence: "Integrale compressie: hoofdstuk is uitsluitend de interne onderhouds- en verlieslaag; culturele vergelijking blijft in hoofdstuk 15."
+divergence: "Integrale compressie: hoofdstuk is uitsluitend de interne onderhouds- en verlieslaag; culturele vergelijking blijft in het voorgaande hoofdstuk."
 lastSyncCheck: "2026-09-05"
 ---
 
@@ -28,15 +28,9 @@ Projectbegrippen zoals <span class="begrip" data-term="antwoordruimte">antwoordr
 
 Normatieve keuzes zoals wederkerigheid, het gewicht van afwendbaar lijden en corrigeerbare macht worden niet door beschrijvende of metafysische uitgangspunten bewezen. Zij moeten afzonderlijk verdedigbaar blijven.
 
-De cosmopsychische horizon uit hoofdstuk 12 is het zachtst. Zij mag inspireren, maar niet dragen.
-
-Deze hiërarchie voorkomt dat een zwakke metafysische gedachte sterkere regionale of ethische claims onaantastbaar maakt.
-
 ## Wat moet kunnen verdwijnen?
 
 Zelfkritiek krijgt pas betekenis wanneer enigszins zichtbaar is wat als verlies telt.
-
-De cosmopsychische bruggedachte mag verdwijnen wanneer zij geen onderscheidend verklaringswerk doet.
 
 Antwoordruimte moet worden versmald of verlaten wanneer autonomie, capability, handelingsruimte, welzijn of procedurele rechtvaardigheid in een domein hetzelfde preciezer beschrijven.
 
@@ -68,7 +62,7 @@ Een theorie kan gemakkelijk bescheiden lijken door overal tegenvoorbeelden te no
 
 Een serieus tegenvoorbeeld kan verschillende dingen doen: een toepassing corrigeren, een begrip regionaal beperken, een verbinding tussen begrippen verbreken, laten zien dat een externe discipline het werk beter doet, of een onderdeel eenvoudig overbodig maken.
 
-Hoofdstuk 14 bevat ook een geval waarin de uitkomst niet een verfijning van het kader is. Bij een ondubbelzinnige administratieve rekenfout bepalen recht en berekening wat de primaire correctie is. Extra projecttaal maakt die beslissing niet beter. Daar moet zij wijken.
+De drie toetsgevallen bevatten ook een geval waarin de uitkomst niet een verfijning van het kader is. Bij een ondubbelzinnige administratieve rekenfout bepalen recht en berekening wat de primaire correctie is. Extra projecttaal maakt die beslissing niet beter. Daar moet zij wijken.
 
 Dat laatste is geen mislukking.
 

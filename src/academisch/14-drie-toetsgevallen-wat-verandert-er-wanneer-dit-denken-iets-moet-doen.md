@@ -48,7 +48,7 @@ Dat onderscheid is nodig om te voorkomen dat Onafgesloten Vorm via “er is alti
 
 ## Eigen stap
 
-De praktische bijdrage van hoofdstuk 14 is geen nieuwe beslisformule. Het hoofdstuk laat drie mogelijke uitkomsten van dezelfde methodische houding zien:
+De praktische bijdrage van dit hoofdstuk is geen nieuwe beslisformule. Het hoofdstuk laat drie mogelijke uitkomsten van dezelfde methodische houding zien:
 
 1. **Verschuiven:** bij het dier wordt niet alleen naar productiviteit gekeken, maar naar de vraag op wiens lichaam een noodzakelijke of economische beperking rust.
 2. **Verschuiven:** bij uitvoering wordt niet alleen naar rechtmatigheid of einduitkomst gekeken, maar naar de route waarlangs institutionele onzekerheid en herstelarbeid worden verdeeld.

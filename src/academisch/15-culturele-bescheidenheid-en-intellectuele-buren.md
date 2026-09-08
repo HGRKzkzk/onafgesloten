@@ -1,6 +1,6 @@
 ## Verwantschap
 
-Hoofdstuk 15 is in de eerste plaats een methodologisch hoofdstuk. Het vraagt niet welke tradities “ook Onafgesloten Vorm” zouden zijn, maar hoe vergelijking mogelijk is zonder de vergelijkingspartner al vooraf in de categorieën van dit project te vertalen.
+Dit hoofdstuk is in de eerste plaats een methodologisch hoofdstuk. Het vraagt niet welke tradities “ook Onafgesloten Vorm” zouden zijn, maar hoe vergelijking mogelijk is zonder de vergelijkingspartner al vooraf in de categorieën van dit project te vertalen.
 
 Dat probleem is bekend in de vergelijkende filosofie. Begrippen zijn zelden losse proposities die probleemloos van de ene traditie naar de andere kunnen worden overgezet. Zij functioneren binnen talen, praktijken, genres, instituties en historische controverses. Een overeenkomst op één as kan daardoor tegelijk een belangrijk verschil op een andere as verbergen.
 

@@ -105,10 +105,10 @@ source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
 19. **Vorming mag richting geven zonder bestemming op te leggen.**  
     Een gezond ecosysteem bewaart ruimte voor verschil, correctie, vertrek en nieuwe vorming.
 
-<small><a href="../13-velden-instituties-en-georganiseerde-sluiting/">13 · Velden, instituties en georganiseerde sluiting</a></small>
+<small><a href="../13-velden-instituties-en-georganiseerde-sluiting/">12 · Velden, instituties en georganiseerde sluiting</a></small>
 
 <!-- laag: instrumenteel/methodologisch -->
 20. **Ook dit project blijft onaf.**  
     Zijn begrippen zijn zoeklichten onder correctieplicht.
 
-<small><a href="../16-zelfbegrenzing-ook-dit-denken-blijft-onaf/">16 · Zelfbegrenzing: ook dit denken blijft onaf</a></small>
+<small><a href="../16-zelfbegrenzing-ook-dit-denken-blijft-onaf/">15 · Zelfbegrenzing: ook dit denken blijft onaf</a></small>
