@@ -1,0 +1,145 @@
+name: Vendor uitkijkjes images
+
+on:
+  push:
+    branches:
+      - lokaliseer-uitkijkjes-afbeeldingen
+    paths:
+      - .github/workflows/vendor-uitkijkjes-images.yml
+
+permissions:
+  contents: write
+
+jobs:
+  vendor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: lokaliseer-uitkijkjes-afbeeldingen
+          fetch-depth: 0
+
+      - name: Download local image copies
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p \
+            public/images/hoofdstuk-00 \
+            public/images/hoofdstuk-01 \
+            public/images/hoofdstuk-02 \
+            public/images/hoofdstuk-03 \
+            public/images/hoofdstuk-04 \
+            public/images/hoofdstuk-05 \
+            public/images/hoofdstuk-07 \
+            public/images/hoofdstuk-08
+
+          curl -A 'onafgesloten-image-vendor/1.0' -fL --retry 3 \
+            'https://commons.wikimedia.org/wiki/Special:Redirect/file/Lewis_Carroll_-_Henry_Holiday_-_Hunting_of_the_Snark_-_Plate_4.jpg?width=1200' \
+            -o public/images/hoofdstuk-00/perfecte-kaart.jpg
+
+          curl -A 'onafgesloten-image-vendor/1.0' -fL --retry 3 \
+            'https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/45000/45837/ISS024-E-014580_lrg.jpg?crop=faces%2Cfocalpoint&fit=clip&h=960&w=1440' \
+            -o public/images/hoofdstuk-01/hurricane-igor.jpg
+
+          curl -A 'onafgesloten-image-vendor/1.0' -fL --retry 3 \
+            'https://commons.wikimedia.org/wiki/Special:Redirect/file/Jim_Henson%2C_creator%2C_The_Muppets_-full.jpg?width=1200' \
+            -o public/images/hoofdstuk-01/jim-henson-muppets.jpg
+
+          curl -A 'onafgesloten-image-vendor/1.0' -fL --retry 3 \
+            'https://commons.wikimedia.org/wiki/Special:Redirect/file/Tree_snag_%289f1eddb8679f45a9885aa0484b25f816%29.JPG?width=1200' \
+            -o public/images/hoofdstuk-01/staande-dode-boom.jpg
+
+          curl -A 'onafgesloten-image-vendor/1.0' -fL --retry 3 \
+            'https://commons.wikimedia.org/wiki/Special:Redirect/file/Mary%20Cassatt%2C%20Mother%20and%20Child%2C%20c.%201905%2C%20NGA%2046573.jpg?width=1200' \
+            -o public/images/hoofdstuk-02/cassatt-mother-child.jpg
+
+          curl -A 'onafgesloten-image-vendor/1.0' -fL --retry 3 \
+            'https://commons.wikimedia.org/wiki/Special:Redirect/file/Administration_of_Polygraph.jpg?width=1200' \
+            -o public/images/hoofdstuk-03/polygraph.jpg
+
+          curl -A 'onafgesloten-image-vendor/1.0' -fL --retry 3 \
+            'https://commons.wikimedia.org/wiki/Special:Redirect/file/Marc%20die-gelbe-kuh.jpg?width=1200' \
+            -o public/images/hoofdstuk-03/marc-gele-koe.jpg
+
+          curl -A 'onafgesloten-image-vendor/1.0' -fL --retry 3 \
+            'https://commons.wikimedia.org/wiki/Special:Redirect/file/Down%20the%20Rabbit%20Hole.png?width=1200' \
+            -o public/images/hoofdstuk-04/alice-rabbit-hole.png
+
+          curl -A 'onafgesloten-image-vendor/1.0' -fL --retry 3 \
+            'https://commons.wikimedia.org/wiki/Special:Redirect/file/GreatWave.jpg?width=1200' \
+            -o public/images/hoofdstuk-05/hokusai-grote-golf.jpg
+
+          curl -A 'onafgesloten-image-vendor/1.0' -fL --retry 3 \
+            'https://commons.wikimedia.org/wiki/Special:Redirect/file/Vitruvian%20Man%20by%20Leonardo%20da%20Vinci.jpg?width=1200' \
+            -o public/images/hoofdstuk-07/vitruviusman.jpg
+
+          curl -A 'onafgesloten-image-vendor/1.0' -fL --retry 3 \
+            'https://commons.wikimedia.org/wiki/Special:Redirect/file/Eug%C3%A8ne%20Delacroix%20-%20Liberty%20Leading%20the%20People.jpeg?width=1200' \
+            -o public/images/hoofdstuk-08/delacroix-vrijheid.jpeg
+
+      - name: Replace hotlinked image sources
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          replacements = {
+              'https://commons.wikimedia.org/wiki/Special:Redirect/file/Lewis_Carroll_-_Henry_Holiday_-_Hunting_of_the_Snark_-_Plate_4.jpg': '/onafgesloten/images/hoofdstuk-00/perfecte-kaart.jpg',
+              'https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/45000/45837/ISS024-E-014580_lrg.jpg?crop=faces%2Cfocalpoint&fit=clip&h=960&w=1440': '/onafgesloten/images/hoofdstuk-01/hurricane-igor.jpg',
+              'https://commons.wikimedia.org/wiki/Special:Redirect/file/Jim_Henson%2C_creator%2C_The_Muppets_-full.jpg': '/onafgesloten/images/hoofdstuk-01/jim-henson-muppets.jpg',
+              'https://commons.wikimedia.org/wiki/Special:Redirect/file/Tree_snag_%289f1eddb8679f45a9885aa0484b25f816%29.JPG': '/onafgesloten/images/hoofdstuk-01/staande-dode-boom.jpg',
+              'https://commons.wikimedia.org/wiki/Special:Redirect/file/Mary%20Cassatt%2C%20Mother%20and%20Child%2C%20c.%201905%2C%20NGA%2046573.jpg': '/onafgesloten/images/hoofdstuk-02/cassatt-mother-child.jpg',
+              'https://commons.wikimedia.org/wiki/Special:Redirect/file/Administration_of_Polygraph.jpg': '/onafgesloten/images/hoofdstuk-03/polygraph.jpg',
+              'https://commons.wikimedia.org/wiki/Special:Redirect/file/Marc%20die-gelbe-kuh.jpg': '/onafgesloten/images/hoofdstuk-03/marc-gele-koe.jpg',
+              'https://commons.wikimedia.org/wiki/Special:Redirect/file/Down%20the%20Rabbit%20Hole.png': '/onafgesloten/images/hoofdstuk-04/alice-rabbit-hole.png',
+              'https://commons.wikimedia.org/wiki/Special:Redirect/file/GreatWave.jpg': '/onafgesloten/images/hoofdstuk-05/hokusai-grote-golf.jpg',
+              'https://commons.wikimedia.org/wiki/Special:Redirect/file/Vitruvian%20Man%20by%20Leonardo%20da%20Vinci.jpg': '/onafgesloten/images/hoofdstuk-07/vitruviusman.jpg',
+              'https://commons.wikimedia.org/wiki/Special:Redirect/file/Eug%C3%A8ne%20Delacroix%20-%20Liberty%20Leading%20the%20People.jpeg': '/onafgesloten/images/hoofdstuk-08/delacroix-vrijheid.jpeg',
+          }
+
+          root = Path('src/pages/hoofdstukken')
+          changed = 0
+          for path in root.glob('*.md'):
+              text = path.read_text(encoding='utf-8')
+              new = text
+              for remote, local in replacements.items():
+                  new = new.replace(f'src="{remote}"', f'src="{local}"')
+              if new != text:
+                  path.write_text(new, encoding='utf-8')
+                  changed += 1
+
+          if changed != 8:
+              raise SystemExit(f'Expected 8 changed chapter files, got {changed}')
+          PY
+
+      - name: Verify no image hotlinks remain
+        shell: bash
+        run: |
+          set -euo pipefail
+          if grep -RInE '<img[^>]+src="https?://' src/pages/hoofdstukken; then
+            echo 'External image src remains in main text.' >&2
+            exit 1
+          fi
+
+          test -s public/images/hoofdstuk-00/perfecte-kaart.jpg
+          test -s public/images/hoofdstuk-01/hurricane-igor.jpg
+          test -s public/images/hoofdstuk-01/jim-henson-muppets.jpg
+          test -s public/images/hoofdstuk-01/staande-dode-boom.jpg
+          test -s public/images/hoofdstuk-02/cassatt-mother-child.jpg
+          test -s public/images/hoofdstuk-03/polygraph.jpg
+          test -s public/images/hoofdstuk-03/marc-gele-koe.jpg
+          test -s public/images/hoofdstuk-04/alice-rabbit-hole.png
+          test -s public/images/hoofdstuk-05/hokusai-grote-golf.jpg
+          test -s public/images/hoofdstuk-07/vitruviusman.jpg
+          test -s public/images/hoofdstuk-08/delacroix-vrijheid.jpeg
+
+      - name: Commit vendored images and remove temporary workflow
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm .github/workflows/vendor-uitkijkjes-images.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'Vendor uitkijkjes images locally'
+          git push origin HEAD:lokaliseer-uitkijkjes-afbeeldingen
