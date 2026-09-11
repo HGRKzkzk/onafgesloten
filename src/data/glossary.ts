@@ -35,15 +35,6 @@ export const glossary: Record<string, GlossaryEntry> = {
       'De bewuste beperking van een filosofische uitspraak tot bepaalde soorten verschijnselen, in plaats van haar zonder overgang op de hele werkelijkheid toe te passen.'
   },
 
-  cosmopsychisme: {
-    term: 'Cosmopsychisme',
-    type: 'gangbaar',
-    chapterOfOrigin: 'vooraf',
-    short:
-      'Een filosofische familie van opvattingen waarin de kosmos als geheel, of een kosmisch fundamenteel niveau, een dragende rol krijgt in de verklaring van individuele subjectiviteit.',
-    url: 'https://en.wikipedia.org/wiki/Panpsychism#Cosmopsychism'
-  },
-
   vorm: {
     term: 'Vorm',
     type: 'precisering',
@@ -338,7 +329,7 @@ export const glossary: Record<string, GlossaryEntry> = {
     type: 'gangbaar',
     chapterOfOrigin: '06-draagroutes-ritme-en-herstel',
     short:
-      'Ger rapporteerde positieve veranderingen in betekenis, prioriteiten of relaties na ingrijpende ervaringen; geen bewijs dat trauma noodzakelijk of wenselijk was.'
+      'Gerapporteerde positieve veranderingen in betekenis, prioriteiten of relaties na ingrijpende ervaringen; geen bewijs dat trauma noodzakelijk of wenselijk was.'
   },
 
   normaliteit: {
@@ -361,7 +352,7 @@ export const glossary: Record<string, GlossaryEntry> = {
 
   wederkerigheid: {
     term: 'Wederkerigheid',
-    type: 'projectbegrip',
+    type: 'precisering',
     chapterOfOrigin: '07-gezondheid-zonder-ideaalvorm',
     short:
       'De ethische inzet dat betrokken vormen elkaar niet louter als middel behandelen en dat signalen, grenzen en gevolgen van de ander werkelijk aan de verhouding kunnen terugspreken.'

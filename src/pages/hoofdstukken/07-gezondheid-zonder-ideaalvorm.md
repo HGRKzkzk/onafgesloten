@@ -7,7 +7,7 @@ status: "uitgewerkt-met-academische-laag"
 description: "Over gezondheid als draagbare onafheid: tussen verstarring, uiteenvallen en schadelijke stabiliteit, zonder van één ideaalvorm de maat van alle leven te maken."
 source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
 divergence: "Integraal gecomprimeerd: gezondheid en pathologie behouden hun thuisbasis; wederkerigheid, antwoordruimte en asymmetrie worden niet langer vooruitlopend volledig uitgewerkt."
-lastSyncCheck: "2026-09-05"
+lastSyncCheck: "2026-09-11"
 ---
 Gezondheid is hier **draagbare onafheid**: genoeg samenhang om te blijven bestaan, genoeg gevoeligheid om geraakt te worden, genoeg grens om niet te verdwijnen en genoeg herstelruimte om na verandering opnieuw vorm te vinden.
 
@@ -36,7 +36,7 @@ Een ideaal kan helpen kijken. Het wordt gevaarlijk wanneer het levende lichaam v
 
 ## Variatie is nog geen pathologie
 
-Niet iedere afwijking van het gemiddelde is een probleem. Een eigenschap kan zeldzaam zijn zonder schadelijk te zijn, lastig zijn in de ene omgeving en vruchtbaar in een andere, of tegelijk bescherming en beperking bieden.
+Niet iedere afwijking van het gemiddelde is een <span class="begrip" data-term="pathologie">pathologie</span>. Een eigenschap kan zeldzaam zijn zonder schadelijk te zijn, lastig zijn in de ene omgeving en vruchtbaar in een andere, of tegelijk bescherming en beperking bieden.
 
 Dat maakt <span class="begrip" data-term="normaliteit">normaliteit</span> dubbelzinnig. Statistische normaliteit zegt iets over wat vaak voorkomt. Sociale normaliteit zegt iets over wat een omgeving gewend is. Klinische beoordeling vraagt iets anders: is er lijden, verlies van functioneren, gevaar, ontregeling of een andere reden waarom hulp nodig is?
 
