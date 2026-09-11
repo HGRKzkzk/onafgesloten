@@ -72,8 +72,8 @@ source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
 <small><a href="../08-vrijheid-binnen-bepaaldheid-en-verschil-zonder-absoluut-dualisme/">08 · Vrijheid binnen bepaaldheid</a></small>
 
 <!-- laag: normatief -->
-13. **Zachtheid heeft klauwen nodig.**  
-    Beschermen is niet hetzelfde als overheersen.
+13. **Bescherming vraagt grenzen die werkelijk gevolg kunnen krijgen.**  
+    Passende begrenzing stopt schade zonder meer macht op te eisen dan daarvoor nodig is.
 
 <small><a href="../09-liefde-klauwen-en-wederzijdse-bescherming/">09 · Liefde, klauwen en wederzijdse bescherming</a></small>
 
