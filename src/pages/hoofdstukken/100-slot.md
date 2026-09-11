@@ -45,7 +45,3 @@ Onafgesloten Vorm is niet begonnen als een door AI gegenereerde theorie. De eers
 LLM's zijn vervolgens een belangrijk hulpmiddel geworden bij het uitwerken van die grondstof. Ze hielpen aannames zichtbaar te maken, formuleringen te vergelijken, tegenvoorbeelden te zoeken, verwante denktradities op te sporen, hoofdstukken te herschikken en taal aan te scherpen. Sommige formuleringen in deze tekst zijn daardoor in gesprek met een taalmodel ontstaan of aanzienlijk veranderd. Een taalmodel heeft de situaties waaruit dit project voortkomt niet geleefd. De rol van LLM's was daarom zowel redactioneel als dialogisch: hun output gold als voorstel, tegenstem of materiaal voor verdere bewerking, niet als onderbouwing dat een inhoudelijke claim waar is of een verondersteld verband werkelijk bestaat.
 
 Die werkwijze heeft ook risico's. Een taalmodel kan losse intuïties te snel tot een mooi systeem maken, verbanden overtuigender laten klinken dan ze zijn of jargon invoeren dat meer gewicht suggereert dan de gedachte kan dragen. Daarom zijn voorstellen ook geschrapt, begrippen verlaten, claims versmald en waar nodig externe bronnen en disciplines geraadpleegd. De verantwoordelijkheid voor wat uiteindelijk blijft staan, welke normatieve keuzes worden gemaakt en wat hier publiek wordt beweerd, ligt bij mij.
-
----
-
-> **Voor alle kleine lieve diertjes: een zachte plek, scherpe tanden, soortgenoten en een hol met een achterdeur.**
