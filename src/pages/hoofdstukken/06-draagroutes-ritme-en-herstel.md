@@ -14,7 +14,7 @@ Spanning blijft zelden op de plek waar zij ontstaat. Zij beweegt door lichamen, 
 
 Dat maakt het verleidelijk om alleen te kijken naar de plek waar de schade zichtbaar wordt. Wie valt uit? Wie ontploft? Welk team haalt de norm niet? Welke buurt wordt onrustig? Maar de plek waar iets breekt is niet noodzakelijk de plek waar de spanning begon.
 
-Een <span class="begrip" data-term="draagroute">**draagroute**</span> is de weg waarlangs spanning wordt ontvangen, verdeeld, begrensd, verwerkt, teruggelegd of geblokkeerd. Zonder lichaam, taak, taal, ritueel of besluit kan spanning nergens worden gedragen. Problematisch wordt de route wanneer een veld zijn spanning langdurig in een vorm laat neerslaan zonder dat die vorm de gevolgen kan terugleggen.
+Een <span class="begrip" data-term="draagroute">draagroute</span> is de weg waarlangs spanning wordt ontvangen, verdeeld, begrensd, verwerkt, teruggelegd of geblokkeerd. Zonder lichaam, taak, taal, ritueel of besluit kan spanning nergens worden gedragen. Problematisch wordt de route wanneer een veld zijn spanning langdurig in een vorm laat neerslaan zonder dat die vorm de gevolgen kan terugleggen.
 
 Een organisatie kan wendbaar lijken doordat medewerkers voortdurend rond slechte systemen improviseren. Een gezin kan stabiel lijken doordat één lid alle onrust uit. Een economie kan efficiënt lijken doordat zorg, natuur of toekomstige generaties de last dragen die in het primaire ontwerp niet wordt opgelost. Wat lokaal als zwakte verschijnt, kan elders zijn georganiseerd.
 
@@ -85,7 +85,7 @@ Groei kan niet worden afgedwongen door iemand voortdurend met “het moeilijke g
 
 ## Herstel verandert de drager
 
-<span class="begrip" data-term="herstel">**Herstel**</span> is niet altijd terugkeer naar de oude toestand. Wat gedragen is, verandert de drager. Na liefde, trauma, verlies of institutionele beschadiging bestaat de eerdere vorm vaak niet meer. Herstel kan dan een nieuwe ordening zijn waarin de geschiedenis niet wordt gewist, maar opnieuw draaglijk wordt.
+<span class="begrip" data-term="herstel">Herstel</span> is niet altijd terugkeer naar de oude toestand. Wat gedragen is, verandert de drager. Na liefde, trauma, verlies of institutionele beschadiging bestaat de eerdere vorm vaak niet meer. Herstel kan dan een nieuwe ordening zijn waarin de geschiedenis niet wordt gewist, maar opnieuw draaglijk wordt.
 
 > **Herstel is niet noodzakelijk terugkeer. Het kan betekenen dat opnieuw voelen, begrenzen en antwoorden mogelijk wordt in een andere samenhang.**
 
@@ -102,7 +102,7 @@ Zonder die tweede vraag kan herstel vooral betekenen dat dezelfde drager opnieuw
 
 ## Transformatie zonder groeiplicht
 
-Soms kan de oude organisatie spanning niet meer dragen. Dan is er naast terugkeer en uiteenvallen een derde mogelijkheid: <span class="begrip" data-term="transformatie">**transformatie**</span>. Daarbij gaat werkelijk iets verloren, maar kan samenhang in een andere vorm worden overgedragen.
+Soms kan de oude organisatie spanning niet meer dragen. Dan is er naast terugkeer en uiteenvallen een derde mogelijkheid: <span class="begrip" data-term="transformatie">transformatie</span>. Daarbij gaat werkelijk iets verloren, maar kan samenhang in een andere vorm worden overgedragen.
 
 > **Transformatie is discontinuïteit binnen overdraagbare samenhang.**
 
@@ -110,7 +110,7 @@ Een lichaam leert anders leven. Een relatie eindigt maar laat betekenis achter. 
 
 Dat mag leed nooit achteraf tot noodzakelijke groeikans verheffen. Niet ieder verlies maakt wijzer en niet iedere crisis opent een betere wereld. De mogelijkheid van transformatie is geen plicht tot dankbaarheid.
 
-Ook <span class="begrip" data-term="posttraumatische-groei">**posttraumatische groei**</span> moet daarom zorgvuldig worden gelezen: dat iemand betekenis of nieuwe richting vindt na leed, rechtvaardigt het leed niet en maakt wie vooral verlies ervaart niet minder ontwikkeld. Lijden hoeft niet als opening of groeikans te worden geduid om serieus genomen te worden.
+Ook <span class="begrip" data-term="posttraumatische-groei">posttraumatische groei</span> moet daarom zorgvuldig worden gelezen: dat iemand betekenis of nieuwe richting vindt na leed, rechtvaardigt het leed niet en maakt wie vooral verlies ervaart niet minder ontwikkeld. Lijden hoeft niet als opening of groeikans te worden geduid om serieus genomen te worden.
 
 Soms is herstel genoeg. Soms is beperking blijvend. Soms is beëindiging de meest passende vorm. En soms blijft er schade zonder verlossende betekenis.
 
