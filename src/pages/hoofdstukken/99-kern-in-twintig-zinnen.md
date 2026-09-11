@@ -5,6 +5,7 @@ title: "De kern in twintig zinnen"
 slug: "99-kern-in-twintig-zinnen"
 status: "appendix"
 source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
+lastSyncCheck: "2026-09-11"
 ---
 
 <!-- laag: beschrijvend/metafysisch -->
@@ -49,9 +50,9 @@ source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
 
 <small><a href="../05-draagkracht-grens-en-passende-sluiting/">05 · Draagkracht, grens en passende sluiting</a></small>
 
-<!-- laag: beschrijvend/metafysisch + normatief -->
-9. **Leven is ingevuld worden zonder opgebruikt te worden.**  
-   De invulling blijft gezond zolang zij verdere mogelijkheid niet volledig bezet.
+<!-- laag: instrumenteel -->
+9. **Een draagroute laat zien waar spanning, onzekerheid en herstelwerk terechtkomen.**  
+   De plek waar schade zichtbaar wordt is niet noodzakelijk de plek waar de last ontstond of werd verdeeld.
 
 <!-- laag: instrumenteel -->
 10. **Herstel is niet noodzakelijk terugkeer.**  
