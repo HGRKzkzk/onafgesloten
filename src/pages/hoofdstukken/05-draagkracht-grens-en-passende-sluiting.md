@@ -27,7 +27,7 @@ Dezelfde grens kan ook verstarren. Wat eerst beschermde kan later opsluiten. Wat
 <p class="uitkijkje__label">Uitkijkje</p>
 <h3 class="uitkijkje__title">De golf en de boot</h3>
 <figure class="uitkijkje__figure">
-  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/GreatWave.jpg" alt="Katsushika Hokusai, De grote golf van Kanagawa" loading="lazy" />
+  <img src="/onafgesloten/images/hoofdstuk-05/hokusai-grote-golf.jpg" alt="Katsushika Hokusai, De grote golf van Kanagawa" loading="lazy" />
 </figure>
 <div class="uitkijkje__text">
 

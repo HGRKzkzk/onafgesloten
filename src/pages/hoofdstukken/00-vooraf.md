@@ -43,7 +43,7 @@ Ik probeer woorden te vinden voor iets wat in het gewone leven voortdurend zicht
 
   <figure class="uitkijkje__figure">
     <img
-      src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Lewis_Carroll_-_Henry_Holiday_-_Hunting_of_the_Snark_-_Plate_4.jpg"
+      src="/onafgesloten/images/hoofdstuk-00/perfecte-kaart.jpg"
       alt="Een vrijwel lege zeekaart uit The Hunting of the Snark, met alleen een kader en navigatieaanduidingen."
       loading="lazy"
     />

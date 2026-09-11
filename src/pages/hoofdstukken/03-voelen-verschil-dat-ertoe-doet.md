@@ -58,7 +58,7 @@ Dat maakt gesprek mogelijk. Ik hoef jouw pijn niet te ontkennen om je verklaring
 <h3 class="uitkijkje__title">De lijn zegt niet waarom ze uitslaat</h3>
 <figure class="uitkijkje__figure">
   <img
-    src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Administration_of_Polygraph.jpg"
+    src="/onafgesloten/images/hoofdstuk-03/polygraph.jpg"
     alt="Een demonstratie van een polygraaf, waarbij lichamelijke signalen als lijnen worden geregistreerd."
     loading="lazy"
   />
@@ -128,7 +128,7 @@ Veel dieren leren, vermijden, anticiperen, kiezen, herstellen, spelen, zorgen of
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">Een koe hoeft geen mens te worden</h3>
 <figure class="uitkijkje__figure">
-  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Marc%20die-gelbe-kuh.jpg" alt="Franz Marc, De gele koe" loading="lazy" />
+  <img src="/onafgesloten/images/hoofdstuk-03/marc-gele-koe.jpg" alt="Franz Marc, De gele koe" loading="lazy" />
 </figure>
 <div class="uitkijkje__text">
 

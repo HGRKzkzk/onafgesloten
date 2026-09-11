@@ -52,7 +52,7 @@ Dat maakt verantwoordelijkheid nauwkeuriger.
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">Vrijheid komt zelden alleen</h3>
 <figure class="uitkijkje__figure">
-  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Eug%C3%A8ne%20Delacroix%20-%20Liberty%20Leading%20the%20People.jpeg" alt="Eugène Delacroix, La Liberté guidant le peuple" loading="lazy" />
+  <img src="/onafgesloten/images/hoofdstuk-08/delacroix-vrijheid.jpeg" alt="Eugène Delacroix, La Liberté guidant le peuple" loading="lazy" />
 </figure>
 <div class="uitkijkje__text">
 
