@@ -24,7 +24,7 @@ export const chapters: Chapter[] = [
   { order: 13, label: '13', title: 'Vier toetsgevallen', slug: '14-drie-toetsgevallen-wat-verandert-er-wanneer-dit-denken-iets-moet-doen', summary: 'Vier concrete situaties: drie waarin het begrippenkader een relevante vraag verschuift of verdiept en één waarin het expliciet moet wijken.', main: true },
   { order: 14, label: '14', title: 'Culturele bescheidenheid en intellectuele buren', slug: '15-culturele-bescheidenheid-en-intellectuele-buren', summary: 'Over verwantschap zonder annexatie: andere tradities, denkers en kunst hoeven niet tot bewijs van deze taal te worden gemaakt.', main: true },
   { order: 15, label: '15', title: 'Zelfbegrenzing: ook dit denken blijft onaf', slug: '16-zelfbegrenzing-ook-dit-denken-blijft-onaf', summary: 'De theorie onderwerpt ook zichzelf aan de vraag of haar begrippen nog iets openen of inmiddels vooral zichzelf beschermen.', main: true },
-  { order: 99, label: 'Kern', title: 'De kern in twintig zinnen', slug: '99-kern-in-twintig-zinnen', summary: 'Een compacte ingang voor wie eerst de contouren van het project wil zien.' },
+  { order: 99, label: 'Kern', title: 'De kern in tweeëntwintig zinnen', slug: '99-kern-in-twintig-zinnen', summary: 'Een compacte ingang voor wie eerst de contouren van het project wil zien.' },
   { order: 100, label: 'Slot', title: 'Slot', slug: '100-slot', summary: 'Een afsluitende reflectie op de inzet, de open vragen en de manier waarop dit project tot stand kwam.' }
 ];
 

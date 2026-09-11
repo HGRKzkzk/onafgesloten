@@ -34,7 +34,7 @@ Er blijft dus vaak spanning, risico, tijdsdruk, schade of verlies over dat ergen
 
 Een medewerker die één keer een fout herstelt, draagt een incident. Een medewerker die jarenlang systeemfouten opvangt zonder dat de bron verandert, wordt onderdeel van de draagroute. Een mantelzorger die tijdelijk bijspringt, draagt anders dan iemand voor wie “tijdelijk” de vaste ordening is geworden. Een dier dat één beperking ondergaat is iets anders dan een dier wiens hele leefwereld onze economische spanning absorbeert.
 
-> **Dat iemand een last kan dragen, vertelt nog niet waarom die last bij diegene hoort.**
+> **Dat iemand een last herhaaldelijk kan dragen, verklaart nog niet waarom de draagroute telkens weer bij diegene uitkomt.**
 
 Juist herhaling maakt zichtbaar of flexibiliteit nog herstel mogelijk maakt of stilzwijgend tot exploitatie is geworden.
 
