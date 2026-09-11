@@ -11,7 +11,7 @@ source:
   version: "v4.1"
 divergence:
   status: "substantieel-herwerkt"
-  note: "Publieke uitbreiding met scherpere uitwerking van veldmatig kijken, institutionele draagroutes, onafhankelijke correctie, asymmetrie, georganiseerde sluiting en corrigeerbare macht."
+  note: "Publieke uitbreiding met scherpere uitwerking van veldmatig kijken, institutionele draagroutes, tussenposities zonder voldoende bevoegdheid, diagnostische schaalverschuiving, onafhankelijke correctie, asymmetrie, georganiseerde sluiting en corrigeerbare macht."
 
 lastSyncCheck: "2026-09-11"
 ---
@@ -102,6 +102,30 @@ Een enkel ongemak is nog geen systeemfout. Herhaling verandert de bewijslast. Al
 Dan moet het model zelf worden bevraagd: ziet het nog voldoende?
 
 Wie dagelijks uitzonderingen opvangt, ziet vaak eerder waar beleid en werkelijkheid uit elkaar lopen. Uitvoerders zijn daarmee niet automatisch normatief beslissend, maar hun ervaring mag niet worden gereduceerd tot ruis rond de formele regel: een instituut dat zijn eigen uitvoerders alleen als implementatiekanaal ziet, verliest een belangrijk zintuig.
+
+## Tussen niveaus zonder voldoende bevoegdheid
+
+Een bijzondere draagroute ontstaat wanneer iemand tussen niveaus komt te staan. Een teamleider vertaalt beleid naar de werkvloer en probeert tegelijk signalen terug te brengen. Een behandelaar vertaalt regels naar een individueel geval. Een medewerker legt een systeem uit aan een burger en legt daarna aan de organisatie uit waarom het systeem in dat geval niet werkt.
+
+Zo iemand kan feitelijk verantwoordelijk worden voor de verbinding tussen twee niveaus zonder tijd, mandaat of correctiemacht te hebben om één van beide te veranderen.
+
+Dat is meer dan hoge werkdruk. De tussenlaag dempt, vertaalt en repareert verschillen die elders ontstaan. Als dat goed gaat, kan de organisatie juist daardoor denken dat er geen structureel probleem bestaat.
+
+> **Wie spanning tussen niveaus moet opvangen zonder de bevoegdheid om die niveaus te corrigeren, kan het systeem draagbaar houden ten koste van de eigen draagkracht.**
+
+Daarom moet een organisatie niet alleen vragen of de tussenlaag het werk aankan, maar ook of signalen terug kunnen naar het niveau waar de oorzaak ligt.
+
+## Waar moet de diagnose landen?
+
+Een zichtbaar probleem vertelt nog niet op welk niveau het primair zit. Een medewerker kan overbelast raken door eigen keuzes, door een relationeel patroon, door een gebrekkige taakverdeling of door eisen die op een hoger organisatieniveau worden geproduceerd.
+
+Daarom hoort bij veldmatig kijken een eenvoudige proef: **verandert het probleem duurzaam wanneer alleen dit niveau verandert?**
+
+Als begeleiding, training of herstel van één actor helpt terwijl de omstandigheden gelijk blijven, was lokale interventie kennelijk relevant. Als dezelfde frictie terugkeert zolang roosters, bevoegdheden, targets of regels ongewijzigd blijven, moet ook de diagnose opschuiven.
+
+> **Als herstel op één niveau telkens mislukt zolang de voorwaarden erboven gelijk blijven, moet ook de diagnose een niveau opschuiven.**
+
+Dat voorkomt twee gemakkelijke fouten. Niet ieder lokaal zichtbaar probleem is een persoonlijk tekort. Maar ook niet ieder individueel probleem is daarmee automatisch bewijs van systeemfalen. De plaats waar schade verschijnt is een aanwijzing, geen einddiagnose.
 
 ## Wederkerigheid onder wantrouwen
 
