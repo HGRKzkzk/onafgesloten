@@ -58,6 +58,10 @@ De concrete wederkerige verhouding tot de levende ander is beëindigd. De dode k
 
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">Gilgamesj vindt geen achterdeur</h3>
+<figure class="uitkijkje__figure">
+  <img src="/onafgesloten/images/hoofdstuk-11/gilgamesj-tablet.jpg" alt="Voorzijde van een kleitablet met spijkerschrift uit het Gilgamesj-epos." loading="lazy" />
+  <figcaption>Tablet van het Gilgamesj-epos, reproductie gepubliceerd door Stephen Langdon, 1917. Publiek domein.</figcaption>
+</figure>
 <div class="uitkijkje__text">
 
 In het oude Mesopotamische *Gilgamesj-epos* sterft Enkidu en Gilgamesj raakt ontregeld. Hij gaat op zoek naar onsterfelijkheid, maar keert terug zonder de dood te hebben overwonnen of Enkidu terug te krijgen.
@@ -65,6 +69,7 @@ In het oude Mesopotamische *Gilgamesj-epos* sterft Enkidu en Gilgamesj raakt ont
 Dat maakt het verhaal hier scherp: verlies kan iemand veranderen en inzicht kan achteraf ontstaan, maar geen van beide maakt de dood ongedaan. Betekenis na verlies is geen groeiplicht en geen metafysische achterdeur.
 
 </div>
+<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Tablet_of_the_Gilgamish_Epic_%28Obverse%29.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons / Stephen Langdon — publiek domein</a></p>
 </aside>
 
 ## De dode leeft niet voort als antwoord

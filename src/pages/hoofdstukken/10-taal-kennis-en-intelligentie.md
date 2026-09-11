@@ -45,6 +45,10 @@ Een categorie wordt gevaarlijk wanneer haar grens niet meer als grens wordt herk
 
 <aside class="uitkijkje" data-label="Uitkijkje">
 <h3 class="uitkijkje__title">Een toren van taal</h3>
+<figure class="uitkijkje__figure">
+  <img src="/onafgesloten/images/hoofdstuk-10/bruegel-toren-van-babel.jpg" alt="Pieter Bruegel de Oude, De toren van Babel, met een enorme ronde bouwplaats vol arbeiders en steigers." loading="lazy" />
+  <figcaption>Pieter Bruegel de Oude, De toren van Babel, 1563. Kunsthistorisches Museum Wien. Publiek domein.</figcaption>
+</figure>
 <div class="uitkijkje__text">
 
 Bruegels *Toren van Babel* toont een enorme bouwplaats: verdiepingen, steigers, arbeiders en materiaalstromen moeten op grote schaal op elkaar worden afgestemd. In het verhaal waarnaar het schilderij verwijst valt juist die gedeelde taal uiteen en stokt de coördinatie.
@@ -52,6 +56,7 @@ Bruegels *Toren van Babel* toont een enorme bouwplaats: verdiepingen, steigers, 
 Een kennissysteem kan net zo indrukwekkend ordenen en classificeren, en toch slecht merken wanneer mensen, feiten of gevolgen niet meer in zijn begrippen passen. Dan is een route nodig waarop afwijkingen de taal en het systeem zelf kunnen corrigeren.
 
 </div>
+<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — reproductie en rechteninformatie</a></p>
 </aside>
 
 ## Waarheid zonder bezit

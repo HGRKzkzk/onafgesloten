@@ -34,6 +34,10 @@ Een toepassing die alleen bevestiging kan vinden, toetst niets.
 
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">De koe kijkt niet terug als beleidsmodel</h3>
+<figure class="uitkijkje__figure">
+  <img src="/onafgesloten/images/hoofdstuk-14/potter-de-stier.jpg" alt="Paulus Potter, De Stier, een monumentaal rund in een landschap." loading="lazy" />
+  <figcaption>Paulus Potter, De Stier, 1647. Mauritshuis. Publiek domein.</figcaption>
+</figure>
 <div class="uitkijkje__text">
 
 Paulus Potter maakte van een rund een monumentaal onderwerp, op een schaal die in zijn tijd eerder voor vorsten en historieschilderkunst was gereserveerd. Dat maakt het dier niet automatisch vrij of gekend. Maar het verschuift wel de blik: het productiedier wordt opnieuw een aanwezig lichaam in een landschap.
@@ -41,6 +45,7 @@ Paulus Potter maakte van een rund een monumentaal onderwerp, op een schaal die i
 Voor een toetsgeval is dat een goede herinnering: begin niet bij “de koe” als categorie, maar bij het concrete dier waarvoor omstandigheden werkelijk verschil maken.
 
 </div>
+<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Paulus_Potter_-_The_Bull_-_136_-_Mauritshuis.jpg" target="_blank" rel="noopener noreferrer">Mauritshuis via Wikimedia Commons — publiek domein</a></p>
 </aside>
 
 Stel een melkkoe leeft in een bedrijf waar voeding, hygiëne en medische zorg voldoende zijn om haar gezond en productief te houden. Zij kan nauwelijks naar buiten, heeft weinig mogelijkheid om afstand of nabijheid te kiezen en wordt van haar kalf gescheiden. Er is geen doelbewuste mishandeling. De boer houdt zich aan de regels, zorgt naar eigen inzicht behoorlijk en is voor zijn inkomen afhankelijk van het bedrijf.

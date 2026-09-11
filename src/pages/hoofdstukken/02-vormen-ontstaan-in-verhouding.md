@@ -108,7 +108,7 @@ Het zelf is een plaats waar ontvangen bepaaldheid gedeeltelijk tot antwoord kan 
 <aside class="uitkijkje uitkijkje--beeld" data-label="Even opzij">
 <p class="uitkijkje__label">Even opzij</p>
 <figure class="uitkijkje__figure">
-  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Mary%20Cassatt%2C%20Mother%20and%20Child%2C%20c.%201905%2C%20NGA%2046573.jpg" alt="Mary Cassatt, Mother and Child" loading="lazy" />
+  <img src="/onafgesloten/images/hoofdstuk-02/cassatt-mother-child.jpg" alt="Mary Cassatt, Mother and Child" loading="lazy" />
   <figcaption>Mary Cassatt, <em>Mother and Child</em>, ca. 1905. National Gallery of Art. Publiek domein.</figcaption>
 </figure>
 <h3 class="uitkijkje__title">Gedragen worden is geen bijzaak</h3>

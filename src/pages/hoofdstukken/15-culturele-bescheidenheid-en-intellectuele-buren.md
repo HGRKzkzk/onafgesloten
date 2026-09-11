@@ -66,6 +66,10 @@ Culturele bescheidenheid betekent dus niet dat verschillen verdwijnen, maar dat 
 
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">Op de brug boven de Hao</h3>
+<figure class="uitkijkje__figure">
+  <img src="/onafgesloten/images/hoofdstuk-15/zhou-pleasures-of-fishes.jpg" alt="Zhou Dongqing, The Pleasures of Fishes, een Chinese handrol met vissen in water." loading="lazy" />
+  <figcaption>Zhou Dongqing, The Pleasures of Fishes, 1291, Yuan-dynastie. Publiek domein.</figcaption>
+</figure>
 <div class="uitkijkje__text">
 
 In een passage uit de *Zhuangzi* lopen Zhuangzi en Huizi over een brug boven de rivier Hao. Zhuangzi ziet vissen vrij rondzwemmen en zegt dat zij plezier hebben. Huizi vraagt hoe hij dat kan weten: hij is zelf geen vis.
@@ -73,7 +77,7 @@ In een passage uit de *Zhuangzi* lopen Zhuangzi en Huizi over een brug boven de 
 Zhuangzi draait de vraag terug. Huizi is Zhuangzi niet, hoe kan híj dan weten wat Zhuangzi weet? Het gesprek wordt niet opgelost doordat één van beiden toegang krijgt tot het perspectief van de ander. Ze blijven spreken vanaf verschillende plaatsen.
 
 </div>
-<p class="uitkijkje__source"><a href="https://ctext.org/zhuangzi/floods-of-autumn" target="_blank" rel="noopener noreferrer">Chinese Text Project — <em>Zhuangzi</em>, “The Floods of Autumn”</a></p>
+<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Zhou_Dongqing_1291_Pleasure_of_fishes_DP212840_CRD.jpg" target="_blank" rel="noopener noreferrer">The Metropolitan Museum of Art via Wikimedia Commons — publiek domein</a> · <a href="https://ctext.org/zhuangzi/floods-of-autumn" target="_blank" rel="noopener noreferrer">Chinese Text Project — Zhuangzi, The Floods of Autumn</a></p>
 </aside>
 
 ## Bescheidenheid is geen relativisme

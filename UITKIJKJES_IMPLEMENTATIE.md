@@ -54,7 +54,8 @@ Geen frontmatter-array en geen MDX-component nodig. De plek van het uitkijkje bl
 ## 4. Beeldregels
 
 - gebruik alleen beeld met controleerbare hergebruikstatus;
-- lokale opslag onder `public/images/hoofdstuk-NN/` heeft de voorkeur;
+- het beeld dat op de site wordt gerenderd staat lokaal onder `public/images/hoofdstuk-NN/`;
+- een externe beeld- of collectiepagina blijft alleen als controleerbare bron- en rechtenlink staan, niet als `<img src>`;
 - gebruik beschrijvende bestandsnamen;
 - geef iedere afbeelding een bruikbare `alt`-tekst;
 - maker, titel, jaar, bron en licentie moeten traceerbaar zijn;
@@ -111,11 +112,12 @@ Voor merge:
 
 1. is de afbeelding werkelijk sterk genoeg om de onderbreking te dragen;
 2. is de bron en rechtenstatus controleerbaar;
-3. is de tekst korter dan de hoofdtekst eromheen vraagt;
-4. voegt de tekst geen tweede argument toe;
-5. verschilt het beeld voldoende van naburige uitkijkjes;
-6. is het cultureel herkenbaar of, wanneer onbekend, onmiddellijk visueel leesbaar;
-7. kan het geheel weg zonder argumentatief verlies.
+3. staat het gerenderde beeld lokaal en blijft de externe URL alleen als bronverwijzing bestaan;
+4. is de tekst korter dan de hoofdtekst eromheen vraagt;
+5. voegt de tekst geen tweede argument toe;
+6. verschilt het beeld voldoende van naburige uitkijkjes;
+7. is het cultureel herkenbaar of, wanneer onbekend, onmiddellijk visueel leesbaar;
+8. kan het geheel weg zonder argumentatief verlies.
 
 ## 10. Definition of done
 
@@ -123,6 +125,8 @@ De visuele laag is op orde wanneer:
 
 - geen publiek uitkijkje uitsluitend uit tekst bestaat;
 - ieder uitkijkje een daadwerkelijk zichtbare afbeelding heeft;
+- ieder gerenderd beeld lokaal onder `public/images/hoofdstuk-NN/` staat;
+- geen uitkijkje voor rendering afhankelijk is van een externe beeldhost;
 - bron en rechtenstatus van ieder beeld vastliggen;
 - de uitkijkjesteksten kort en niet-docerend zijn;
 - lange hoofdstukken voldoende visueel ademen;

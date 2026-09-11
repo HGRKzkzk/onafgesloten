@@ -82,7 +82,7 @@ Nieuwsgierigheid is een andere mogelijkheid: het nog-niet-gekende kan aandacht t
 <p class="uitkijkje__label">Luchtgat</p>
 <h3 class="uitkijkje__title">Nieuwsgierigheid heeft slechte routeplanning</h3>
 <figure class="uitkijkje__figure">
-  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Down%20the%20Rabbit%20Hole.png" alt="John Tenniel, Alice volgt het Witte Konijn naar het konijnenhol" loading="lazy" />
+  <img src="/onafgesloten/images/hoofdstuk-04/alice-rabbit-hole.png" alt="John Tenniel, Alice volgt het Witte Konijn naar het konijnenhol" loading="lazy" />
 </figure>
 <div class="uitkijkje__text">
 

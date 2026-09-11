@@ -53,7 +53,7 @@ We zijn werkelijk iemand, maar niet uitsluitend uit onszelf.
 
   <figure class="uitkijkje__figure">
     <img
-      src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/45000/45837/ISS024-E-014580_lrg.jpg?crop=faces%2Cfocalpoint&fit=clip&h=960&w=1440"
+      src="/onafgesloten/images/hoofdstuk-01/hurricane-igor.jpg"
       alt="Hurricane Igor gezien vanuit het internationale ruimtestation: een spiraal van wolken rond een duidelijk oog boven de Atlantische Oceaan."
       loading="lazy"
     />
@@ -118,7 +118,7 @@ Daarom kunnen we vorm voorlopig omschrijven als **gedragen verschil**: er moet v
 
   <figure class="uitkijkje__figure">
     <img
-      src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Jim_Henson%2C_creator%2C_The_Muppets_-full.jpg"
+      src="/onafgesloten/images/hoofdstuk-01/jim-henson-muppets.jpg"
       alt="Jim Henson tussen verschillende Muppets in een portret uit 1979."
       loading="lazy"
     />
@@ -170,7 +170,7 @@ Voortbestaan vertelt ons dat een vorm op de een of andere manier wordt gedragen.
 
   <figure class="uitkijkje__figure">
     <img
-      src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Tree_snag_%289f1eddb8679f45a9885aa0484b25f816%29.JPG"
+      src="/onafgesloten/images/hoofdstuk-01/staande-dode-boom.jpg"
       alt="Een staande dode boom in Mount Rainier National Park."
       loading="lazy"
     />
