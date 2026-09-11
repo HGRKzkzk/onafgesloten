@@ -84,6 +84,8 @@ Tot hier is de inzet grotendeels beschrijvend. Levende vormen hebben grenzen, ge
 
 De normatieve stap begint wanneer wij kiezen dat voelende en antwoordende vormen niet zonder voldoende rechtvaardiging mogen worden opgebruikt of van basale voorwaarden voor herstel en antwoord worden beroofd.
 
+Vanaf hier hebben latere normatieve uitspraken een andere status dan de beschrijvende kern. Als verderop staat dat macht corrigeerbaar moet zijn of dat geen actor vanzelf het recht krijgt de antwoordruimte van een ander op te gebruiken, volgt dat niet uit het enkele feit dat vormen relationeel of onaf zijn. Het zijn consequenties binnen deze gekozen ethische inzet. Wie die inzet afwijst, is daarmee niet logisch weerlegd; het geschil ligt dan bij de norm zelf.
+
 De volgende hoofdstukken werken die keuze verder uit als vrijheid, <span class="begrip" data-term="antwoordruimte">antwoordruimte</span> en <span class="begrip" data-term="wederkerigheid">wederkerigheid</span>.
 
 Voor gezondheid is voorlopig genoeg:

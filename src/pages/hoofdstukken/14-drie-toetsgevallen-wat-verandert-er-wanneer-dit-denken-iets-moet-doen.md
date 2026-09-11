@@ -20,6 +20,8 @@ Een begrippenkader verdient zijn plaats niet doordat het overal woorden voor hee
 
 Daarom volgen drie gevallen. In de eerste twee ontbreken eenvoudige schurken. Juist daar moet blijken of begrippen als draagroute, sluitingsmacht en corrigeerbaarheid meer doen dan een bekende morele intuïtie hernoemen. Het derde geval is anders: daar moet dit denken kunnen merken dat het niets toe te voegen heeft.
 
+Dit kader levert geen drempelwaarden of zelfstandig handelingsprotocol. Het helpt lokaliseren welke feiten, lasten en machtsverhoudingen nader onderzocht moeten worden; de inhoudelijke beslissing blijft afhankelijk van domeinkennis, recht, gevolgen en betrokkenen.
+
 Drie vragen zijn genoeg:
 
 1. Wat staat er concreet op het spel?
