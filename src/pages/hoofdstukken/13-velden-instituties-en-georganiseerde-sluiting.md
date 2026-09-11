@@ -71,9 +71,7 @@ Een gezonde institutie heeft klauwen én open zenuwen. Zij moet kunnen handelen,
 
 Veel systemen zijn zeer responsief in technische zin: zij registreren elk signaal, verzamelen data, beantwoorden berichten en verfijnen voorspellingen. Toch kunnen zij normatief volledig gesloten blijven wanneer geen enkel signaal hun koers mag veranderen. Zo'n systeem absorbeert iedere kritiek en blijft daarna hetzelfde doen: niet open, maar slim gesloten.
 
-Corrigeerbaarheid laat ook afwijzing toe. Een institutie moet ongegronde claims kunnen afwijzen, belangen tegen elkaar afwegen en grenzen handhaven. Die afwijzing blijft zelf aan redenen, bewijs en toetsing gebonden.
-
-**Tegenspraak mag nooit op zichzelf het bewijs zijn dat iemand niet kan antwoorden.**
+Corrigeerbaarheid laat ook afwijzing toe. Een institutie moet ongegronde claims kunnen afwijzen, belangen tegen elkaar afwegen en grenzen handhaven. Die afwijzing blijft zelf aan redenen, bewijs en toetsing gebonden. Dezelfde grens die eerder voor vrijheid gold, geldt hier voor het correctiekanaal zelf: tegenspraak mag nooit op zichzelf het bewijs zijn dat iemand niet kan antwoorden.
 
 Wie een besluit bestrijdt, kan ongelijk hebben. Maar de bestrijding zelf mag niet worden omgezet in bewijs van irrationaliteit, onbetrouwbaarheid of gebrek aan medewerking. Anders verandert het correctiekanaal in een extra sluitingsmechanisme.
 

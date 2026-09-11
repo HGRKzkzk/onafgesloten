@@ -94,7 +94,7 @@ Voor ieder centraal begrip zijn drie vragen genoeg:
 
 Wanneer het antwoord structureel driemaal nee is, hoort het begrip niet beschermd maar afgebouwd te worden.
 
-Dat geldt ook voor geliefde formuleringen. Een mooie zin kan richting geven, maar schoonheid is geen argument voor canonieke status. De kern in twintig zinnen is daarom geen catechismus, maar een momentopname.
+Dat geldt ook voor geliefde formuleringen. Een mooie zin kan richting geven, maar schoonheid is geen argument voor canonieke status. De kern in tweeëntwintig zinnen is daarom geen catechismus, maar een momentopname.
 
 ## Ook samenhang kan kunstmatig worden
 

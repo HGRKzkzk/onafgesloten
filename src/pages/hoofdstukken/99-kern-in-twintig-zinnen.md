@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/ChapterLayout.astro
 order: 99
-title: "De kern in twintig zinnen"
+title: "De kern in tweeëntwintig zinnen"
 slug: "99-kern-in-twintig-zinnen"
 status: "appendix"
 source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
@@ -106,10 +106,22 @@ lastSyncCheck: "2026-09-11"
 19. **Vorming mag richting geven zonder bestemming op te leggen.**  
     Een gezond ecosysteem bewaart ruimte voor verschil, correctie, vertrek en nieuwe vorming.
 
-<small><a href="../13-velden-instituties-en-georganiseerde-sluiting/">12 · Velden, instituties en georganiseerde sluiting</a></small>
+<small><a href="../13-velden-instituties-en-georganiseerde-sluiting/">13 · Velden, instituties en georganiseerde sluiting</a></small>
+
+<!-- laag: instrumenteel/normatief -->
+20. **Voorspelkracht geeft een systeem gewicht, geen onweerlegbaarheid.**  
+    Een statistisch patroon maakt iets relevant voor onderzoek; het bewijst niet dat deze persoon dat patroon is.
+
+<small><a href="../14-drie-toetsgevallen-wat-verandert-er-wanneer-dit-denken-iets-moet-doen/">14 · Vier toetsgevallen</a></small>
+
+<!-- laag: methodologisch/normatief -->
+21. **Een maatstaf hoeft niet perspectiefloos te zijn om bindend te kunnen worden.**  
+    Zij moet wel haar positie, gevolgen en corrigeerbaarheid kunnen verantwoorden.
+
+<small><a href="../15-culturele-bescheidenheid-en-intellectuele-buren/">15 · Culturele bescheidenheid en intellectuele buren</a></small>
 
 <!-- laag: instrumenteel/methodologisch -->
-20. **Ook dit project blijft onaf.**  
+22. **Ook dit project blijft onaf.**  
     Zijn begrippen zijn zoeklichten onder correctieplicht.
 
-<small><a href="../16-zelfbegrenzing-ook-dit-denken-blijft-onaf/">15 · Zelfbegrenzing: ook dit denken blijft onaf</a></small>
+<small><a href="../16-zelfbegrenzing-ook-dit-denken-blijft-onaf/">16 · Zelfbegrenzing: ook dit denken blijft onaf</a></small>
