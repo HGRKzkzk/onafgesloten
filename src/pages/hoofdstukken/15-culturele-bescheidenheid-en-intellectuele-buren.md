@@ -11,7 +11,7 @@ source:
 divergence:
   status: "substantieel-herwerkt"
   note: "Integrale compressie: hoofdstuk richt zich uitsluitend op externe verwantschap, vertaling en verschil; interne zelfafbouw staat in het volgende hoofdstuk."
-lastSyncCheck: "2026-09-05"
+lastSyncCheck: "2026-09-11"
 ---
 
 Dit project is in Nederlandse en Europese taal ontstaan. Het spreekt met woorden als ontologie, fenomenologie, autonomie en dialectiek, en beweegt in de nabijheid van procesfilosofie, Spinoza, Buber, enactivisme, systeemdenken, pragmatisme en kritische theorie.
@@ -30,7 +30,7 @@ Om vergelijkingen zuiver te houden, onderscheid ik vier relaties.
 
 **Genealogie** betekent aantoonbare invloed op het ontstaan van dit project. Dat is een historische claim en vraagt bronnen.
 
-**Resonantie** betekent dat twee denkwijzen iets vergelijkbaars zichtbaar maken zonder dat de ene uit de andere voortkomt. Boeddhistische afhankelijke wording, Daoïstische aandacht voor beweeglijkheid of Ubuntu-gerelateerde relationele persoonsopvattingen kunnen bijvoorbeeld resoneren met dit project. Dat bewijst nog niets over dit project.
+**Resonantie** betekent dat twee denkwijzen iets vergelijkbaars zichtbaar maken zonder dat de ene uit de andere voortkomt. Boeddhistische afhankelijke wording, klassieke Chinese perspectieven op veranderlijkheid of Ubuntu-gerelateerde relationele persoonsopvattingen kunnen bijvoorbeeld resoneren met dit project. Dat bewijst nog niets over dit project.
 
 **Verschil** begint waar een gesprekspartner niet netjes past. Misschien blijkt onze tegenstelling tussen autonomie en afhankelijkheid verkeerd aangesneden. Misschien is onze scheiding tussen ontologie en ethiek elders minder vanzelfsprekend. Misschien maakt het woord *vorm* iets zichtbaar en tegelijk iets anders onmogelijk.
 
@@ -85,9 +85,33 @@ Dit project kiest expliciet voor wederkerigheid, bescherming van basale antwoord
 
 Culturele bescheidenheid vraagt geen stilzwijgen. Zij vraagt dat de ander niet eerst op onze maat hoeft te worden gemaakt voordat diens tegenspraak verstaanbaar wordt.
 
+## Waar de vergelijking werkelijk wringt: Zhuangzi
+
+Om die eis serieus te nemen is een lijst met verwantschappen niet genoeg. Ik neem daarom één gesprekspartner preciezer: niet “het Daoïsme” als geheel en ook niet “de Chinese filosofie”, maar de *Zhuangzi*, vooral waar die tekst speelt met perspectief, taal en het maken van onderscheidingen.
+
+Dat gesprek begint met herkenning. Ook de *Zhuangzi* wantrouwt de neiging om een plaatselijk perspectief tot absoluut gezichtspunt te verheffen. Oordelen ontstaan niet vanuit nergens. Mensen leren wegen, woorden en onderscheidingen binnen concrete levensvormen en bewegen vervolgens vanuit die gevormde positie verder.
+
+Maar precies daar begint de wrijving.
+
+Onafgesloten Vorm gebruikt zelf stevige onderscheidingen. Het spreekt over afwendbaar en onafwendbaar lijden, antwoordruimte en sluitingsmacht, passende en disproportionele begrenzing. Zulke woorden kunnen gaan klinken alsof zij buiten iedere geschiedenis of positie staan en alleen nog hoeven te worden toegepast.
+
+De *Zhuangzi* maakt dat moeilijker. Als ook onze maatstaven ontstaan binnen aangeleerde manieren van onderscheiden, vanuit welk gezichtspunt mag ik dan zeggen dat een andere verhouding te gesloten is? Waarom zou mijn taal van antwoordruimte niet gewoon één lokale weg naast andere zijn?
+
+Een makkelijke uitweg zou zijn dat dan alles relatief wordt. Maar ook dat sluit te snel. Perspectiviteit betekent niet dat iedere keuze even goed wordt of dat handelen onmogelijk wordt. We blijven vanuit concrete posities onderscheid maken, gevolgen ervaren, van anderen leren en onze weg aanpassen.
+
+Voor dit project verandert daarmee de status van zijn normatieve taal. Antwoordruimte is geen maatstaf uit een perspectiefloze ruimte. Het is een gekozen en beargumenteerde manier om te kijken naar situaties waarin vormen elkaar raken en macht ongelijk verdeeld is.
+
+Dat maakt de norm niet vrijblijvend. Wanneer één actor zoveel macht heeft dat diens ordening bepaalt of anderen nog kunnen spreken, vertrekken, herstellen of als levensvatbare vorm blijven bestaan, raakt die ordening niet alleen één mening naast andere. Zij beïnvloedt de voorwaarden waaronder andere perspectieven überhaupt nog kunnen verschijnen.
+
+> **Een maatstaf hoeft niet perspectiefloos te zijn om bindend te kunnen worden; zij moet wel haar positie, gevolgen en corrigeerbaarheid kunnen verantwoorden.**
+
+Dat is een aanscherping die ik aan dit gesprek overhoud. Wanneer ik `antwoordruimte`, `draagkracht` of `sluitingsmacht` gebruik, moet ik kunnen zeggen vanuit welke positie ik kijk, wiens gevolgen ik meetel en welke ervaring of kennis mijn oordeel kan corrigeren.
+
+De vergelijking laat dus restverschil over. De *Zhuangzi* geeft dit project geen fundament en Onafgesloten Vorm lost de *Zhuangzi* niet op in corrigeerbare macht. Wel maakt de ontmoeting één risico scherper zichtbaar: ook taal die openheid wil beschermen kan zichzelf ongemerkt tot laatste woord maken.
+
 ## Intellectuele buren
 
-Enkele relaties kunnen voorlopig zo worden aangeduid:
+Andere relaties blijven voorlopig kaarten van gesprekken, geen uitgewerkte vergelijkingen:
 
 - procesdenken: verwantschap in het wantrouwen tegen statische substanties;
 - Merleau-Ponty en enactivisme: belichaamde en levende verhouding tot omgeving;
@@ -96,10 +120,9 @@ Enkele relaties kunnen voorlopig zo worden aangeduid:
 - pragmatisme: begrippen moeten zich in gevolgen bewijzen;
 - kritische en feministische theorie: macht, positionaliteit en afhankelijkheid;
 - boeddhistische afhankelijkheidsanalyses: mogelijke resonantie rond niet-zelfstandigheid en wording, binnen eigen soteriologische en karmische kaders;
-- klassieke Chinese en Daoïstische filosofieën: mogelijke resonantie rond beweeglijkheid en situatieve responsiviteit, zonder *dao* tot een voorloper van dit project te maken;
 - Africana en Ubuntu-gerelateerde filosofieën: mogelijke resonantie rond relationele persoonsvorming, zonder van “Ubuntu” één Afrikaanse ontologie te maken.
 
-Deze lijst is geen stamboom en ook geen erelijst. Zij is een kaart van gesprekken die nader onderzoek kunnen verdienen.
+Deze lijst is geen stamboom en ook geen erelijst. Zij markeert vooral waar nog geen voldoende diep gesprek heeft plaatsgevonden.
 
 De toets blijft telkens dezelfde: **wat is werkelijk geleend, wat lijkt slechts verwant, waar ontstaat frictie, en wat blijft daarna nog als eigen stap over?**
 
