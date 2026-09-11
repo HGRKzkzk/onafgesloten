@@ -4,6 +4,8 @@
 
 **Zelfstandige werkversie — augustus 2026 · v4.1 · redactioneel herzien**
 
+> **Archiefsnapshot.** Dit bestand bewaart de zelfstandige v4.1-werkversie uit augustus 2026 en is niet langer de actuele publicatietekst. Voor de huidige tekst is `src/pages/hoofdstukken/` leidend. Sinds deze snapshot zijn hoofdstukstructuur, begrippen en normatieve formuleringen verder herzien; de hieronder opgenomen cosmopsychische horizon maakt geen deel meer uit van de huidige publicatie.
+
 > **Wat verschijnt, verschijnt onaf.**
 
 ---
