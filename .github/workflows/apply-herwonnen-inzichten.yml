@@ -1,0 +1,137 @@
+name: Apply herwonnen inzichten
+
+on:
+  push:
+    branches:
+      - herwin-veldmacht-draaglast
+    paths:
+      - .github/workflows/apply-herwonnen-inzichten.yml
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: herwin-veldmacht-draaglast
+          fetch-depth: 0
+
+      - name: Pas hoofdtekst, academische verdieping en Kern aan
+        shell: python
+        run: |
+          from pathlib import Path
+
+          def replace_once(path, old, new):
+              p = Path(path)
+              text = p.read_text(encoding="utf-8")
+              count = text.count(old)
+              if count != 1:
+                  raise SystemExit(f"{path}: verwacht 1 match, vond {count} voor {old[:80]!r}")
+              p.write_text(text.replace(old, new, 1), encoding="utf-8")
+
+          main5 = "src/pages/hoofdstukken/05-draagkracht-grens-en-passende-sluiting.md"
+          replace_once(
+              main5,
+              '  note: "Publieke uitbreiding met scherpere uitwerking van draagkracht, antwoordruimte, paternalistische interventie, temporaliteit, asymmetrie en passende sluiting."',
+              '  note: "Publieke uitbreiding met scherpere uitwerking van draagkracht, antwoordruimte, paternalistische interventie, temporaliteit, asymmetrie, opgeëiste openheid, vrijwillig dragen en passende sluiting."'
+          )
+          replace_once(
+              main5,
+              "Er bestaat een verleiding om onafgeslotenheid te verwarren met permanente beschikbaarheid. Alsof een goede vorm altijd bereikbaar, bespreekbaar en veranderbaar moet blijven. Dat zou zelf een vorm van dwang worden.\n\nEen mens mag slapen terwijl een conflict nog niet opgelost is.",
+              "Er bestaat een verleiding om onafgeslotenheid te verwarren met permanente beschikbaarheid. Alsof een goede vorm altijd bereikbaar, bespreekbaar en veranderbaar moet blijven. Dat zou zelf een vorm van dwang worden.\n\nDie dwang hoeft niet de vorm van een verbod te hebben. Macht kan ook eisen dat iemand voortdurend open blijft: flexibel, bereikbaar, aanpasbaar, beschikbaar voor nieuwe taken of telkens opnieuw bereid tot gesprek. Dan wordt openheid niet beschermd maar opgeëist.\n\nEen werknemer kan formeel veel keuzevrijheid hebben en toch nauwelijks kunnen weigeren wanneer *wendbaarheid* betekent dat iedere nieuwe onzekerheid bij dezelfde mensen terechtkomt. Een mantelzorger kan om betrokkenheid worden gewaardeerd terwijl de omgeving diens bereikbaarheid stilzwijgend als vaste voorziening gaat behandelen.\n\n> **Ook opgeëiste openheid kan sluiten: wie permanent beschikbaar moet blijven, verliest ruimte om zelf te bepalen wanneer iets binnen mag komen.**\n\nDe vraag is dus niet alleen wie mag afsluiten, maar ook wie van wie voortdurende openheid mag verlangen.\n\nEen mens mag slapen terwijl een conflict nog niet opgelost is."
+          )
+          replace_once(
+              main5,
+              "Grote draagkracht maakt iemand niet vanzelf beschikbaar voor andermans belasting.\n\nBij sluitingsmacht verschuift de vraag.",
+              "Grote draagkracht maakt iemand niet vanzelf beschikbaar voor andermans belasting.\n\nDat sluit vrijwillig dragen niet uit. Iemand kan goede redenen hebben om tijdelijk meer te dragen dan eerlijk verdeeld is, juist omdat anders een ander ernstig wordt geraakt. Een ouder blijft wakker bij een ziek kind. Een collega neemt in een noodsituatie werk over. Iemand springt het water in.\n\nHet verschil zit niet tussen dragen en niet dragen, maar tussen een eigen beweging naar dragen en draagkracht die door een ander alvast wordt ingeboekt. Wat vrijwillig en uitzonderlijk verdedigbaar kan zijn, verandert van karakter zodra een relatie of systeem erop gaat rekenen.\n\n> **Dat niemand aanspraak heeft op mijn draagkracht, betekent niet dat ik geen reden kan hebben haar voor een ander in te zetten.**\n\nDaarom volgt na uitzonderlijk dragen opnieuw de veldvraag: waarom moest één actor zoveel dragen, en wat moet veranderen zodat bereidheid geen structurele voorziening wordt?\n\nBij sluitingsmacht verschuift de vraag."
+          )
+
+          acad5 = "src/academisch/05-draagkracht-grens-en-passende-sluiting.md"
+          replace_once(
+              acad5,
+              "Deze literatuur bewijst niet dat alle sociale of morele problemen in termen van draagkracht moeten worden begrepen. Zij ondersteunt alleen de beperktere gedachte dat belastbaarheid dynamisch, contextafhankelijk en historisch is.\n\n## Tegenlicht",
+              "Deze literatuur bewijst niet dat alle sociale of morele problemen in termen van draagkracht moeten worden begrepen. Zij ondersteunt alleen de beperktere gedachte dat belastbaarheid dynamisch, contextafhankelijk en historisch is.\n\nEen andere empirische lijn is relevant voor **opgeëiste openheid**. Mazmanian, Orlikowski en Yates beschrijven bij kenniswerkers een *autonomy paradox*: mobiele bereikbaarheid kan individueel flexibiliteit en controle geven, terwijl dezelfde praktijk collectieve verwachtingen van voortdurende bereikbaarheid versterkt en de feitelijke mogelijkheid om los te koppelen verkleint. Dat maakt flexibiliteit niet op zichzelf problematisch. Het laat wel zien hoe een mogelijkheid tot openheid kan omslaan in een sociale verwachting om open te blijven.\n\nOok het Job Demands-Resources-model is hier relevant. Dat model behandelt belasting niet als een eigenschap van de werknemer alleen, maar als verhouding tussen taakeisen en beschikbare hulpbronnen. Het ondersteunt daarmee niet de normatieve conclusies van dit hoofdstuk, maar wel de bescheiden empirische gedachte dat dezelfde eis een andere uitwerking kan hebben afhankelijk van autonomie, steun, herstelmogelijkheden en andere hulpbronnen.\n\n## Tegenlicht"
+          )
+          replace_once(
+              acad5,
+              "Een draagplicht die de toekomstige antwoordruimte van de drager uitput of vernietigt, kan zichzelf tegenspreken.\n\n## Eigen stap",
+              "Een draagplicht die de toekomstige antwoordruimte van de drager uitput of vernietigt, kan zichzelf tegenspreken.\n\nDaarmee blijft een vrijwillige onevenredige last mogelijk. Iemand kan in een acute situatie bewust meer dragen dan eerlijk verdeeld is om ernstige schade aan een ander te voorkomen. Analytisch is vooral van belang dat vrijwilligheid en uitzonderlijkheid niet achteraf worden omgezet in beschikbaarheid. Zodra een relatie of institutie zulke offers verwacht, plant of structureel nodig heeft, verandert de aard van het dragen: wat als solidariteit begon kan dan een draagroute worden waarmee het veld zijn eigen tekort bij dezelfde actor neerlegt.\n\nEen vierde risico is daarom dat macht uitsluitend als **afsluiting** wordt gelezen. Macht kan ook openheid opeisen: flexibiliteit, bereikbaarheid, voortdurende aanpasbaarheid of emotionele beschikbaarheid. De actor mag formeel veel kanten op, maar verliest feitelijk de mogelijkheid om niet beschikbaar te zijn. In termen van dit hoofdstuk is dat geen tegenstelling met sluitingsmacht. De opgeëiste openheid kan juist antwoordruimte sluiten doordat de actor niet langer zelf voldoende over timing, grens en herstel beschikt.\n\n## Eigen stap"
+          )
+          replace_once(
+              acad5,
+              "- C. S. Holling, “Resilience and Stability of Ecological Systems” (1973), *Annual Review of Ecology and Systematics*.",
+              "- C. S. Holling, “Resilience and Stability of Ecological Systems” (1973), *Annual Review of Ecology and Systematics*.\n- Melissa Mazmanian, Wanda J. Orlikowski & JoAnne Yates, “The Autonomy Paradox: The Implications of Mobile Email Devices for Knowledge Professionals” (2013), *Organization Science* 24(5): 1337–1357.\n- Arnold B. Bakker & Evangelia Demerouti, “The Job Demands-Resources Model: State of the Art” (2007), *Journal of Managerial Psychology* 22(3): 309–328."
+          )
+
+          main13 = "src/pages/hoofdstukken/13-velden-instituties-en-georganiseerde-sluiting.md"
+          replace_once(
+              main13,
+              '  note: "Publieke uitbreiding met scherpere uitwerking van veldmatig kijken, institutionele draagroutes, onafhankelijke correctie, asymmetrie, georganiseerde sluiting en corrigeerbare macht."',
+              '  note: "Publieke uitbreiding met scherpere uitwerking van veldmatig kijken, institutionele draagroutes, tussenposities zonder voldoende bevoegdheid, diagnostische schaalverschuiving, onafhankelijke correctie, asymmetrie, georganiseerde sluiting en corrigeerbare macht."'
+          )
+          replace_once(
+              main13,
+              "Wie dagelijks uitzonderingen opvangt, ziet vaak eerder waar beleid en werkelijkheid uit elkaar lopen. Uitvoerders zijn daarmee niet automatisch normatief beslissend, maar hun ervaring mag niet worden gereduceerd tot ruis rond de formele regel: een instituut dat zijn eigen uitvoerders alleen als implementatiekanaal ziet, verliest een belangrijk zintuig.\n\n## Wederkerigheid onder wantrouwen",
+              "Wie dagelijks uitzonderingen opvangt, ziet vaak eerder waar beleid en werkelijkheid uit elkaar lopen. Uitvoerders zijn daarmee niet automatisch normatief beslissend, maar hun ervaring mag niet worden gereduceerd tot ruis rond de formele regel: een instituut dat zijn eigen uitvoerders alleen als implementatiekanaal ziet, verliest een belangrijk zintuig.\n\n## Tussen niveaus zonder voldoende bevoegdheid\n\nEen bijzondere draagroute ontstaat wanneer iemand tussen niveaus komt te staan. Een teamleider vertaalt beleid naar de werkvloer en probeert tegelijk signalen terug te brengen. Een behandelaar vertaalt regels naar een individueel geval. Een medewerker legt een systeem uit aan een burger en legt daarna aan de organisatie uit waarom het systeem in dat geval niet werkt.\n\nZo iemand kan feitelijk verantwoordelijk worden voor de verbinding tussen twee niveaus zonder tijd, mandaat of correctiemacht te hebben om één van beide te veranderen.\n\nDat is meer dan hoge werkdruk. De tussenlaag dempt, vertaalt en repareert verschillen die elders ontstaan. Als dat goed gaat, kan de organisatie juist daardoor denken dat er geen structureel probleem bestaat.\n\n> **Wie spanning tussen niveaus moet opvangen zonder de bevoegdheid om die niveaus te corrigeren, kan het systeem draagbaar houden ten koste van de eigen draagkracht.**\n\nDaarom moet een organisatie niet alleen vragen of de tussenlaag het werk aankan, maar ook of signalen terug kunnen naar het niveau waar de oorzaak ligt.\n\n## Waar moet de diagnose landen?\n\nEen zichtbaar probleem vertelt nog niet op welk niveau het primair zit. Een medewerker kan overbelast raken door eigen keuzes, door een relationeel patroon, door een gebrekkige taakverdeling of door eisen die op een hoger organisatieniveau worden geproduceerd.\n\nDaarom hoort bij veldmatig kijken een eenvoudige proef: **verandert het probleem duurzaam wanneer alleen dit niveau verandert?**\n\nAls begeleiding, training of herstel van één actor helpt terwijl de omstandigheden gelijk blijven, was lokale interventie kennelijk relevant. Als dezelfde frictie terugkeert zolang roosters, bevoegdheden, targets of regels ongewijzigd blijven, moet ook de diagnose opschuiven.\n\n> **Als herstel op één niveau telkens mislukt zolang de voorwaarden erboven gelijk blijven, moet ook de diagnose een niveau opschuiven.**\n\nDat voorkomt twee gemakkelijke fouten. Niet ieder lokaal zichtbaar probleem is een persoonlijk tekort. Maar ook niet ieder individueel probleem is daarmee automatisch bewijs van systeemfalen. De plaats waar schade verschijnt is een aanwijzing, geen einddiagnose.\n\n## Wederkerigheid onder wantrouwen"
+          )
+
+          acad13 = "src/academisch/13-velden-instituties-en-georganiseerde-sluiting.md"
+          replace_once(
+              acad13,
+              "Michael Lipsky's werk over *street-level bureaucracy* is hier relevant omdat het laat zien dat beleid in de praktijk mede vorm krijgt in concrete beslissingen van uitvoerders onder tijdsdruk, schaarste en discretionaire ruimte.\n\nAlbert O. Hirschmans onderscheid",
+              "Michael Lipsky's werk over *street-level bureaucracy* is hier relevant omdat het laat zien dat beleid in de praktijk mede vorm krijgt in concrete beslissingen van uitvoerders onder tijdsdruk, schaarste en discretionaire ruimte.\n\nEen preciezere verwantschap voor de **tussenpositie** ligt in organisatiewetenschap over *boundary spanning*. Tushman en Scanlan onderzochten actoren die informatie over organisatiegrenzen heen verbinden. Balogun beschrijft middenmanagers tijdens verandering als *change intermediaries*: zij vertalen verandering, helpen anderen ermee omgaan en houden tegelijk het dagelijkse werk gaande. Dit zijn geen rechtstreekse equivalenten van de tussenlaag uit de hoofdtekst. Ze ondersteunen wel het analytische punt dat vertalen tussen niveaus eigen werk is, met eigen informatie-eisen, rolconflicten en belasting.\n\nAlbert O. Hirschmans onderscheid"
+          )
+          replace_once(
+              acad13,
+              "De aanwezigheid van bezwaar, klacht of inspraak is bovendien geen volledige maat voor feitelijke toegankelijkheid. Procedurele routes hebben gebruikskosten: tijd, kennis, taal, emotionele belasting en soms financieel risico. Dat maakt het analytisch zinvol om naast de formele mogelijkheid tot correctie ook te vragen wie de kosten van die correctie draagt.\n\n## Tegenlicht",
+              "De aanwezigheid van bezwaar, klacht of inspraak is bovendien geen volledige maat voor feitelijke toegankelijkheid. Procedurele routes hebben gebruikskosten: tijd, kennis, taal, emotionele belasting en soms financieel risico. Dat maakt het analytisch zinvol om naast de formele mogelijkheid tot correctie ook te vragen wie de kosten van die correctie draagt.\n\nOnderzoek naar boundary spanning en change intermediaries ondersteunt daarnaast een beperkte empirische claim: verbinding tussen niveaus gebeurt niet vanzelf. Personen die informatie, betekenis of uitvoering tussen eenheden vertalen kunnen een systeem juist laten functioneren doordat zij discrepanties lokaal opvangen. Dat onderzoek bewijst niet dat zo'n tussenpositie noodzakelijk uitput of dat de oorzaak altijd hoger in de organisatie ligt. Het maakt wel aannemelijk dat vertaalarbeid als afzonderlijke organisatorische functie zichtbaar moet worden gemaakt in plaats van als persoonlijk talent of informele bereidheid te verdwijnen.\n\n## Tegenlicht"
+          )
+          replace_once(
+              acad13,
+              "Een vijfde bezwaar raakt de asymmetrie. De formule dat grotere sluitingsmacht een zwaardere verantwoordingslast draagt kan te gemakkelijk doen alsof de machtigste actor altijd de meeste morele schuld heeft. Dat volgt niet. Macht, schuld en verantwoordelijkheid zijn verschillende assen. Een staat kan bijvoorbeeld legitiem meer sluitingsmacht hebben bij acuut gevaar en toch juist daarom zwaarder worden belast met proportionaliteit, documentatie en externe toetsing.\n\n## Eigen stap",
+              "Een vijfde bezwaar raakt de asymmetrie. De formule dat grotere sluitingsmacht een zwaardere verantwoordingslast draagt kan te gemakkelijk doen alsof de machtigste actor altijd de meeste morele schuld heeft. Dat volgt niet. Macht, schuld en verantwoordelijkheid zijn verschillende assen. Een staat kan bijvoorbeeld legitiem meer sluitingsmacht hebben bij acuut gevaar en toch juist daarom zwaarder worden belast met proportionaliteit, documentatie en externe toetsing.\n\nEen zesde bezwaar treft de **diagnostische schaalverschuiving**. Als een lokale interventie niet duurzaam werkt, volgt daar niet automatisch uit dat de oorzaak op een hoger niveau ligt. De interventie kan verkeerd gekozen zijn, het lokale patroon kan hardnekkig zijn of meerdere niveaus kunnen tegelijk bijdragen. Het opschuiven van de diagnose is daarom een wijziging van hypothese en onderzoeksvraag, geen bewijs van systeemschuld. Juist die terughoudendheid voorkomt dat veldtaal de spiegelbeeldige fout maakt van individualisering.\n\n## Eigen stap"
+          )
+          replace_once(
+              acad13,
+              "De eigen stap van dit hoofdstuk ligt in de combinatie van drie onderscheidingen.",
+              "De eigen stap van dit hoofdstuk ligt in de combinatie van vijf onderscheidingen."
+          )
+          replace_once(
+              acad13,
+              "Ten derde wordt verantwoordelijkheid gekoppeld aan **sluitingsmacht zonder haar met schuld gelijk te stellen**. Waar een actor weinig stem heeft maar sterk afhankelijk is, neemt de rechtvaardigingslast van degene die diens mogelijkheden kan afsluiten toe. Dat kan tijdelijke asymmetrie juist rechtvaardigen: bescherming hoeft geen onmiddellijk wederzijds gesprek te eisen. De corrigeerbaarheid moet dan elders worden georganiseerd, bijvoorbeeld via vertegenwoordiging, onafhankelijke toetsing of later herstel.\n\nDaarmee ontstaat een institutionele escalatielogica: actor → relatie → onafhankelijke derde → instituut. Zij is geen vaste procesvolgorde en kan bij acute schade worden overgeslagen. Haar functie is de bewijslast om te keren: meer ingrijpende sluitingsmacht vraagt meer reden, niet minder.",
+              "Ten derde wordt verantwoordelijkheid gekoppeld aan **sluitingsmacht zonder haar met schuld gelijk te stellen**. Waar een actor weinig stem heeft maar sterk afhankelijk is, neemt de rechtvaardigingslast van degene die diens mogelijkheden kan afsluiten toe. Dat kan tijdelijke asymmetrie juist rechtvaardigen: bescherming hoeft geen onmiddellijk wederzijds gesprek te eisen. De corrigeerbaarheid moet dan elders worden georganiseerd, bijvoorbeeld via vertegenwoordiging, onafhankelijke toetsing of later herstel.\n\nTen vierde wordt de **tussenpositie zonder voldoende bevoegdheid** zichtbaar gemaakt. Een actor kan verbinding, vertaling en demping tussen niveaus feitelijk dragen zonder de tijd, middelen of correctiemacht te hebben die bij die functie horen. Het probleem is dan niet alleen belasting, maar een asymmetrie tussen verantwoordelijkheid voor verbinding en vermogen om de bron van terugkerende spanning te veranderen.\n\nTen vijfde wordt **interventieschaal onderscheiden van diagnoseschaal**. De escalatielogica actor → relatie → onafhankelijke derde → instituut gaat over hoeveel en welke interventiemacht wordt ingezet. Diagnostische schaalverschuiving gaat over waar de hypothese over het probleem moet worden gelegd. Als een lokale aanpak telkens faalt onder gelijkblijvende hogere voorwaarden, is dat reden om de diagnose te verbreden. Het is geen automatische reden om individuele factoren weg te schrijven.\n\nDeze twee bewegingen kunnen uiteenlopen. Een lokale en weinig ingrijpende interventie kan passend zijn terwijl de primaire diagnose structureel is. Omgekeerd kan institutionele bescherming nodig zijn bij een probleem dat grotendeels lokaal ontstaat wanneer lichtere bescherming onvoldoende beschikbaar is.\n\nDe institutionele escalatielogica is geen vaste procesvolgorde en kan bij acute schade worden overgeslagen. Haar functie is de bewijslast om te keren: meer ingrijpende sluitingsmacht vraagt meer reden, niet minder."
+          )
+          replace_once(
+              acad13,
+              "- Iris Marion Young, *Responsibility for Justice* (2011).",
+              "- Iris Marion Young, *Responsibility for Justice* (2011).\n- Michael L. Tushman & Thomas J. Scanlan, “Boundary Spanning Individuals: Their Role in Information Transfer and Their Antecedents” (1981), *Academy of Management Journal* 24(2): 289–305.\n- Julia Balogun, “From Blaming the Middle to Harnessing its Potential: Creating Change Intermediaries” (2003), *British Journal of Management* 14(1): 69–83."
+          )
+
+          kern = "src/pages/hoofdstukken/99-kern-in-twintig-zinnen.md"
+          replace_once(
+              kern,
+              "7. **Draagkracht laat onafheid bestaan.**  \n   Zij is geen hardheid, maar samenhang die nog kan antwoorden.",
+              "7. **Draagkracht laat onafheid bestaan.**  \n   Zij is geen hardheid, maar samenhang die nog kan antwoorden. Dat vermogen kan vrijwillig worden ingezet, maar geeft een ander geen vanzelfsprekende aanspraak."
+          )
+          replace_once(
+              kern,
+              "9. **Een draagroute laat zien waar spanning, onzekerheid en herstelwerk terechtkomen.**  \n   De plek waar schade zichtbaar wordt is niet noodzakelijk de plek waar de last ontstond of werd verdeeld.",
+              "9. **Een draagroute laat zien waar spanning, onzekerheid en herstelwerk terechtkomen.**  \n   De plek waar schade zichtbaar wordt is niet noodzakelijk de plek waar de last ontstond, werd verdeeld of duurzaam kan worden gecorrigeerd."
+          )
+          replace_once(
+              kern,
+              "18. **Hoe groter de macht om de antwoordvoorwaarden van anderen te bepalen, hoe zwaarder de plicht die macht antwoordbaar te houden.**  \n    Niet iedere machtsconcentratie is sluiting; problematisch wordt zij waar tegenmacht, vertrek, toetreding of correctie feitelijk onwerkzaam worden.",
+              "18. **Hoe groter de macht om de antwoordvoorwaarden van anderen te bepalen, hoe zwaarder de plicht die macht antwoordbaar te houden.**  \n    Niet iedere machtsconcentratie is sluiting; problematisch wordt zij waar tegenmacht, vertrek, toetreding of correctie feitelijk onwerkzaam worden, of waar de openheid van anderen als permanente beschikbaarheid wordt opgeëist."
+          )
+
+      - name: Commit wijzigingen en verwijder tijdelijke workflow
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm .github/workflows/apply-herwonnen-inzichten.yml
+          git add -A
+          git commit -m "Herwin veldmacht en draaglast uit eerdere versie [skip ci]"
+          git push origin HEAD:herwin-veldmacht-draaglast
