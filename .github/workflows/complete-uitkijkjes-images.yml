@@ -22,201 +22,72 @@ jobs:
         run: |
           python - <<'PY'
           from pathlib import Path
-          import re
-          import urllib.request
+          import re, subprocess, time
 
-          root = Path('.')
-          ua = {'User-Agent': 'Onafgesloten image vendor/1.0 (github.com/HGRKzkzk/onafgesloten)'}
-
-          images = [
-              {
-                  'chapter': 'src/pages/hoofdstukken/06-draagroutes-ritme-en-herstel.md',
-                  'title': 'Ook muziek bestaat uit niet-spelen',
-                  'out': 'public/images/hoofdstuk-06/music-rests.svg',
-                  'url': 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Music_rests.svg',
-                  'src': '/onafgesloten/images/hoofdstuk-06/music-rests.svg',
-                  'alt': 'Een reeks rusttekens uit de westerse muzieknotatie met verschillende tijdsduren.',
-                  'caption': 'Rusttekens in westerse muzieknotatie. Wikimedia Commons, Music rests.svg. Publiek domein.',
-                  'source': '<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Music_rests.svg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — Music rests.svg, publiek domein</a></p>',
-              },
-              {
-                  'chapter': 'src/pages/hoofdstukken/08-vrijheid-binnen-bepaaldheid-en-verschil-zonder-absoluut-dualisme.md',
-                  'title': 'Een paar akkoorden zijn soms genoeg',
-                  'out': 'public/images/hoofdstuk-08/miles-davis-gottlieb.jpg',
-                  'url': 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Miles_Davis%2C_Howard_McGhee%2C_September_1947_%28Gottlieb_05711%29.jpg?width=1400',
-                  'src': '/onafgesloten/images/hoofdstuk-08/miles-davis-gottlieb.jpg',
-                  'alt': 'Miles Davis en Howard McGhee tijdens een optreden in 1947, gefotografeerd door William P. Gottlieb.',
-                  'caption': 'Miles Davis en Howard McGhee, 1947. Foto William P. Gottlieb / Library of Congress. Publiek domein.',
-                  'source': '<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Miles_Davis%2C_Howard_McGhee%2C_September_1947_%28Gottlieb_05711%29.jpg" target="_blank" rel="noopener noreferrer">William P. Gottlieb / Library of Congress via Wikimedia Commons — publiek domein</a></p>',
-              },
-              {
-                  'chapter': 'src/pages/hoofdstukken/09-liefde-klauwen-en-wederzijdse-bescherming.md',
-                  'title': 'Nijntje hoeft niet groot te worden',
-                  'out': 'public/images/hoofdstuk-09/nijntje-sculptuur.jpg',
-                  'url': 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Sculptuur_%27Nijntje%27_door_Marc_Bruna%2C_Nijntjepleintje%2C_Utrecht.jpg?width=1400',
-                  'src': '/onafgesloten/images/hoofdstuk-09/nijntje-sculptuur.jpg',
-                  'alt': 'Het Nijntje-beeld van Marc Bruna op het Nijntjepleintje in Utrecht.',
-                  'caption': 'Nijntje-sculptuur van Marc Bruna, Utrecht. Foto FakirNL, 2023, CC BY-SA 4.0.',
-                  'source': '<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Sculptuur_%27Nijntje%27_door_Marc_Bruna%2C_Nijntjepleintje%2C_Utrecht.jpg" target="_blank" rel="noopener noreferrer">FakirNL / Wikimedia Commons — CC BY-SA 4.0</a></p>',
-              },
-              {
-                  'chapter': 'src/pages/hoofdstukken/09-liefde-klauwen-en-wederzijdse-bescherming.md',
-                  'title': 'Stoelen, lichamen, bijna-botsingen',
-                  'out': 'public/images/hoofdstuk-09/pina-bausch.jpg',
-                  'url': 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Recueil._Photographies._Portraits_de_Pina_Bausch._Festival_d%27Avignon._1981_-_btv1b10607955f_%2810_of_11%29.jpg?width=1400',
-                  'src': '/onafgesloten/images/hoofdstuk-09/pina-bausch.jpg',
-                  'alt': 'Pina Bausch tijdens het Festival van Avignon in 1981, gefotografeerd door Fernand Michaud.',
-                  'caption': 'Pina Bausch, Festival van Avignon, 1981. Foto Fernand Michaud / Bibliothèque nationale de France. Publiek domein.',
-                  'source': '<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Recueil._Photographies._Portraits_de_Pina_Bausch._Festival_d%27Avignon._1981_-_btv1b10607955f_%2810_of_11%29.jpg" target="_blank" rel="noopener noreferrer">Fernand Michaud / BnF via Wikimedia Commons — publiek domein</a></p>',
-              },
-              {
-                  'chapter': 'src/pages/hoofdstukken/10-taal-kennis-en-intelligentie.md',
-                  'title': 'Een toren van taal',
-                  'out': 'public/images/hoofdstuk-10/bruegel-toren-van-babel.jpg',
-                  'url': 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg?width=1800',
-                  'src': '/onafgesloten/images/hoofdstuk-10/bruegel-toren-van-babel.jpg',
-                  'alt': 'Pieter Bruegel de Oude, De toren van Babel, met een enorme ronde bouwplaats vol arbeiders en steigers.',
-                  'caption': 'Pieter Bruegel de Oude, De toren van Babel, 1563. Kunsthistorisches Museum Wien. Publiek domein.',
-                  'source': '<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — reproductie en rechteninformatie</a></p>',
-              },
-              {
-                  'chapter': 'src/pages/hoofdstukken/11-zin-dood-en-viering.md',
-                  'title': 'Gilgamesj vindt geen achterdeur',
-                  'out': 'public/images/hoofdstuk-11/gilgamesj-tablet.jpg',
-                  'url': 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Tablet_of_the_Gilgamish_Epic_%28Obverse%29.jpg?width=1200',
-                  'src': '/onafgesloten/images/hoofdstuk-11/gilgamesj-tablet.jpg',
-                  'alt': 'Voorzijde van een kleitablet met spijkerschrift uit het Gilgamesj-epos.',
-                  'caption': 'Tablet van het Gilgamesj-epos, reproductie gepubliceerd door Stephen Langdon, 1917. Publiek domein.',
-                  'source': '<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Tablet_of_the_Gilgamish_Epic_%28Obverse%29.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons / Stephen Langdon — publiek domein</a></p>',
-              },
-              {
-                  'chapter': 'src/pages/hoofdstukken/13-velden-instituties-en-georganiseerde-sluiting.md',
-                  'title': 'Bureaucratie heeft een lange komische geschiedenis',
-                  'out': 'public/images/hoofdstuk-13/daumier-gens-de-justice.jpg',
-                  'url': 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Honor%C3%A9_Daumier_-_Les_gens_de_justice.jpg?width=1200',
-                  'src': '/onafgesloten/images/hoofdstuk-13/daumier-gens-de-justice.jpg',
-                  'alt': 'Honoré Daumier, een satirische lithografie uit de reeks Les Gens de Justice.',
-                  'caption': 'Honoré Daumier, Les Gens de Justice, 19e eeuw. Publiek domein.',
-                  'source': '<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Honor%C3%A9_Daumier_-_Les_gens_de_justice.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — afbeelding en rechteninformatie</a></p>',
-              },
-              {
-                  'chapter': 'src/pages/hoofdstukken/13-velden-instituties-en-georganiseerde-sluiting.md',
-                  'title': 'Een lege hoek wordt een speelplaats',
-                  'out': 'public/images/hoofdstuk-13/van-eyck-speeltoestel.jpg',
-                  'url': 'https://commons.wikimedia.org/wiki/Special:Redirect/file/PlaygroundAldovanEyck1962.jpg?width=1400',
-                  'src': '/onafgesloten/images/hoofdstuk-13/van-eyck-speeltoestel.jpg',
-                  'alt': 'Een iglovormig klimtoestel naar ontwerp van Aldo van Eyck in de beeldentuin van het Rijksmuseum.',
-                  'caption': 'Speeltoestel naar ontwerp van Aldo van Eyck, oorspronkelijk ca. 1962. Foto Vysotsky, 2021, CC BY-SA 4.0.',
-                  'source': '<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:PlaygroundAldovanEyck1962.jpg" target="_blank" rel="noopener noreferrer">Vysotsky / Wikimedia Commons — CC BY-SA 4.0</a></p>',
-              },
-              {
-                  'chapter': 'src/pages/hoofdstukken/14-drie-toetsgevallen-wat-verandert-er-wanneer-dit-denken-iets-moet-doen.md',
-                  'title': 'De koe kijkt niet terug als beleidsmodel',
-                  'out': 'public/images/hoofdstuk-14/potter-de-stier.jpg',
-                  'url': 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Paulus_Potter_-_The_Bull_-_136_-_Mauritshuis.jpg?width=1600',
-                  'src': '/onafgesloten/images/hoofdstuk-14/potter-de-stier.jpg',
-                  'alt': 'Paulus Potter, De Stier, een monumentaal rund in een landschap.',
-                  'caption': 'Paulus Potter, De Stier, 1647. Mauritshuis. Publiek domein.',
-                  'source': '<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Paulus_Potter_-_The_Bull_-_136_-_Mauritshuis.jpg" target="_blank" rel="noopener noreferrer">Mauritshuis via Wikimedia Commons — publiek domein</a></p>',
-              },
-              {
-                  'chapter': 'src/pages/hoofdstukken/15-culturele-bescheidenheid-en-intellectuele-buren.md',
-                  'title': 'Op de brug boven de Hao',
-                  'out': 'public/images/hoofdstuk-15/zhou-pleasures-of-fishes.jpg',
-                  'url': 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Zhou_Dongqing_1291_Pleasure_of_fishes_DP212840_CRD.jpg?width=1600',
-                  'src': '/onafgesloten/images/hoofdstuk-15/zhou-pleasures-of-fishes.jpg',
-                  'alt': 'Zhou Dongqing, The Pleasures of Fishes, een Chinese handrol met vissen in water.',
-                  'caption': 'Zhou Dongqing, The Pleasures of Fishes, 1291, Yuan-dynastie. Publiek domein.',
-                  'source': '<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Zhou_Dongqing_1291_Pleasure_of_fishes_DP212840_CRD.jpg" target="_blank" rel="noopener noreferrer">The Metropolitan Museum of Art via Wikimedia Commons — publiek domein</a> · <a href="https://ctext.org/zhuangzi/floods-of-autumn" target="_blank" rel="noopener noreferrer">Chinese Text Project — Zhuangzi, “The Floods of Autumn”</a></p>',
-              },
-              {
-                  'chapter': 'src/pages/hoofdstukken/16-zelfbegrenzing-ook-dit-denken-blijft-onaf.md',
-                  'title': 'Een schilderij dat naar zijn eigen kijken kijkt',
-                  'out': 'public/images/hoofdstuk-16/velazquez-las-meninas.jpg',
-                  'url': 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Las_Meninas_by_Diego_Vel%C3%A1zquez.jpg?width=1600',
-                  'src': '/onafgesloten/images/hoofdstuk-16/velazquez-las-meninas.jpg',
-                  'alt': 'Diego Velázquez, Las Meninas, met de schilder zelf, hofpersonen, een spiegel en meerdere blikrichtingen.',
-                  'caption': 'Diego Velázquez, Las Meninas, 1656. Museo del Prado. Publiek domein.',
-                  'source': '<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Las_Meninas_by_Diego_Vel%C3%A1zquez.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — reproductie en rechteninformatie</a></p>',
-              },
+          items = [
+            ('src/pages/hoofdstukken/06-draagroutes-ritme-en-herstel.md','Ook muziek bestaat uit niet-spelen','public/images/hoofdstuk-06/music-rests.svg','https://commons.wikimedia.org/wiki/Special:Redirect/file/Music_rests.svg','/onafgesloten/images/hoofdstuk-06/music-rests.svg','Een reeks rusttekens uit de westerse muzieknotatie met verschillende tijdsduren.','Rusttekens in westerse muzieknotatie. Wikimedia Commons, Music rests.svg. Publiek domein.','<a href="https://commons.wikimedia.org/wiki/File:Music_rests.svg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — Music rests.svg, publiek domein</a>'),
+            ('src/pages/hoofdstukken/08-vrijheid-binnen-bepaaldheid-en-verschil-zonder-absoluut-dualisme.md','Een paar akkoorden zijn soms genoeg','public/images/hoofdstuk-08/miles-davis-gottlieb.jpg','https://commons.wikimedia.org/wiki/Special:Redirect/file/Miles_Davis%2C_Howard_McGhee%2C_September_1947_%28Gottlieb_05711%29.jpg?width=1400','/onafgesloten/images/hoofdstuk-08/miles-davis-gottlieb.jpg','Miles Davis en Howard McGhee tijdens een optreden in 1947, gefotografeerd door William P. Gottlieb.','Miles Davis en Howard McGhee, 1947. Foto William P. Gottlieb / Library of Congress. Publiek domein.','<a href="https://commons.wikimedia.org/wiki/File:Miles_Davis%2C_Howard_McGhee%2C_September_1947_%28Gottlieb_05711%29.jpg" target="_blank" rel="noopener noreferrer">William P. Gottlieb / Library of Congress via Wikimedia Commons — publiek domein</a>'),
+            ('src/pages/hoofdstukken/09-liefde-klauwen-en-wederzijdse-bescherming.md','Nijntje hoeft niet groot te worden','public/images/hoofdstuk-09/nijntje-sculptuur.jpg','https://commons.wikimedia.org/wiki/Special:Redirect/file/Sculptuur_%27Nijntje%27_door_Marc_Bruna%2C_Nijntjepleintje%2C_Utrecht.jpg?width=1400','/onafgesloten/images/hoofdstuk-09/nijntje-sculptuur.jpg','Het Nijntje-beeld van Marc Bruna op het Nijntjepleintje in Utrecht.','Nijntje-sculptuur van Marc Bruna, Utrecht. Foto FakirNL, 2023, CC BY-SA 4.0.','<a href="https://commons.wikimedia.org/wiki/File:Sculptuur_%27Nijntje%27_door_Marc_Bruna%2C_Nijntjepleintje%2C_Utrecht.jpg" target="_blank" rel="noopener noreferrer">FakirNL / Wikimedia Commons — CC BY-SA 4.0</a>'),
+            ('src/pages/hoofdstukken/09-liefde-klauwen-en-wederzijdse-bescherming.md','Stoelen, lichamen, bijna-botsingen','public/images/hoofdstuk-09/pina-bausch.jpg','https://commons.wikimedia.org/wiki/Special:Redirect/file/Recueil._Photographies._Portraits_de_Pina_Bausch._Festival_d%27Avignon._1981_-_btv1b10607955f_%2810_of_11%29.jpg?width=1400','/onafgesloten/images/hoofdstuk-09/pina-bausch.jpg','Pina Bausch tijdens het Festival van Avignon in 1981, gefotografeerd door Fernand Michaud.','Pina Bausch, Festival van Avignon, 1981. Foto Fernand Michaud / Bibliothèque nationale de France. Publiek domein.','<a href="https://commons.wikimedia.org/wiki/File:Recueil._Photographies._Portraits_de_Pina_Bausch._Festival_d%27Avignon._1981_-_btv1b10607955f_%2810_of_11%29.jpg" target="_blank" rel="noopener noreferrer">Fernand Michaud / BnF via Wikimedia Commons — publiek domein</a>'),
+            ('src/pages/hoofdstukken/10-taal-kennis-en-intelligentie.md','Een toren van taal','public/images/hoofdstuk-10/bruegel-toren-van-babel.jpg','https://commons.wikimedia.org/wiki/Special:Redirect/file/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg?width=1800','/onafgesloten/images/hoofdstuk-10/bruegel-toren-van-babel.jpg','Pieter Bruegel de Oude, De toren van Babel, met een enorme ronde bouwplaats vol arbeiders en steigers.','Pieter Bruegel de Oude, De toren van Babel, 1563. Kunsthistorisches Museum Wien. Publiek domein.','<a href="https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — reproductie en rechteninformatie</a>'),
+            ('src/pages/hoofdstukken/11-zin-dood-en-viering.md','Gilgamesj vindt geen achterdeur','public/images/hoofdstuk-11/gilgamesj-tablet.jpg','https://commons.wikimedia.org/wiki/Special:Redirect/file/Tablet_of_the_Gilgamish_Epic_%28Obverse%29.jpg?width=1200','/onafgesloten/images/hoofdstuk-11/gilgamesj-tablet.jpg','Voorzijde van een kleitablet met spijkerschrift uit het Gilgamesj-epos.','Tablet van het Gilgamesj-epos, reproductie gepubliceerd door Stephen Langdon, 1917. Publiek domein.','<a href="https://commons.wikimedia.org/wiki/File:Tablet_of_the_Gilgamish_Epic_%28Obverse%29.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons / Stephen Langdon — publiek domein</a>'),
+            ('src/pages/hoofdstukken/13-velden-instituties-en-georganiseerde-sluiting.md','Bureaucratie heeft een lange komische geschiedenis','public/images/hoofdstuk-13/daumier-gens-de-justice.jpg','https://commons.wikimedia.org/wiki/Special:Redirect/file/Honor%C3%A9_Daumier_-_Les_gens_de_justice.jpg?width=1200','/onafgesloten/images/hoofdstuk-13/daumier-gens-de-justice.jpg','Honoré Daumier, een satirische lithografie uit de reeks Les Gens de Justice.','Honoré Daumier, Les Gens de Justice, 19e eeuw. Publiek domein.','<a href="https://commons.wikimedia.org/wiki/File:Honor%C3%A9_Daumier_-_Les_gens_de_justice.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — afbeelding en rechteninformatie</a>'),
+            ('src/pages/hoofdstukken/13-velden-instituties-en-georganiseerde-sluiting.md','Een lege hoek wordt een speelplaats','public/images/hoofdstuk-13/van-eyck-speeltoestel.jpg','https://commons.wikimedia.org/wiki/Special:Redirect/file/PlaygroundAldovanEyck1962.jpg?width=1400','/onafgesloten/images/hoofdstuk-13/van-eyck-speeltoestel.jpg','Een iglovormig klimtoestel naar ontwerp van Aldo van Eyck in de beeldentuin van het Rijksmuseum.','Speeltoestel naar ontwerp van Aldo van Eyck, oorspronkelijk ca. 1962. Foto Vysotsky, 2021, CC BY-SA 4.0.','<a href="https://commons.wikimedia.org/wiki/File:PlaygroundAldovanEyck1962.jpg" target="_blank" rel="noopener noreferrer">Vysotsky / Wikimedia Commons — CC BY-SA 4.0</a>'),
+            ('src/pages/hoofdstukken/14-drie-toetsgevallen-wat-verandert-er-wanneer-dit-denken-iets-moet-doen.md','De koe kijkt niet terug als beleidsmodel','public/images/hoofdstuk-14/potter-de-stier.jpg','https://commons.wikimedia.org/wiki/Special:Redirect/file/Paulus_Potter_-_The_Bull_-_136_-_Mauritshuis.jpg?width=1600','/onafgesloten/images/hoofdstuk-14/potter-de-stier.jpg','Paulus Potter, De Stier, een monumentaal rund in een landschap.','Paulus Potter, De Stier, 1647. Mauritshuis. Publiek domein.','<a href="https://commons.wikimedia.org/wiki/File:Paulus_Potter_-_The_Bull_-_136_-_Mauritshuis.jpg" target="_blank" rel="noopener noreferrer">Mauritshuis via Wikimedia Commons — publiek domein</a>'),
+            ('src/pages/hoofdstukken/15-culturele-bescheidenheid-en-intellectuele-buren.md','Op de brug boven de Hao','public/images/hoofdstuk-15/zhou-pleasures-of-fishes.jpg','https://commons.wikimedia.org/wiki/Special:Redirect/file/Zhou_Dongqing_1291_Pleasure_of_fishes_DP212840_CRD.jpg?width=1600','/onafgesloten/images/hoofdstuk-15/zhou-pleasures-of-fishes.jpg','Zhou Dongqing, The Pleasures of Fishes, een Chinese handrol met vissen in water.','Zhou Dongqing, The Pleasures of Fishes, 1291, Yuan-dynastie. Publiek domein.','<a href="https://commons.wikimedia.org/wiki/File:Zhou_Dongqing_1291_Pleasure_of_fishes_DP212840_CRD.jpg" target="_blank" rel="noopener noreferrer">The Metropolitan Museum of Art via Wikimedia Commons — publiek domein</a> · <a href="https://ctext.org/zhuangzi/floods-of-autumn" target="_blank" rel="noopener noreferrer">Chinese Text Project — Zhuangzi, The Floods of Autumn</a>'),
+            ('src/pages/hoofdstukken/16-zelfbegrenzing-ook-dit-denken-blijft-onaf.md','Een schilderij dat naar zijn eigen kijken kijkt','public/images/hoofdstuk-16/velazquez-las-meninas.jpg','https://commons.wikimedia.org/wiki/Special:Redirect/file/Las_Meninas_by_Diego_Vel%C3%A1zquez.jpg?width=1600','/onafgesloten/images/hoofdstuk-16/velazquez-las-meninas.jpg','Diego Velázquez, Las Meninas, met de schilder zelf, hofpersonen, een spiegel en meerdere blikrichtingen.','Diego Velázquez, Las Meninas, 1656. Museo del Prado. Publiek domein.','<a href="https://commons.wikimedia.org/wiki/File:Las_Meninas_by_Diego_Vel%C3%A1zquez.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — reproductie en rechteninformatie</a>'),
           ]
 
-          def download(url, dest):
-              dest = Path(dest)
-              dest.parent.mkdir(parents=True, exist_ok=True)
-              req = urllib.request.Request(url, headers=ua)
-              with urllib.request.urlopen(req, timeout=90) as r:
-                  data = r.read()
-              if len(data) < 1000:
-                  raise RuntimeError(f'Download too small for {dest}: {len(data)} bytes')
-              dest.write_bytes(data)
+          for chapter,title,out,url,src,alt,caption,source in items:
+              dest = Path(out); dest.parent.mkdir(parents=True, exist_ok=True)
+              subprocess.run(['curl','-fL','--retry','6','--retry-all-errors','--retry-delay','10','-A','Onafgesloten/1.0 (GitHub image vendoring)',url,'-o',str(dest)], check=True)
+              if dest.stat().st_size < 1000: raise RuntimeError(f'Leeg/te klein beeld: {dest}')
+              time.sleep(3)
 
-          for item in images:
-              download(item['url'], item['out'])
-
-          by_chapter = {}
-          for item in images:
-              by_chapter.setdefault(item['chapter'], []).append(item)
-
-          for chapter, items in by_chapter.items():
-              p = Path(chapter)
-              text = p.read_text(encoding='utf-8')
-              for item in items:
-                  title = re.escape(item['title'])
-                  pat = re.compile(r'(<aside class="uitkijkje[^>]*>.*?<h3 class="uitkijkje__title">' + title + r'</h3>)(.*?)(</aside>)', re.S)
-                  m = pat.search(text)
-                  if not m:
-                      raise RuntimeError(f'Uitkijkje not found: {item["title"]} in {chapter}')
+          grouped = {}
+          for item in items: grouped.setdefault(item[0], []).append(item)
+          aside_re = re.compile(r'<aside class="uitkijkje[^>]*>.*?</aside>', re.S)
+          for chapter, chapter_items in grouped.items():
+              p = Path(chapter); text = p.read_text(encoding='utf-8')
+              wanted = {i[1]: i for i in chapter_items}
+              seen = set()
+              def convert(m):
                   block = m.group(0)
-                  if '<figure' in block or '<img' in block:
-                      raise RuntimeError(f'Uitkijkje already visual unexpectedly: {item["title"]}')
-                  figure = (
-                      '\n<figure class="uitkijkje__figure">\n'
-                      f'  <img src="{item["src"]}" alt="{item["alt"]}" loading="lazy" />\n'
-                      f'  <figcaption>{item["caption"]}</figcaption>\n'
-                      '</figure>'
-                  )
-                  block = block.replace(f'<h3 class="uitkijkje__title">{item["title"]}</h3>', f'<h3 class="uitkijkje__title">{item["title"]}</h3>{figure}', 1)
-                  source_pat = re.compile(r'<p class="uitkijkje__source">.*?</p>', re.S)
-                  if source_pat.search(block):
-                      block = source_pat.sub(item['source'], block, count=1)
-                  else:
-                      block = block.replace('</aside>', item['source'] + '\n</aside>', 1)
-                  text = text[:m.start()] + block + text[m.end():]
+                  tm = re.search(r'<h3 class="uitkijkje__title">(.*?)</h3>', block, re.S)
+                  title = tm.group(1).strip() if tm else ''
+                  if title not in wanted: return block
+                  item = wanted[title]; _,_,_,_,src,alt,caption,source = item
+                  if '<figure' in block or '<img' in block: raise RuntimeError(f'Al visueel: {chapter}: {title}')
+                  figure = f'\n<figure class="uitkijkje__figure">\n  <img src="{src}" alt="{alt}" loading="lazy" />\n  <figcaption>{caption}</figcaption>\n</figure>'
+                  block = block.replace(f'<h3 class="uitkijkje__title">{title}</h3>', f'<h3 class="uitkijkje__title">{title}</h3>{figure}', 1)
+                  source_html = f'<p class="uitkijkje__source">{source}</p>'
+                  if re.search(r'<p class="uitkijkje__source">.*?</p>', block, re.S):
+                      block = re.sub(r'<p class="uitkijkje__source">.*?</p>', source_html, block, count=1, flags=re.S)
+                  else: block = block.replace('</aside>', source_html + '\n</aside>')
+                  seen.add(title); return block
+              text = aside_re.sub(convert, text)
+              missing = set(wanted) - seen
+              if missing: raise RuntimeError(f'Niet gevonden in {chapter}: {sorted(missing)}')
               p.write_text(text, encoding='utf-8')
 
-          # Definition-of-done validation across the complete public chapter set.
-          aside_re = re.compile(r'<aside class="uitkijkje[^>]*>.*?</aside>', re.S)
-          img_re = re.compile(r'<img[^>]+src="([^"]+)"', re.S)
-          all_blocks = []
-          errors = []
+          # Harde definition-of-done over de volledige hoofdtekst.
+          errors=[]; blocks=[]
+          img_re=re.compile(r'<img[^>]+src="([^"]+)"',re.S)
           for p in sorted(Path('src/pages/hoofdstukken').glob('*.md')):
-              text = p.read_text(encoding='utf-8')
-              for block in aside_re.findall(text):
-                  all_blocks.append((p, block))
-                  title_m = re.search(r'<h3 class="uitkijkje__title">(.*?)</h3>', block, re.S)
-                  title = title_m.group(1).strip() if title_m else '(zonder titel)'
-                  if '<figure' not in block or '<img' not in block:
-                      errors.append(f'{p.name}: {title}: geen figure/img')
-                      continue
-                  src_m = img_re.search(block)
-                  if not src_m:
-                      errors.append(f'{p.name}: {title}: geen img src')
-                      continue
-                  src = src_m.group(1)
-                  if not src.startswith('/onafgesloten/images/'):
-                      errors.append(f'{p.name}: {title}: niet-lokale src {src}')
-                  local = Path('public') / src.removeprefix('/onafgesloten/')
-                  if not local.exists() or local.stat().st_size < 1000:
-                      errors.append(f'{p.name}: {title}: lokaal beeld ontbreekt/leeg: {local}')
-                  if 'uitkijkje__source' not in block:
-                      errors.append(f'{p.name}: {title}: bronregel ontbreekt')
-
-          if len(all_blocks) != 22:
-              errors.append(f'Verwacht 22 uitkijkjes, gevonden {len(all_blocks)}')
-          if errors:
-              raise SystemExit('\n'.join(errors))
-          print(f'Validated {len(all_blocks)} visual uitkijkjes: all local, all sourced.')
+              for block in aside_re.findall(p.read_text(encoding='utf-8')):
+                  blocks.append((p,block))
+                  tm=re.search(r'<h3 class="uitkijkje__title">(.*?)</h3>',block,re.S); title=tm.group(1).strip() if tm else '(zonder titel)'
+                  if '<figure' not in block or '<img' not in block: errors.append(f'{p.name}: {title}: text-only') ; continue
+                  sm=img_re.search(block)
+                  if not sm: errors.append(f'{p.name}: {title}: img zonder src'); continue
+                  src=sm.group(1)
+                  if not src.startswith('/onafgesloten/images/'): errors.append(f'{p.name}: {title}: niet-lokaal {src}')
+                  local=Path('public')/src.removeprefix('/onafgesloten/')
+                  if not local.exists() or local.stat().st_size<1000: errors.append(f'{p.name}: {title}: lokaal bestand ontbreekt/leeg')
+                  if 'uitkijkje__source' not in block: errors.append(f'{p.name}: {title}: bronregel ontbreekt')
+          if len(blocks)!=22: errors.append(f'Verwacht 22 uitkijkjes, gevonden {len(blocks)}')
+          if errors: raise SystemExit('\n'.join(errors))
+          print('Validated 22/22: visual, local and sourced.')
           PY
 
           rm .github/workflows/complete-uitkijkjes-images.yml
