@@ -53,6 +53,8 @@ Een tekst kan zeer zorgvuldig zeggen dat zij niet wil annexeren en vervolgens al
 
 De praktische correctie is eenvoudig maar veeleisend: een traditie moet alleen inhoudelijk worden ingebracht wanneer er voldoende primaire of specialistische secundaire kennis beschikbaar is om ook interne verschillen en niet-resonerende elementen zichtbaar te maken.
 
+Die selectieve infrastructuur raakt ook de uitkijkjeslaag. Wat bewaard bleef, in musea of archieven belandde, digitaal ontsloten werd en voor de maker van dit project herkenbaar genoeg was om te vinden, bepaalt mede welke cultuur hier zichtbaar wordt. Een ogenschijnlijk brede selectie is daarom nog geen neutrale steekproef van menselijke cultuur. Dat is een reden om de selectie controleerbaar te houden, niet om elk hoofdstuk met een verplicht “ander” voorbeeld te vullen.
+
 De nieuwe Zhuangzi-sectie moet daarom geen model worden waarin ieder hoofdstuk voortaan één “niet-westerse tegenstem” nodig heeft. Dat zou opnieuw tokenisme produceren. Zij is juist een bewijsproef voor de methode: een vergelijking verdient haar plaats wanneer zij iets in de eigen formulering verandert.
 
 ### 2. “Het Westen” en “niet-het-Westen” zijn zelf te grove eenheden
