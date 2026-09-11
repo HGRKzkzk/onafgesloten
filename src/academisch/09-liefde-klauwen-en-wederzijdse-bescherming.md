@@ -1,9 +1,3 @@
----
-title: "Liefde, klauwen en wederzijdse bescherming"
-chapter: "09-liefde-klauwen-en-wederzijdse-bescherming"
-status: "academische-werkversie"
----
-
 ## Verwantschap
 
 De publieke tekst gebruikt liefde niet als metafysisch beginsel, maar als een verhouding waarin de ander gewicht krijgt zonder volledig bezit te worden. Die inzet ligt in de buurt van meerdere bestaande tradities, zonder ermee samen te vallen.
