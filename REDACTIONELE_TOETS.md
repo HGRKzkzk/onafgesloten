@@ -102,13 +102,30 @@ Daarbij geldt:
 
 De inventaris wordt ook gebruikt om bredere blinde vlekken te zien. Een reeks afzonderlijk goede schilderijen kan samen alsnog een eenzijdige canon vormen.
 
-## 9. Zes vragen vóór iedere inhoudelijke merge
+## 9. Kernzinnen moeten begripswerk doen
+
+Een uitgelichte kernzin krijgt meer gezag dan dezelfde zin in lopende tekst. Dat gewicht moet inhoudelijk verdiend zijn.
+
+Een kernzin mag definiëren, een relevant onderscheid condenseren, een grens markeren of een consequentie scherp samenvatten. Zij hoeft niet droog te zijn: beeldspraak en ritme mogen helpen. Maar een mooie formulering is op zichzelf geen reden om haar uit te lichten.
+
+Gebruik daarom drie controles:
+
+1. **Schraptest:** verdwijnt er een precieze stap uit het argument wanneer de zin wordt verwijderd? Zo niet, laat haar in de lopende tekst staan of schrap haar.
+2. **Losmaaktest:** kan de zin zonder context even overtuigend functioneren als algemene levenswijsheid, campagnezin of postertekst? Dan verdient zij extra wantrouwen. De tekst moet duidelijk maken welk concreet onderscheid de zin draagt.
+3. **Verdichtingstest:** vat de zin een reeds opgebouwde gedachte samen, of vervangt de punchline de onderbouwing?
+
+Zinnen die vooral bemoedigen, mobiliseren, troosten of instemming oproepen mogen in de tekst bestaan, maar krijgen niet automatisch de status van filosofische kernzin.
+
+> **Een blockquote is geen beloning voor een mooie zin.**
+
+## 10. Zeven vragen vóór iedere inhoudelijke merge
 
 1. Heeft deze passage één duidelijke thuislaag?
 2. Vertrekt zij vanuit ervaring en verschil, of vanuit ons eigen vocabulaire?
 3. Voegt zij iets toe, of legt zij een bestaand begrip opnieuw uit?
 4. Wordt een normatieve of politieke conclusie eerlijk als keuze en uitwerking gemarkeerd?
 5. Kan een tegenvoorbeeld deze passage werkelijk veranderen?
-6. Is bij een nieuw uitkijkje het register gecontroleerd en bijgewerkt?
+6. Doet een uitgelichte kernzin meer dan de toon versterken?
+7. Is bij een nieuw uitkijkje het register gecontroleerd en bijgewerkt?
 
 Als drie of meer vragen niet overtuigend met *ja* kunnen worden beantwoord, verdient de passage eerst verdere redactie.

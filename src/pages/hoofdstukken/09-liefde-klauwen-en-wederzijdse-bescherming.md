@@ -91,11 +91,9 @@ Kleinheid verschilt van kleingemaakt worden.
 
 Kleingemaakt worden is gereduceerd raken tot ruis, kostenpost, datapunt, gebruiksvoorwerp, stereotype of vervangbaar middel.
 
-> **Niemand maakt ons klein.**
+Kwetsbaarheid is geen toestemming om een vorm tot middel te reduceren.
 
-Daarom hebben kleine dieren klauwen nodig.
-
-> **We hoeven geen roofdieren te worden om klauwen te hebben.**
+Wie kwetsbaar is, heeft daarom niet minder recht op een grens die werkelijk gevolg krijgt.
 
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">Nijntje hoeft niet groot te worden</h3>
@@ -180,8 +178,6 @@ De vraag is wat zo'n grens beschermt. Beschermt zij een ruimte waarin verschil, 
 
 Gedeelde macht hoeft niet geleend te worden van de vernedering van een ander.
 
-> **Wij maken elkaar machtiger zonder iemand kleiner te hoeven maken.**
-
 Dat is moeilijker dan een vijandbeeld. Een vijandbeeld geeft snel richting. Gedeelde macht vraagt instituties, verbanden, tijd en het vermogen boosheid serieus te nemen zonder haar automatisch een zwakker doelwit te geven.
 
 ## Wie is de vijand?
@@ -204,7 +200,7 @@ Zij is geen vervanging voor rechtvaardigheid.
 
 Wat liefde wel kan bewaren is de weigering de ander volledig te laten samenvallen met diens functie voor mij, zelfs wanneer ik afstand moet nemen, een grens moet handhaven of tegen diens handelen in moet gaan.
 
-> **Zachtheid heeft klauwen nodig, en klauwen hoeven niet te vergeten wat zij beschermen.**
+Een grens kan hard zijn in haar gevolg en toch gericht blijven op bescherming in plaats van vernedering.
 
 Niet alles hoeft verzoend. Niet iedere relatie hoeft heropend. Niet ieder verschil hoeft opgelost.
 
