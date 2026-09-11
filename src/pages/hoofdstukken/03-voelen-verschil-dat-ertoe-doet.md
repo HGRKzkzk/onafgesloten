@@ -2,7 +2,7 @@
 layout: ../../layouts/ChapterLayout.astro
 order: 3
 title: "Voelen: verschil dat ertoe doet"
-description: "Over voelen als plaats waar verschil belang krijgt, over de grens tussen ervaring en duiding, en over menselijke en niet-menselijke perspectieven."
+description: "Over voelen als ervaren verschil dat ertoe doet, over de grens tussen responsiviteit, ervaring en duiding, en over menselijke en niet-menselijke perspectieven."
 slug: "voelen-verschil-dat-ertoe-doet"
 status: "publieke-werkversie"
 source:
@@ -10,21 +10,21 @@ source:
   version: "v4.1"
 divergence:
   status: "substantieel-herwerkt"
-  note: "Publieke herschrijving met uitgebreidere ervaringslaag, scherpere begrenzing van voelen, dierlijke sentience, tweede-persoonsperspectief en nieuwe begrippenhulp."
+  note: "Publieke herschrijving met expliciet onderscheid tussen responsiviteit, voelen en antwoorden; dierlijke sentience, tweede-persoonsperspectief en begrippenhulp blijven behouden."
 lastSyncCheck: "2026-09-11"
 ---
 
 Een steen kan veranderen. Zij kan splijten door vorst, afslijten door water, opwarmen in de zon of onder druk van vorm veranderen. Voor zover wij weten staat er voor de steen zelf niets op het spel.
 
-Bij een levend lichaam lijkt dat anders. Honger heeft een meetbare lichamelijke kant en kan tegelijk richting geven aan wat een organisme vervolgens doet. Hetzelfde geldt voor beschadiging, kou, pijn, benauwdheid, dreiging, aanraking en nabijheid. Een organisme trekt weg, zoekt voedsel, bevriest, nadert, verdedigt, herstelt of verandert zijn aandacht.
+Bij levende systemen verschijnt eerst een ander onderscheid. Een organisme kan verschillen registreren en zijn toestand of gedrag daarop aanpassen. Het zoekt voedsel, groeit naar licht, beweegt langs een chemische gradiënt of trekt zich terug bij beschadiging.
 
-Hier begint voor mij het woord *voelen*.
+Dat noem ik hier **responsiviteit**: verschil kan een systeem bereiken en iets veranderen aan wat het vervolgens doet. Responsiviteit zegt op zichzelf nog niets over ervaring.
 
-Ik gebruik het voor de plaats waar verschil **ertoe doet voor een vorm**. Reactiviteit, regulatie, gevoeligheid, affect en bewuste ervaring vallen daarbij niet vanzelf samen.
+Een thermostaat reageert op temperatuur. Een plant groeit naar licht. Een bacterie beweegt langs een chemische gradiënt. Voor geen van die voorbeelden volgt uit de reactie alleen dat er ook iets wordt gevoeld.
 
-Een thermostaat reageert op temperatuur. Een plant groeit naar licht. Een bacterie beweegt langs een chemische gradiënt. Een hond kan kreunen, vermijden, zoeken, wachten en zich zichtbaar anders gedragen nadat iets pijnlijks is gebeurd. Een mens kan bovendien zeggen: *ik ben bang*, *ik schaam me*, *ik weet niet wat er is, maar iets klopt niet*.
+Met *voelen* bedoel ik daarom iets sterkers: **ervaren verschil dat ertoe doet**. Pijn, comfort, dreiging, benauwdheid, aanraking of nabijheid kunnen niet alleen gedrag veranderen, maar ook als positieve of negatieve ervaringskwaliteit worden ondergaan. Waar dat precies begint, weten we niet voor iedere levensvorm.
 
-Die voorbeelden mogen niet te snel op één schaal worden gezet. Juist daarom moet het woord voelen begrensd blijven.
+Reactie, regulatie, gevoeligheid, affect en bewuste ervaring kunnen samenhangen zonder samen te vallen. Juist daarom moet het woord voelen begrensd blijven.
 
 Ook het omgekeerde is riskant: doen alsof alleen datgene telt wat al volledig bewust, talig en rationeel kan worden uitgelegd.
 
@@ -75,15 +75,19 @@ Juist daarom past het apparaat hier: een lichamelijk signaal kan werkelijk veran
 
 ## Van prikkel naar belang
 
-Het woord *gevoel* kan gemakkelijk te menselijk worden. Alsof voelen pas begint bij herkenbare emoties als verdriet, vreugde, angst of verliefdheid. Ik bedoel iets fundamentelers.
+Niet ieder verschil dat biologisch relevant is, wordt ook gevoeld. Dat onderscheid is belangrijk omdat *ertoe doen* anders ongemerkt ervaring gaat betekenen op plaatsen waar we alleen regulatie of gedrag kunnen vaststellen.
 
 Bij een levend wezen krijgen sommige verschillen voor voortbestaan, regulatie of handelen meer gewicht dan andere. Voedsel kan worden gezocht, schade vermeden, nabijheid opgezocht, rust afgedwongen. In sommige benaderingen van <span class="begrip" data-term="enactivisme">enactivisme</span> en zogenoemde *sense-making* wordt precies dat benadrukt: een organisme ontmoet zijn omgeving vanuit een eigen wijze van leven waarin sommige verschillen relevant worden.
 
 Dat is nog geen bewijs van bewustzijn. Een systeem kan reguleren zonder dat we goede reden hebben om aan te nemen dat er ook iets wordt ervaren. Biologische betekenis, affectieve gevoeligheid en bewuste ervaring kunnen samenhangen zonder identiek te zijn. Deze lijn biedt wel een belangrijk aanknopingspunt: betekenis hoeft niet pas te beginnen wanneer een mens er woorden aan geeft.
 
-De wereld verschijnt voor levende vormen niet overal op dezelfde manier. Een geurspoor dat voor mij nauwelijks iets betekent kan voor een hond een hele route openen. Een trillingspatroon dat ik niet opmerk kan voor een spin onmiddellijk verschil maken. Een kalf, kraai of octopus beweegt binnen een wereld waarin andere mogelijkheden, bedreigingen en aantrekkingen gewicht hebben.
+Waar er goede redenen zijn om sentience te veronderstellen, krijgt dat verschil een extra dimensie: het kan niet alleen functioneel relevant zijn, maar worden ervaren. Een geurspoor dat voor mij nauwelijks iets betekent kan voor een hond een hele route openen. Een bedreiging kan gedrag sturen en tegelijk angst of onrust oproepen. Bij andere levensvormen weten we vaak veel minder zeker waar responsiviteit overgaat in ervaring.
 
-Dat gewicht hoeft geen menselijke interpretatie te zijn. “Ertoe doen” kan meerdere vormen aannemen.
+Dat gewicht hoeft geen menselijke interpretatie te zijn. Maar biologische relevantie en voelen zijn niet hetzelfde.
+
+Ook **antwoorden** ligt op een andere as. In dit project betekent het woord niet op ieder niveau hetzelfde innerlijke proces. Bij mensen kan antwoorden bestaan uit uitstellen, redenen wegen, weigeren en later terugkomen op een eerste reactie. Bij dieren kan geleerd en selectief gedrag relevant zijn zonder menselijke reflectie te veronderstellen. Een institutie kan alleen in overdrachtelijke zin antwoorden: wanneer gevolgen en tegenspraak haar verdere handelen werkelijk kunnen veranderen.
+
+Het woord wordt dus analoog gebruikt tussen domeinen. Responsiviteit bewijst geen gevoel, en corrigeren bewijst geen bewustzijn. De overeenkomst ligt alleen hierin dat een verschil niet volledig zonder gevolg blijft voor wat daarna gebeurt.
 
 ## Ik voel, dus ik ben
 
@@ -184,4 +188,4 @@ Een lichaam kan het alarm slaan. Het vonnis vraagt meer.
 
 Dat lijkt mij de scherpste vorm van de stelling:
 
-> **Voelen is verschil dat ertoe doet. De ervaring is werkelijk; haar uitleg blijft corrigeerbaar.**
+> **Voelen is ervaren verschil dat ertoe doet. De ervaring is werkelijk; haar uitleg blijft corrigeerbaar.**
