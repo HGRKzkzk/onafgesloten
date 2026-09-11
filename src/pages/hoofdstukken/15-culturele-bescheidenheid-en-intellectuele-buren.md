@@ -14,9 +14,7 @@ divergence:
 lastSyncCheck: "2026-09-11"
 ---
 
-Dit project is in Nederlandse en Europese taal ontstaan. Het spreekt met woorden als ontologie, fenomenologie, autonomie en dialectiek, en beweegt in de nabijheid van procesfilosofie, Spinoza, Buber, enactivisme, systeemdenken, pragmatisme en kritische theorie.
-
-Die genealogie moet zichtbaar blijven.
+Dit project is in Nederlandse en Europese taal ontstaan. Het spreekt met woorden als ontologie, fenomenologie, autonomie en dialectiek, en beweegt in de nabijheid van procesfilosofie, Spinoza, Buber, enactivisme, systeemdenken, pragmatisme en kritische theorie. Die genealogie moet zichtbaar blijven.
 
 Maar genealogie is geen eigendomsrecht. Dat dit project in deze omgeving is gegroeid, betekent niet dat andere tradities pas relevant worden zodra zij in dit vocabulaire kunnen worden vertaald.
 

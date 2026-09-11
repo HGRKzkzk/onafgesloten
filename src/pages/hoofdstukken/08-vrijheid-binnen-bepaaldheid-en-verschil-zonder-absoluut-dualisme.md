@@ -11,17 +11,13 @@ source:
 divergence:
   status: "integraal-gecomprimeerd"
   note: "Vrijheid en antwoordruimte krijgen hier hun thuisbasis; herhaling van gezondheid, wederkerigheid en relationele asymmetrie is teruggebracht."
-lastSyncCheck: "2026-09-04"
+lastSyncCheck: "2026-09-11"
 ---
-Vrijheid wordt gemakkelijk voorgesteld als een lege plek in de keten van oorzaken. Iets is dan werkelijk vrij voor zover het niet door afkomst, lichaam, geschiedenis, omgeving, gewoonte of eerdere gebeurtenis is bepaald.
-
-Maar zo'n vrijheid is moeilijk voor te stellen.
+Vrijheid wordt gemakkelijk voorgesteld als een lege plek in de keten van oorzaken. Iets is dan werkelijk vrij voor zover het niet door afkomst, lichaam, geschiedenis, omgeving, gewoonte of eerdere gebeurtenis is bepaald. Maar zo'n vrijheid is moeilijk voor te stellen.
 
 De taal waarin ik kies heb ik niet zelf gemaakt. Mijn lichaam opent sommige mogelijkheden en sluit andere. Mijn aandacht, verlangens en angsten hebben een geschiedenis. Zelfs het vermogen om te wachten, redenen te wegen of een impuls te beteugelen is gevormd.
 
-Als vrijheid alleen kan bestaan waar bepaaldheid ophoudt, blijft er weinig menselijke vrijheid over.
-
-Een niesbui, een paniekreactie, een onder dreiging gezette handtekening en een beslissing na weken overleg hebben allemaal oorzaken. Toch verschillen ze wezenlijk in de manier waarop iemand erin kan antwoorden.
+Als vrijheid alleen kan bestaan waar bepaaldheid ophoudt, blijft er weinig menselijke vrijheid over. Een niesbui, een paniekreactie, een onder dreiging gezette handtekening en een beslissing na weken overleg hebben allemaal oorzaken. Toch verschillen ze wezenlijk in de manier waarop iemand erin kan antwoorden.
 
 > **Vrijheid is hier geen ontsnapping aan bepaaldheid, maar ruimte binnen bepaaldheid om ontvangen impulsen, redenen en omstandigheden te bemiddelen en er antwoord op te geven.**
 
@@ -66,9 +62,7 @@ Daarom past het beeld hier. Vrijheid verschijnt niet pas wanneer geschiedenis, l
 
 ## Niet iedere eigen wens is vrije wil
 
-Dwang hoeft niet altijd van buiten te komen.
-
-Iemand kan zijn gevormd in een omgeving waarin één levenspad vanzelfsprekend lijkt, waarin tegenspraak liefde kost of waarin een algoritmische omgeving precies die prikkels versterkt waarop hij voorspelbaar reageert. De uiteindelijke wens kan oprecht aanvoelen.
+Dwang hoeft niet altijd van buiten te komen. Iemand kan zijn gevormd in een omgeving waarin één levenspad vanzelfsprekend lijkt, waarin tegenspraak liefde kost of waarin een algoritmische omgeving precies die prikkels versterkt waarop hij voorspelbaar reageert. De uiteindelijke wens kan oprecht aanvoelen.
 
 Een oprechte wens bewijst nog niet dat de voorwaarden waaronder zij ontstond vrij waren.
 
@@ -90,9 +84,7 @@ Hier krijgt <span class="begrip" data-term="antwoordruimte">antwoordruimte</span
 
 Een leven krijgt vorm doordat sommige mogelijkheden worden afgesloten. Wie een belofte doet, een vak leert of een relatie beëindigt, sluit werkelijke toekomsten af.
 
-Een onomkeerbare keuze kan vrij zijn.
-
-De relevante vraag is of voldoende voorwaarden behouden blijven om later opnieuw te kunnen voelen, begrijpen, weigeren, herstellen, corrigeren en richting geven.
+Een onomkeerbare keuze kan vrij zijn: de relevante vraag is of voldoende voorwaarden behouden blijven om later opnieuw te kunnen voelen, begrijpen, weigeren, herstellen, corrigeren en richting geven.
 
 > **Vrijheid is niet maximale keuzevrijheid op ieder moment, maar voldoende voorwaarden behouden om opnieuw te kunnen antwoorden.**
 

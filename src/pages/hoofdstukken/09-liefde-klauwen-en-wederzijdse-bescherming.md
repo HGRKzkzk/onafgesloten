@@ -11,7 +11,7 @@ source:
 divergence:
   status: "integraal-gecomprimeerd"
   note: "Wederkerigheid, asymmetrie, zorg en grens krijgen hier hun relationele thuisbasis; antwoordruimte wordt gebruikt in plaats van opnieuw gedefinieerd."
-lastSyncCheck: "2026-09-04"
+lastSyncCheck: "2026-09-11"
 ---
 Liefde is een vreemd woord om filosofisch te gebruiken. Het draagt te veel mee: romantiek, familie, vriendschap, zorg, verlangen, trouw, erotiek, verlies, religie, afhankelijkheid. Wie er een zuiver principe van maakt, verliest gemakkelijk precies de rommeligheid die liefde werkelijk maakt.
 
@@ -27,9 +27,7 @@ Niet de oplossing van de ander. Niet volledige toegang tot de ander. Niet eens n
 
 ## Nabijheid zonder bezit
 
-Liefde wil vaak dichterbij. We willen weten wat er speelt, helpen, begrijpen, vasthouden wat dreigt te verdwijnen.
-
-Precies daarin schuilt gevaar.
+Liefde wil vaak dichterbij. We willen weten wat er speelt, helpen, begrijpen, vasthouden wat dreigt te verdwijnen. Precies daarin schuilt gevaar.
 
 Zorg kan gaan voelen als recht op uitleg. Trouw als recht op voortzetting. Een lange geschiedenis als recht op nog één gesprek. Goedbedoeld begrip als reden om het nee van de ander te passeren.
 
@@ -67,9 +65,7 @@ De weigering iemand voortijdig vast te leggen mag niet veranderen in een plicht 
 
 Een relatie kan eindigen. Contact kan schadelijk worden. Een slachtoffer kan bescherming nodig hebben tegen degene die herstel zoekt. Een vriend kan ophouden redder te zijn.
 
-De eerder uitgewerkte <span class="begrip" data-term="antwoordruimte">antwoordruimte</span> helpt hier, maar hoeft niet opnieuw te worden gedefinieerd. Soms bewaart afstand precies de ruimte om weer te kunnen voelen, kiezen en herstellen. Soms is heropening later denkbaar. Soms helemaal niet.
-
-Wie herstel wil, krijgt daarmee geen recht op de ander.
+De eerder uitgewerkte <span class="begrip" data-term="antwoordruimte">antwoordruimte</span> helpt hier, maar hoeft niet opnieuw te worden gedefinieerd. Soms bewaart afstand precies de ruimte om weer te kunnen voelen, kiezen en herstellen. Soms is heropening later denkbaar, soms helemaal niet, en wie herstel wil, krijgt daarmee geen recht op de ander.
 
 Temporaliteit doet ertoe. Wat ooit misschien mogelijk wordt, hoeft nu niet te gebeuren. Groei kan worden uitgenodigd, niet afgedwongen.
 
@@ -89,9 +85,7 @@ Niet-menselijke dieren zijn daarbij niet alleen spiegel voor menselijke nederigh
 
 Kleinheid verschilt van kleingemaakt worden.
 
-Kleingemaakt worden is gereduceerd raken tot ruis, kostenpost, datapunt, gebruiksvoorwerp, stereotype of vervangbaar middel.
-
-Kwetsbaarheid is geen toestemming om een vorm tot middel te reduceren.
+Kleingemaakt worden is gereduceerd raken tot ruis, kostenpost, datapunt, gebruiksvoorwerp, stereotype of vervangbaar middel: kwetsbaarheid is geen toestemming om een vorm tot middel te reduceren.
 
 Wie kwetsbaar is, heeft daarom niet minder recht op een grens die werkelijk gevolg krijgt.
 
@@ -179,9 +173,7 @@ Een slachtoffer hoeft zijn ontvankelijkheid niet te bewijzen door opnieuw kwetsb
 
 Solidariteit vraagt evenmin dat iedereen hetzelfde wordt of zich volledig met elkaar identificeert.
 
-Mensen kunnen elkaar beschermen omdat zij een wereld delen waarin intimidatie, geweld, uitbuiting of vernedering de gezamenlijke ruimte vernauwt.
-
-Daarvoor zijn soms harde grenzen nodig.
+Mensen kunnen elkaar beschermen omdat zij een wereld delen waarin intimidatie, geweld, uitbuiting of vernedering de gezamenlijke ruimte vernauwt, en daarvoor zijn soms harde grenzen nodig.
 
 De vraag is wat zo'n grens beschermt. Beschermt zij een ruimte waarin verschil, correctie en vertrek mogelijk blijven? Of beschermt zij vooral het recht van één groep om te bepalen wie mag meetellen?
 
@@ -203,9 +195,7 @@ Wie stopt met de schadelijke praktijk hoeft niet voor altijd vijand te blijven. 
 
 ## Liefde zonder eindoplossing
 
-Liefde staat niet boven recht, grens of waarheid. Zij kan blind maken. Zorg kan bezit worden. Bescherming kan paternalistisch worden.
-
-Zij is geen vervanging voor rechtvaardigheid.
+Liefde staat niet boven recht, grens of waarheid. Zij kan blind maken. Zorg kan bezit worden. Bescherming kan paternalistisch worden. Zij is geen vervanging voor rechtvaardigheid.
 
 Wat liefde wel kan bewaren is de weigering de ander volledig te laten samenvallen met diens functie voor mij, zelfs wanneer ik afstand moet nemen, een grens moet handhaven of tegen diens handelen in moet gaan.
 
