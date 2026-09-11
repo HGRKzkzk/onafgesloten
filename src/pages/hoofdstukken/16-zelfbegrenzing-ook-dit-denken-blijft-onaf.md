@@ -68,6 +68,22 @@ Dat laatste is geen mislukking.
 
 Een theorie die alleen groeit en nooit snoeit, wordt een archief van zichzelf.
 
+## Wanneer moet iets werkelijk vervallen?
+
+Niet ieder filosofisch begrip kan worden weerlegd zoals een empirische hypothese. Toch moet zichtbaar blijven wanneer behoud oneerlijk wordt.
+
+Een begrip, verbinding of toepassingsregel moet worden opgegeven of teruggebracht wanneer een van deze dingen structureel gebeurt:
+
+1. **Het veronderstelde verschil verschijnt niet.** In de gevallen waarvoor het begrip bedoeld is, blijkt het geen onderscheid te maken dat in ervaring, onderzoek of praktijk terug te vinden is.
+2. **Een bestaand kader doet hetzelfde beter.** Een eenvoudiger of domeinspecifieker begrip beschrijft hetzelfde preciezer, zonder relevant verlies.
+3. **Behoud vraagt om verschuivende betekenis.** Tegenvoorbeelden passen alleen nog doordat het begrip na iedere kritiek zo wordt herformuleerd dat ook het bezwaar er alsnog onder valt.
+
+Herformulering mag. Maar zij is niet kosteloos. Wanneer een begrip na kritiek iets anders moet gaan betekenen, moet zichtbaar worden wat de oude formulering verloor.
+
+Wanneer hetzelfde begrip tegengestelde gevallen even gemakkelijk ondersteunt en vrijwel iedere uitkomst ermee te verenigen is, onderscheidt het niet meer. Dan verliest het zijn plaats in het kader.
+
+Een tegenvoorbeeld hoeft dus niet het hele project te laten bezwijken. Het kan lokaler iets laten vervallen: een begrip, een koppeling tussen begrippen, een toepassingsdomein of een normatieve gevolgtrekking. Maar er moet werkelijk iets kunnen verdwijnen.
+
 ## Drie vragen per begrip
 
 Hoe centraler een projectbegrip wordt, hoe sterker de rechtvaardigingslast.
