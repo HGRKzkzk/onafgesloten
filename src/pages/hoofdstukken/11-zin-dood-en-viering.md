@@ -59,7 +59,7 @@ De concrete wederkerige verhouding tot de levende ander is beëindigd. De dode k
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">Gilgamesj vindt geen achterdeur</h3>
 <figure class="uitkijkje__figure">
-  <img src="/onafgesloten/images/hoofdstuk-11/gilgamesj-tablet.jpg" alt="Voorzijde van een kleitablet met spijkerschrift uit het Gilgamesj-epos." loading="lazy" />
+  <img src="../../images/hoofdstuk-11/gilgamesj-tablet.jpg" alt="Voorzijde van een kleitablet met spijkerschrift uit het Gilgamesj-epos." loading="lazy" />
   <figcaption>Tablet van het Gilgamesj-epos, reproductie gepubliceerd door Stephen Langdon, 1917. Publiek domein.</figcaption>
 </figure>
 <div class="uitkijkje__text">

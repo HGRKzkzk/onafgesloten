@@ -22,7 +22,7 @@ Gezondheid wordt dan een vraag naar verhouding:
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">De ideale mens past uitstekend op papier</h3>
 <figure class="uitkijkje__figure">
-  <img src="/onafgesloten/images/hoofdstuk-07/vitruviusman.jpg" alt="Leonardo da Vinci, Vitruviusman" loading="lazy" />
+  <img src="../../images/hoofdstuk-07/vitruviusman.jpg" alt="Leonardo da Vinci, Vitruviusman" loading="lazy" />
 </figure>
 <div class="uitkijkje__text">
 

@@ -141,7 +141,7 @@ Zij betekent dat voltooiing geen immuniteit geeft.
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">Een schilderij dat naar zijn eigen kijken kijkt</h3>
 <figure class="uitkijkje__figure">
-  <img src="/onafgesloten/images/hoofdstuk-16/velazquez-las-meninas.jpg" alt="Diego Velázquez, Las Meninas, met de schilder zelf, hofpersonen, een spiegel en meerdere blikrichtingen." loading="lazy" />
+  <img src="../../images/hoofdstuk-16/velazquez-las-meninas.jpg" alt="Diego Velázquez, Las Meninas, met de schilder zelf, hofpersonen, een spiegel en meerdere blikrichtingen." loading="lazy" />
   <figcaption>Diego Velázquez, Las Meninas, 1656. Museo del Prado. Publiek domein.</figcaption>
 </figure>
 <div class="uitkijkje__text">

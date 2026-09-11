@@ -65,7 +65,7 @@ Culturele bescheidenheid betekent dus niet dat verschillen verdwijnen, maar dat 
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">Op de brug boven de Hao</h3>
 <figure class="uitkijkje__figure">
-  <img src="/onafgesloten/images/hoofdstuk-15/zhou-pleasures-of-fishes.jpg" alt="Zhou Dongqing, The Pleasures of Fishes, een Chinese handrol met vissen in water." loading="lazy" />
+  <img src="../../images/hoofdstuk-15/zhou-pleasures-of-fishes.jpg" alt="Zhou Dongqing, The Pleasures of Fishes, een Chinese handrol met vissen in water." loading="lazy" />
   <figcaption>Zhou Dongqing, The Pleasures of Fishes, 1291, Yuan-dynastie. Publiek domein.</figcaption>
 </figure>
 <div class="uitkijkje__text">

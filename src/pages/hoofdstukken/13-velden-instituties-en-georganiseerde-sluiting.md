@@ -52,7 +52,7 @@ Een bezwaarmogelijkheid die alleen werkt voor wie tijd, taal, geld, gezondheid e
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">Bureaucratie heeft een lange komische geschiedenis</h3>
 <figure class="uitkijkje__figure">
-  <img src="/onafgesloten/images/hoofdstuk-13/daumier-gens-de-justice.jpg" alt="Honoré Daumier, een satirische lithografie uit de reeks Les Gens de Justice." loading="lazy" />
+  <img src="../../images/hoofdstuk-13/daumier-gens-de-justice.jpg" alt="Honoré Daumier, een satirische lithografie uit de reeks Les Gens de Justice." loading="lazy" />
   <figcaption>Honoré Daumier, Les Gens de Justice, 19e eeuw. Publiek domein.</figcaption>
 </figure>
 <div class="uitkijkje__text">
@@ -160,7 +160,7 @@ Een veld kan gedrag verklaren zonder verantwoordelijkheid uit te wissen.
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">Een lege hoek wordt een speelplaats</h3>
 <figure class="uitkijkje__figure">
-  <img src="/onafgesloten/images/hoofdstuk-13/van-eyck-speeltoestel.jpg" alt="Een iglovormig klimtoestel naar ontwerp van Aldo van Eyck in de beeldentuin van het Rijksmuseum." loading="lazy" />
+  <img src="../../images/hoofdstuk-13/van-eyck-speeltoestel.jpg" alt="Een iglovormig klimtoestel naar ontwerp van Aldo van Eyck in de beeldentuin van het Rijksmuseum." loading="lazy" />
   <figcaption>Speeltoestel naar ontwerp van Aldo van Eyck, oorspronkelijk ca. 1962. Foto Vysotsky, 2021, CC BY-SA 4.0.</figcaption>
 </figure>
 <div class="uitkijkje__text">

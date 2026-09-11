@@ -48,7 +48,7 @@ Alles kan tegelijkertijd van betekenis zijn; niet alles kan tegelijkertijd belan
 <p class="uitkijkje__label">Even opzij</p>
 <h3 class="uitkijkje__title">Ook muziek bestaat uit niet-spelen</h3>
 <figure class="uitkijkje__figure">
-  <img src="/onafgesloten/images/hoofdstuk-06/music-rests.svg" alt="Een reeks rusttekens uit de westerse muzieknotatie met verschillende tijdsduren." loading="lazy" />
+  <img src="../../images/hoofdstuk-06/music-rests.svg" alt="Een reeks rusttekens uit de westerse muzieknotatie met verschillende tijdsduren." loading="lazy" />
   <figcaption>Rusttekens in westerse muzieknotatie. Wikimedia Commons, Music rests.svg. Publiek domein.</figcaption>
 </figure>
 <div class="uitkijkje__text">

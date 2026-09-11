@@ -35,7 +35,7 @@ Een toepassing die alleen bevestiging kan vinden, toetst niets.
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">De koe kijkt niet terug als beleidsmodel</h3>
 <figure class="uitkijkje__figure">
-  <img src="/onafgesloten/images/hoofdstuk-14/potter-de-stier.jpg" alt="Paulus Potter, De Stier, een monumentaal rund in een landschap." loading="lazy" />
+  <img src="../../images/hoofdstuk-14/potter-de-stier.jpg" alt="Paulus Potter, De Stier, een monumentaal rund in een landschap." loading="lazy" />
   <figcaption>Paulus Potter, De Stier, 1647. Mauritshuis. Publiek domein.</figcaption>
 </figure>
 <div class="uitkijkje__text">

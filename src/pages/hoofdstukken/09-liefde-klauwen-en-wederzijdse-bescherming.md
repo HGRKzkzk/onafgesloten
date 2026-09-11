@@ -92,7 +92,7 @@ Wie kwetsbaar is, heeft daarom niet minder recht op een grens die werkelijk gevo
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">Nijntje hoeft niet groot te worden</h3>
 <figure class="uitkijkje__figure">
-  <img src="/onafgesloten/images/hoofdstuk-09/nijntje-sculptuur.jpg" alt="Het Nijntje-beeld van Marc Bruna op het Nijntjepleintje in Utrecht." loading="lazy" />
+  <img src="../../images/hoofdstuk-09/nijntje-sculptuur.jpg" alt="Het Nijntje-beeld van Marc Bruna op het Nijntjepleintje in Utrecht." loading="lazy" />
   <figcaption>Nijntje-sculptuur van Marc Bruna, Utrecht. Foto FakirNL, 2023, CC BY-SA 4.0.</figcaption>
 </figure>
 <div class="uitkijkje__text">
@@ -128,7 +128,7 @@ De vraag is wat de kracht probeert te beschermen en hoeveel zij daarvoor hoeft t
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">Stoelen, lichamen, bijna-botsingen</h3>
 <figure class="uitkijkje__figure">
-  <img src="/onafgesloten/images/hoofdstuk-09/pina-bausch.jpg" alt="Pina Bausch tijdens het Festival van Avignon in 1981, gefotografeerd door Fernand Michaud." loading="lazy" />
+  <img src="../../images/hoofdstuk-09/pina-bausch.jpg" alt="Pina Bausch tijdens het Festival van Avignon in 1981, gefotografeerd door Fernand Michaud." loading="lazy" />
   <figcaption>Pina Bausch, Festival van Avignon, 1981. Foto Fernand Michaud / Bibliothèque nationale de France. Publiek domein.</figcaption>
 </figure>
 <div class="uitkijkje__text">
