@@ -85,7 +85,7 @@ We zijn werkelijk iemand, maar niet uitsluitend uit onszelf.
 
 ### Vorm is geen vergissing
 
-Vorm is hier geen oppervlakkige verpakking waarachter iets oorspronkelijkers schuilgaat. Zonder vorm is er geen *hier* vanwaar iets kan gebeuren.
+<span class="begrip" data-term="vorm">Vorm</span> is hier geen oppervlakkige verpakking waarachter iets oorspronkelijkers schuilgaat. Zonder vorm is er geen *hier* vanwaar iets kan gebeuren.
 
 Een huid maakt verschil tussen binnen en buiten. Een taal heeft regels waardoor woorden herkenbaar worden. Een vriendschap krijgt vorm doordat bepaalde herinneringen, verwachtingen en gewoonten samen iets vormen wat andere relaties niet zijn. Ook verantwoordelijkheid vraagt vorm: als geen handeling ergens aan kan worden toegeschreven, kan niemand ergens op worden aangesproken. Als iedere grens onmiddellijk verdacht wordt, kan ook zorg nergens meer landen.
 
