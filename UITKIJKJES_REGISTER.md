@@ -1,6 +1,7 @@
 # Uitkijkjesregister — Onafgesloten
 
 **Status:** werkdocument  
+**Laatste integrale synccontrole:** 11 september 2026  
 **Doel:** de uitkijkjeslaag inhoudelijk rijk, cultureel breed en redactioneel niet-repetitief houden.
 
 Dit register is geen canon. Het is een geheugensteun tegen doublures en tegen een ongemerkte monocultuur van steeds dezelfde makers, media, periodes, regio's en functies.
@@ -42,12 +43,11 @@ Een uitkijkje mag meerdere effecten hebben, maar noteer één primaire functie. 
 | Hoofdstuk | Uitkijkje | Bron / maker | Medium | Periode / context | Regio / traditie | Primaire functie |
 | --- | --- | --- | --- | --- | --- | --- |
 | Vooraf | De perfecte kaart | Lewis Carroll / Henry Holiday, *The Hunting of the Snark* | boekillustratie / literatuur | 1876 | Verenigd Koninkrijk | humor / ontregelen |
-| Vooraf | Met het hoofd door de hemel | anoniem, Flammarion-gravure | gravure | 1888 | Frankrijk / Europa | schaalverschuiving |
 | 01 | De storm is echt, maar nergens los verkrijgbaar | NASA Earth Observatory / Expedition 24, Hurricane Igor | wetenschappelijke fotografie / aardobservatie | 2010 | Atlantische Oceaan / ruimtevaart | concretiseren |
 | 01 | Kermit heeft ook geen sluitend systeem | Bernard Gotfryd / Jim Henson / *The Muppets* | fotografie / popcultuur / televisie | 1979 | Verenigde Staten | humor / lucht |
-| 01 | Muziek bestaat ook uit wat niet klinkt | rusttekens in westerse muzieknotatie | muzieknotatie / diagram | gangbare notatiepraktijk | westerse muziektraditie | concretiseren |
+| 01 | De boom staat nog | Steve Redman / U.S. National Park Service, staande dode boom | natuurwaarneming / fotografie | 2009 | Verenigde Staten / Mount Rainier | tegenbeeld |
 | 02 | Gedragen worden is geen bijzaak | Mary Cassatt, *Mother and Child* | schilderkunst | ca. 1905 | Frans-Amerikaanse kunst | concretiseren |
-| 03 | Een gevoel dat al verschijnt vóór de uitleg | Edvard Munch, *De Schreeuw* | schilderkunst | 1893 | Noorwegen / Europa | concretiseren |
+| 03 | De lijn zegt niet waarom ze uitslaat | Federal Bureau of Investigation, demonstratie polygraaf | wetenschappelijke / forensische fotografie en instrument | jaren 1970 | Verenigde Staten | concretiseren |
 | 03 | Een koe hoeft geen mens te worden | Franz Marc, *De gele koe* | schilderkunst | 1911 | Duitsland / Europa | ontregelen |
 | 04 | Nieuwsgierigheid heeft slechte routeplanning | John Tenniel, *Alice's Adventures in Wonderland* | boekillustratie / literatuur | 1865 | Verenigd Koninkrijk | humor / ontregelen |
 | 05 | De golf en de boot | Katsushika Hokusai, *De grote golf bij Kanagawa* | ukiyo-e / houtdruk | ca. 1830–32 | Japan | concretiseren |
@@ -59,23 +59,21 @@ Een uitkijkje mag meerdere effecten hebben, maar noteer één primaire functie. 
 | 09 | Stoelen, lichamen, bijna-botsingen | Pina Bausch, *Café Müller* | dans / theater | 1978 | Duitsland / Tanztheater | vertragen |
 | 10 | Een toren van taal | Pieter Bruegel de Oude, *De toren van Babel* | schilderkunst | 1563 | Lage Landen / Europa | tegenbeeld |
 | 11 | Gilgamesj vindt geen achterdeur | *Gilgamesj-epos* | literatuur / mythe | Oud-Babylonische en latere teksttradities | Mesopotamië | culturele verbreding |
-| 12 | De hemel is groter dan haar kaart | Dunhuang-sterrenkaart | astronomische kaart / manuscript | Tang-periode, ca. 7e–8e eeuw | China / Dunhuang | culturele verbreding |
 | 13 | Bureaucratie heeft een lange komische geschiedenis | Honoré Daumier | karikatuur / grafiek | 19e eeuw | Frankrijk / Europa | humor / lucht |
 | 13 | Een lege hoek wordt een speelplaats | Aldo van Eyck, Amsterdamse speelplaatsen | architectuur / openbare ruimte | vanaf eind jaren 1940 | Nederland / Amsterdam | vertragen |
 | 14 | De koe kijkt niet terug als beleidsmodel | Paulus Potter, *De Stier* / rund als monumentaal onderwerp | schilderkunst | 17e eeuw | Nederland | schaalverschuiving |
-| 14 | Bartleby zegt liever niet | Herman Melville, *Bartleby, the Scrivener* | literatuur | 1853 | Verenigde Staten | vertragen |
-| 15 | Geen canon is cultureel neutraal | metareflectie op de eigen selectie | tekstueel / zelfkritiek | hedendaagse redactie | projectintern | tegenbeeld |
+| 15 | Op de brug boven de Hao | *Zhuangzi*, dialoog tussen Zhuangzi en Huizi in “The Floods of Autumn” | filosofische dialoog / klassieke tekst | Strijdende Staten / overgeleverde teksttraditie | China / klassieke Chinese filosofie | culturele verbreding |
 | 16 | Een schilderij dat naar zijn eigen kijken kijkt | Diego Velázquez, *Las Meninas* | schilderkunst | 1656 | Spanje / Europa | zelfreflectie / ontregelen |
 
 ## Wat de inventaris nu al laat zien
 
-De exacte doublures van Hokusai en de Flammarion-gravure zijn in de registerronde van september 2026 opgelost. In de uitwerking van hoofdstuk 11 is ook het tweede Bruegel-uitkijkje vervangen door het *Gilgamesj-epos*. Daarmee blijft Bruegel alleen in hoofdstuk 10 staan en wordt tegelijk medium, periode en culturele herkomst verbreed.
+De huidige inventaris bevat 22 uitkijkjes. Alleen uitkijkjes die daadwerkelijk in de hoofdtekst staan worden meegerekend; verwijderde blokken verdwijnen in dezelfde redactiewijziging uit dit register.
 
-In de integrale redactieronde zijn de langere hoofdstukken 08, 09, 13 en 14 voorzien van een tweede adempunt. Daarbij is bewust gekozen voor andere media dan schilderkunst: jazz, dans/theater, architectuur/openbare ruimte en literatuur. Deze tweede ramen zijn primair als **vertragen** geregistreerd en hoeven het omringende argument niet te bewijzen.
+In de langere hoofdstukken 08, 09 en 13 is bewust een tweede adempunt gebruikt. Daarbij verschuift het medium weg van schilderkunst naar jazz, dans/theater en architectuur/openbare ruimte.
 
-De leesritmeronde heeft ook een tweede criterium toegevoegd: herkenbaarheid is relationeel aan het beoogde publiek. Peter Rabbit is daarom in hoofdstuk 09 vervangen door Nijntje. Dat is geen algemene voorkeur voor Nederlandse voorbeelden, maar een correctie waar een cultureel rustpunt zijn functie verloor doordat een groot deel van het beoogde publiek de verwijzing niet direct herkende.
+De huidige spreiding is sterker dan in eerdere rondes: aardobservatie, natuurwaarneming, wetenschappelijke instrumentatie, architectuur, dans, jazz, mythe en klassieke filosofische dialoog staan inmiddels naast schilderkunst en Europese literatuur. Tegelijk blijft een duidelijke Europese en schilderkunstige zwaarte zichtbaar. Dat hoeft bestaande sterke uitkijkjes niet verdacht te maken, maar het geeft richting aan nieuwe keuzes.
 
-Er blijft wel een duidelijke **Europese en schilderkunstige zwaarte** zichtbaar. Dat hoeft bestaande sterke uitkijkjes niet verdacht te maken, maar het geeft richting aan nieuwe keuzes. Bij volgende hoofdstukken verdienen daarom, waar inhoudelijk passend, extra aandacht:
+Bij volgende hoofdstukken verdienen daarom, waar inhoudelijk passend, extra aandacht:
 
 - fotografie en documentaire beelden;
 - wetenschapsgeschiedenis en instrumenten;
@@ -100,4 +98,4 @@ Voor merge beantwoorden we kort:
 - Kan het weg zonder dat de redenering instort? Zo nee, dan draagt het te veel argumentatieve last.
 - Is bron, maker, herkomst en rechtenstatus voldoende controleerbaar wanneer beeldmateriaal wordt gebruikt?
 
-Na merge wordt het register in dezelfde wijziging bijgewerkt. Een nieuw uitkijkje zonder registerregel geldt als onvolledige redactie.
+Na merge wordt het register in dezelfde wijziging bijgewerkt. Een nieuw, vervangen of verwijderd uitkijkje zonder overeenkomstige registerwijziging geldt als onvolledige redactie.
