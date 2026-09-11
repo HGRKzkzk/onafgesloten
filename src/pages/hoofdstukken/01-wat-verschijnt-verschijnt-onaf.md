@@ -173,7 +173,7 @@ Voortbestaan vertelt ons dat een vorm op de een of andere manier wordt gedragen.
       loading="lazy"
     />
     <figcaption>
-      Steve Redman / U.S. National Park Service, staande dode boom (<em>tree snag</em>),
+      Steve Redman / U.S. National Park Service, staande dode boom,
       Mount Rainier National Park, 2009. Publiek domein.
     </figcaption>
   </figure>
@@ -181,8 +181,7 @@ Voortbestaan vertelt ons dat een vorm op de een of andere manier wordt gedragen.
   <h3 class="uitkijkje__title">De boom staat nog</h3>
 
   <p>
-    Een <em>snag</em> is een staande dode boom. Stam en takken kunnen nog jaren herkenbaar overeind blijven
-    nadat groei en herstel zijn gestopt.
+    Een staande dode boom kan nog jaren herkenbaar overeind blijven nadat groei en herstel zijn gestopt.
   </p>
 
   <p>
