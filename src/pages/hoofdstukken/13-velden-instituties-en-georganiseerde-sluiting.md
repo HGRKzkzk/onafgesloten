@@ -85,7 +85,7 @@ Tussen actor, relatie en instituut moet waar mogelijk een onafhankelijke derde k
 
 De derde bewaakt of de redenen nog toetsbaar zijn, of de zwakkere partij werkelijk hoorbaar is, of relevante informatie kan terugkeren en of dezelfde macht niet tegelijk rechter over haar eigen grens is.
 
-Een organisatie die zelf bepaalt wanneer haar eigen uitzonderingsmacht gerechtvaardigd is, zelf toetst of de gevolgen aanvaardbaar waren en zelf beslist wanneer die uitzondering eindigt, heeft formeel misschien meerdere stappen maar materieel één actor. Een onafhankelijke derde onderbreekt die lus.
+Een organisatie die zelf bepaalt wanneer haar eigen uitzonderingsmacht gerechtvaardigd is, zelf toetst of de gevolgen aanvaardbaar waren en zelf beslist wanneer die uitzondering eindigt, doorloopt formeel misschien meerdere stappen maar blijft materieel één actor. Een onafhankelijke derde onderbreekt die lus.
 
 Ook die derde mag geen nieuw monopolie op redelijkheid krijgen. Bevoegdheid moet begrensd zijn, belangen zichtbaar, vervanging of hoger beroep mogelijk en ook de correctieroute zelf corrigeerbaar.
 
