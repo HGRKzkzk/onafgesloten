@@ -105,6 +105,14 @@ Een daad kan volledig van mij zijn zonder volledig te zeggen wie ik ben. Een pat
 
 Onaf betekent hier: *het telt, maar het put niet uit.*
 
+### Gedragen verschil
+
+Een vorm krijgt samenhang doordat zij verschil draagt. Een lichaam blijft lichaam terwijl allerlei processen niet samenvallen. Ademhaling, hartslag, zenuwactiviteit, temperatuur en beweging hoeven niet hetzelfde te worden om bij één levend lichaam te horen.
+
+Hetzelfde geldt, op een andere manier, voor een relatie. Twee mensen hoeven elkaar niet volledig te begrijpen om een vriendschap te hebben. Ze hoeven zelfs niet voortdurend hetzelfde te willen. De relatie krijgt vorm doordat verschil niet onmiddellijk tot uiteenvallen leidt.
+
+Daarom kunnen we vorm voorlopig omschrijven als **gedragen verschil**: er moet verschil zijn, anders verschijnt niets; er moet samenhang zijn, anders houdt niets stand. En bij levende en lerende vormen moet er genoeg uitwisseling mogelijk blijven om nog door gebeurtenissen veranderd te kunnen worden.
+
 <aside class="uitkijkje uitkijkje--beeld uitkijkje--luchtgat">
   <p class="uitkijkje__label">Luchtgat</p>
 
@@ -145,14 +153,6 @@ Onaf betekent hier: *het telt, maar het put niet uit.*
   </p>
 </aside>
 
-### Gedragen verschil
-
-Een vorm krijgt samenhang doordat zij verschil draagt. Een lichaam blijft lichaam terwijl allerlei processen niet samenvallen. Ademhaling, hartslag, zenuwactiviteit, temperatuur en beweging hoeven niet hetzelfde te worden om bij één levend lichaam te horen.
-
-Hetzelfde geldt, op een andere manier, voor een relatie. Twee mensen hoeven elkaar niet volledig te begrijpen om een vriendschap te hebben. Ze hoeven zelfs niet voortdurend hetzelfde te willen. De relatie krijgt vorm doordat verschil niet onmiddellijk tot uiteenvallen leidt.
-
-Daarom kunnen we vorm voorlopig omschrijven als **gedragen verschil**: er moet verschil zijn, anders verschijnt niets; er moet samenhang zijn, anders houdt niets stand. En bij levende en lerende vormen moet er genoeg uitwisseling mogelijk blijven om nog door gebeurtenissen veranderd te kunnen worden.
-
 Hier verschijnt ook het woord <span class="begrip" data-term="antwoord">antwoord</span>. Antwoorden betekent meer dan reageren. Een deurbel gaat en een hond blaft; een knie krijgt een tik en het been schiet omhoog. Veel reacties ontstaan zonder dat er iets hoeft te worden overwogen. Mensen kunnen soms iets anders doen: een impuls voelen en wachten, een gewoonte herkennen en proberen haar te veranderen, kritiek horen, zich eerst verdedigen en later toch terugkomen.
 
 We kunnen ontvangen wat ons bepaalt en daar, binnen grenzen en met een eigen aandeel, iets anders mee doen.
@@ -168,34 +168,33 @@ Voortbestaan vertelt ons dat een vorm op de een of andere manier wordt gedragen.
 <aside class="uitkijkje uitkijkje--beeld">
   <p class="uitkijkje__label">Even opzij</p>
 
-  <figure class="uitkijkje__figure uitkijkje__figure--small">
+  <figure class="uitkijkje__figure">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Music_rests.svg"
-      alt="Een reeks rusttekens uit de westerse muzieknotatie met verschillende tijdsduren."
+      src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Tree_snag_%289f1eddb8679f45a9885aa0484b25f816%29.JPG"
+      alt="Een staande dode boom in Mount Rainier National Park."
       loading="lazy"
     />
     <figcaption>
-      Rusttekens in westerse muzieknotatie. Wikimedia Commons, <em>Music rests.svg</em>, publiek domein.
+      Steve Redman / U.S. National Park Service, staande dode boom (<em>tree snag</em>),
+      Mount Rainier National Park, 2009. Publiek domein.
     </figcaption>
   </figure>
 
-  <h3 class="uitkijkje__title">Muziek bestaat ook uit wat niet klinkt</h3>
+  <h3 class="uitkijkje__title">De boom staat nog</h3>
 
   <p>
-    Een rustteken is geen gat waar de muziek per ongeluk ontbreekt. In muzieknotatie heeft een rust een bepaalde
-    duur, net zoals een noot. De stilte neemt dus werkelijk tijd in; de maat verdwijnt niet omdat niemand op dat
-    moment klinkt.
+    Een <em>snag</em> is een staande dode boom. Stam en takken kunnen nog jaren herkenbaar overeind blijven
+    nadat groei en herstel zijn gestopt.
   </p>
 
   <p>
-    Wat ervoor klonk blijft aanwezig in verwachting en geheugen, en wat daarna komt krijgt juist door de
-    onderbreking een andere betekenis. Een vorm hoeft niet voortdurend hetzelfde te doen om zichzelf te blijven.
-    Soms bewaart een onderbreking meer samenhang dan nog een noot.
+    Het beeld houdt één verschil scherp: dat een vorm blijft staan, zegt op zichzelf weinig over de processen
+    die haar droegen. Herkenbare stabiliteit is nog geen teken van gezondheid.
   </p>
 
   <p class="uitkijkje__source">
-    <a href="https://commons.wikimedia.org/wiki/File:Music_rests.svg" target="_blank" rel="noopener noreferrer">
-      Wikimedia Commons — Music rests.svg
+    <a href="https://commons.wikimedia.org/wiki/File:Tree_snag_%289f1eddb8679f45a9885aa0484b25f816%29.JPG" target="_blank" rel="noopener noreferrer">
+      Wikimedia Commons — afbeelding, herkomst en rechteninformatie
     </a>
   </p>
 </aside>

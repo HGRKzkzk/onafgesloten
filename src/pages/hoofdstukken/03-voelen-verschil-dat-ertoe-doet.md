@@ -11,7 +11,7 @@ source:
 divergence:
   status: "substantieel-herwerkt"
   note: "Publieke herschrijving met uitgebreidere ervaringslaag, scherpere begrenzing van voelen, dierlijke sentience, tweede-persoonsperspectief en nieuwe begrippenhulp."
-lastSyncCheck: "2026-09-04"
+lastSyncCheck: "2026-09-11"
 ---
 
 Een steen kan veranderen. Zij kan splijten door vorst, afslijten door water, opwarmen in de zon of onder druk van vorm veranderen. Voor zover wij weten staat er voor de steen zelf niets op het spel.
@@ -54,19 +54,27 @@ Dat maakt gesprek mogelijk. Ik hoef jouw pijn niet te ontkennen om je verklaring
 
 > **Wat jou raakt mag werkelijkheid worden, maar hoeft niemand anders onwerkelijk te maken.**
 
-<aside class="uitkijkje">
-<h3 class="uitkijkje__title">Een gevoel dat al verschijnt vóór de uitleg</h3>
+<aside class="uitkijkje uitkijkje--beeld">
+<h3 class="uitkijkje__title">De lijn zegt niet waarom ze uitslaat</h3>
 <figure class="uitkijkje__figure">
-  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Edvard-Munch-The-Scream.jpg" alt="Edvard Munch, De Schreeuw" loading="lazy" />
+  <img
+    src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Administration_of_Polygraph.jpg"
+    alt="Een demonstratie van een polygraaf, waarbij lichamelijke signalen als lijnen worden geregistreerd."
+    loading="lazy"
+  />
+  <figcaption>
+    Demonstratie van een polygraaf, Federal Bureau of Investigation, Washington D.C., jaren 1970.
+    Publiek domein.
+  </figcaption>
 </figure>
 <div class="uitkijkje__text">
 
-*De Schreeuw* is zo vaak gereproduceerd dat het bijna een pictogram is geworden. Toch blijft het beeld iets ongemakkelijks doen: het gezicht lijkt minder een portret van een persoon dan een lichaam waarin de omgeving zelf spanning is geworden.
+Een polygraaf registreert lichamelijke veranderingen, onder meer in ademhaling, cardiovasculaire activiteit en huidgeleiding. De pennen trekken lijnen. Op geen van die lijnen staat vanzelf “angst”, “leugen”, “herinnering” of “gevaar”.
 
-Het schilderij vertelt niet wat er precies “aan de hand” is. Het laat eerst zien dát er iets aan de hand is.
+Juist daarom past het apparaat hier: een lichamelijk signaal kan werkelijk veranderen terwijl de betekenis nog openligt. Meten is nog geen duiden.
 
 </div>
-<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Edvard-Munch-The-Scream.jpg">Open bron · Wikimedia Commons</a></p>
+<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Administration_of_Polygraph.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — FBI-foto en rechteninformatie</a></p>
 </aside>
 
 ## Van prikkel naar belang
