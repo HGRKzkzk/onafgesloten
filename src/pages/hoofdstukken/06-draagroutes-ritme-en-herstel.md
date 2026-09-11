@@ -47,6 +47,10 @@ Alles kan tegelijkertijd van betekenis zijn; niet alles kan tegelijkertijd belan
 <aside class="uitkijkje" data-label="Even opzij">
 <p class="uitkijkje__label">Even opzij</p>
 <h3 class="uitkijkje__title">Ook muziek bestaat uit niet-spelen</h3>
+<figure class="uitkijkje__figure">
+  <img src="/onafgesloten/images/hoofdstuk-06/music-rests.svg" alt="Een reeks rusttekens uit de westerse muzieknotatie met verschillende tijdsduren." loading="lazy" />
+  <figcaption>Rusttekens in westerse muzieknotatie. Wikimedia Commons, Music rests.svg. Publiek domein.</figcaption>
+</figure>
 <div class="uitkijkje__text">
 
 Een maat muziek waarin iedere noot tegelijk klinkt, is geen rijkere maat. Ritme ontstaat door volgorde, rust, herhaling en uitstel. De stilte tussen twee inzetten is niet het ontbreken van muziek; zij is een voorwaarde waaronder de volgende inzet betekenis krijgt.
@@ -54,6 +58,7 @@ Een maat muziek waarin iedere noot tegelijk klinkt, is geen rijkere maat. Ritme 
 Misschien is prioriteren soms precies dat: iets níét nu laten klinken zodat het later nog werkelijk gehoord kan worden.
 
 </div>
+<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Music_rests.svg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — Music rests.svg, publiek domein</a></p>
 </aside>
 
 Snelheid kan noodzakelijk zijn in acute situaties, maar zij mag handelen niet vanzelf leiden.

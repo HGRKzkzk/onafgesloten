@@ -104,6 +104,10 @@ Een tijdelijke grens kan toekomstige vrijheid bewaren. Wie iemands actuele wil p
 
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">Een paar akkoorden zijn soms genoeg</h3>
+<figure class="uitkijkje__figure">
+  <img src="/onafgesloten/images/hoofdstuk-08/miles-davis-gottlieb.jpg" alt="Miles Davis en Howard McGhee tijdens een optreden in 1947, gefotografeerd door William P. Gottlieb." loading="lazy" />
+  <figcaption>Miles Davis en Howard McGhee, 1947. Foto William P. Gottlieb / Library of Congress. Publiek domein.</figcaption>
+</figure>
 <div class="uitkijkje__text">
 
 Op *Kind of Blue* spelen Miles Davis en zijn medemuzikanten binnen duidelijke muzikale voorwaarden: een tempo, een modaal kader, een vorm en andere spelers om rekening mee te houden. Niet iedere noot ligt vooraf vast.
@@ -113,6 +117,7 @@ Juist daardoor kunnen de musici reageren op wat er net klinkt. Een frase van de 
 Goede voorwaarden kunnen de ruimte maken waarin een werkelijk antwoord mogelijk wordt.
 
 </div>
+<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Miles_Davis%2C_Howard_McGhee%2C_September_1947_%28Gottlieb_05711%29.jpg" target="_blank" rel="noopener noreferrer">William P. Gottlieb / Library of Congress via Wikimedia Commons — publiek domein</a></p>
 </aside>
 
 ## Verantwoordelijkheid zonder totale oorsprong

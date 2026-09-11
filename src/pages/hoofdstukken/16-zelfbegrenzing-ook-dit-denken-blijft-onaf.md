@@ -142,6 +142,10 @@ Zij betekent dat voltooiing geen immuniteit geeft.
 
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">Een schilderij dat naar zijn eigen kijken kijkt</h3>
+<figure class="uitkijkje__figure">
+  <img src="/onafgesloten/images/hoofdstuk-16/velazquez-las-meninas.jpg" alt="Diego Velázquez, Las Meninas, met de schilder zelf, hofpersonen, een spiegel en meerdere blikrichtingen." loading="lazy" />
+  <figcaption>Diego Velázquez, Las Meninas, 1656. Museo del Prado. Publiek domein.</figcaption>
+</figure>
 <div class="uitkijkje__text">
 
 In *Las Meninas* is nauwelijks vast te stellen wie precies onderwerp, kijker of spiegelbeeld is. Velázquez schildert niet alleen een hofscène; hij schildert ook zijn eigen positie en onze blik mee.
@@ -149,4 +153,5 @@ In *Las Meninas* is nauwelijks vast te stellen wie precies onderwerp, kijker of 
 Ook degene die het kader maakt, staat ergens in het kader.
 
 </div>
+<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Las_Meninas_by_Diego_Vel%C3%A1zquez.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — reproductie en rechteninformatie</a></p>
 </aside>

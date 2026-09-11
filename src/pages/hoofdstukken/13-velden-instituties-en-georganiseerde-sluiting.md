@@ -57,6 +57,10 @@ Institutionele openheid moet in routes, bevoegdheden, termijnen en herstelmogeli
 
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">Bureaucratie heeft een lange komische geschiedenis</h3>
+<figure class="uitkijkje__figure">
+  <img src="/onafgesloten/images/hoofdstuk-13/daumier-gens-de-justice.jpg" alt="Honoré Daumier, een satirische lithografie uit de reeks Les Gens de Justice." loading="lazy" />
+  <figcaption>Honoré Daumier, Les Gens de Justice, 19e eeuw. Publiek domein.</figcaption>
+</figure>
 <div class="uitkijkje__text">
 
 Daumier tekent rechters, advocaten en bestuurders achter toga’s, bureaus en stapels papier; hun houding en kleding maken de functie soms letterlijk groter dan de persoon.
@@ -64,6 +68,7 @@ Daumier tekent rechters, advocaten en bestuurders achter toga’s, bureaus en st
 De grap werkt omdat hij iets institutioneels zichtbaar maakt: status en procedure kunnen zoveel gewicht krijgen dat de concrete mens en de gevolgen van een besluit uit beeld raken. De te grote hoed is dan niet alleen komisch, maar een beeld van macht die haar drager overschaduwt.
 
 </div>
+<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Honor%C3%A9_Daumier_-_Les_gens_de_justice.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — afbeelding en rechteninformatie</a></p>
 </aside>
 
 Een gezonde institutie heeft klauwen én open zenuwen. Zij moet kunnen handelen, beschermen en begrenzen, maar ook werkelijk geraakt kunnen worden door uitvoering, burger, wetenschap en gevolg.
@@ -146,6 +151,10 @@ Een veld kan gedrag verklaren zonder verantwoordelijkheid uit te wissen.
 
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">Een lege hoek wordt een speelplaats</h3>
+<figure class="uitkijkje__figure">
+  <img src="/onafgesloten/images/hoofdstuk-13/van-eyck-speeltoestel.jpg" alt="Een iglovormig klimtoestel naar ontwerp van Aldo van Eyck in de beeldentuin van het Rijksmuseum." loading="lazy" />
+  <figcaption>Speeltoestel naar ontwerp van Aldo van Eyck, oorspronkelijk ca. 1962. Foto Vysotsky, 2021, CC BY-SA 4.0.</figcaption>
+</figure>
 <div class="uitkijkje__text">
 
 Na de oorlog ontwierp Aldo van Eyck honderden openbare speelplaatsen voor Amsterdam. Vaak waren het geen grote parken maar kleine plekken tussen huizen en straten: zand, een paar vormen van beton of staal, een klimrek, een bank.
@@ -155,7 +164,7 @@ De toestellen schreven het spel niet helemaal voor. Een boog kon klimrek zijn, h
 Een vergeten hoek van de stad kreeg ineens kinderen.
 
 </div>
-<p class="uitkijkje__source"><a href="https://www.amsterdam.nl/nieuws/erfgoed-week/65-jaar-buitenveldert/">Gemeente Amsterdam · speelplaatsen van Aldo van Eyck</a></p>
+<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:PlaygroundAldovanEyck1962.jpg" target="_blank" rel="noopener noreferrer">Vysotsky / Wikimedia Commons — CC BY-SA 4.0</a></p>
 </aside>
 
 ## Geen stem verhoogt de plicht
