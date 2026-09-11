@@ -2,6 +2,8 @@
 
 De institutionele uitwerking van dit hoofdstuk staat in een veld waarin bestuurskunde, politieke theorie, organisatiewetenschap en recht elkaar raken. De gedachte dat instituties niet alleen regels uitvoeren maar ook feitelijk bepalen welke mogelijkheden burgers hebben, sluit aan bij onderzoek naar bureaucratische macht en uitvoering. Michael Lipsky's werk over *street-level bureaucracy* is hier relevant omdat het laat zien dat beleid in de praktijk mede vorm krijgt in concrete beslissingen van uitvoerders onder tijdsdruk, schaarste en discretionaire ruimte.
 
+Een preciezere verwantschap voor de **tussenpositie** ligt in organisatiewetenschap over *boundary spanning*. Tushman en Scanlan onderzochten actoren die informatie over organisatiegrenzen heen verbinden. Balogun beschrijft middenmanagers tijdens verandering als *change intermediaries*: zij vertalen verandering, helpen anderen ermee omgaan en houden tegelijk het dagelijkse werk gaande. Dit zijn geen rechtstreekse equivalenten van de tussenlaag uit de hoofdtekst. Ze ondersteunen wel het analytische punt dat vertalen tussen niveaus eigen werk is, met eigen informatie-eisen, rolconflicten en belasting.
+
 Albert O. Hirschmans onderscheid tussen *exit*, *voice* en *loyalty* biedt een tweede verwantschap. Een systeem is niet uitsluitend corrigeerbaar doordat mensen kunnen vertrekken; vertrek kan voor afhankelijke burgers, werknemers of leden feitelijk te kostbaar of onmogelijk zijn. *Voice* is evenmin voldoende wanneer spreken niets aan de verhouding kan veranderen. Onafgesloten Vorm verschuift daarom de aandacht van formele inspraak naar de vraag of terugkoppeling werkelijk gevolgen kan hebben voor classificatie, procedure of bevoegdheid.
 
 De nadruk op onafhankelijke derden sluit aan bij bredere tradities van checks and balances, rechterlijke toetsing, ombudsfuncties en institutionele accountability. De precieze institutionele vorm verschilt per domein. De eigen inzet is niet dat één bepaalde controle-instantie universeel noodzakelijk is, maar dat de actor die sluitingsmacht uitoefent niet zonder meer de enige beoordelaar van zijn eigen grens behoort te zijn.
@@ -18,6 +20,8 @@ Onderzoek naar organisatorische veiligheid en zogenoemde *high reliability organ
 
 De aanwezigheid van bezwaar, klacht of inspraak is bovendien geen volledige maat voor feitelijke toegankelijkheid. Procedurele routes hebben gebruikskosten: tijd, kennis, taal, emotionele belasting en soms financieel risico. Dat maakt het analytisch zinvol om naast de formele mogelijkheid tot correctie ook te vragen wie de kosten van die correctie draagt.
 
+Onderzoek naar boundary spanning en change intermediaries ondersteunt daarnaast een beperkte empirische claim: verbinding tussen niveaus gebeurt niet vanzelf. Personen die informatie, betekenis of uitvoering tussen eenheden vertalen kunnen een systeem juist laten functioneren doordat zij discrepanties lokaal opvangen. Dat onderzoek bewijst niet dat zo'n tussenpositie noodzakelijk uitput of dat de oorzaak altijd hoger in de organisatie ligt. Het maakt wel aannemelijk dat vertaalarbeid als afzonderlijke organisatorische functie zichtbaar moet worden gemaakt in plaats van als persoonlijk talent of informele bereidheid te verdwijnen.
+
 ## Tegenlicht
 
 Een eerste bezwaar luidt dat **corrigeerbaarheid besluitvorming eindeloos kan vertragen**. Als ieder besluit open moet blijven voor nieuwe informatie en iedere belanghebbende opnieuw toegang tot heroverweging krijgt, kan een institutie haar beschermende en ordenende functie verliezen. Dit bezwaar raakt de kern. Onafgesloten Vorm verdedigt daarom geen permanent open dossier. Een besluit mag sluiten en sommige grenzen mogen definitief blijven. Corrigeerbaarheid vraagt niet dat iedere uitkomst herroepbaar is, maar dat de rechtvaardiging, bevoegdheid en relevante gevolgen niet principieel buiten toetsing worden geplaatst. Ook correctieroutes mogen termijnen, drempels en finaliteit kennen.
@@ -30,9 +34,11 @@ Een vierde bezwaar is dat **meer participatie niet altijd meer rechtvaardigheid 
 
 Een vijfde bezwaar raakt de asymmetrie. De formule dat grotere sluitingsmacht een zwaardere verantwoordingslast draagt kan te gemakkelijk doen alsof de machtigste actor altijd de meeste morele schuld heeft. Dat volgt niet. Macht, schuld en verantwoordelijkheid zijn verschillende assen. Een staat kan bijvoorbeeld legitiem meer sluitingsmacht hebben bij acuut gevaar en toch juist daarom zwaarder worden belast met proportionaliteit, documentatie en externe toetsing.
 
+Een zesde bezwaar treft de **diagnostische schaalverschuiving**. Als een lokale interventie niet duurzaam werkt, volgt daar niet automatisch uit dat de oorzaak op een hoger niveau ligt. De interventie kan verkeerd gekozen zijn, het lokale patroon kan hardnekkig zijn of meerdere niveaus kunnen tegelijk bijdragen. Het opschuiven van de diagnose is daarom een wijziging van hypothese en onderzoeksvraag, geen bewijs van systeemschuld. Juist die terughoudendheid voorkomt dat veldtaal de spiegelbeeldige fout maakt van individualisering.
+
 ## Eigen stap
 
-De eigen stap van dit hoofdstuk ligt in de combinatie van drie onderscheidingen.
+De eigen stap van dit hoofdstuk ligt in de combinatie van vijf onderscheidingen.
 
 Ten eerste wordt institutionele kwaliteit niet primair opgevat als maximale openheid, maar als **passende sluiting onder correctiedruk**. Regels, categorieën en besluiten zijn noodzakelijk. Het criterium is of hun noodzaak, omvang en gevolgen toetsbaar blijven en of zij niet meer toekomst bezetten dan waarvoor zij gerechtvaardigd zijn.
 
@@ -40,7 +46,13 @@ Ten tweede verschuift de analyse van feedback naar **corrigeerbaarheid**. Een sy
 
 Ten derde wordt verantwoordelijkheid gekoppeld aan **sluitingsmacht zonder haar met schuld gelijk te stellen**. Waar een actor weinig stem heeft maar sterk afhankelijk is, neemt de rechtvaardigingslast van degene die diens mogelijkheden kan afsluiten toe. Dat kan tijdelijke asymmetrie juist rechtvaardigen: bescherming hoeft geen onmiddellijk wederzijds gesprek te eisen. De corrigeerbaarheid moet dan elders worden georganiseerd, bijvoorbeeld via vertegenwoordiging, onafhankelijke toetsing of later herstel.
 
-Daarmee ontstaat een institutionele escalatielogica: actor → relatie → onafhankelijke derde → instituut. Zij is geen vaste procesvolgorde en kan bij acute schade worden overgeslagen. Haar functie is de bewijslast om te keren: meer ingrijpende sluitingsmacht vraagt meer reden, niet minder.
+Ten vierde wordt de **tussenpositie zonder voldoende bevoegdheid** zichtbaar gemaakt. Een actor kan verbinding, vertaling en demping tussen niveaus feitelijk dragen zonder de tijd, middelen of correctiemacht te hebben die bij die functie horen. Het probleem is dan niet alleen belasting, maar een asymmetrie tussen verantwoordelijkheid voor verbinding en vermogen om de bron van terugkerende spanning te veranderen.
+
+Ten vijfde wordt **interventieschaal onderscheiden van diagnoseschaal**. De escalatielogica actor → relatie → onafhankelijke derde → instituut gaat over hoeveel en welke interventiemacht wordt ingezet. Diagnostische schaalverschuiving gaat over waar de hypothese over het probleem moet worden gelegd. Als een lokale aanpak telkens faalt onder gelijkblijvende hogere voorwaarden, is dat reden om de diagnose te verbreden. Het is geen automatische reden om individuele factoren weg te schrijven.
+
+Deze twee bewegingen kunnen uiteenlopen. Een lokale en weinig ingrijpende interventie kan passend zijn terwijl de primaire diagnose structureel is. Omgekeerd kan institutionele bescherming nodig zijn bij een probleem dat grotendeels lokaal ontstaat wanneer lichtere bescherming onvoldoende beschikbaar is.
+
+De institutionele escalatielogica is geen vaste procesvolgorde en kan bij acute schade worden overgeslagen. Haar functie is de bewijslast om te keren: meer ingrijpende sluitingsmacht vraagt meer reden, niet minder.
 
 De doctrine van corrigeerbare macht blijft tenslotte een normatieve keuze. Zij volgt niet logisch uit de beschrijvende en metafysische uitgangspunten van dit project. Dat vormen relationeel, historisch en veranderlijk kunnen worden begrepen, bewijst nog niet hoe macht behoort te worden ingericht. De ethische keuze voor wederkerigheid geeft vervolgens redenen om relevante terugkoppeling van anderen niet zonder noodzaak uit te schakelen. Pas daarna ontstaat de politieke vraag hoe macht institutioneel zo kan worden georganiseerd dat zij kan handelen zonder zichzelf het laatste woord te geven.
 
@@ -55,3 +67,5 @@ De doctrine van corrigeerbare macht blijft tenslotte een normatieve keuze. Zij v
 - Karl E. Weick & Kathleen M. Sutcliffe, *Managing the Unexpected* (2001; latere edities).
 - James C. Scott, *Seeing Like a State* (1998).
 - Iris Marion Young, *Responsibility for Justice* (2011).
+- Michael L. Tushman & Thomas J. Scanlan, “Boundary Spanning Individuals: Their Role in Information Transfer and Their Antecedents” (1981), *Academy of Management Journal* 24(2): 289–305.
+- Julia Balogun, “From Blaming the Middle to Harnessing its Potential: Creating Change Intermediaries” (2003), *British Journal of Management* 14(1): 69–83.

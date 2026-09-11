@@ -42,7 +42,7 @@ lastSyncCheck: "2026-09-11"
 
 <!-- laag: instrumenteel -->
 7. **Draagkracht laat onafheid bestaan.**  
-   Zij is geen hardheid, maar samenhang die nog kan antwoorden.
+   Zij is geen hardheid, maar samenhang die nog kan antwoorden. Dat vermogen kan vrijwillig worden ingezet, maar geeft een ander geen vanzelfsprekende aanspraak.
 
 <!-- laag: beschrijvend/normatief -->
 8. **Een grens kan ontvankelijkheid beschermen.**  
@@ -52,7 +52,7 @@ lastSyncCheck: "2026-09-11"
 
 <!-- laag: instrumenteel -->
 9. **Een draagroute laat zien waar spanning, onzekerheid en herstelwerk terechtkomen.**  
-   De plek waar schade zichtbaar wordt is niet noodzakelijk de plek waar de last ontstond of werd verdeeld.
+   De plek waar schade zichtbaar wordt is niet noodzakelijk de plek waar de last ontstond, werd verdeeld of duurzaam kan worden gecorrigeerd.
 
 <!-- laag: instrumenteel -->
 10. **Herstel is niet noodzakelijk terugkeer.**  
@@ -100,7 +100,7 @@ lastSyncCheck: "2026-09-11"
 
 <!-- laag: normatief/instrumenteel -->
 18. **Hoe groter de macht om de antwoordvoorwaarden van anderen te bepalen, hoe zwaarder de plicht die macht antwoordbaar te houden.**  
-    Niet iedere machtsconcentratie is sluiting; problematisch wordt zij waar tegenmacht, vertrek, toetreding of correctie feitelijk onwerkzaam worden.
+    Niet iedere machtsconcentratie is sluiting; problematisch wordt zij waar tegenmacht, vertrek, toetreding of correctie feitelijk onwerkzaam worden, of waar de openheid van anderen als permanente beschikbaarheid wordt opgeëist.
 
 <!-- laag: normatief -->
 19. **Vorming mag richting geven zonder bestemming op te leggen.**  

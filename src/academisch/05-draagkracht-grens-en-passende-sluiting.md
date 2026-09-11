@@ -24,6 +24,10 @@ Ook in de ecologie is resilience geen eenvoudige ja/nee-eigenschap. Een ecosyste
 
 Deze literatuur bewijst niet dat alle sociale of morele problemen in termen van draagkracht moeten worden begrepen. Zij ondersteunt alleen de beperktere gedachte dat belastbaarheid dynamisch, contextafhankelijk en historisch is.
 
+Een andere empirische lijn is relevant voor **opgeëiste openheid**. Mazmanian, Orlikowski en Yates beschrijven bij kenniswerkers een *autonomy paradox*: mobiele bereikbaarheid kan individueel flexibiliteit en controle geven, terwijl dezelfde praktijk collectieve verwachtingen van voortdurende bereikbaarheid versterkt en de feitelijke mogelijkheid om los te koppelen verkleint. Dat maakt flexibiliteit niet op zichzelf problematisch. Het laat wel zien hoe een mogelijkheid tot openheid kan omslaan in een sociale verwachting om open te blijven.
+
+Ook het Job Demands-Resources-model is hier relevant. Dat model behandelt belasting niet als een eigenschap van de werknemer alleen, maar als verhouding tussen taakeisen en beschikbare hulpbronnen. Het ondersteunt daarmee niet de normatieve conclusies van dit hoofdstuk, maar wel de bescheiden empirische gedachte dat dezelfde eis een andere uitwerking kan hebben afhankelijk van autonomie, steun, herstelmogelijkheden en andere hulpbronnen.
+
 ## Tegenlicht
 
 Een eerste tegenwerping is dat het begrip draagkracht gemakkelijk paternalistisch kan worden. Wie bepaalt immers wat iemand “nog kan dragen”? Een professional, ouder, staat of werkgever kan zorgtaal gebruiken om de actor zelf te passeren.
@@ -47,6 +51,10 @@ Daarmee moet een onderscheid worden bewaakt tussen **draagkracht**, **draagberei
 Nood geeft geen onbeperkte aanspraak op het lichaam, de aandacht, arbeid of het leven van een ander. Maar een ontvankelijke houding kan evenmin doen alsof eigen vermogen om te helpen moreel betekenisloos is. Er is dus geen automatische externe aanspraak op de drager, maar wel een interne aanspreekbaarheid: waar ernstige en afwendbare nood werkelijk binnen bereik komt, behoort ten minste de mogelijkheid tot een beweging naar dragen open te blijven.
 
 Ook dat heeft een grens. Wie veel kan dragen, mag niet juist daarom eindeloos worden belast. Anders wordt competentie, zorgzaamheid of veerkracht een straf. Een draagplicht die de toekomstige antwoordruimte van de drager uitput of vernietigt, kan zichzelf tegenspreken.
+
+Daarmee blijft een vrijwillige onevenredige last mogelijk. Iemand kan in een acute situatie bewust meer dragen dan eerlijk verdeeld is om ernstige schade aan een ander te voorkomen. Analytisch is vooral van belang dat vrijwilligheid en uitzonderlijkheid niet achteraf worden omgezet in beschikbaarheid. Zodra een relatie of institutie zulke offers verwacht, plant of structureel nodig heeft, verandert de aard van het dragen: wat als solidariteit begon kan dan een draagroute worden waarmee het veld zijn eigen tekort bij dezelfde actor neerlegt.
+
+Een vierde risico is daarom dat macht uitsluitend als **afsluiting** wordt gelezen. Macht kan ook openheid opeisen: flexibiliteit, bereikbaarheid, voortdurende aanpasbaarheid of emotionele beschikbaarheid. De actor mag formeel veel kanten op, maar verliest feitelijk de mogelijkheid om niet beschikbaar te zijn. In termen van dit hoofdstuk is dat geen tegenstelling met sluitingsmacht. De opgeëiste openheid kan juist antwoordruimte sluiten doordat de actor niet langer zelf voldoende over timing, grens en herstel beschikt.
 
 ## Eigen stap
 
@@ -85,3 +93,5 @@ Dat verklaart ook waarom antwoordruimte niet gemaximaliseerd hoeft te worden. We
 - Bruce S. McEwen, “Protective and damaging effects of stress mediators” (1998), *New England Journal of Medicine*.
 - Bruce S. McEwen & Eliot Stellar, “Stress and the Individual: Mechanisms Leading to Disease” (1993), *Archives of Internal Medicine*.
 - C. S. Holling, “Resilience and Stability of Ecological Systems” (1973), *Annual Review of Ecology and Systematics*.
+- Melissa Mazmanian, Wanda J. Orlikowski & JoAnne Yates, “The Autonomy Paradox: The Implications of Mobile Email Devices for Knowledge Professionals” (2013), *Organization Science* 24(5): 1337–1357.
+- Arnold B. Bakker & Evangelia Demerouti, “The Job Demands-Resources Model: State of the Art” (2007), *Journal of Managerial Psychology* 22(3): 309–328.

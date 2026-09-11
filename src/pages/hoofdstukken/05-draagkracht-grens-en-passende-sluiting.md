@@ -11,7 +11,7 @@ source:
   version: "v4.1"
 divergence:
   status: "substantieel-herwerkt"
-  note: "Publieke uitbreiding met scherpere uitwerking van draagkracht, antwoordruimte, paternalistische interventie, temporaliteit, asymmetrie en passende sluiting."
+  note: "Publieke uitbreiding met scherpere uitwerking van draagkracht, antwoordruimte, paternalistische interventie, temporaliteit, asymmetrie, opgeëiste openheid, vrijwillig dragen en passende sluiting."
 
 lastSyncCheck: "2026-09-11"
 ---
@@ -42,6 +42,14 @@ Draagkracht lijkt soms minder op “sterk genoeg zijn” dan op een vorm vinden 
 ## Niet alles openlaten
 
 Er bestaat een verleiding om onafgeslotenheid te verwarren met permanente beschikbaarheid. Alsof een goede vorm altijd bereikbaar, bespreekbaar en veranderbaar moet blijven. Dat zou zelf een vorm van dwang worden.
+
+Die dwang hoeft niet de vorm van een verbod te hebben. Macht kan ook eisen dat iemand voortdurend open blijft: flexibel, bereikbaar, aanpasbaar, beschikbaar voor nieuwe taken of telkens opnieuw bereid tot gesprek. Dan wordt openheid niet beschermd maar opgeëist.
+
+Een werknemer kan formeel veel keuzevrijheid hebben en toch nauwelijks kunnen weigeren wanneer *wendbaarheid* betekent dat iedere nieuwe onzekerheid bij dezelfde mensen terechtkomt. Een mantelzorger kan om betrokkenheid worden gewaardeerd terwijl de omgeving diens bereikbaarheid stilzwijgend als vaste voorziening gaat behandelen.
+
+> **Ook opgeëiste openheid kan sluiten: wie permanent beschikbaar moet blijven, verliest ruimte om zelf te bepalen wanneer iets binnen mag komen.**
+
+De vraag is dus niet alleen wie mag afsluiten, maar ook wie van wie voortdurende openheid mag verlangen.
 
 Een mens mag slapen terwijl een conflict nog niet opgelost is. Een slachtoffer hoeft niet beschikbaar te zijn voor het herstelverlangen van degene die hem verwondde. Een relatie kan eindigen zonder dat beide partijen dezelfde behoefte aan een laatste gesprek hebben. Een instelling mag een aanvraag op enig moment afsluiten, zolang die afsluiting niet willekeurig is en er passende correctieroutes bestaan.
 
@@ -128,6 +136,14 @@ Daarom is veerkrachttaal dubbelzinnig. Het kan bevrijdend zijn om te ontdekken d
 > **Dat iemand iets kan dragen, geeft een ander nog niet het recht die last daar neer te leggen.**
 
 Grote draagkracht maakt iemand niet vanzelf beschikbaar voor andermans belasting.
+
+Dat sluit vrijwillig dragen niet uit. Iemand kan goede redenen hebben om tijdelijk meer te dragen dan eerlijk verdeeld is, juist omdat anders een ander ernstig wordt geraakt. Een ouder blijft wakker bij een ziek kind. Een collega neemt in een noodsituatie werk over. Iemand springt het water in.
+
+Het verschil zit niet tussen dragen en niet dragen, maar tussen een eigen beweging naar dragen en draagkracht die door een ander alvast wordt ingeboekt. Wat vrijwillig en uitzonderlijk verdedigbaar kan zijn, verandert van karakter zodra een relatie of systeem erop gaat rekenen.
+
+> **Dat niemand aanspraak heeft op mijn draagkracht, betekent niet dat ik geen reden kan hebben haar voor een ander in te zetten.**
+
+Daarom volgt na uitzonderlijk dragen opnieuw de veldvraag: waarom moest één actor zoveel dragen, en wat moet veranderen zodat bereidheid geen structurele voorziening wordt?
 
 Bij sluitingsmacht verschuift de vraag. Dan gaat het om wat iemands handelen of nalaten voor anderen kan afsluiten. Zulke macht kan een zwaardere verantwoordingsplicht meebrengen.
 
