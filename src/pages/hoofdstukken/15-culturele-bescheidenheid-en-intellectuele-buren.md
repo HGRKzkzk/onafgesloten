@@ -65,14 +65,15 @@ Ook Europa kent relationele, mystieke, materialistische en anti-individualistisc
 Culturele bescheidenheid betekent dus niet dat verschillen verdwijnen, maar dat ze niet vooraf worden gerangschikt in een verhaal waarin dit project vanzelf precies in het midden uitkomt.
 
 <aside class="uitkijkje">
-<h3 class="uitkijkje__title">Geen canon is cultureel neutraal</h3>
+<h3 class="uitkijkje__title">Op de brug boven de Hao</h3>
 <div class="uitkijkje__text">
 
-Een filosofische tekst kan moeiteloos Plato, Spinoza, Buber en Butler naast elkaar zetten en vervolgens vergeten dat die leeslijst zelf een geschiedenis heeft. Ook de kunstwerken in deze uitkijkjes zijn keuzes: wat bewaard bleef, in musea terechtkwam, digitaal ontsloten werd en voor mij herkenbaar genoeg was om te selecteren.
+In een passage uit de *Zhuangzi* lopen Zhuangzi en Huizi over een brug boven de rivier Hao. Zhuangzi ziet vissen vrij rondzwemmen en zegt dat zij plezier hebben. Huizi vraagt hoe hij dat kan weten: hij is zelf geen vis.
 
-Een goede canon is misschien niet de lijst die eindelijk iedereen bevat, maar de lijst die zichtbaar houdt waarom zij onvolledig is.
+Zhuangzi draait de vraag terug. Huizi is Zhuangzi niet, hoe kan híj dan weten wat Zhuangzi weet? Het gesprek wordt niet opgelost doordat één van beiden toegang krijgt tot het perspectief van de ander. Ze blijven spreken vanaf verschillende plaatsen.
 
 </div>
+<p class="uitkijkje__source"><a href="https://ctext.org/zhuangzi/floods-of-autumn" target="_blank" rel="noopener noreferrer">Chinese Text Project — <em>Zhuangzi</em>, “The Floods of Autumn”</a></p>
 </aside>
 
 ## Bescheidenheid is geen relativisme
