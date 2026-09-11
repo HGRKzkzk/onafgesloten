@@ -1,6 +1,6 @@
 ## Verwantschap
 
-De vier toetsgevallen staan niet in een theoretisch vacuüm. In de diercasus sluit de analyse aan bij dierenwelzijnswetenschap en ethische discussies over belangen, agency en menselijke verantwoordelijkheid tegenover niet-menselijke dieren. In de institutiecassus bestaan duidelijke parallellen met proportionaliteitsdenken, procedurele rechtvaardigheid, administrative burden, street-level bureaucracy en literatuur over accountability en herstel. De algoritmische casus raakt aan onderzoek naar sociotechnische systemen, geautomatiseerde besluitvorming, fairness, due process, menselijke supervisie en accountability. Het vierde geval stelt een andere methodische vraag: wanneer een domein zijn eigen feitelijke of normatieve vraag voldoende draagt, is extra filosofische terminologie niet vanzelf een verbetering.
+De vier toetsgevallen staan niet in een theoretisch vacuüm. In de diercasus sluit de analyse aan bij dierenwelzijnswetenschap en ethische discussies over belangen, agency en menselijke verantwoordelijkheid tegenover niet-menselijke dieren. In de institutiecasus bestaan duidelijke parallellen met proportionaliteitsdenken, procedurele rechtvaardigheid, administrative burden, street-level bureaucracy en literatuur over accountability en herstel. De algoritmische casus raakt aan onderzoek naar sociotechnische systemen, geautomatiseerde besluitvorming, fairness, due process, menselijke supervisie en accountability. Het vierde geval stelt een andere methodische vraag: wanneer een domein zijn eigen feitelijke of normatieve vraag voldoende draagt, is extra filosofische terminologie niet vanzelf een verbetering.
 
 Daarmee ontleent Onafgesloten Vorm geen inhoudelijke oorspronkelijkheid aan conclusies als “productiviteit is niet hetzelfde als welzijn”, “een zware maatregel vraagt zwaardere rechtvaardiging”, “een modelscore is geen individuele identiteit” of “een fout moet worden hersteld”. Zulke inzichten bestaan ruim buiten dit project.
 
@@ -38,7 +38,7 @@ Juridische literatuur over *technological due process* en *accountable algorithm
 
 Menselijke supervisie is niet vanzelf effectieve correctie. Onderzoek naar automation bias laat al langer zien dat mensen geautomatiseerde aanbevelingen te zwaar kunnen wegen. Een experiment van Sele en Chugunova uit 2024 vond dat deelnemers algoritmische aanbevelingen sterker volgden en juist bij de grootste fouten minder vaak ingrepen. Eén experiment bewijst geen algemene wet over menselijke supervisie, maar het ondersteunt wel de beperkte waarschuwing dat formele afwijkbevoegdheid niet hetzelfde is als feitelijke kritische controle.
 
-De publieke formulering dat “een mens in de lus” een systeem nog niet corrigeerbaar maakt, moet daarom operationeel gelezen worden. Relevant zijn onder meer tijd, informatie, bevoegdheid, deskundigheid, organisatorische prikkels en de mogelijkheid om niet alleen een individuele uitkomst maar ook terugkerende systeemfouten te corrigeren.
+De formulering in de hoofdtekst dat “een mens in de lus” een systeem nog niet corrigeerbaar maakt, moet daarom operationeel gelezen worden. Relevant zijn onder meer tijd, informatie, bevoegdheid, deskundigheid, organisatorische prikkels en de mogelijkheid om niet alleen een individuele uitkomst maar ook terugkerende systeemfouten te corrigeren.
 
 ## Tegenlicht
 
@@ -107,7 +107,7 @@ De sterkste claim van het hoofdstuk blijft bescheiden:
 - Mark Bovens, “Analysing and Assessing Accountability: A Conceptual Framework” (2007).
 - Danielle Keats Citron, “Technological Due Process” (2008), *Washington University Law Review* 85(6), 1249–1313.
 - Joshua A. Kroll, Joanna Huey, Solon Barocas, Edward W. Felten, Joel R. Reidenberg, David G. Robinson & Harlan Yu, “Accountable Algorithms” (2017), *University of Pennsylvania Law Review* 165, 633–705.
-- Andrew D. Selbst, danah boyd, Sorelle A. Friedler, Suresh Venkatasubramanian & Janet Vertesi, “Fairness and Abstraction in Sociotechnical Systems” (2019), *Proceedings of FAT* 2019*, 59–68.
+- Andrew D. Selbst, danah boyd, Sorelle A. Friedler, Suresh Venkatasubramanian & Janet Vertesi, “Fairness and Abstraction in Sociotechnical Systems” (2019), *Proceedings of the 2019 Conference on Fairness, Accountability, and Transparency*, 59–68.
 - Daniela Sele & Marina Chugunova, “Putting a human in the loop: Increasing uptake, but decreasing accuracy of automated decision-making” (2024), *PLOS ONE* 19(2): e0298037.
 - David J. Mellor, “Updating Animal Welfare Thinking: Moving beyond the ‘Five Freedoms’ towards ‘A Life Worth Living’” (2016).
 - David J. Mellor et al., “The 2020 Five Domains Model” (2020).
