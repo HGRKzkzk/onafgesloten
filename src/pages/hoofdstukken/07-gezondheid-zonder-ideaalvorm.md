@@ -38,9 +38,7 @@ Een ideaal kan helpen kijken. Het wordt gevaarlijk wanneer het levende lichaam v
 
 Niet iedere afwijking van het gemiddelde is een <span class="begrip" data-term="pathologie">pathologie</span>. Een eigenschap kan zeldzaam zijn zonder schadelijk te zijn, lastig zijn in de ene omgeving en vruchtbaar in een andere, of tegelijk bescherming en beperking bieden.
 
-Dat maakt <span class="begrip" data-term="normaliteit">normaliteit</span> dubbelzinnig. Statistische normaliteit zegt iets over wat vaak voorkomt. Sociale normaliteit zegt iets over wat een omgeving gewend is. Klinische beoordeling vraagt iets anders: is er lijden, verlies van functioneren, gevaar, ontregeling of een andere reden waarom hulp nodig is?
-
-Die drie mogen niet ongemerkt samenvallen.
+Dat maakt <span class="begrip" data-term="normaliteit">normaliteit</span> dubbelzinnig. Statistische normaliteit zegt iets over wat vaak voorkomt. Sociale normaliteit zegt iets over wat een omgeving gewend is. Klinische beoordeling vraagt iets anders: is er lijden, verlies van functioneren, gevaar, ontregeling of een andere reden waarom hulp nodig is? Die drie mogen niet ongemerkt samenvallen.
 
 Een samenleving kan iemand als afwijkend ervaren terwijl die persoon zelf weinig lijdt. Omgekeerd kan een veelvoorkomende toestand ernstig schadelijk zijn. Chronische overbelasting wordt niet gezond doordat zij op een werkvloer normaal is geworden.
 

@@ -153,9 +153,7 @@ Daarom kunnen we vorm voorlopig omschrijven als **gedragen verschil**: er moet v
   </p>
 </aside>
 
-Hier verschijnt ook het woord <span class="begrip" data-term="antwoord">antwoord</span>. Antwoorden betekent meer dan reageren. Een deurbel gaat en een hond blaft; een knie krijgt een tik en het been schiet omhoog. Veel reacties ontstaan zonder dat er iets hoeft te worden overwogen. Mensen kunnen soms iets anders doen: een impuls voelen en wachten, een gewoonte herkennen en proberen haar te veranderen, kritiek horen, zich eerst verdedigen en later toch terugkomen.
-
-We kunnen ontvangen wat ons bepaalt en daar, binnen grenzen en met een eigen aandeel, iets anders mee doen.
+Hier verschijnt ook het woord <span class="begrip" data-term="antwoord">antwoord</span>. Antwoorden betekent meer dan reageren. Een deurbel gaat en een hond blaft; een knie krijgt een tik en het been schiet omhoog. Veel reacties ontstaan zonder dat er iets hoeft te worden overwogen. Mensen kunnen soms iets anders doen: een impuls voelen en wachten, een gewoonte herkennen en proberen haar te veranderen, kritiek horen, zich eerst verdedigen en later toch terugkomen. Zij ontvangen wat hen bepaalt en doen daar, binnen grenzen en met een eigen aandeel, iets anders mee.
 
 ### Niet iedere stabiele vorm is gezond
 
@@ -217,8 +215,6 @@ Waar een bestaand, domeinspecifiek begrip hetzelfde relevante verschil preciezer
 
 De inzet is beperkt: wat werkelijk voor ons staat, mag serieus worden genomen zonder dat we hoeven te doen alsof daarmee alles gezegd is.
 
-Een handeling heeft gevolgen. Een grens kan noodzakelijk zijn. Een toestand kan jarenlang duren. Een verlies kan onherroepelijk zijn. En toch kan de actuele vorm minder zijn dan de volledige werkelijkheid van wat zij vormt.
-
-Het is een manier om niet te snel het laatste woord uit te spreken.
+Een handeling heeft gevolgen. Een grens kan noodzakelijk zijn. Een toestand kan jarenlang duren. Een verlies kan onherroepelijk zijn. En toch kan de actuele vorm minder zijn dan de volledige werkelijkheid van wat zij vormt: een manier om niet te snel het laatste woord uit te spreken.
 
 > **Een vorm is werkelijk, maar zij is niet de volledige werkelijkheid van wat zij vormt.**

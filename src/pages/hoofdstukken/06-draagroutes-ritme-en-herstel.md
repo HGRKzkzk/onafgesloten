@@ -67,9 +67,7 @@ Vertragen is evenmin altijd deugdzaam. Soms vergroot wachten de schade en is een
 
 Rust is in die zin antwoordruimte in de tijd. Zij is beschermde tijd waarin een verschil niet onmiddellijk tot oordeel, prestatie of ingreep hoeft te worden gemaakt. Zonder zulke onbezette tijd kan formele keuzevrijheid bestaan terwijl werkelijk antwoorden nauwelijks mogelijk is.
 
-Dat geldt ook relationeel. Niet ieder conflict wordt beter doordat beide partijen onmiddellijk aan tafel worden gezet. Soms beschermt afstand wat later misschien weer bespreekbaar wordt. Soms blijft een asymmetrie terecht bestaan: een slachtoffer hoeft niet op het tempo van een dader, organisatie of buitenstaander tot gesprek, vergeving of heropening te komen.
-
-Een mogelijke toekomstige terugweg is niet hetzelfde als een huidige plicht tot contact.
+Dat geldt ook relationeel. Niet ieder conflict wordt beter doordat beide partijen onmiddellijk aan tafel worden gezet. Soms beschermt afstand wat later misschien weer bespreekbaar wordt. Soms blijft een asymmetrie terecht bestaan: een slachtoffer hoeft niet op het tempo van een dader, organisatie of buitenstaander tot gesprek, vergeving of heropening te komen. Een mogelijke toekomstige terugweg is niet hetzelfde als een huidige plicht tot contact.
 
 Rust kan ook verstarren wanneer niets nieuws meer binnenkomt; voortdurende nieuwigheid kan een vorm juist uiteentrekken. Het gaat om ritme: genoeg rust om verschil op te nemen, genoeg beweging om niet dicht te groeien.
 
@@ -112,9 +110,7 @@ Een lichaam leert anders leven. Een relatie eindigt maar laat betekenis achter. 
 
 Dat mag leed nooit achteraf tot noodzakelijke groeikans verheffen. Niet ieder verlies maakt wijzer en niet iedere crisis opent een betere wereld. De mogelijkheid van transformatie is geen plicht tot dankbaarheid.
 
-Ook <span class="begrip" data-term="posttraumatische-groei">**posttraumatische groei**</span> moet daarom zorgvuldig worden gelezen: dat iemand betekenis of nieuwe richting vindt na leed, rechtvaardigt het leed niet en maakt wie vooral verlies ervaart niet minder ontwikkeld.
-
-Lijden hoeft niet als opening of groeikans te worden geduid om serieus genomen te worden.
+Ook <span class="begrip" data-term="posttraumatische-groei">**posttraumatische groei**</span> moet daarom zorgvuldig worden gelezen: dat iemand betekenis of nieuwe richting vindt na leed, rechtvaardigt het leed niet en maakt wie vooral verlies ervaart niet minder ontwikkeld. Lijden hoeft niet als opening of groeikans te worden geduid om serieus genomen te worden.
 
 Soms is herstel genoeg. Soms is beperking blijvend. Soms is beëindiging de meest passende vorm. En soms blijft er schade zonder verlossende betekenis.
 

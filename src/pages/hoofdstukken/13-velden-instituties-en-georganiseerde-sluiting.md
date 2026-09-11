@@ -13,7 +13,7 @@ divergence:
   status: "substantieel-herwerkt"
   note: "Publieke uitbreiding met scherpere uitwerking van veldmatig kijken, institutionele draagroutes, onafhankelijke correctie, asymmetrie, georganiseerde sluiting en corrigeerbare macht."
 
-lastSyncCheck: "2026-09-05"
+lastSyncCheck: "2026-09-11"
 ---
 Geen vorm draagt zichzelf alleen. Rond ieder individu bestaat een veld van materiële, affectieve, culturele, ecologische en institutionele voorwaarden. Sommige zijn zichtbaar; andere vallen pas op wanneer zij verdwijnen.
 
@@ -35,23 +35,17 @@ Een algemene oproep tot openheid is daarom onvoldoende. Openheid kost tijd, aand
 
 Een organisatie kan aan de buitenkant soepel lijken doordat uitvoerders intern alle onzekerheid opvangen. Een digitale dienst kan efficiënt ogen doordat burgers zelf fouten moeten opsporen, bewijs verzamelen en meerdere loketten verbinden. Een team kan zijn targets halen doordat één medewerker structureel de uitzonderingen draagt die de metric niet ziet.
 
-Dan ligt het probleem in de <span class="begrip" data-term="draagroute">draagroute</span> zelf.
-
-Soms moet het veld veranderen dat de kwetsbare vorm voortdurend belast.
+Dan ligt het probleem in de <span class="begrip" data-term="draagroute">draagroute</span> zelf: soms moet het veld veranderen dat de kwetsbare vorm voortdurend belast.
 
 ## Instituties moeten kunnen sluiten
 
-Een institutie zonder grenzen kan haar taak niet vervullen. Zij moet dossiers afbakenen, bevoegdheden verdelen, termijnen stellen, categorieën gebruiken en soms een beslissing nemen die niet iedereen tevredenstelt. Ook bescherming vraagt sluiting: een school moet geweld kunnen stoppen, een rechter moet een geschil beëindigen, een toezichthouder moet een praktijk kunnen verbieden.
-
-Het probleem begint wanneer institutionele sluiting zichzelf aan toetsing onttrekt.
+Een institutie zonder grenzen kan haar taak niet vervullen. Zij moet dossiers afbakenen, bevoegdheden verdelen, termijnen stellen, categorieën gebruiken en soms een beslissing nemen die niet iedereen tevredenstelt. Ook bescherming vraagt sluiting: een school moet geweld kunnen stoppen, een rechter moet een geschil beëindigen, een toezichthouder moet een praktijk kunnen verbieden. Het probleem begint pas wanneer institutionele sluiting zichzelf aan toetsing onttrekt.
 
 Een regel kan nodig zijn en toch verkeerd uitpakken. Een classificatie kan bruikbaar zijn en toch een groep systematisch missen. Een besluit kan op het moment zelf gerechtvaardigd zijn en later door nieuwe informatie herzien moeten worden. Institutionele volwassenheid blijkt uit het vermogen fouten te vinden zonder eerst te eisen dat degene die geraakt werd het hele systeem begrijpt en bestuurt.
 
 Dat vraagt meer dan een klachtenformulier.
 
-Een bezwaarmogelijkheid die alleen werkt voor wie tijd, taal, geld, gezondheid en dossierkennis over heeft, is formeel open en feitelijk smal. Een evaluatie die alleen meet wat al in de oorspronkelijke indicatoren paste, kan precies de gevolgen missen waarvoor zij bedoeld was. Een loket dat steeds opnieuw om dezelfde informatie vraagt, verplaatst de administratieve last naar degene die het minst over de organisatie beschikt.
-
-Institutionele openheid moet in routes, bevoegdheden, termijnen en herstelmogelijkheden worden gebouwd.
+Een bezwaarmogelijkheid die alleen werkt voor wie tijd, taal, geld, gezondheid en dossierkennis over heeft, is formeel open en feitelijk smal. Een evaluatie die alleen meet wat al in de oorspronkelijke indicatoren paste, kan precies de gevolgen missen waarvoor zij bedoeld was. Een loket dat steeds opnieuw om dezelfde informatie vraagt, verplaatst de administratieve last naar degene die het minst over de organisatie beschikt. Institutionele openheid moet daarom in routes, bevoegdheden, termijnen en herstelmogelijkheden worden gebouwd, niet alleen in een formulier.
 
 ## Klauwen en open zenuwen
 
@@ -75,9 +69,7 @@ Een gezonde institutie heeft klauwen én open zenuwen. Zij moet kunnen handelen,
 
 <span class="begrip" data-term="corrigeerbaarheid">Corrigeerbaarheid</span> betekent hier méér dan feedback ontvangen. Terugkoppeling moet onder relevante omstandigheden classificaties, doelen, bevoegdheden, tempo of voortzetting kunnen veranderen.
 
-Veel systemen zijn zeer responsief in technische zin: zij registreren elk signaal, verzamelen data, beantwoorden berichten en verfijnen voorspellingen. Toch kunnen zij normatief volledig gesloten blijven wanneer geen enkel signaal hun koers mag veranderen.
-
-Een systeem dat iedere kritiek absorbeert en daarna hetzelfde blijft doen, is niet open maar slim gesloten.
+Veel systemen zijn zeer responsief in technische zin: zij registreren elk signaal, verzamelen data, beantwoorden berichten en verfijnen voorspellingen. Toch kunnen zij normatief volledig gesloten blijven wanneer geen enkel signaal hun koers mag veranderen. Zo'n systeem absorbeert iedere kritiek en blijft daarna hetzelfde doen: niet open, maar slim gesloten.
 
 Corrigeerbaarheid laat ook afwijzing toe. Een institutie moet ongegronde claims kunnen afwijzen, belangen tegen elkaar afwegen en grenzen handhaven. Die afwijzing blijft zelf aan redenen, bewijs en toetsing gebonden.
 
@@ -95,9 +87,7 @@ Tussen actor, relatie en instituut moet waar mogelijk een onafhankelijke derde k
 
 De derde bewaakt of de redenen nog toetsbaar zijn, of de zwakkere partij werkelijk hoorbaar is, of relevante informatie kan terugkeren en of dezelfde macht niet tegelijk rechter over haar eigen grens is.
 
-Een organisatie die zelf bepaalt wanneer haar eigen uitzonderingsmacht gerechtvaardigd is, zelf toetst of de gevolgen aanvaardbaar waren en zelf beslist wanneer die uitzondering eindigt, heeft formeel misschien meerdere stappen maar materieel één actor.
-
-Een onafhankelijke derde onderbreekt die lus.
+Een organisatie die zelf bepaalt wanneer haar eigen uitzonderingsmacht gerechtvaardigd is, zelf toetst of de gevolgen aanvaardbaar waren en zelf beslist wanneer die uitzondering eindigt, heeft formeel misschien meerdere stappen maar materieel één actor. Een onafhankelijke derde onderbreekt die lus.
 
 Ook die derde mag geen nieuw monopolie op redelijkheid krijgen. Bevoegdheid moet begrensd zijn, belangen zichtbaar, vervanging of hoger beroep mogelijk en ook de correctieroute zelf corrigeerbaar.
 
@@ -113,9 +103,7 @@ Een enkel ongemak is nog geen systeemfout. Herhaling verandert de bewijslast. Al
 
 Dan moet het model zelf worden bevraagd: ziet het nog voldoende?
 
-Wie dagelijks uitzonderingen opvangt, ziet vaak eerder waar beleid en werkelijkheid uit elkaar lopen. Uitvoerders zijn daarmee niet automatisch normatief beslissend, maar hun ervaring mag niet worden gereduceerd tot ruis rond de formele regel.
-
-Een instituut dat zijn eigen uitvoerders alleen als implementatiekanaal ziet, verliest een belangrijk zintuig.
+Wie dagelijks uitzonderingen opvangt, ziet vaak eerder waar beleid en werkelijkheid uit elkaar lopen. Uitvoerders zijn daarmee niet automatisch normatief beslissend, maar hun ervaring mag niet worden gereduceerd tot ruis rond de formele regel: een instituut dat zijn eigen uitvoerders alleen als implementatiekanaal ziet, verliest een belangrijk zintuig.
 
 ## Wederkerigheid onder wantrouwen
 
@@ -125,9 +113,7 @@ Dan kan een wederkerigheidsval ontstaan: ieder reageert lokaal begrijpelijk op v
 
 De uitweg kan klein beginnen: beperkte risico's, verificatie, vooraf bekende terugvalopties, gedeelde informatie en onafhankelijke derden. Vertrouwen kan groeien uit herhaald overleefde wederkerigheid.
 
-Wederzijds wantrouwen maakt verantwoordelijkheid niet gelijk.
-
-Wanneer de ene actor veel meer vermogen heeft om toegang, inkomen, veiligheid, vrijheid of toekomst van de ander te bepalen, rust op die actor een zwaardere plicht om een veilige en controleerbare correctieroute mogelijk te maken. De burger hoeft niet eerst hetzelfde risico te nemen als de staat. Het kind hoeft de ouder niet even goed te kunnen corrigeren als andersom. Het slachtoffer hoeft de veroorzaker niet dezelfde toegang tot dialoog te geven die de veroorzaker zelf verlangt.
+Wederzijds wantrouwen maakt verantwoordelijkheid echter niet gelijk. Wanneer de ene actor veel meer vermogen heeft om toegang, inkomen, veiligheid, vrijheid of toekomst van de ander te bepalen, rust op die actor een zwaardere plicht om een veilige en controleerbare correctieroute mogelijk te maken. De burger hoeft niet eerst hetzelfde risico te nemen als de staat. Het kind hoeft de ouder niet even goed te kunnen corrigeren als andersom. Het slachtoffer hoeft de veroorzaker niet dezelfde toegang tot dialoog te geven die de veroorzaker zelf verlangt.
 
 Wederkerigheid vraagt dat macht corrigeerbaar blijft waar zij de ander raakt, ook wanneer de macht zelf ongelijk verdeeld is.
 
@@ -223,9 +209,7 @@ Waar heropening veilig en relevant mogelijk is, kan dat herstel betekenen. Waar 
 
 <span class="begrip" data-term="proportionaliteit">Proportionaliteit</span> omvat de zwaarte, duur, reikwijdte en herstelbaarheid van de ingreep, en de vraag wie de overblijvende last draagt.
 
-Ook uitzonderlijk inzicht of een reële noodsituatie heft de correctieplicht niet op. Waarheid, urgentie en gezag zijn verschillende vragen. Wie uitzonderlijke macht opeist omdat hij uitzonderlijk inzicht of uitzonderlijke noodzaak claimt, mag niet als enige beslissen wanneer die uitzondering eindigt.
-
-Anders kan een tijdelijke noodzakelijke sluiting zichzelf tot permanent gezag maken.
+Ook uitzonderlijk inzicht of een reële noodsituatie heft de correctieplicht niet op. Waarheid, urgentie en gezag zijn verschillende vragen. Wie uitzonderlijke macht opeist omdat hij uitzonderlijk inzicht of uitzonderlijke noodzaak claimt, mag niet als enige beslissen wanneer die uitzondering eindigt: anders kan een tijdelijke noodzakelijke sluiting zichzelf tot permanent gezag maken.
 
 ## Van actor naar institutie
 

@@ -13,7 +13,7 @@ divergence:
   status: "substantieel-herwerkt"
   note: "Publieke uitbreiding met scherpere uitwerking van draagkracht, antwoordruimte, paternalistische interventie, temporaliteit, asymmetrie en passende sluiting."
 
-lastSyncCheck: "2026-09-04"
+lastSyncCheck: "2026-09-11"
 ---
 Een vorm die alles binnenlaat, houdt op een vorm te zijn. Een zenuwstelsel kan niet ieder signaal even zwaar wegen. Een gesprek kan niet alle zijwegen volgen. Een mens kan niet iedere aanspraak tegelijk dragen. Een samenleving kan niet iedere mogelijkheid permanent openhouden.
 
@@ -74,9 +74,7 @@ Een grens is sterker te verdedigen wanneer zij:
 
 Sommige keuzes zijn juist werkelijk doordat zij iets beëindigen. Een baan wordt opgezegd. Een behandeling wordt gestaakt. Een relatie eindigt. Een grens wordt definitief.
 
-Ook definitieve sluiting kan passend zijn.
-
-Waar heropening zelf opnieuw ernstige schade veroorzaakt, kan het vasthouden aan openheid wreder zijn dan het einde erkennen. Niet iedere band heeft een moreel recht op voortzetting. Niet iedere dader heeft recht op een gesprek. Niet ieder verlies kan worden omgezet in een nieuwe vorm met dezelfde betrokkenen.
+Ook definitieve sluiting kan passend zijn: waar heropening zelf opnieuw ernstige schade veroorzaakt, kan het vasthouden aan openheid wreder zijn dan het einde erkennen. Niet iedere band heeft een moreel recht op voortzetting. Niet iedere dader heeft recht op een gesprek. Niet ieder verlies kan worden omgezet in een nieuwe vorm met dezelfde betrokkenen.
 
 > **Waar heropening de antwoordruimte verder vernietigt, kan sluiting zelf een vorm van ontvankelijkheid zijn.**
 
@@ -119,9 +117,7 @@ Het doel van bescherming is hier het behoud van voorwaarden waaronder iemand lat
 
 ## Draagkracht is geen hardheid
 
-<span class="begrip" data-term="draagkracht">Draagkracht</span> is het vermogen spanning te ontvangen en te organiseren zonder minimale samenhang, integriteit en antwoordbaarheid te verliezen.
-
-Zij is geen vaste voorraad in het individu.
+<span class="begrip" data-term="draagkracht">Draagkracht</span> is het vermogen spanning te ontvangen en te organiseren zonder minimale samenhang, integriteit en antwoordbaarheid te verliezen. Zij is geen vaste voorraad in het individu.
 
 Slaap, voedsel, veiligheid, taal, tijd, geld, lichamelijke gezondheid, relaties, instituties en eerdere ervaringen werken eraan mee. Een mens kan vandaag minder dragen dan gisteren zonder wezenlijk zwakker te zijn. Een team kan dankzij duidelijke afspraken veel onzekerheid verdragen en door maandenlange tegenstrijdige opdrachten plots nauwelijks nog iets. Een gezin kan lang “functioneren” terwijl één persoon vrijwel alle spanning absorbeert.
 
@@ -141,9 +137,7 @@ Draagkracht heeft dus geheugen.
 
 ## Herstel is meer dan weer functioneren
 
-Ook herstel heeft graden.
-
-Terugkeren tot functioneren is niet hetzelfde als herstel van antwoordruimte. En herstel van antwoordruimte is nog niet hetzelfde als herstel van draagreserve.
+Ook herstel heeft graden. Terugkeren tot functioneren is niet hetzelfde als herstel van antwoordruimte. En herstel van antwoordruimte is nog niet hetzelfde als herstel van draagreserve.
 
 Een werknemer kan weer aanwezig zijn en toch nauwelijks ruimte hebben voor een volgende onverwachte belasting. Een relatie kan praktisch doorgaan terwijl één conflict ieder nieuw verschil onmiddellijk bedreigend maakt. Een ecosysteem kan zichtbaar herstellen terwijl diversiteit en veerkracht sterk zijn afgenomen.
 
@@ -155,9 +149,7 @@ Eerst moet worden gevraagd waarom de last noodzakelijk is, waarom zij hier terec
 
 ## Wanneer antwoordruimtes botsen
 
-Soms bestaat er geen grens die iedereen voldoende ruimte laat.
-
-Een ouder moet beslissen voor een kind dat nog niet alles kan overzien. Een arts kan geconfronteerd worden met een patiënt wiens actuele wens en toekomstige mogelijkheden op gespannen voet staan. Een overheid moet vrijheid begrenzen wanneer iemand anderen ernstig bedreigt. Twee groepen kunnen aanspraken hebben die niet tegelijk volledig uitvoerbaar zijn.
+Soms bestaat er geen grens die iedereen voldoende ruimte laat. Een ouder moet beslissen voor een kind dat nog niet alles kan overzien. Een arts kan geconfronteerd worden met een patiënt wiens actuele wens en toekomstige mogelijkheden op gespannen voet staan. Een overheid moet vrijheid begrenzen wanneer iemand anderen ernstig bedreigt. Twee groepen kunnen aanspraken hebben die niet tegelijk volledig uitvoerbaar zijn.
 
 Meer openheid is hier geen oplossing.
 

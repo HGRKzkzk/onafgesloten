@@ -16,9 +16,7 @@ lastSyncCheck: "2026-09-11"
 
 Een steen kan veranderen. Zij kan splijten door vorst, afslijten door water, opwarmen in de zon of onder druk van vorm veranderen. Voor zover wij weten staat er voor de steen zelf niets op het spel.
 
-Bij een levend lichaam lijkt dat anders.
-
-Honger heeft een meetbare lichamelijke kant en kan tegelijk richting geven aan wat een organisme vervolgens doet. Hetzelfde geldt voor beschadiging, kou, pijn, benauwdheid, dreiging, aanraking en nabijheid. Een organisme trekt weg, zoekt voedsel, bevriest, nadert, verdedigt, herstelt of verandert zijn aandacht.
+Bij een levend lichaam lijkt dat anders. Honger heeft een meetbare lichamelijke kant en kan tegelijk richting geven aan wat een organisme vervolgens doet. Hetzelfde geldt voor beschadiging, kou, pijn, benauwdheid, dreiging, aanraking en nabijheid. Een organisme trekt weg, zoekt voedsel, bevriest, nadert, verdedigt, herstelt of verandert zijn aandacht.
 
 Hier begint voor mij het woord *voelen*.
 
@@ -36,9 +34,7 @@ Een lichaam kan eerder reageren dan iemand begrijpt wat er gebeurt.
 
 Je stapt een ruimte binnen en merkt dat je schouders omhoog gaan. Iemand zegt dat alles goed gaat, maar slaapt al weken slecht. Een kind trekt zich terug voordat het woorden heeft voor de sfeer thuis. Een werknemer merkt dat hij iedere zondagavond misselijk wordt voordat hij zichzelf toestaat te zeggen dat het werk hem uitput.
 
-Dat soort signalen bewijzen op zichzelf nog niets over hun oorzaak.
-
-Ze kunnen verkeerd worden gelezen. Angst kan een oud patroon opnieuw activeren. Schaamte kan ontstaan uit een norm die niemand meer zou willen verdedigen. Een lichamelijke sensatie kan door ziekte, verwachting of stress meerdere betekenissen krijgen.
+Dat soort signalen bewijzen op zichzelf nog niets over hun oorzaak. Ze kunnen verkeerd worden gelezen. Angst kan een oud patroon opnieuw activeren. Schaamte kan ontstaan uit een norm die niemand meer zou willen verdedigen. Een lichamelijke sensatie kan door ziekte, verwachting of stress meerdere betekenissen krijgen.
 
 De onzekerheid van een eerste uitleg maakt het gevoelde verschil niet onwerkelijk.
 
@@ -79,15 +75,11 @@ Juist daarom past het apparaat hier: een lichamelijk signaal kan werkelijk veran
 
 ## Van prikkel naar belang
 
-Het woord *gevoel* kan gemakkelijk te menselijk worden. Alsof voelen pas begint bij herkenbare emoties als verdriet, vreugde, angst of verliefdheid.
-
-Ik bedoel iets fundamentelers.
+Het woord *gevoel* kan gemakkelijk te menselijk worden. Alsof voelen pas begint bij herkenbare emoties als verdriet, vreugde, angst of verliefdheid. Ik bedoel iets fundamentelers.
 
 Bij een levend wezen krijgen sommige verschillen voor voortbestaan, regulatie of handelen meer gewicht dan andere. Voedsel kan worden gezocht, schade vermeden, nabijheid opgezocht, rust afgedwongen. In sommige benaderingen van <span class="begrip" data-term="enactivisme">enactivisme</span> en zogenoemde *sense-making* wordt precies dat benadrukt: een organisme ontmoet zijn omgeving vanuit een eigen wijze van leven waarin sommige verschillen relevant worden.
 
-Dat is nog geen bewijs van bewustzijn. Een systeem kan reguleren zonder dat we goede reden hebben om aan te nemen dat er ook iets wordt ervaren. Biologische betekenis, affectieve gevoeligheid en bewuste ervaring kunnen samenhangen zonder identiek te zijn.
-
-Deze lijn biedt wel een belangrijk aanknopingspunt: betekenis hoeft niet pas te beginnen wanneer een mens er woorden aan geeft.
+Dat is nog geen bewijs van bewustzijn. Een systeem kan reguleren zonder dat we goede reden hebben om aan te nemen dat er ook iets wordt ervaren. Biologische betekenis, affectieve gevoeligheid en bewuste ervaring kunnen samenhangen zonder identiek te zijn. Deze lijn biedt wel een belangrijk aanknopingspunt: betekenis hoeft niet pas te beginnen wanneer een mens er woorden aan geeft.
 
 De wereld verschijnt voor levende vormen niet overal op dezelfde manier. Een geurspoor dat voor mij nauwelijks iets betekent kan voor een hond een hele route openen. Een trillingspatroon dat ik niet opmerk kan voor een spin onmiddellijk verschil maken. Een kalf, kraai of octopus beweegt binnen een wereld waarin andere mogelijkheden, bedreigingen en aantrekkingen gewicht hebben.
 
@@ -103,11 +95,7 @@ De zin is hier geen algemene bestaansdefinitie. Hij corrigeert een rangorde.
 
 In veel menselijke verhoudingen krijgt ervaring pas gewicht nadat zij goed is uitgelegd. Een patiënt moet precies kunnen aangeven waar het zit. Een burger moet zijn probleem in de juiste categorie krijgen. Een kind moet eerst netjes vertellen waarom het overstuur is. Een werknemer moet zijn uitputting liefst meetbaar maken voordat zij serieus wordt.
 
-Een wezen kan al geraakt zijn voordat het beschikt over de woorden, kennis of institutionele toegang waarmee het dat raken geloofwaardig kan maken.
-
-Daarom wil ik voelen vóór verklaren plaatsen, zonder verklaren af te schaffen.
-
-Het gevoelde verschil is een beginpunt van onderzoek.
+Een wezen kan al geraakt zijn voordat het beschikt over de woorden, kennis of institutionele toegang waarmee het dat raken geloofwaardig kan maken. Daarom wil ik voelen vóór verklaren plaatsen, zonder verklaren af te schaffen: het gevoelde verschil is een beginpunt van onderzoek, niet het eindpunt ervan.
 
 Dat geldt ook voor mezelf. Mijn eerste gevoel heeft geen absoluut gezag over jou. Het verdient wel genoeg gewicht om niet meteen uit mijn eigen waarneming te worden weggeprocedeerd.
 
@@ -117,9 +105,7 @@ De regionale kern houdt voor mij niet op bij de menselijke soort.
 
 Bij veel niet-menselijke dieren is het redelijk om over <span class="begrip" data-term="sentience">sentience</span> te spreken: het vermogen om positieve of negatieve ervaringen te hebben, om pijn, comfort, dreiging, rust of andere toestanden als ervaringskwaliteit te ondergaan.
 
-Over de precieze verspreiding en aard van dierlijk bewustzijn bestaat wetenschappelijke en filosofische discussie. We weten niet voor iedere soort waar de grens ligt, en verschillende theorieën over bewustzijn trekken die grens anders.
-
-Die onzekerheid maakt menselijke taal geen toegangsbewijs.
+Over de precieze verspreiding en aard van dierlijk bewustzijn bestaat wetenschappelijke en filosofische discussie. We weten niet voor iedere soort waar de grens ligt, en verschillende theorieën over bewustzijn trekken die grens anders. Die onzekerheid maakt menselijke taal geen toegangsbewijs.
 
 Veel dieren leren, vermijden, anticiperen, kiezen, herstellen, spelen, zorgen of zoeken actief sociale nabijheid. Gedrag en fysiologie bieden onvolledige maar relevante toegang tot wat voor een dier verschil kan maken.
 
@@ -144,19 +130,11 @@ Een koe, hond, kraai of octopus hoeft daarom geen “mens zonder woorden” te w
 
 Relevant is welke verschillen binnen zijn eigen levensvorm gewicht hebben. Kan het bewegen, vluchten, rusten, kiezen, verkennen, sociaal contact zoeken of vermijden, spelen, nestelen, jagen, schuilen? Wat gebeurt er wanneer zulke mogelijkheden langdurig verdwijnen?
 
-Juist daar wordt empirische kennis onmisbaar. Ethologie, diergeneeskunde, gedragswetenschap en vergelijkende cognitie kunnen veel preciezer onderzoeken welke voorkeuren, stressreacties, sociale behoeften en herstelpatronen bij verschillende soorten voorkomen.
-
-Deze filosofie mag dat werk niet vervangen.
-
-Zij kan wel één eis aan zichzelf stellen: **geen menselijke taal als verborgen maatstaf gebruiken voor de werkelijkheid van dierlijk voelen.**
+Juist daar wordt empirische kennis onmisbaar. Ethologie, diergeneeskunde, gedragswetenschap en vergelijkende cognitie kunnen veel preciezer onderzoeken welke voorkeuren, stressreacties, sociale behoeften en herstelpatronen bij verschillende soorten voorkomen. Deze filosofie mag dat werk niet vervangen; zij kan wel één eis aan zichzelf stellen: **geen menselijke taal als verborgen maatstaf gebruiken voor de werkelijkheid van dierlijk voelen.**
 
 ## De binnenkant van de ander
 
-Ik heb directe toegang tot mijn eigen ervaring op een manier waarop ik die niet tot jouw ervaring heb, laat staan tot die van een dier. Zelfs bij andere mensen werken we via gedrag, taal, context, lichaam en interpretatie.
-
-Toch leven we voortdurend alsof andere binnenkanten werkelijk zijn.
-
-Die asymmetrie is structureel: de ander kan zich tonen zonder ooit volledig beschikbaar te worden.
+Ik heb directe toegang tot mijn eigen ervaring op een manier waarop ik die niet tot jouw ervaring heb, laat staan tot die van een dier. Zelfs bij andere mensen werken we via gedrag, taal, context, lichaam en interpretatie. Toch leven we voortdurend alsof andere binnenkanten werkelijk zijn: die asymmetrie is structureel: de ander kan zich tonen zonder ooit volledig beschikbaar te worden.
 
 Dat vraagt ernst zonder bezit. Neem de mogelijke binnenkant van de ander serieus, ook waar je haar niet van binnenuit kunt verifiëren, en houd tegelijk ruimte voor de mogelijkheid dat je interpretatie ervan niet klopt.
 
@@ -170,13 +148,9 @@ Bij mensen wordt die grens nog scherper omdat de ander kan terugspreken.
 
 Een filosofie die alleen vanuit het ik redeneert, kan de ander gemakkelijk opnemen als verschijnsel binnen mijn wereld: iemand die ik observeer, classificeer, behandel, help of bestrijd.
 
-Een ander mens kan mij corrigeren. Zij kan weigeren. Iemand kan zeggen dat mijn hulp niet helpt, dat mijn categorie niet past, dat mijn herinnering onvolledig is of dat mijn goede bedoeling schade doet.
+Een ander mens kan mij corrigeren. Zij kan weigeren. Iemand kan zeggen dat mijn hulp niet helpt, dat mijn categorie niet past, dat mijn herinnering onvolledig is of dat mijn goede bedoeling schade doet. Hier wordt de tweede persoon filosofisch belangrijk.
 
-Hier wordt de tweede persoon filosofisch belangrijk.
-
-<span class="begrip" data-term="dialogische-filosofie">Dialogische filosofie</span>, onder meer bij Martin Buber, benadrukt dat een *jij* niet volledig kan worden herleid tot een object binnen mijn beschrijving. Rollen en categorieën blijven vaak noodzakelijk: patiënt, medewerker, ouder, dader, burger.
-
-Het gevaar ontstaat wanneer de categorie het gehele antwoord al lijkt te bevatten.
+<span class="begrip" data-term="dialogische-filosofie">Dialogische filosofie</span>, onder meer bij Martin Buber, benadrukt dat een *jij* niet volledig kan worden herleid tot een object binnen mijn beschrijving. Rollen en categorieën blijven vaak noodzakelijk: patiënt, medewerker, ouder, dader, burger. Het gevaar ontstaat wanneer de categorie het gehele antwoord al lijkt te bevatten.
 
 De ontmoeting met een ander garandeert geen harmonie. Juist een nee kan de tweede persoon zichtbaar maken.
 

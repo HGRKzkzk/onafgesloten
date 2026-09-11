@@ -11,7 +11,7 @@ source:
 divergence:
   status: "substantieel-herwerkt"
   note: "Publieke uitbreiding met scherpere lijn over classificatie, waarheid, modellen, epistemische macht, corrigeerbaarheid en intelligentie als overzicht."
-lastSyncCheck: "2026-09-04"
+lastSyncCheck: "2026-09-11"
 ---
 Taal maakt deelbaar wat anders diffuus blijft. Zij kan pijn een plaats geven, afspraken bewaren, afwezige werelden oproepen en ervaringen tussen mensen laten reizen. Zonder taal zouden veel vormen van zorg, recht, wetenschap en herinnering nauwelijks bestaan.
 
@@ -23,9 +23,7 @@ Daarmee wordt taal verantwoordelijk voor de grens die zij trekt.
 
 > **Taal redt alleen wanneer zij weigert het laatste woord te worden.**
 
-Die zin vraagt geen permanente vaagheid. Soms moet een arts een diagnose stellen, een rechter een beslissing nemen, een wetenschapper een begrip afbakenen of een organisatie iemand wel of niet onder een regeling plaatsen. Zonder zulke sluitingen kunnen we nauwelijks handelen.
-
-Relevant is of zo'n sluiting nog werkelijk door gevolgen kan worden gecorrigeerd.
+Die zin vraagt geen permanente vaagheid. Soms moet een arts een diagnose stellen, een rechter een beslissing nemen, een wetenschapper een begrip afbakenen of een organisatie iemand wel of niet onder een regeling plaatsen. Zonder zulke sluitingen kunnen we nauwelijks handelen. Relevant is of zo'n sluiting nog werkelijk door gevolgen kan worden gecorrigeerd.
 
 ## Een naam helpt zien en kan daarna te groot worden
 
@@ -61,9 +59,7 @@ Een kennissysteem kan net zo indrukwekkend ordenen en classificeren, en toch sle
 
 ## Waarheid zonder bezit
 
-Voorlopigheid maakt beschrijvingen niet gelijkwaardig.
-
-De wereld biedt weerstand.
+Voorlopigheid maakt beschrijvingen niet gelijkwaardig: de wereld biedt weerstand.
 
 Een voorspelling kan mislukken. Een behandeling kan niet werken. Een getuigenis kan door ander bewijs worden tegengesproken. Een model kan jarenlang bruikbaar lijken en toch systematisch dezelfde gevallen missen. Een politieke overtuiging kan oprecht worden aangehangen en alsnog feitelijk onjuist zijn.
 
@@ -79,9 +75,7 @@ Zonder sluiting kunnen we niets vaststellen, vergelijken of doorgeven. Zonder co
 
 ## Anomalieën zijn geen belediging
 
-Een theorie leert weinig wanneer alleen bevestiging telt.
-
-Interessanter wordt het waar iets niet past.
+Een theorie leert weinig wanneer alleen bevestiging telt. Interessanter wordt het waar iets niet past.
 
 Een patiënt reageert anders op een behandeling dan verwacht. Een sociaal model voorspelt jarenlang een effect dat niet optreedt. Een organisatie registreert goede cijfers terwijl mensen aan de uitvoering telkens dezelfde schade melden. Een algoritme behaalt hoge gemiddelde nauwkeurigheid maar faalt structureel bij één groep.
 
@@ -91,9 +85,7 @@ Herhaalde afwijking is iets anders. Wanneer hetzelfde type fout terugkomt, wordt
 
 Een goed model moet door gevolgen kunnen worden begrensd, gewijzigd of verlaten.
 
-Een zelfbeschermend systeem heeft voor iedere mogelijke uitkomst al een uitleg waardoor de eigen kern onaangetast blijft.
-
-Een theorie die werkelijk niets kan verliezen, kan uiteindelijk ook weinig winnen.
+Een zelfbeschermend systeem heeft voor iedere mogelijke uitkomst al een uitleg waardoor de eigen kern onaangetast blijft: een theorie die werkelijk niets kan verliezen, kan uiteindelijk ook weinig winnen.
 
 ## Wetenschap als georganiseerde correctie
 
@@ -109,15 +101,11 @@ Onzekerheid kan daarbij juist een teken van precisie zijn. Een betrouwbaar kenni
 
 ## Expertise en gezag zijn niet hetzelfde
 
-Deskundigheid doet ertoe.
-
-Iemand die jarenlang een vakgebied bestudeert weet meestal meer over de relevante mechanismen, methoden en onzekerheden dan iemand die er gisteren over begon te lezen. Een samenleving die iedere expertise als “ook maar een mening” behandelt, verliest precies de opgebouwde kennis die complexe problemen hanteerbaar maakt.
+Deskundigheid doet ertoe: iemand die jarenlang een vakgebied bestudeert weet meestal meer over de relevante mechanismen, methoden en onzekerheden dan iemand die er gisteren over begon te lezen. Een samenleving die iedere expertise als “ook maar een mening” behandelt, verliest precies de opgebouwde kennis die complexe problemen hanteerbaar maakt.
 
 Expertise geeft niet automatisch beslissingsmacht over anderen.
 
-Waarheid, urgentie en gezag zijn verschillende vragen.
-
-Iemand kan gelijk hebben over wat er aan de hand is, zelfs eerder of scherper dan anderen, zonder daardoor automatisch het recht te krijgen de toekomst van anderen te bepalen.
+Waarheid, urgentie en gezag zijn verschillende vragen: iemand kan gelijk hebben over wat er aan de hand is, zelfs eerder of scherper dan anderen, zonder daardoor automatisch het recht te krijgen de toekomst van anderen te bepalen.
 
 > **Inzicht geeft geen aanspraak op gehoorzaamheid.**
 
@@ -135,9 +123,7 @@ Gelijk hebben geeft geen eigendomsrecht op de toekomst van de ander.
 
 ## Ervaring is kennis, geen automatisch vonnis
 
-Ervaren gevolgen zijn kennis.
-
-Wanneer een burger zegt dat een procedure hem financieel ontwricht, een patiënt vertelt dat een behandeling ondraaglijke bijwerkingen heeft of een werknemer beschrijft dat een proces systematisch onuitvoerbaar is, ontstaat informatie die een model of professional mogelijk niet zelf bezit.
+Ervaren gevolgen zijn kennis. Wanneer een burger zegt dat een procedure hem financieel ontwricht, een patiënt vertelt dat een behandeling ondraaglijke bijwerkingen heeft of een werknemer beschrijft dat een proces systematisch onuitvoerbaar is, ontstaat informatie die een model of professional mogelijk niet zelf bezit.
 
 Die informatie moet kunnen terugspreken. Mensen kunnen tegelijk oorzaken verkeerd aanwijzen, herinneringen kunnen onvolledig zijn, verwachtingen beïnvloeden waarneming en belangen kunnen interpretaties kleuren.
 
@@ -178,9 +164,7 @@ Intelligentie wordt gemakkelijk vereenzelvigd met snelle verwerking, voorspellin
 
 Snelheid is vaak nuttig. Een arts wil in een noodsituatie niet uren twijfelen over iedere stap. Een zoekalgoritme dat tien minuten nodig heeft voor één resultaat is nauwelijks bruikbaar. Een verkeerssysteem kan veiligheid verbeteren doordat het sneller op veranderende omstandigheden reageert dan een mens alleen zou kunnen.
 
-Snelheid vergroot ook het bereik van een vergissing.
-
-Een systeem dat sneller beslist zonder zijn blinde vlekken te zien, sluit niet minder maar efficiënter.
+Snelheid vergroot ook het bereik van een vergissing: een systeem dat sneller beslist zonder zijn blinde vlekken te zien, sluit niet minder maar efficiënter.
 
 Intelligentie omvat daarom ook het vermogen relevante verschillen niet te vroeg weg te abstraheren, gevolgen op verschillende tijdschalen te zien, onzekerheid te herkennen, prioriteiten te herzien en te weten wanneer snelheid juist moet worden afgeremd.
 
@@ -196,9 +180,7 @@ Dit geldt voor mensen, instituties en kunstmatige systemen.
 
 <span class="begrip" data-term="corrigeerbaarheid">Corrigeerbaarheid</span> vraagt meer dan feedback ontvangen. Een callcenter kan duizenden klachten registreren zonder één procedure te veranderen. Een algoritme kan gebruikersfeedback gebruiken om zijn voorspellingen nauwkeuriger te maken terwijl zijn doel hetzelfde blijft. Een organisatie kan evalueren en leren hoe zij een schadelijke praktijk efficiënter uitvoert.
 
-Terugkoppeling moet waar nodig classificatie, doel, bevoegdheid of voortzetting kunnen veranderen.
-
-Anders wordt kritiek slechts brandstof voor een vorm die zichzelf steeds beter handhaaft.
+Terugkoppeling moet waar nodig classificatie, doel, bevoegdheid of voortzetting kunnen veranderen. Anders wordt kritiek slechts brandstof voor een vorm die zichzelf steeds beter handhaaft.
 
 > **Een responsief systeem reageert op signalen. Een corrigeerbaar systeem kan door signalen ook van richting veranderen.**
 
@@ -206,9 +188,7 @@ Die tweede mogelijkheid vraagt grenzen aan de intelligentie zelf. Niet iedere op
 
 ## Taal zonder laatste woord
 
-Aan het einde komen taal, kennis en intelligentie daardoor bij hetzelfde probleem uit.
-
-Wij kunnen niet zonder vorm.
+Aan het einde komen taal, kennis en intelligentie daardoor bij hetzelfde probleem uit: wij kunnen niet zonder vorm.
 
 We moeten woorden kiezen, categorieën maken, modellen bouwen, beslissingen nemen en sommige verklaringen voorlopig beter achten dan andere.
 

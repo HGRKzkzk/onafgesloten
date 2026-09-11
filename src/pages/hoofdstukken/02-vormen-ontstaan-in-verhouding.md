@@ -11,7 +11,7 @@ source:
 divergence:
   status: "substantieel-herwerkt"
   note: "Publieke uitwerking met uitgebreidere ervaringslaag, scherpere grens tussen afhankelijkheid en bezit, en nieuwe begrippenhulp."
-lastSyncCheck: "2026-09-05"
+lastSyncCheck: "2026-09-11"
 ---
 Een mens begint nergens alleen.
 
@@ -19,9 +19,7 @@ Nog vóór we een zin kunnen vormen, zijn er al stemmen geweest. Nog vóór we z
 
 Later voelt dat gemakkelijk anders. Een volwassen mens kan kiezen, vertrekken, weigeren, iets nieuws beginnen en soms tegen vrijwel zijn hele omgeving in gaan. Juist daardoor ontstaat de verleiding om zelfstandigheid als het oorspronkelijke gegeven te zien en afhankelijkheid als iets wat daar later bijkomt.
 
-Maar kijk iets langer en dat beeld wordt vreemd.
-
-De stem waarmee ik tegenspreek heb ik niet zelf gemaakt. De woorden waarmee ik mijn eigenheid verdedig zijn ontvangen woorden. Zelfs het vermogen om een grens te stellen is ergens geoefend, mogelijk gemaakt of juist moeizaam veroverd in verhouding tot anderen.
+Maar kijk iets langer en dat beeld wordt vreemd: de stem waarmee ik tegenspreek heb ik niet zelf gemaakt. De woorden waarmee ik mijn eigenheid verdedig zijn ontvangen woorden. Zelfs het vermogen om een grens te stellen is ergens geoefend, mogelijk gemaakt of juist moeizaam veroverd in verhouding tot anderen.
 
 Ontvankelijkheid begint niet bij een volledig zelfstandig individu dat daarna besluit meer of minder open te staan. Het relationele vertrekpunt ligt eerder.
 
@@ -35,9 +33,7 @@ Lichaam, erfelijkheid, voeding, aanraking, taal, opvoeding, cultuur, techniek, e
 
 Dat geldt zelfs voor vermogens die zeer persoonlijk aanvoelen. Waar mijn aandacht vanzelf naartoe gaat, wat voor mij bedreigend voelt, hoe gemakkelijk ik rust vind, welke afstand prettig is, welke gebaren vertrouwd zijn en welk toekomstbeeld überhaupt voorstelbaar lijkt: het heeft allemaal een geschiedenis.
 
-Die geschiedenis is meer dan achtergrondinformatie over een verder zelfstandig ik.
-
-Lichamelijke gewoonten, waarneming en regulatie krijgen vorm binnen ritmes van slaap en arbeid, veiligheid en dreiging, aanraking en afstand, voeding, beweging, taal en verwachting. We leren niet eerst een volledig lichaam te zijn om het daarna in een wereld te gebruiken. We worden lichamelijk vaardig ín een wereld.
+Die geschiedenis is meer dan achtergrondinformatie over een verder zelfstandig ik: lichamelijke gewoonten, waarneming en regulatie krijgen vorm binnen ritmes van slaap en arbeid, veiligheid en dreiging, aanraking en afstand, voeding, beweging, taal en verwachting. We leren niet eerst een volledig lichaam te zijn om het daarna in een wereld te gebruiken. We worden lichamelijk vaardig ín een wereld.
 
 Daar raakt dit hoofdstuk aan wat binnen filosofie en menswetenschappen <span class="begrip" data-term="intersubjectiviteit">intersubjectiviteit</span> wordt genoemd: onze ervaring van onszelf en de wereld ontstaat in aanwezigheid van andere perspectieven. Een wereld waarin anderen verschijnen helpt vanaf vroeg in het leven bepalen wat als betekenisvol, bedreigend, vertrouwd of mogelijk verschijnt.
 
@@ -45,13 +41,9 @@ Daar raakt dit hoofdstuk aan wat binnen filosofie en menswetenschappen <span cla
 
 ## De wereld staat niet alleen buiten ons
 
-Die verhoudingen reiken verder dan het sociale.
+Die verhoudingen reiken verder dan het sociale: ieder organisme bestaat uit stromen van materie en energie, uit evolutionaire geschiedenis en uit een omgeving die het niet zelf heeft voortgebracht. Ademhaling, temperatuur, voedsel, micro-organismen, licht, zwaartekracht en beschutting zijn geen latere toevoegingen aan een organisme dat eerst al af was.
 
-Ieder organisme bestaat uit stromen van materie en energie, uit evolutionaire geschiedenis en uit een omgeving die het niet zelf heeft voortgebracht. Ademhaling, temperatuur, voedsel, micro-organismen, licht, zwaartekracht en beschutting zijn geen latere toevoegingen aan een organisme dat eerst al af was.
-
-Tegelijk is een organisme ook geen passief product van zijn omgeving. Het zoekt, vermijdt, bouwt, graaft, eet, beweegt, nestelt en verandert daarmee de wereld waarin het vervolgens verder leeft. Biologen spreken in zulke gevallen onder meer van <span class="begrip" data-term="nicheconstructie">nicheconstructie</span>: organismen passen zich aan hun omgeving aan en veranderen delen ervan op manieren die op henzelf en soms op volgende generaties terugwerken.
-
-Organisme en omgeving veranderen elkaar.
+Tegelijk is een organisme ook geen passief product van zijn omgeving. Het zoekt, vermijdt, bouwt, graaft, eet, beweegt, nestelt en verandert daarmee de wereld waarin het vervolgens verder leeft. Biologen spreken in zulke gevallen onder meer van <span class="begrip" data-term="nicheconstructie">nicheconstructie</span>: organismen passen zich aan hun omgeving aan en veranderen delen ervan op manieren die op henzelf en soms op volgende generaties terugwerken. Organisme en omgeving veranderen elkaar.
 
 Een bever leeft in een landschap dat hij mede verandert. Een mens groeit op in een taal die eerdere mensen hebben gevormd en verandert die taal vervolgens zelf een beetje. Een buurt vormt het gedrag van bewoners, terwijl dagelijkse handelingen van bewoners diezelfde buurt veiliger, luidruchtiger, zorgzamer of vijandiger kunnen maken.
 
@@ -75,9 +67,7 @@ Hier verschijnt voor het eerst een spanning die later in het project steeds teru
 
 ## Autonomie zonder oorsprongsmythe
 
-Autonomie wordt vaak gevoeld als: zelf kunnen kiezen.
-
-Dat blijft belangrijk. Maar wanneer autonomie alleen betekent dat een keuze vrij is voor zover zij uit een volledig zelfstandig individu voortkomt, wordt vrijwel iedere menselijke keuze verdacht. Niemand kiest zijn eerste taal, eerste lichaam, eerste verzorgers, historische tijd, economische uitgangspositie of het grootste deel van de categorieën waarmee een keuze überhaupt kan worden gedacht.
+Autonomie wordt vaak gevoeld als: zelf kunnen kiezen. Dat blijft belangrijk, maar wanneer autonomie alleen betekent dat een keuze vrij is voor zover zij uit een volledig zelfstandig individu voortkomt, wordt vrijwel iedere menselijke keuze verdacht. Niemand kiest zijn eerste taal, eerste lichaam, eerste verzorgers, historische tijd, economische uitgangspositie of het grootste deel van de categorieën waarmee een keuze überhaupt kan worden gedacht.
 
 Een relationele benadering van autonomie vraagt onder welke sociale en materiële voorwaarden iemand werkelijk in staat raakt een eigen leven mede richting te geven. <span class="begrip" data-term="relationele-autonomie">Relationele autonomie</span> corrigeert het idee dat afhankelijkheid en zelfbestuur elkaars eenvoudige tegenpolen zijn.
 
@@ -101,9 +91,7 @@ Dat antwoord ontstaat nooit volledig uit mij alleen en kan toch werkelijk van mi
 
 *De mens is geen uitzondering op bepaaldheid; de mens is bepaaldheid die antwoord leert geven.*
 
-Wie alleen bepaaldheid ziet, kan ieder antwoord reduceren tot oorzaak en gevolg. Wie alleen autonomie ziet, vergeet hoeveel onzichtbare zorg, taal, materie en toeval nodig waren om überhaupt te kunnen kiezen.
-
-Het zelf is een plaats waar ontvangen bepaaldheid gedeeltelijk tot antwoord kan worden.
+Wie alleen bepaaldheid ziet, kan ieder antwoord reduceren tot oorzaak en gevolg. Wie alleen autonomie ziet, vergeet hoeveel onzichtbare zorg, taal, materie en toeval nodig waren om überhaupt te kunnen kiezen. Het zelf is een plaats waar ontvangen bepaaldheid gedeeltelijk tot antwoord kan worden.
 
 <aside class="uitkijkje uitkijkje--beeld" data-label="Even opzij">
 <p class="uitkijkje__label">Even opzij</p>
@@ -130,9 +118,7 @@ Dat volgt nergens uit.
 
 Relaties kunnen dragen en knechten. Afhankelijkheid kan zorg mogelijk maken en uitbuiting verbergen. Gemeenschap kan taal, bescherming en herkenning schenken, maar ook conformisme, schaamte en uitsluiting organiseren. Een familie kan iemand dragen en tegelijk bepalen welke vorm diegene nooit mag aannemen. Een werkomgeving kan samenwerking noemen wat feitelijk permanente beschikbaarheid is.
 
-Daarom is een relationeel mensbeeld nog geen relationele ethiek.
-
-Dat wij door relaties gevormd worden, zegt nog niet welke relaties goed zijn of hoeveel aanspraak een ander op ons heeft. De stap van beschrijving naar norm moet afzonderlijk worden gemaakt.
+Daarom is een relationeel mensbeeld nog geen relationele ethiek: dat wij door relaties gevormd worden, zegt nog niet welke relaties goed zijn of hoeveel aanspraak een ander op ons heeft. De stap van beschrijving naar norm moet afzonderlijk worden gemaakt.
 
 Precies hier wordt verschil belangrijk. Een verhouding blijft alleen werkelijk relationeel wanneer niet één zijde volledig bepaalt wat de ander in die verhouding mag zijn. Waar iedere afwijking wordt terugvertaald naar het verhaal van de sterkste partij, bestaat wel afhankelijkheid maar nauwelijks nog wederkerige vorming.
 
@@ -154,17 +140,13 @@ De omgeving werkt mee aan de manier waarop denken, herinneren en handelen vorm k
 
 ## Oorsprongsgeheugen
 
-Wie zichzelf als volledig eigen oorsprong ziet, maakt veel werk onzichtbaar.
-
-Dat geldt individueel, maar ook cultureel en institutioneel. Degene die een inzicht het best verwoordt, is niet noodzakelijk de enige oorsprong ervan. In een groep kunnen velen eerder iets hebben gevoeld, gemist, geprobeerd of opgevangen voordat één persoon het patroon articuleert. Een uitvinding rust op materialen, technieken en kennis waarvan geen enkele uitvinder zelf de eerste maker was. Een organisatie kan succes toeschrijven aan strategie terwijl medewerkers jarenlang informele reparaties uitvoerden die nergens in het model voorkwamen.
+Wie zichzelf als volledig eigen oorsprong ziet, maakt veel werk onzichtbaar. Dat geldt individueel, maar ook cultureel en institutioneel. Degene die een inzicht het best verwoordt, is niet noodzakelijk de enige oorsprong ervan. In een groep kunnen velen eerder iets hebben gevoeld, gemist, geprobeerd of opgevangen voordat één persoon het patroon articuleert. Een uitvinding rust op materialen, technieken en kennis waarvan geen enkele uitvinder zelf de eerste maker was. Een organisatie kan succes toeschrijven aan strategie terwijl medewerkers jarenlang informele reparaties uitvoerden die nergens in het model voorkwamen.
 
 Dat maakt auteurschap preciezer.
 
 Een spreker kan werkelijk iets nieuws formuleren. Een maker kan een vorm voortbrengen die er eerder niet was. Een mens kan verantwoordelijkheid dragen voor een beslissing die alleen door diegene genomen kon worden.
 
-Nieuwheid hoeft geen schepping uit het niets te zijn.
-
-Ideeën hebben vaak een genealogie: een route van lichamen, arbeid, mislukkingen, gesprekken, voorbeelden, weerstand en kleine signalen.
+Nieuwheid hoeft geen schepping uit het niets te zijn: ideeën hebben vaak een genealogie: een route van lichamen, arbeid, mislukkingen, gesprekken, voorbeelden, weerstand en kleine signalen.
 
 Oorsprongsgeheugen is daarom een vorm van ontvankelijkheid. Een vorm blijft beter corrigeerbaar wanneer zij niet vergeet waarvan en van wie zij afhankelijk is. Zodra succes zijn eigen draagwereld onzichtbaar maakt, kan autonomie in mythe veranderen en erkenning in toe-eigening.
 

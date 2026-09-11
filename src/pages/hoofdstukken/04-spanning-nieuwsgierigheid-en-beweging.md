@@ -13,7 +13,7 @@ divergence:
   status: "substantieel-herwerkt"
   note: "Publieke uitbreiding met scherper onderscheid tussen spanning, overbelasting en schadelijke stabiliteit; uitgebreidere lijn over nieuwsgierigheid, temporaliteit, agonistische spanning en beteugeling."
 
-lastSyncCheck: "2026-09-04"
+lastSyncCheck: "2026-09-11"
 ---
 
 Een levende vorm valt niet volledig samen met haar huidige toestand. Er bestaat verschil tussen wat zij is, nodig heeft, verwacht, kan worden en van haar omgeving ontvangt. Dat verschil hoeft niet meteen een probleem te zijn. Vaak is het juist de voorwaarde waaronder beweging ontstaat.
@@ -36,9 +36,7 @@ Spanning is vruchtbaar wanneer zij een terugweg behoudt.
 
 Een terugweg vraagt geen omkeerbaarheid. Een keuze kan definitief zijn. Een conflict kan gevolgen hebben die niet ongedaan worden gemaakt. Een relatie kan eindigen. Het gaat om de mogelijkheid dat wat gebeurt nog werkelijk verschil maakt voor wat daarna gebeurt.
 
-Er kan strijd, weerstand en scherp verschil bestaan. Maar het antwoord van de ander, het signaal van het lichaam, een onverwachte uitkomst of een nieuw feit moet de verhouding nog kunnen vertragen, begrenzen of veranderen.
-
-Wanneer dat verdwijnt, kan spanning verharden.
+Er kan strijd, weerstand en scherp verschil bestaan. Maar het antwoord van de ander, het signaal van het lichaam, een onverwachte uitkomst of een nieuw feit moet de verhouding nog kunnen vertragen, begrenzen of veranderen. Wanneer dat verdwijnt, kan spanning verharden.
 
 De ander verschijnt dan niet meer als iemand of iets waarvan nog iets te leren valt, maar uitsluitend als obstakel, vijand, fout of materiaal. De eigen vorm heeft diens uitsluiting nodig om zichzelf te bevestigen. Nieuwe informatie wordt niet meer onderzocht maar onmiddellijk ingepast als bewijs dat de eigen positie al klopte.
 
@@ -54,9 +52,7 @@ Er bestaat ook **schadelijke stabiliteit**: een toestand waarin spanning niet me
 
 ## Niet alles hoeft nu
 
-Niet iedere spanning hoeft onmiddellijk besproken, opgelost of heropend te worden.
-
-Tijd is zelf een voorwaarde voor antwoord.
+Niet iedere spanning hoeft onmiddellijk besproken, opgelost of heropend te worden. Tijd is zelf een voorwaarde voor antwoord.
 
 Soms kan een gesprek later mogelijk zijn dat nu alleen verdere schade zou veroorzaken. Iemand kan eerst veiligheid, afstand, slaap of overzicht nodig hebben. Een slachtoffer hoeft geen dialoog aan te gaan omdat de andere partij daar klaar voor zegt te zijn. Een organisatie hoeft een conflict niet eindeloos open te houden wanneer een tijdelijke grens eerst rust moet herstellen.
 
@@ -104,9 +100,7 @@ Goede nieuwsgierigheid hoeft een kennistekort niet zo snel mogelijk te vullen.
 
 ## Het onbekende is niet van mij
 
-Ook nieuwsgierigheid heeft een schaduwkant.
-
-Niet ieder geheim bestaat om door mij ontdekt te worden. Niet ieder lichaam, ritueel, trauma, landschap of verhaal is beschikbaar materiaal voor mijn begrip. Nieuwsgierigheid kan voyeurisme worden, extractie, surveillance of een koloniale beweging waarin het onbekende alleen waarde krijgt nadat ik het heb benoemd en ingedeeld.
+Ook nieuwsgierigheid heeft een schaduwkant. Niet ieder geheim bestaat om door mij ontdekt te worden. Niet ieder lichaam, ritueel, trauma, landschap of verhaal is beschikbaar materiaal voor mijn begrip. Nieuwsgierigheid kan voyeurisme worden, extractie, surveillance of een koloniale beweging waarin het onbekende alleen waarde krijgt nadat ik het heb benoemd en ingedeeld.
 
 Een ontvankelijke nieuwsgierigheid verdraagt daarom begrenzing. Zij kan vragen en toch een nee laten staan. Zij kan erkennen dat iets werkelijk bestaat zonder dat zij er volledige toegang toe krijgt.
 
@@ -126,17 +120,13 @@ Maar gretigheid heeft een bijzonder risico: zij kan precies datgene opeten waarn
 
 Wie alles direct consumeert, bewaart niets om later opnieuw te ontmoeten. Wie ieder gesprek meteen tot helderheid wil brengen, laat weinig ruimte voor een antwoord dat nog moet ontstaan. Wie een theorie te snel sluit, maakt haar ongevoelig voor wat niet past. Wie voortdurend prikkels zoekt, kan uiteindelijk steeds meer nodig hebben om nog iets te voelen.
 
-<span class="begrip" data-term="beteugeling">Beteugeling</span> is hier het vermogen een impuls niet onmiddellijk volledig uit te voeren, zodat verlangen, aandacht en verhouding tijd krijgen. Zij kan bestaan uit wachten, doseren, stoppen, slapen, een grens respecteren of iets bewust onaf laten.
-
-Daarmee krijgt intensiteit duur.
+<span class="begrip" data-term="beteugeling">Beteugeling</span> is hier het vermogen een impuls niet onmiddellijk volledig uit te voeren, zodat verlangen, aandacht en verhouding tijd krijgen. Zij kan bestaan uit wachten, doseren, stoppen, slapen, een grens respecteren of iets bewust onaf laten, en geeft intensiteit daarmee duur.
 
 Soms bewaart minder doen de mogelijkheid om later weer werkelijk te bewegen.
 
 ## Spanning heeft een geschiedenis
 
-Geen enkele spanning verschijnt in een leeg heden.
-
-Een onverwacht geluid heeft een andere betekenis voor iemand die zich veilig voelt dan voor iemand die langdurig onder dreiging heeft geleefd. Een nieuwe opdracht kan voor de ene werknemer uitdaging zijn en voor de andere de zoveelste last bovenop maanden zonder herstel. Een politiek compromis kan voor de ene groep redelijke wederkerigheid betekenen en voor een groep met een geschiedenis van uitsluiting opnieuw vragen dat zij de meeste onzekerheid draagt.
+Geen enkele spanning verschijnt in een leeg heden. Een onverwacht geluid heeft een andere betekenis voor iemand die zich veilig voelt dan voor iemand die langdurig onder dreiging heeft geleefd. Een nieuwe opdracht kan voor de ene werknemer uitdaging zijn en voor de andere de zoveelste last bovenop maanden zonder herstel. Een politiek compromis kan voor de ene groep redelijke wederkerigheid betekenen en voor een groep met een geschiedenis van uitsluiting opnieuw vragen dat zij de meeste onzekerheid draagt.
 
 Daarom kan draagkracht niet uitsluitend uit de huidige reactie worden afgeleid. Wat nu klein lijkt, kan op een lange geschiedenis landen.
 
@@ -146,9 +136,7 @@ Niet alles wat iemand overleeft, was daarom een goede groeiprikkel. Niet iedere 
 
 ## Beweging zonder cultus van groei
 
-Het is verleidelijk om beweging zelf tot ideaal te maken. Alsof levende vormen gezond zijn wanneer zij voortdurend leren, veranderen, nieuwsgierig blijven en nieuwe mogelijkheden openen.
-
-Ook beweging kan een prestatie-eis worden.
+Het is verleidelijk om beweging zelf tot ideaal te maken. Alsof levende vormen gezond zijn wanneer zij voortdurend leren, veranderen, nieuwsgierig blijven en nieuwe mogelijkheden openen: ook beweging kan zo een prestatie-eis worden.
 
 Een mens mag een tijd niets nieuws willen. Een gemeenschap mag gewoonten bewaren. Een dier hoeft niet permanent verrijkt te worden met prikkels wanneer rust ontbreekt. Een theorie hoeft niet iedere week uit te dijen om onafgesloten te blijven.
 

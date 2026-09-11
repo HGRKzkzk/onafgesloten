@@ -7,7 +7,7 @@ status: "uitgewerkt-met-academische-laag"
 source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
 description: "Een slothoofdstuk over de voorwaarden waaronder Onafgesloten Vorm zichzelf moet kunnen begrenzen, herzien of gedeeltelijk verlaten."
 divergence: "Integrale compressie: hoofdstuk is uitsluitend de interne onderhouds- en verlieslaag; culturele vergelijking blijft in het voorgaande hoofdstuk."
-lastSyncCheck: "2026-09-05"
+lastSyncCheck: "2026-09-11"
 ---
 
 De grootste bedreiging voor dit project is niet een tegenargument, maar succes als allesverklaring.
@@ -64,9 +64,7 @@ Een serieus tegenvoorbeeld kan verschillende dingen doen: een toepassing corrige
 
 De drie toetsgevallen bevatten ook een geval waarin de uitkomst niet een verfijning van het kader is. Bij een ondubbelzinnige administratieve rekenfout bepalen recht en berekening wat de primaire correctie is. Extra projecttaal maakt die beslissing niet beter. Daar moet zij wijken.
 
-Dat laatste is geen mislukking.
-
-Een theorie die alleen groeit en nooit snoeit, wordt een archief van zichzelf.
+Dat laatste is geen mislukking: een theorie die alleen groeit en nooit snoeit, wordt een archief van zichzelf.
 
 ## Wanneer moet iets werkelijk vervallen?
 

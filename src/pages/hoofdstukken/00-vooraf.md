@@ -14,7 +14,7 @@ divergence:
   status: "substantieel-herwerkt"
   note: "Publieke herschrijving met toegankelijker opening en aangescherpte zelfbegrenzing."
 
-lastSyncCheck: "2026-09-08"
+lastSyncCheck: "2026-09-11"
 
 themes:
   - zelfbegrenzing
@@ -28,9 +28,7 @@ Soms weten we opvallend snel wat iets is.
 
 Een kind is druk. Een collega is lastig. Een organisatie is bureaucratisch. Een relatie is mislukt. Een dier is nuttig, schadelijk of schattig. Een mens is zijn diagnose, zijn beroep, zijn overtuiging of zijn fout.
 
-Vaak hebben we zulke woorden nodig. Zonder onderscheid kunnen we nauwelijks denken, kiezen of handelen. Maar woorden die eerst hielpen om iets te zien, kunnen ongemerkt gaan doen alsof zij alles hebben gezien.
-
-Dit project begint bij dat kleine ongemak.
+Vaak hebben we zulke woorden nodig. Zonder onderscheid kunnen we nauwelijks denken, kiezen of handelen. Maar woorden die eerst hielpen om iets te zien, kunnen ongemerkt gaan doen alsof zij alles hebben gezien. Dit project begint bij dat kleine ongemak.
 
 Wat als een mens werkelijk iemand is, maar nooit volledig samenvalt met de vorm waarin die persoon nu verschijnt? Wat als afhankelijkheid al vanaf het begin een voorwaarde is waaronder levende wezens kunnen bestaan? Wat als grenzen noodzakelijk zijn, maar juist gezond blijven doordat zij niet vergeten dat er ook iets buiten hun huidige bereik ligt?
 
@@ -97,9 +95,7 @@ Biologie, neurowetenschap, psychologie, ethologie, sociologie en andere discipli
 
 Begrippen als draagkracht, ontvankelijkheid en draagroute moeten met zulke kennis in gesprek blijven, maar vervangen haar niet. Waar een bestaande discipline voldoende ziet, hoeft dit project geen nieuwe naam op het verschijnsel te plakken.
 
-Wetenschappelijke bevindingen kunnen bovendien een filosofische gedachte ondersteunen, begrenzen of onder druk zetten zonder haar automatisch te bewijzen. Uit het feit dat organismen afhankelijk zijn van hun omgeving volgt bijvoorbeeld nog niet vanzelf een volledige ontologie van relationaliteit. Tussen waarneming en filosofische duiding blijft denkwerk nodig.
-
-Hetzelfde geldt andersom: filosofische woorden mogen geen empirische gaten dichtplamuren.
+Wetenschappelijke bevindingen kunnen bovendien een filosofische gedachte ondersteunen, begrenzen of onder druk zetten zonder haar automatisch te bewijzen. Uit het feit dat organismen afhankelijk zijn van hun omgeving volgt bijvoorbeeld nog niet vanzelf een volledige ontologie van relationaliteit. Tussen waarneming en filosofische duiding blijft denkwerk nodig, en dat geldt ook andersom: filosofische woorden mogen geen empirische gaten dichtplamuren.
 
 ### Woorden die zichzelf niet mogen opsluiten
 
