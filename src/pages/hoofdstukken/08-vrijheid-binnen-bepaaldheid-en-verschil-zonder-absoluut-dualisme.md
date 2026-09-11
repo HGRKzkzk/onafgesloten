@@ -96,6 +96,10 @@ De relevante vraag is of voldoende voorwaarden behouden blijven om later opnieuw
 
 > **Vrijheid is niet maximale keuzevrijheid op ieder moment, maar voldoende voorwaarden behouden om opnieuw te kunnen antwoorden.**
 
+Antwoordruimte is geen schaal waarop kan worden afgelezen hoeveel vrijheid genoeg is. Het begrip wijst waar gekeken moet worden: naar tijd, informatie, veiligheid, mogelijkheid tot weigeren, correctie, vertrek en herstel. Of die voorwaarden in een concreet geval voldoende zijn, vraagt kennis van het domein, de gevolgen en de betrokken actor. Recht, geneeskunde, psychologie, ethologie of bestuurskunde kunnen daar preciezere maatstaven leveren dan dit begrip zelf.
+
+Antwoordruimte is daarmee een diagnostische vraag, geen zelfstandig handelingsprotocol.
+
 Een tijdelijke grens kan toekomstige vrijheid bewaren. Wie iemands actuele wil passeert in naam van diens toekomstige vrijheid krijgt wel een zwaardere rechtvaardigingslast. Lichtere middelen moeten serieus zijn overwogen en de interventie zelf moet toetsbaar blijven.
 
 <aside class="uitkijkje">
