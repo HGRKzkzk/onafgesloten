@@ -14,7 +14,7 @@ divergence:
   status: "substantieel-herwerkt"
   note: "Publieke herschrijving met gewijzigde opbouw, toegankelijker register, begrippenhulp en nieuwe artistieke uitkijkjes."
 
-lastSyncCheck: "2026-08-25"
+lastSyncCheck: "2026-09-11"
 
 themes:
   - vorm
@@ -213,6 +213,8 @@ Gezondheid vraagt dat spanning een weg kan vinden waarop voelen, grens, correcti
 ### Waar de zin stopt
 
 De formule moet een concreet onderscheid blijven maken. Als alles eenvoudig “onaf” kan worden genoemd, zegt het woord uiteindelijk niets meer.
+
+Waar een bestaand, domeinspecifiek begrip hetzelfde relevante verschil preciezer beschrijft, moet dat begrip voorrang krijgen. En als *onaf* alleen overeind blijft doordat het na ieder tegenvoorbeeld iets anders gaat betekenen, verliest de formule inhoud.
 
 De inzet is beperkt: wat werkelijk voor ons staat, mag serieus worden genomen zonder dat we hoeven te doen alsof daarmee alles gezegd is.
 
