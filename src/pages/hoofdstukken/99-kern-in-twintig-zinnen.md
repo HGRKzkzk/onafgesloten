@@ -25,8 +25,8 @@ lastSyncCheck: "2026-09-11"
 <small><a href="../02-vormen-ontstaan-in-verhouding/">02 · Vormen ontstaan in verhouding</a></small>
 
 <!-- laag: beschrijvend/metafysisch -->
-4. **Voelen is verschil dat ertoe doet.**  
-   De ervaring is werkelijk; haar uitleg blijft corrigeerbaar.
+4. **Voelen is ervaren verschil dat ertoe doet.**  
+   Responsiviteit alleen bewijst geen ervaring; waar iets gevoeld wordt, blijft de ervaring werkelijk en haar uitleg corrigeerbaar.
 
 <small><a href="../03-voelen-verschil-dat-ertoe-doet/">03 · Voelen: verschil dat ertoe doet</a></small>
 
@@ -78,9 +78,9 @@ lastSyncCheck: "2026-09-11"
 
 <small><a href="../09-liefde-klauwen-en-wederzijdse-bescherming/">09 · Liefde, klauwen en wederzijdse bescherming</a></small>
 
-<!-- laag: beschrijvend/metafysisch + normatief -->
-14. **De ander blijft meer dan mijn categorie, ook wanneer hij niet in mijn taal spreekt.**  
-    Menselijke tegenspraak hoeft geen afschrijving te worden; dierlijk voelen wordt niet minder werkelijk door het ontbreken van menselijke taal.
+<!-- laag: epistemisch/methodologisch -->
+14. **Taal redt alleen wanneer zij weigert het laatste woord te worden.**  
+    Een categorie kan helpen zien zolang afwijking, ervaring en gevolg haar nog werkelijk kunnen corrigeren.
 
 <small><a href="../10-taal-kennis-en-intelligentie/">10 · Taal, kennis en intelligentie</a></small>
 
@@ -104,7 +104,7 @@ lastSyncCheck: "2026-09-11"
 
 <!-- laag: normatief -->
 19. **Vorming mag richting geven zonder bestemming op te leggen.**  
-    Een gezond ecosysteem bewaart ruimte voor verschil, correctie, vertrek en nieuwe vorming.
+    Een pluralistisch veld bewaart ruimte voor verschil, correctie, vertrek en nieuwe vorming.
 
 <small><a href="../13-velden-instituties-en-georganiseerde-sluiting/">13 · Velden, instituties en georganiseerde sluiting</a></small>
 
@@ -122,6 +122,6 @@ lastSyncCheck: "2026-09-11"
 
 <!-- laag: instrumenteel/methodologisch -->
 22. **Ook dit project blijft onaf.**  
-    Zijn begrippen zijn zoeklichten onder correctieplicht.
+    Zijn begrippen staan onder correctieplicht en moeten wijken waar zij geen relevant verschil meer zichtbaar maken.
 
 <small><a href="../16-zelfbegrenzing-ook-dit-denken-blijft-onaf/">16 · Zelfbegrenzing: ook dit denken blijft onaf</a></small>
