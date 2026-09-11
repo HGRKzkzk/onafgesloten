@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/ChapterLayout.astro
 order: 14
-title: "Drie toetsgevallen: wat verandert er wanneer dit denken iets moet doen?"
-description: "Drie concrete stresstests: twee waarin het begrippenkader de vraag verschuift en één waarin het moet wijken."
+title: "Vier toetsgevallen: wat verandert er wanneer dit denken iets moet doen?"
+description: "Vier concrete stresstests: drie waarin het begrippenkader een relevante vraag verschuift of verdiept en één waarin het moet wijken."
 slug: "14-drie-toetsgevallen-wat-verandert-er-wanneer-dit-denken-iets-moet-doen"
 status: "publieke-werkversie"
 
@@ -12,13 +12,13 @@ source:
 
 divergence:
   status: "substantieel-herwerkt"
-  note: "Aangescherpt tot drie verschillende daden: de vraag verschuiven bij dier en uitvoering, en projecttaal laten wijken waar een ander domein de primaire beslissing al draagt."
+  note: "Uitgebreid tot vier verschillende daden: de vraag verschuiven bij dier en uitvoering, verdiepen bij algoritmische besluitvorming, en projecttaal laten wijken waar een ander domein de primaire beslissing al draagt."
 
-lastSyncCheck: "2026-09-05"
+lastSyncCheck: "2026-09-11"
 ---
 Een begrippenkader verdient zijn plaats niet doordat het overal woorden voor heeft. Het moet in een concrete situatie iets scherper zichtbaar maken dan zonder die woorden al zichtbaar was.
 
-Daarom volgen drie gevallen. In de eerste twee ontbreken eenvoudige schurken. Juist daar moet blijken of begrippen als draagroute, sluitingsmacht en corrigeerbaarheid meer doen dan een bekende morele intuïtie hernoemen. Het derde geval is anders: daar moet dit denken kunnen merken dat het niets toe te voegen heeft.
+Daarom volgen vier gevallen. In de eerste drie ontbreken eenvoudige schurken. Juist daar moet blijken of begrippen als draagroute, sluitingsmacht en corrigeerbaarheid meer doen dan een bekende morele intuïtie hernoemen. Het vierde geval is anders: daar moet dit denken kunnen merken dat het niets toe te voegen heeft.
 
 Dit kader levert geen drempelwaarden of zelfstandig handelingsprotocol. Het helpt lokaliseren welke feiten, lasten en machtsverhoudingen nader onderzocht moeten worden; de inhoudelijke beslissing blijft afhankelijk van domeinkennis, recht, gevolgen en betrokkenen.
 
@@ -89,7 +89,41 @@ Deze duiding verzwakt wanneer een zware opschorting aantoonbaar noodzakelijk is 
 
 > **De verschoven vraag is dus niet alleen of de beslissing klopt, maar waarom de onzekerheid van het instituut in dit leven moest landen en of nieuwe informatie de werkwijze nog werkelijk kan veranderen.**
 
-## Geval III: wanneer het denken moet stoppen
+## Geval III: een algoritmisch risicosignaal
+
+Stel een publieke organisatie gebruikt een model om dossiers te rangschikken voor extra controle. Het systeem neemt niet zelfstandig het definitieve besluit. Het voorspelt welke dossiers relatief vaak nader onderzoek nodig hebben, waarna een medewerker de zaak beoordeelt.
+
+Het model is niet evident slecht. In validaties presteert het beter dan willekeurige selectie en beter dan medewerkers zonder ondersteuning. Het helpt schaarse capaciteit gerichter inzetten en kan patronen herkennen die één medewerker gemakkelijk mist.
+
+Een burger krijgt toch ten onrechte een hoge risicoscore. Daardoor moet diegene extra bewijs aanleveren, duurt de behandeling langer en wordt het dossier vanuit een vermoeden van afwijking bekeken. De brief vermeldt dat aanvullende controle nodig is, maar niet welke combinatie van gegevens de route heeft bepaald. De medewerker mag van het signaal afwijken, maar moet dat motiveren en werkt onder tijdsdruk.
+
+Hier is de vraag niet eenvoudig of het model “eerlijk” of “oneerlijk” is. Een statistisch systeem werkt noodzakelijk met onzekerheid. De eerste OOV-vraag is waar die onzekerheid landt.
+
+De organisatie krijgt betere selectie. Het model krijgt een foutmarge. De medewerker krijgt een institutioneel gewogen aanbeveling. De burger krijgt bij een fout extra bewijslast, vertraging en mogelijk verdenking.
+
+> **Een foutmarge is geen abstract percentage wanneer steeds iemand de gevolgen van die onzekerheid moet dragen.**
+
+Daarmee is nog niet gezegd dat iedere fout onaanvaardbaar is. Ook menselijke besluitvorming maakt fouten. Een model kan zelfs minder fouten maken en willekeur verkleinen. De relevante vergelijking is dus niet mens goed, algoritme slecht, maar welke combinatie van mens, model en procedure welke fouten maakt, wie daarvan de gevolgen draagt en hoe herstel mogelijk is.
+
+Ook “een mens in de lus” is op zichzelf onvoldoende. Een medewerker die formeel mag afwijken maar de onderliggende gegevens niet begrijpt, nauwelijks tijd heeft of afwijking institutioneel moet verdedigen, kan in de praktijk vooral een aanbeveling bekrachtigen.
+
+> **Een mens in de lus maakt een systeem nog niet corrigeerbaar. Tegenspraak moet de uitkomst kunnen veranderen en, wanneer fouten zich herhalen, ook de werkwijze zelf.**
+
+Daar verschijnt een tweede laag. Stel de burger toont overtuigend aan dat een relevant gegeven niet klopt. Het individuele dossier kan dan worden hersteld. Maar als hetzelfde type fout telkens opnieuw ontstaat en die informatie nooit terugkomt bij modelbeheer, datakwaliteit of procesontwerp, blijft de institutionele leerroute gesloten.
+
+Corrigeerbaarheid heeft hier daarom minstens twee richtingen: het concrete geval moet kunnen worden veranderd en terugkerende fouten moeten de inrichting van het systeem kunnen bereiken.
+
+Dat vraagt geen individueel recht om iedere statistische methode te verwerpen. Een model kan op populatieniveau aantoonbaar meer zien dan één burger of één medewerker. Zelfkennis heeft geen automatisch epistemisch primaat, net zo min als een risicoscore dat heeft.
+
+De grens ligt elders. Een waarschijnlijkheid over vergelijkbare gevallen mag niet ongemerkt veranderen in een identiteit van deze persoon. Dat een groep met bepaalde kenmerken vaker uitkomst X heeft, maakt X relevant voor onderzoek; het bewijst niet dat deze burger X *is*.
+
+> **Voorspelkracht geeft een systeem gewicht, geen onweerlegbaarheid.**
+
+Deze duiding verzwakt wanneer het model aantoonbaar zware fouten vermindert, de extra lasten bij foutieve signalen beperkt blijven, medewerkers werkelijk en geïnformeerd kunnen afwijken, betrokkenen begrijpelijk kunnen achterhalen waarom hun route afwijkt, en individuele én terugkerende fouten daadwerkelijk tot correctie kunnen leiden. Dan kan automatisering antwoordruimte ook vergroten, bijvoorbeeld doordat willekeur afneemt of structurele missers eerder zichtbaar worden.
+
+De test is dus niet of er ergens een algoritme staat. Zij is of statistische kennis, menselijke beoordeling en institutionele macht zo zijn verbonden dat onzekerheid kan worden betwist zonder expertise weg te gooien, en expertise gewicht kan krijgen zonder zichzelf aan correctie te onttrekken.
+
+## Geval IV: wanneer het denken moet stoppen
 
 Soms is een fout gewoon een fout.
 
@@ -123,6 +157,7 @@ Hier is de juiste handeling dus niet verrijken, maar stoppen: corrigeren waar ie
 |---|---|---|
 | I | De vraag verschuift van productiviteit naar op wiens lichaam de beperking rust. | Geen welzijnsmaat, geen vierkante meters, geen verbod op veehouderij. |
 | II | Twee even rechtmatige procedures kunnen moreel verschillen door de route van onzekerheid en herstelwerk. | Geen uitspraak of deze beschikking juridisch fout is. |
-| III | Voor de primaire beslissing verandert niets. | Geen relationele omweg waar recht, berekening of diagnostiek het relevante feit al dragen. |
+| III | De vraag verschuift van alleen modelprestatie naar wie modelonzekerheid draagt en of mens én systeem werkelijk corrigeerbaar zijn. | Geen nauwkeurigheidsmaat, fairness-metric, technisch auditprotocol of algemeen oordeel dat algoritmische besluitvorming verkeerd is. |
+| IV | Voor de primaire beslissing verandert niets. | Geen relationele omweg waar recht, berekening of diagnostiek het relevante feit al dragen. |
 
-De meerwaarde blijft klein en concreet: eerder zichtbaar maken waar last, onzekerheid of sluitingsmacht terechtkomt, of waar een formeel correct systeem relevante terugkoppeling niet kan verwerken. Waar dat niet gebeurt, moeten andere begrippen het werk doen.
+De meerwaarde blijft klein en concreet: eerder zichtbaar maken waar last, onzekerheid of sluitingsmacht terechtkomt, waar een formeel correct systeem relevante terugkoppeling niet kan verwerken, of waar probabilistische kennis ongemerkt als individuele identiteit gaat functioneren. Waar dat niet gebeurt, moeten andere begrippen het werk doen.
