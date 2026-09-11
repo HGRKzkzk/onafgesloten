@@ -44,7 +44,7 @@ Een categorie wordt gevaarlijk wanneer haar grens niet meer als grens wordt herk
 <aside class="uitkijkje" data-label="Uitkijkje">
 <h3 class="uitkijkje__title">Een toren van taal</h3>
 <figure class="uitkijkje__figure">
-  <img src="/onafgesloten/images/hoofdstuk-10/bruegel-toren-van-babel.jpg" alt="Pieter Bruegel de Oude, De toren van Babel, met een enorme ronde bouwplaats vol arbeiders en steigers." loading="lazy" />
+  <img src="../../images/hoofdstuk-10/bruegel-toren-van-babel.jpg" alt="Pieter Bruegel de Oude, De toren van Babel, met een enorme ronde bouwplaats vol arbeiders en steigers." loading="lazy" />
   <figcaption>Pieter Bruegel de Oude, De toren van Babel, 1563. Kunsthistorisches Museum Wien. Publiek domein.</figcaption>
 </figure>
 <div class="uitkijkje__text">

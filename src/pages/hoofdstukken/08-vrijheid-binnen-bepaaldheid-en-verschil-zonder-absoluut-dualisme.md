@@ -48,7 +48,7 @@ Dat maakt verantwoordelijkheid nauwkeuriger.
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">Vrijheid komt zelden alleen</h3>
 <figure class="uitkijkje__figure">
-  <img src="/onafgesloten/images/hoofdstuk-08/delacroix-vrijheid.jpeg" alt="Eugène Delacroix, La Liberté guidant le peuple" loading="lazy" />
+  <img src="../../images/hoofdstuk-08/delacroix-vrijheid.jpeg" alt="Eugène Delacroix, La Liberté guidant le peuple" loading="lazy" />
 </figure>
 <div class="uitkijkje__text">
 
@@ -97,7 +97,7 @@ Een tijdelijke grens kan toekomstige vrijheid bewaren. Wie iemands actuele wil p
 <aside class="uitkijkje">
 <h3 class="uitkijkje__title">Een paar akkoorden zijn soms genoeg</h3>
 <figure class="uitkijkje__figure">
-  <img src="/onafgesloten/images/hoofdstuk-08/miles-davis-gottlieb.jpg" alt="Miles Davis en Howard McGhee tijdens een optreden in 1947, gefotografeerd door William P. Gottlieb." loading="lazy" />
+  <img src="../../images/hoofdstuk-08/miles-davis-gottlieb.jpg" alt="Miles Davis en Howard McGhee tijdens een optreden in 1947, gefotografeerd door William P. Gottlieb." loading="lazy" />
   <figcaption>Miles Davis en Howard McGhee, 1947. Foto William P. Gottlieb / Library of Congress. Publiek domein.</figcaption>
 </figure>
 <div class="uitkijkje__text">

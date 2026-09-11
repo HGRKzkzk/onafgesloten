@@ -96,7 +96,7 @@ Wie alleen bepaaldheid ziet, kan ieder antwoord reduceren tot oorzaak en gevolg.
 <aside class="uitkijkje uitkijkje--beeld" data-label="Even opzij">
 <p class="uitkijkje__label">Even opzij</p>
 <figure class="uitkijkje__figure">
-  <img src="/onafgesloten/images/hoofdstuk-02/cassatt-mother-child.jpg" alt="Mary Cassatt, Mother and Child" loading="lazy" />
+  <img src="../../images/hoofdstuk-02/cassatt-mother-child.jpg" alt="Mary Cassatt, Mother and Child" loading="lazy" />
   <figcaption>Mary Cassatt, <em>Mother and Child</em>, ca. 1905. National Gallery of Art. Publiek domein.</figcaption>
 </figure>
 <h3 class="uitkijkje__title">Gedragen worden is geen bijzaak</h3>

@@ -41,7 +41,7 @@ Ik probeer woorden te vinden voor iets wat in het gewone leven voortdurend zicht
 
   <figure class="uitkijkje__figure">
     <img
-      src="/onafgesloten/images/hoofdstuk-00/perfecte-kaart.jpg"
+      src="../../images/hoofdstuk-00/perfecte-kaart.jpg"
       alt="Een vrijwel lege zeekaart uit The Hunting of the Snark, met alleen een kader en navigatieaanduidingen."
       loading="lazy"
     />
