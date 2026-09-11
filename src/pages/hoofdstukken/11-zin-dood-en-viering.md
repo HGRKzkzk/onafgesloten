@@ -11,7 +11,7 @@ source:
 divergence:
   status: "substantieel-herwerkt"
   note: "Publieke herschrijving met soberder formulering rond zin, dood, rouw en viering; onherroepelijkheid blijft expliciet buiten iedere latere metafysische heropening."
-lastSyncCheck: "2026-09-04"
+lastSyncCheck: "2026-09-11"
 ---
 
 Mijn denken veronderstelt geen kosmisch doel. Een leven hoeft geen verborgen opdracht te vervullen om werkelijk te zijn.
@@ -31,6 +31,18 @@ Tegelijk hoeft betekenis niet eeuwig te zijn om werkelijk te zijn. Zij kan versc
 Soms wordt zin eerder gedaan dan geloofd. Iemand kan geen theorie over betekenis onderschrijven en toch koken voor een vriend, muziek maken, een dier verzorgen of een onrecht herstellen.
 
 Dat is geen therapievoorschrift. Soms is niet-doen, slapen, zwijgen of gewoon een dag doorkomen voorlopig genoeg.
+
+## Ook zin mag ontbreken
+
+Er zit nog een hardere grens aan dit hoofdstuk. Een leven hoeft door degene die het leeft niet als betekenisvol te worden ervaren voordat het bescherming, zorg of ernst verdient.
+
+Zin mag een draagkwaliteit van leven zijn, maar zij mag geen toelatingsvoorwaarde worden. Anders ontstaat alsnog een ideaalvorm: het geslaagde leven is dan het leven dat ergens betekenis uit weet te halen, zelfs uit verlies, pijn of uitputting.
+
+Dat hoeft niet. Iemand kan een periode als leeg, absurd of zonder opbrengst ervaren zonder dat een buitenstaander die leegte hoeft te vullen. Ook een verlies kan zonder verlossend inzicht blijven staan.
+
+> **Zin mag verschijnen. Zij hoeft niet te verschijnen om iets werkelijk te laten tellen.**
+
+Daarmee blijft betekenis een mogelijkheid en geen morele opdracht.
 
 ## De dood sluit werkelijk
 
@@ -67,6 +79,18 @@ De achterblijver kan iets anders gaan begrijpen, een verhaal herzien, boos worde
 
 Ook herinnering blijft corrigeerbaar door documenten, andere getuigen en bescheidenheid. Niemand krijgt exclusief eigendom over wie de dode “werkelijk was”.
 
+## Wie niet meer kan terugspreken
+
+Na de dood ontstaat een asymmetrie die niet meer kan worden opgeheven. De levenden blijven vertellen, selecteren, bewaren, vergeten en interpreteren. De dode kan die verhalen niet meer corrigeren.
+
+Dat betekent niet dat wij alsnog antwoordruimte voor de dode moeten construeren. Die concrete mogelijkheid is juist geëindigd. Het betekent wel dat de macht van de achterblijvers over het verhaal groter wordt naarmate correctie onmogelijker wordt.
+
+Een familie kan iemand tot heilige maken, een tegenstander tot karikatuur, een biografie tot sluitend portret. Ook liefde kan gaan bezitten wanneer zij zegt precies te weten wat iemand werkelijk dacht, wilde of geweest is.
+
+Bescheidenheid vraagt hier geen relativisme. Sommige herinneringen zijn beter gedocumenteerd dan andere en sommige verhalen zijn aantoonbaar onwaar. Maar waar de persoon zelf niet meer kan terugspreken, hoort interpretatiemacht haar eigen grens beter te kennen.
+
+Meerdere herinneringen kunnen naast elkaar bestaan zonder dat daarmee alles even waar wordt.
+
 ## Rouw hoeft niet af
 
 Rouw wordt soms voorgesteld als een proces met een natuurlijke eindvorm: loslaten, accepteren, verdergaan. Zulke woorden kunnen behulpzaam zijn, maar worden schadelijk wanneer zij tot tempo of maatstaf worden gemaakt.
@@ -97,7 +121,9 @@ Mensen kunnen tijdens een uitvaart lachen om een verhaal dat alleen grappig is o
 
 Viering hoeft niets te bezitten. Zij kan eenvoudig erkennen dat iets werkelijk heeft mogen bestaan, raken of antwoorden.
 
-Ook hier bestaat geen plicht. Een feest kan misplaatst zijn. Een jubileum kan pijn doen. Een gemeenschap kan haar eigen triomf vieren terwijl iemand anders de rekening draagt.
+Ook hier bestaat geen plicht. Een feest kan misplaatst zijn. Een jubileum kan pijn doen. Een gemeenschap kan haar eigen triomf vieren terwijl iemand anders de rekening draagt. Een herdenking kan iemand zichtbaar maken en tegelijk een ander verhaal uitwissen.
+
+Daarom blijft ook viering antwoordbaar aan wie niet vanzelf in het gedeelde verhaal past.
 
 > **De kosmos hoeft ons niet te vieren opdat wij elkaar kunnen vieren.**
 
