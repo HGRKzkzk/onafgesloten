@@ -128,6 +128,23 @@ Deze duiding verzwakt wanneer het model aantoonbaar zware fouten vermindert, de 
 
 De test is dus niet of er ergens een algoritme staat. Zij is of statistische kennis, menselijke beoordeling en institutionele macht zo zijn verbonden dat onzekerheid kan worden betwist zonder expertise weg te gooien, en expertise gewicht kan krijgen zonder zichzelf aan correctie te onttrekken.
 
+
+<aside class="uitkijkje">
+<h3 class="uitkijkje__title">Een portret van niemand</h3>
+<figure class="uitkijkje__figure">
+  <img src="../../images/hoofdstuk-14/galton-composietportretten.jpg" alt="Een plaat van Francis Galton met samengestelde portretten waarin meerdere gezichten door herhaalde belichting over elkaar zijn gelegd." loading="lazy" />
+  <figcaption>Francis Galton, <em>Composite portraiture</em>, 1883, plaat uit <em>Inquiries into Human Faculty and its Development</em>. Internet Archive via Wikimedia Commons. Publiek domein.</figcaption>
+</figure>
+<div class="uitkijkje__text">
+
+Francis Galton belichtte in de jaren tachtig van de negentiende eeuw tientallen portretten over elkaar op één plaat. Zo hoopte hij het gezicht van een type te vinden: de crimineel, de zieke, de Jood. De methode gold als wetenschap en was het niet.
+
+Wat op de plaat verschijnt is scherp, herkenbaar en bestaat niet. Het is niemand.
+
+</div>
+<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Composite_portraiture_Galton.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — plaat, herkomst en rechteninformatie</a></p>
+</aside>
+
 ## Geval IV: wanneer het denken moet stoppen
 
 Soms is een fout gewoon een fout.

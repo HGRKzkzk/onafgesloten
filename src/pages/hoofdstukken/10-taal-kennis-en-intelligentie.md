@@ -141,6 +141,23 @@ Een kaart die ieder steentje bevat is onbruikbaar. Een economisch model dat iede
 
 Wat in het model zit krijgt institutionele zichtbaarheid. Wat erbuiten valt moet vaak extra werk doen om toch mee te tellen.
 
+
+<aside class="uitkijkje">
+<h3 class="uitkijkje__title">Je kunt een bol niet platleggen</h3>
+<figure class="uitkijkje__figure">
+  <img src="../../images/hoofdstuk-10/mercator-wereldkaart-1569.jpg" alt="Gerardus Mercators wereldkaart uit 1569, met sterk uitgerekte landmassa's op hoge breedtegraden." loading="lazy" />
+  <figcaption>Gerardus Mercator, wereldkaart, 1569. Universiteitsbibliotheek Basel; reproductie Wilhelm Krücken. Publiek domein; medium-resolutiescan vrijgegeven voor hergebruik.</figcaption>
+</figure>
+<div class="uitkijkje__text">
+
+Een wereldkaart moet een bol op een plat vlak leggen. Dat kan niet zonder vervorming: je kunt oppervlakte, hoek of afstand kloppend houden, maar niet alle drie tegelijk.
+
+Mercator houdt de hoeken kloppend, wat navigeren mogelijk maakte en Groenland zo groot als Afrika maakt. Groenland is veertien keer kleiner. Elke projectie kiest dus wat zij zuiver houdt, en waar de fout terechtkomt.
+
+</div>
+<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Mercator_1569_world_map_composite.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — reproductie en rechteninformatie</a></p>
+</aside>
+
 Modelkwaliteit omvat daarom meer dan voorspellende nauwkeurigheid:
 
 - welke fouten het model systematisch maakt;
