@@ -5,8 +5,38 @@ const rustpuntVoorKoppen = new Set([
   'Verantwoordelijkheid zonder totale oorsprong',
   'De dood sluit werkelijk',
   'Corrigeren vóórdat iemand breekt',
-  'Wat moet kunnen verdwijnen'
+  'Wat moet kunnen verdwijnen?'
 ]);
+
+/*
+  Een rustpunt wordt in de browser vóór een kop geplaatst op basis van een exacte
+  tekstvergelijking. Een kop die hierboven net iets anders is gespeld dan in het
+  hoofdstuk staat het rustpunt dus stil uit, zonder dat iets zichtbaar misgaat.
+  Dat is één keer gebeurd: 'Wat moet kunnen verdwijnen' miste het vraagteken van
+  de werkelijke kop. Daarom wordt bij het bouwen gecontroleerd of iedere kop
+  hierboven ook echt in een hoofdstuk voorkomt.
+*/
+const hoofdstukBronnen = import.meta.glob('../pages/hoofdstukken/*.md', {
+  eager: true,
+  query: '?raw',
+  import: 'default'
+}) as Record<string, string>;
+
+const bestaandeKoppen = new Set<string>();
+for (const bron of Object.values(hoofdstukBronnen)) {
+  for (const [, kop] of bron.matchAll(/^## (.+)$/gm)) {
+    bestaandeKoppen.add(kop.trim());
+  }
+}
+
+const zonderKop = [...rustpuntVoorKoppen].filter((kop) => !bestaandeKoppen.has(kop));
+if (zonderKop.length > 0) {
+  console.warn(
+    `[Onafgesloten] Rustpunt ingesteld voor een kop die in geen enkel hoofdstuk voorkomt: ` +
+    `${zonderKop.map((kop) => `"${kop}"`).join(', ')}. ` +
+    'Corrigeer de spelling in Rustpunten.astro of verwijder de regel; anders verschijnt het rustpunt nooit.'
+  );
+}
 ---
 
 <script
