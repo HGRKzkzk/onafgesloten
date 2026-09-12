@@ -67,7 +67,7 @@ Bij uitkijkjes die inhoudelijk naar muziek, literatuur, dans of een andere niet-
 | 14 | De koe kijkt niet terug als beleidsmodel | Paulus Potter, *De Stier* / rund als monumentaal onderwerp | schilderkunst | 1647 | Nederland | schaalverschuiving |
 | 14 | Een portret van niemand | Francis Galton, *Composite portraiture* | fotografisch composiet / wetenschapsgeschiedenis | 1883 | Verenigd Koninkrijk / victoriaanse wetenschapsgeschiedenis | tegenbeeld |
 | 15 | Op de brug boven de Hao | *Zhuangzi*, Hao-dialoog; beeld: Zhou Dongqing, *The Pleasures of Fishes* | klassieke tekst / handrol-schilderkunst | teksttraditie Strijdende Staten; beeld 1291 | China / klassieke Chinese filosofie | culturele verbreding |
-| 16 | Wat eronder blijft staan | Archimedes Palimpsest Project; Keith Knox, William A. Christens-Barry en Roger Easton | manuscript / multispectrale fotografie | handschrift 10e–13e eeuw; opname 2008 | Byzantijnse / Griekse manuscripttraditie; moderne imaging | concretiseren |
+| 16 | Wat eronder blijft staan | Archimedes Palimpsest Project; Keith Knox, William A. Christens-Barry en Roger Easton | manuscript / multispectrale fotografie | handschrift 10e–13e eeuw; opname 2008 | Byzantijnse / Griekse manuscripttraditie; moderne beeldvorming | concretiseren |
 | 16 | Een schilderij dat naar zijn eigen kijken kijkt | Diego Velázquez, *Las Meninas* | schilderkunst | 1656 | Spanje / Europa | zelfreflectie / ontregelen |
 
 ## Late uitkijkjes

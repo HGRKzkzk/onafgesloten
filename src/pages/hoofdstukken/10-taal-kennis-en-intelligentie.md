@@ -157,6 +157,7 @@ Mercator houdt de hoeken kloppend, wat navigeren mogelijk maakte en Groenland zo
 </div>
 <p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Mercator_1569_world_map_composite.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — reproductie en rechteninformatie</a></p>
 </aside>
+
 Modelkwaliteit omvat daarom meer dan voorspellende nauwkeurigheid:
 
 - welke fouten het model systematisch maakt;

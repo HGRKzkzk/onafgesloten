@@ -94,6 +94,7 @@ Het schrapen lukt nooit helemaal. Onder het nieuwe handschrift blijft het oudere
 </div>
 <p class="uitkijkje__source"><a href="https://archimedespalimpsest.org/digital/image-bank.php" target="_blank" rel="noopener noreferrer">Archimedes Palimpsest Image Bank — beeldbank en CC BY 3.0</a></p>
 </aside>
+
 Wanneer hetzelfde begrip tegengestelde gevallen even gemakkelijk ondersteunt en vrijwel iedere uitkomst ermee te verenigen is, onderscheidt het niet meer. Dan verliest het zijn plaats in het kader.
 
 Een tegenvoorbeeld hoeft dus niet het hele project te laten bezwijken. Het kan lokaler iets laten vervallen: een begrip, een koppeling tussen begrippen, een toepassingsdomein of een normatieve gevolgtrekking. Maar er moet werkelijk iets kunnen verdwijnen.

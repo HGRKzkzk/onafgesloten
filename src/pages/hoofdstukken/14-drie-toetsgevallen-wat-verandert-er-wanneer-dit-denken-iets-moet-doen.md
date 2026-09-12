@@ -144,6 +144,7 @@ Wat op de plaat verschijnt is scherp, herkenbaar en bestaat niet. Het is niemand
 </div>
 <p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Composite_portraiture_Galton.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — plaat, herkomst en rechteninformatie</a></p>
 </aside>
+
 ## Geval IV: wanneer het denken moet stoppen
 
 Soms is een fout gewoon een fout.
