@@ -95,18 +95,16 @@ Antwoordruimte is daarmee een diagnostische vraag, geen zelfstandig handelingspr
 Een tijdelijke grens kan toekomstige vrijheid bewaren. Wie iemands actuele wil passeert in naam van diens toekomstige vrijheid krijgt wel een zwaardere rechtvaardigingslast. Lichtere middelen moeten serieus zijn overwogen en de interventie zelf moet toetsbaar blijven.
 
 <aside class="uitkijkje">
-<h3 class="uitkijkje__title">Een paar akkoorden zijn soms genoeg</h3>
+<h3 class="uitkijkje__title">Het schema ligt vast, de solo niet</h3>
 <figure class="uitkijkje__figure">
   <img src="../../images/hoofdstuk-08/miles-davis-gottlieb.jpg" alt="Miles Davis en Howard McGhee tijdens een optreden in 1947, gefotografeerd door William P. Gottlieb." loading="lazy" />
   <figcaption>Miles Davis en Howard McGhee, 1947. Foto William P. Gottlieb / Library of Congress. Publiek domein.</figcaption>
 </figure>
 <div class="uitkijkje__text">
 
-Op *Kind of Blue* spelen Miles Davis en zijn medemuzikanten binnen duidelijke muzikale voorwaarden: een tempo, een modaal kader, een vorm en andere spelers om rekening mee te houden. Niet iedere noot ligt vooraf vast.
+In de jazz waarin Miles Davis in deze jaren speelde, ligt veel vast: een thema, een tempo, een aantal maten, een akkoordenschema. Niet iedere noot.
 
-Juist daardoor kunnen de musici reageren op wat er net klinkt. Een frase van de trompet verandert wat de pianist of saxofonist daarna kan doen, zonder dat iemand de muziek hoeft te verlaten om iets eigens te spelen.
-
-Goede voorwaarden kunnen de ruimte maken waarin een werkelijk antwoord mogelijk wordt.
+Juist daardoor kunnen de musici reageren op wat er net klinkt. Een frase van de trompet verandert wat de pianist daarna kan doen, zonder dat iemand de vorm hoeft te verlaten om iets eigens te spelen.
 
 </div>
 <p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Miles_Davis%2C_Howard_McGhee%2C_September_1947_%28Gottlieb_05711%29.jpg" target="_blank" rel="noopener noreferrer">William P. Gottlieb / Library of Congress via Wikimedia Commons — publiek domein</a></p>

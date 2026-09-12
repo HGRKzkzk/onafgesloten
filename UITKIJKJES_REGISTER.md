@@ -56,7 +56,7 @@ Bij uitkijkjes die inhoudelijk naar muziek, literatuur, dans of een andere niet-
 | 06 | Ook muziek bestaat uit niet-spelen | rusttekens in westerse muzieknotatie, *Music rests.svg* | muzieknotatie / diagram | gangbare notatiepraktijk | westerse muziektraditie | vertragen |
 | 07 | De ideale mens past uitstekend op papier | Leonardo da Vinci, *Vitruviusman* | tekening / studie | ca. 1490 | Italië / renaissance | tegenbeeld |
 | 08 | Vrijheid komt zelden alleen | Eugène Delacroix, *La Liberté guidant le peuple* | schilderkunst | 1830 | Frankrijk / Europa | schaalverschuiving |
-| 08 | Een paar akkoorden zijn soms genoeg | Miles Davis, *Kind of Blue*; beeld: William P. Gottlieb, Miles Davis en Howard McGhee | jazz / muziekfotografie | muziek: 1959; beeld: 1947 | Verenigde Staten / Afro-Amerikaanse muziektraditie | vertragen |
+| 08 | Het schema ligt vast, de solo niet | Miles Davis en Howard McGhee; beeld: William P. Gottlieb | jazz / muziekfotografie | 1947 | Verenigde Staten / Afro-Amerikaanse muziektraditie | vertragen |
 | 09 | Nijntje hoeft niet groot te worden | Dick Bruna, Nijntje; beeld: sculptuur Marc Bruna / foto FakirNL | sculptuur / fotografie / kindercultuur | figuur vanaf 1955; foto 2023 | Nederland / Utrecht | vertragen |
 | 09 | Stoelen, lichamen, bijna-botsingen | Pina Bausch, *Café Müller*; beeld: Fernand Michaud, portret Pina Bausch | dans/theater / fotografie | werk 1978; beeld 1981 | Duitsland / Tanztheater | vertragen |
 | 10 | Een toren van taal | Pieter Bruegel de Oude, *De toren van Babel* | schilderkunst | 1563 | Lage Landen / Europa | tegenbeeld |
@@ -67,9 +67,18 @@ Bij uitkijkjes die inhoudelijk naar muziek, literatuur, dans of een andere niet-
 | 15 | Op de brug boven de Hao | *Zhuangzi*, Hao-dialoog; beeld: Zhou Dongqing, *The Pleasures of Fishes* | klassieke tekst / handrol-schilderkunst | teksttraditie Strijdende Staten; beeld 1291 | China / klassieke Chinese filosofie | culturele verbreding |
 | 16 | Een schilderij dat naar zijn eigen kijken kijkt | Diego Velázquez, *Las Meninas* | schilderkunst | 1656 | Spanje / Europa | zelfreflectie / ontregelen |
 
+## Late uitkijkjes
+
+Een enkel hoofdstuk sluit af met een laat uitkijkje. Die staan niet in de hoofdtekst maar in `src/data/lateUitkijkjes.ts`, en verschijnen daardoor niet in de tabel hierboven. Ze tellen wél volledig mee voor de doublurecontrole: een werk dat hier staat, is gebruikt.
+
+| Hoofdstuk | Uitkijkje | Bron / maker | Medium | Periode / context | Regio / traditie | Primaire functie |
+| --- | --- | --- | --- | --- | --- | --- |
+| 05 | Niet iedere horizon hoeft betreden te worden | Caspar David Friedrich, *Der Wanderer über dem Nebelmeer* | schilderkunst | ca. 1817–1818 | Duitsland / romantiek | tegenbeeld |
+| 08 | Bartleby zegt liever niet | Herman Melville, *Bartleby, the Scrivener*; beeld: omslagontwerp Dejan Dragosavac Ruta | literatuur / boekomslag | verhaal 1853; omslag 2014 | Verenigde Staten | ontregelen |
+
 ## Wat de inventaris nu al laat zien
 
-De huidige inventaris bevat 22 uitkijkjes. Alleen uitkijkjes die daadwerkelijk in de hoofdtekst staan worden meegerekend; verwijderde blokken verdwijnen in dezelfde redactiewijziging uit dit register.
+De inventaris in de hoofdtekst bevat 22 uitkijkjes; daarnaast staan er twee late uitkijkjes in de tabel hierboven. Alleen uitkijkjes die daadwerkelijk worden getoond worden meegerekend; verwijderde blokken verdwijnen in dezelfde redactiewijziging uit dit register.
 
 Alle 22 hebben nu een eigen zichtbare, lokaal opgeslagen beeldcomponent. Bij uitkijkjes rond muziek, dans of literatuur kan het beeld een historische drager, maker, uitvoerder of materieel spoor tonen zonder te doen alsof een stilstaand beeld het oorspronkelijke medium vervangt.
 
@@ -91,7 +100,7 @@ Bij volgende hoofdstukken verdienen daarom, waar inhoudelijk passend, extra aand
 
 Voor merge beantwoorden we kort:
 
-- Staat exact dit werk, fragment of beeld al in het register?
+- Staat exact dit werk, fragment of beeld al in het register? Controleer daarbij ook de tabel met late uitkijkjes.
 - Komt deze maker of visuele drager al voor? Zo ja: waarom is hergebruik beter dan een alternatief?
 - Is het daadwerkelijk getoonde medium in de omringende hoofdstukken al dominant?
 - Verbreedt of vernauwt dit de culturele en historische spreiding?

@@ -14,6 +14,11 @@ export type LateUitkijkje = {
   Een tweede uitkijkje is geen vast hoofdstukonderdeel.
   Alleen toevoegen wanneer het aan het einde een andere beweging maakt dan
   het eerdere uitkijkje en het slot van de tekst niet overneemt.
+
+  Late uitkijkjes tellen mee voor de doublurecontrole in UITKIJKJES_REGISTER.md
+  en staan daar in een eigen tabel. Registreer een nieuw laat uitkijkje in
+  dezelfde wijziging; anders blijft het buiten beeld bij de vraag of een werk,
+  maker of medium al eerder is gebruikt.
 */
 export const lateUitkijkjes: Record<string, LateUitkijkje> = {
   '05-draagkracht-grens-en-passende-sluiting': {
@@ -43,21 +48,6 @@ export const lateUitkijkjes: Record<string, LateUitkijkje> = {
       caption: 'Omslag bij Bartleby, the Scrivener, ontwerp Dejan Dragosavac Ruta, 2014. CC BY-SA 4.0.',
       sourceUrl: 'https://commons.wikimedia.org/wiki/File:Bartleby_ou_la_formule%3B_Bartleby,_the_Scrivener_-_A_Story_of_Wall_Street.png',
       sourceLabel: 'Wikimedia Commons — omslag en licentie'
-    }
-  },
-
-  '10-taal-kennis-en-intelligentie': {
-    title: 'Een schilderij dat zijn eigen kijken meeneemt',
-    paragraphs: [
-      'In Velázquez’ Las Meninas is kijken zelf onderdeel van wat wordt afgebeeld. De schilder kijkt terug, een spiegel opent een tweede ruimte en de toeschouwer krijgt geen neutrale plek buiten het tafereel.',
-      'Dat is een bruikbaar beeld voor kennis: niet alleen vragen wat een beschrijving laat zien, maar ook waarvandaan zij kijkt en wat door dat standpunt buiten beeld blijft.'
-    ],
-    visual: {
-      src: 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Las%20Meninas%20%281656%29%2C%20by%20Velazquez.jpg',
-      alt: 'Diego Velázquez, Las Meninas, met de schilder, hoffiguren, een spiegel en verschillende kijkrichtingen.',
-      caption: 'Diego Velázquez, Las Meninas, 1656. Publiek domein.',
-      sourceUrl: 'https://commons.wikimedia.org/wiki/File:Las_Meninas_(1656),_by_Velazquez.jpg',
-      sourceLabel: 'Wikimedia Commons — afbeelding en rechteninformatie'
     }
   }
 };
