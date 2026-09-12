@@ -1,0 +1,118 @@
+name: Prepare three uitkijkjes
+
+on:
+  push:
+    branches: [voeg-drie-uitkijkjes-toe]
+    paths: [.github/workflows/prepare-three-uitkijkjes.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: voeg-drie-uitkijkjes-toe
+
+      - name: Download verified images
+        run: |
+          set -euo pipefail
+          mkdir -p public/images/hoofdstuk-10 public/images/hoofdstuk-14 public/images/hoofdstuk-16
+          curl -fL 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Mercator_1569_world_map_composite.jpg?width=1280' -o public/images/hoofdstuk-10/mercator-wereldkaart-1569.jpg
+          curl -fL 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Composite_portraiture_Galton.jpg?width=1280' -o public/images/hoofdstuk-14/galton-composietportretten.jpg
+          curl -fL 'https://www.archimedespalimpsest.net/Data/126r-131v/126r-131v_Arch34r_Sinar_uvblue_norm8.jpg' -o public/images/hoofdstuk-16/archimedes-palimpsest.jpg
+          file public/images/hoofdstuk-10/mercator-wereldkaart-1569.jpg public/images/hoofdstuk-14/galton-composietportretten.jpg public/images/hoofdstuk-16/archimedes-palimpsest.jpg
+
+      - name: Insert unambiguous blocks and update register
+        run: |
+          python <<'PY'
+          from pathlib import Path
+
+          ch10 = Path('src/pages/hoofdstukken/10-taal-kennis-en-intelligentie.md')
+          s = ch10.read_text()
+          needle = "Wat in het model zit krijgt institutionele zichtbaarheid. Wat erbuiten valt moet vaak extra werk doen om toch mee te tellen.\n"
+          block = r'''
+
+<aside class="uitkijkje">
+<h3 class="uitkijkje__title">Je kunt een bol niet platleggen</h3>
+<figure class="uitkijkje__figure">
+  <img src="../../images/hoofdstuk-10/mercator-wereldkaart-1569.jpg" alt="Gerardus Mercators wereldkaart uit 1569 op de naar hem genoemde projectie, met sterk uitgerekte gebieden op hoge breedtegraden." loading="lazy" />
+  <figcaption>Gerardus Mercator, wereldkaart op Mercatorprojectie, 1569. Universiteitsbibliotheek Basel; reproductie Wilhelm Krücken. Publiek domein; medium-resolutiescan vrijgegeven voor hergebruik.</figcaption>
+</figure>
+<div class="uitkijkje__text">
+
+Een wereldkaart moet een bol op een plat vlak leggen. Dat kan niet zonder vervorming: je kunt oppervlakte, hoek of afstand kloppend houden, maar niet alle drie tegelijk.
+
+Mercator houdt de hoeken kloppend, wat navigeren mogelijk maakte en Groenland zo groot als Afrika maakt. Groenland is veertien keer kleiner. Elke projectie kiest dus wat zij zuiver houdt, en waar de fout terechtkomt.
+
+</div>
+<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Mercator_1569_world_map_composite.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — reproductie en rechteninformatie</a></p>
+</aside>
+'''
+          assert needle in s and 'Je kunt een bol niet platleggen' not in s
+          ch10.write_text(s.replace(needle, needle + block, 1))
+
+          ch16 = Path('src/pages/hoofdstukken/16-zelfbegrenzing-ook-dit-denken-blijft-onaf.md')
+          s = ch16.read_text()
+          needle = "Herformulering mag. Maar zij is niet kosteloos. Wanneer een begrip na kritiek iets anders moet gaan betekenen, moet zichtbaar worden wat de oude formulering verloor.\n"
+          block = r'''
+
+<aside class="uitkijkje">
+<h3 class="uitkijkje__title">Wat eronder blijft staan</h3>
+<figure class="uitkijkje__figure">
+  <img src="../../images/hoofdstuk-16/archimedes-palimpsest.jpg" alt="Een blad van het Archimedes-palimpsest onder ultraviolet licht, waarop twee lagen Griekse tekst in verschillende richtingen zichtbaar zijn." loading="lazy" />
+  <figcaption>Archimedes Palimpsest Project (RIT, Equipoise Imaging en Boeing LTS), fol. 126r–131v, multispectrale opname, 2008. Particuliere collectie / The Walters Art Museum. CC BY 3.0.</figcaption>
+</figure>
+<div class="uitkijkje__text">
+
+Een palimpsest is een handschrift dat is afgeschraapt om opnieuw te worden beschreven. Perkament was duur; de oude tekst moest wijken voor een nieuwe.
+
+Het schrapen lukt nooit helemaal. Onder het nieuwe handschrift blijft het oudere zichtbaar, en soms is wat daar nog te lezen valt het enige exemplaar dat ooit bestond.
+
+</div>
+<p class="uitkijkje__source"><a href="https://www.archimedespalimpsest.net/Data/126r-131v/" target="_blank" rel="noopener noreferrer">Archimedes Palimpsest Project — beeldbestand; dataset CC BY 3.0</a></p>
+</aside>
+'''
+          assert needle in s and 'Wat eronder blijft staan' not in s
+          ch16.write_text(s.replace(needle, needle + block, 1))
+
+          reg = Path('UITKIJKJES_REGISTER.md')
+          s = reg.read_text()
+          row10 = '| 10 | Een toren van taal | Pieter Bruegel de Oude, *De toren van Babel* | schilderkunst | 1563 | Lage Landen / Europa | tegenbeeld |\n'
+          add10 = '| 10 | Je kunt een bol niet platleggen | Gerardus Mercator, wereldkaart van 1569; reproductie Wilhelm Krücken | historische cartografie / kaart | 1569; digitale reproductie van exemplaar Basel | Lage Landen / Europese cartografie | concretiseren |\n'
+          row16 = '| 16 | Een schilderij dat naar zijn eigen kijken kijkt | Diego Velázquez, *Las Meninas* | schilderkunst | 1656 | Spanje / Europa | zelfreflectie / ontregelen |\n'
+          add16 = '| 16 | Wat eronder blijft staan | Archimedes Palimpsest Project, fol. 126r–131v | manuscript / multispectrale fotografie | ondertekst 10e eeuw; overschrift 1229; opname 2008 | Byzantijnse / Griekse manuscripttraditie | concretiseren |\n'
+          assert row10 in s and add10 not in s and row16 in s and add16 not in s
+          s = s.replace(row10, row10 + add10, 1)
+          s = s.replace(row16, add16 + row16, 1)
+          s = s.replace('De inventaris in de hoofdtekst bevat 22 uitkijkjes; daarnaast staan er twee late uitkijkjes in de tabel hierboven.', 'De inventaris in de hoofdtekst bevat 24 uitkijkjes; daarnaast staan er twee late uitkijkjes in de tabel hierboven.', 1)
+          s = s.replace('Alle 22 hebben nu een eigen zichtbare, lokaal opgeslagen beeldcomponent.', 'Alle 24 hebben nu een eigen zichtbare, lokaal opgeslagen beeldcomponent.', 1)
+          marker = 'De visuele spreiding bestaat onder meer uit aardobservatie, natuurwaarneming, wetenschappelijke instrumentatie, architectuur, muziek- en theaterfotografie, manuscript- en tabletmateriaal, boekillustratie, grafiek, sculptuur en schilderkunst.'
+          replacement = marker + ' Het kaartmedium komt nu tweemaal voor: in Vooraf als literaire boekillustratie en ontregeling, en in hoofdstuk 10 als historische cartografie die modelvervorming concretiseert. De maker, drager en functie verschillen voldoende om dat hergebruik hier te rechtvaardigen.'
+          assert marker in s
+          s = s.replace(marker, replacement, 1)
+          reg.write_text(s)
+          PY
+
+      - name: Verify preparation
+        run: |
+          set -euo pipefail
+          npm ci
+          npm run build 2>&1 | tee /tmp/build.log
+          ! grep -F '[Onafgesloten]' /tmp/build.log
+          test -s public/images/hoofdstuk-10/mercator-wereldkaart-1569.jpg
+          test -s public/images/hoofdstuk-14/galton-composietportretten.jpg
+          test -s public/images/hoofdstuk-16/archimedes-palimpsest.jpg
+          ! grep -rn 'src="/onafgesloten' src/pages/hoofdstukken/
+
+      - name: Remove temporary workflow and commit
+        run: |
+          set -euo pipefail
+          rm .github/workflows/prepare-three-uitkijkjes.yml
+          git config user.name 'HGRKzkzk'
+          git config user.email '31103706+HGRKzkzk@users.noreply.github.com'
+          git add src/pages/hoofdstukken/10-taal-kennis-en-intelligentie.md src/pages/hoofdstukken/16-zelfbegrenzing-ook-dit-denken-blijft-onaf.md UITKIJKJES_REGISTER.md public/images/hoofdstuk-10/mercator-wereldkaart-1569.jpg public/images/hoofdstuk-14/galton-composietportretten.jpg public/images/hoofdstuk-16/archimedes-palimpsest.jpg .github/workflows/prepare-three-uitkijkjes.yml
+          git commit -m 'Bereid drie nieuwe uitkijkjes voor'
+          git push origin HEAD:voeg-drie-uitkijkjes-toe
