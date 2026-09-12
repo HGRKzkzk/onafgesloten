@@ -1,0 +1,158 @@
+name: Apply and validate three uitkijkjes
+
+on:
+  push:
+    branches: [voeg-drie-uitkijkjes-toe]
+    paths:
+      - .github/workflows/apply-three-uitkijkjes.yml
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: voeg-drie-uitkijkjes-toe
+
+      - name: Insert uitkijkjes and update register
+        run: |
+          python <<'PY'
+          from pathlib import Path
+
+          ch10 = Path('src/pages/hoofdstukken/10-taal-kennis-en-intelligentie.md')
+          s = ch10.read_text()
+          needle = "Wat in het model zit krijgt institutionele zichtbaarheid. Wat erbuiten valt moet vaak extra werk doen om toch mee te tellen.\n"
+          block = '''
+
+          <aside class="uitkijkje">
+          <h3 class="uitkijkje__title">Je kunt een bol niet platleggen</h3>
+          <figure class="uitkijkje__figure">
+            <img src="../../images/hoofdstuk-10/mercator-wereldkaart-1569.jpg" alt="Gerardus Mercators wereldkaart uit 1569, met sterk uitgerekte landmassa's op hoge breedtegraden." loading="lazy" />
+            <figcaption>Gerardus Mercator, wereldkaart, 1569. Universiteitsbibliotheek Basel; reproductie Wilhelm Krücken. Publiek domein; medium-resolutiescan vrijgegeven voor hergebruik.</figcaption>
+          </figure>
+          <div class="uitkijkje__text">
+
+          Een wereldkaart moet een bol op een plat vlak leggen. Dat kan niet zonder vervorming: je kunt oppervlakte, hoek of afstand kloppend houden, maar niet alle drie tegelijk.
+
+          Mercator houdt de hoeken kloppend, wat navigeren mogelijk maakte en Groenland zo groot als Afrika maakt. Groenland is veertien keer kleiner. Elke projectie kiest dus wat zij zuiver houdt, en waar de fout terechtkomt.
+
+          </div>
+          <p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Mercator_1569_world_map_composite.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — reproductie en rechteninformatie</a></p>
+          </aside>
+          '''
+          block = '\n'.join(line[10:] if line.startswith('          ') else line for line in block.splitlines())
+          assert needle in s, 'Invoegpunt hoofdstuk 10 ontbreekt'
+          assert 'Je kunt een bol niet platleggen' not in s, 'Hoofdstuk 10 bevat uitkijkje al'
+          ch10.write_text(s.replace(needle, needle + block, 1))
+
+          ch14 = Path('src/pages/hoofdstukken/14-drie-toetsgevallen-wat-verandert-er-wanneer-dit-denken-iets-moet-doen.md')
+          s = ch14.read_text()
+          needle = "## Geval IV: wanneer het denken moet stoppen\n"
+          block = '''
+          <aside class="uitkijkje">
+          <h3 class="uitkijkje__title">Een portret van niemand</h3>
+          <figure class="uitkijkje__figure">
+            <img src="../../images/hoofdstuk-14/galton-composietportretten.jpg" alt="Een plaat van Francis Galton met samengestelde portretten waarin meerdere gezichten door herhaalde belichting over elkaar zijn gelegd." loading="lazy" />
+            <figcaption>Francis Galton, <em>Composite portraiture</em>, 1883, plaat uit <em>Inquiries into Human Faculty and its Development</em>. Internet Archive via Wikimedia Commons. Publiek domein.</figcaption>
+          </figure>
+          <div class="uitkijkje__text">
+
+          Francis Galton belichtte in de jaren tachtig van de negentiende eeuw tientallen portretten over elkaar op één plaat. Zo hoopte hij het gezicht van een type te vinden: de crimineel, de zieke, de Jood. De methode gold als wetenschap en was het niet.
+
+          Wat op de plaat verschijnt is scherp, herkenbaar en bestaat niet. Het is niemand.
+
+          </div>
+          <p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Composite_portraiture_Galton.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — plaat, herkomst en rechteninformatie</a></p>
+          </aside>
+
+          '''
+          block = '\n'.join(line[10:] if line.startswith('          ') else line for line in block.splitlines())
+          assert needle in s, 'Invoegpunt hoofdstuk 14 ontbreekt'
+          assert 'Een portret van niemand' not in s, 'Hoofdstuk 14 bevat uitkijkje al'
+          ch14.write_text(s.replace(needle, block + needle, 1))
+
+          ch16 = Path('src/pages/hoofdstukken/16-zelfbegrenzing-ook-dit-denken-blijft-onaf.md')
+          s = ch16.read_text()
+          needle = "Herformulering mag. Maar zij is niet kosteloos. Wanneer een begrip na kritiek iets anders moet gaan betekenen, moet zichtbaar worden wat de oude formulering verloor.\n"
+          block = '''
+
+          <aside class="uitkijkje">
+          <h3 class="uitkijkje__title">Wat eronder blijft staan</h3>
+          <figure class="uitkijkje__figure">
+            <img src="../../images/hoofdstuk-16/archimedes-palimpsest.jpg" alt="Een blad van het Archimedes-palimpsest onder ultraviolet en blauw licht, waarop de oudere Griekse ondertekst door het latere handschrift heen zichtbaar is." loading="lazy" />
+            <figcaption>Keith Knox, William A. Christens-Barry en Roger Easton / Archimedes Palimpsest Project, fol. 126r–131v (Arch34r), multispectrale UV/blauw-opname, 2008. Particuliere collectie; project bij The Walters Art Museum. CC BY 3.0.</figcaption>
+          </figure>
+          <div class="uitkijkje__text">
+
+          Een palimpsest is een handschrift dat is afgeschraapt om opnieuw te worden beschreven. Perkament was duur; de oude tekst moest wijken voor een nieuwe.
+
+          Het schrapen lukt nooit helemaal. Onder het nieuwe handschrift blijft het oudere zichtbaar, en soms is wat daar nog te lezen valt het enige exemplaar dat ooit bestond.
+
+          </div>
+          <p class="uitkijkje__source"><a href="https://archimedespalimpsest.org/digital/image-bank.php" target="_blank" rel="noopener noreferrer">Archimedes Palimpsest Image Bank — beeldbank en CC BY 3.0</a></p>
+          </aside>
+          '''
+          block = '\n'.join(line[10:] if line.startswith('          ') else line for line in block.splitlines())
+          assert needle in s, 'Invoegpunt hoofdstuk 16 ontbreekt'
+          assert 'Wat eronder blijft staan' not in s, 'Hoofdstuk 16 bevat uitkijkje al'
+          ch16.write_text(s.replace(needle, needle + block, 1))
+
+          reg = Path('UITKIJKJES_REGISTER.md')
+          s = reg.read_text()
+          row10 = '| 10 | Een toren van taal | Pieter Bruegel de Oude, *De toren van Babel* | schilderkunst | 1563 | Lage Landen / Europa | tegenbeeld |\n'
+          add10 = '| 10 | Je kunt een bol niet platleggen | Gerardus Mercator, wereldkaart van 1569; reproductie Wilhelm Krücken | historische cartografie / kaart | 1569; moderne reproductie | Lage Landen / Europese cartografie | concretiseren |\n'
+          row14 = '| 14 | De koe kijkt niet terug als beleidsmodel | Paulus Potter, *De Stier* / rund als monumentaal onderwerp | schilderkunst | 1647 | Nederland | schaalverschuiving |\n'
+          add14 = '| 14 | Een portret van niemand | Francis Galton, *Composite portraiture* | fotografisch composiet / wetenschapsgeschiedenis | 1883 | Verenigd Koninkrijk / victoriaanse wetenschapsgeschiedenis | tegenbeeld |\n'
+          row16 = '| 16 | Een schilderij dat naar zijn eigen kijken kijkt | Diego Velázquez, *Las Meninas* | schilderkunst | 1656 | Spanje / Europa | zelfreflectie / ontregelen |\n'
+          add16 = '| 16 | Wat eronder blijft staan | Archimedes Palimpsest Project; Keith Knox, William A. Christens-Barry en Roger Easton | manuscript / multispectrale fotografie | handschrift 10e–13e eeuw; opname 2008 | Byzantijnse / Griekse manuscripttraditie; moderne imaging | concretiseren |\n'
+          for row, add in [(row10, add10), (row14, add14), (row16, add16)]:
+              assert row in s, f'Registeranker ontbreekt: {row}'
+              assert add not in s, f'Registerrij bestaat al: {add}'
+          s = s.replace(row10, row10 + add10, 1)
+          s = s.replace(row14, row14 + add14, 1)
+          s = s.replace(row16, add16 + row16, 1)
+          old_count = 'De inventaris in de hoofdtekst bevat 22 uitkijkjes; daarnaast staan er twee late uitkijkjes in de tabel hierboven.'
+          new_count = 'De inventaris in de hoofdtekst bevat 25 uitkijkjes; daarnaast staan er twee late uitkijkjes in de tabel hierboven.'
+          assert old_count in s
+          s = s.replace(old_count, new_count, 1)
+          assert 'Alle 22 hebben nu een eigen zichtbare, lokaal opgeslagen beeldcomponent.' in s
+          s = s.replace('Alle 22 hebben nu een eigen zichtbare, lokaal opgeslagen beeldcomponent.', 'Alle 25 hebben nu een eigen zichtbare, lokaal opgeslagen beeldcomponent.', 1)
+          marker = 'De visuele spreiding bestaat onder meer uit aardobservatie, natuurwaarneming, wetenschappelijke instrumentatie, architectuur, muziek- en theaterfotografie, manuscript- en tabletmateriaal, boekillustratie, grafiek, sculptuur en schilderkunst.'
+          replacement = marker + ' Het kaartmedium komt nu tweemaal voor: in Vooraf als fictieve boekillustratie die ontregelt, en in hoofdstuk 10 als historische cartografie die modelvervorming concretiseert. Maker, drager, context en functie verschillen daarmee voldoende om dit hergebruik te dragen.'
+          assert marker in s
+          s = s.replace(marker, replacement, 1)
+          reg.write_text(s)
+          PY
+
+      - name: Build and verify project rules
+        run: |
+          set -euo pipefail
+          npm ci
+          npm run build 2>&1 | tee /tmp/build.log
+          ! grep -F '[Onafgesloten]' /tmp/build.log
+          test -s public/images/hoofdstuk-10/mercator-wereldkaart-1569.jpg
+          test -s public/images/hoofdstuk-14/galton-composietportretten.jpg
+          test -s public/images/hoofdstuk-16/archimedes-palimpsest.jpg
+          ! grep -rn 'src="/onafgesloten' src/pages/hoofdstukken/
+          test "$(grep -Rho '<aside class="uitkijkje' src/pages/hoofdstukken | wc -l | tr -d ' ')" = "25"
+          grep -F 'De inventaris in de hoofdtekst bevat 25 uitkijkjes' UITKIJKJES_REGISTER.md
+          grep -F '| 10 | Je kunt een bol niet platleggen |' UITKIJKJES_REGISTER.md
+          grep -F '| 14 | Een portret van niemand |' UITKIJKJES_REGISTER.md
+          grep -F '| 16 | Wat eronder blijft staan |' UITKIJKJES_REGISTER.md
+
+      - name: Commit validated changes and remove temporary workflow
+        run: |
+          set -euo pipefail
+          rm .github/workflows/apply-three-uitkijkjes.yml
+          git config user.name 'HGRKzkzk'
+          git config user.email '31103706+HGRKzkzk@users.noreply.github.com'
+          git add src/pages/hoofdstukken/10-taal-kennis-en-intelligentie.md \
+                  src/pages/hoofdstukken/14-drie-toetsgevallen-wat-verandert-er-wanneer-dit-denken-iets-moet-doen.md \
+                  src/pages/hoofdstukken/16-zelfbegrenzing-ook-dit-denken-blijft-onaf.md \
+                  UITKIJKJES_REGISTER.md \
+                  .github/workflows/apply-three-uitkijkjes.yml
+          git commit -m 'Voeg drie nieuwe uitkijkjes toe'
+          git push origin HEAD:voeg-drie-uitkijkjes-toe
