@@ -78,6 +78,22 @@ Een begrip, verbinding of toepassingsregel moet worden opgegeven of teruggebrach
 
 Herformulering mag. Maar zij is niet kosteloos. Wanneer een begrip na kritiek iets anders moet gaan betekenen, moet zichtbaar worden wat de oude formulering verloor.
 
+
+<aside class="uitkijkje">
+<h3 class="uitkijkje__title">Wat eronder blijft staan</h3>
+<figure class="uitkijkje__figure">
+  <img src="../../images/hoofdstuk-16/archimedes-palimpsest.jpg" alt="Een blad van het Archimedes-palimpsest onder ultraviolet en blauw licht, waarop de oudere Griekse ondertekst door het latere handschrift heen zichtbaar is." loading="lazy" />
+  <figcaption>Keith Knox, William A. Christens-Barry en Roger Easton / Archimedes Palimpsest Project, fol. 126r–131v (Arch34r), multispectrale UV/blauw-opname, 2008. Particuliere collectie; project bij The Walters Art Museum. CC BY 3.0.</figcaption>
+</figure>
+<div class="uitkijkje__text">
+
+Een palimpsest is een handschrift dat is afgeschraapt om opnieuw te worden beschreven. Perkament was duur; de oude tekst moest wijken voor een nieuwe.
+
+Het schrapen lukt nooit helemaal. Onder het nieuwe handschrift blijft het oudere zichtbaar, en soms is wat daar nog te lezen valt het enige exemplaar dat ooit bestond.
+
+</div>
+<p class="uitkijkje__source"><a href="https://archimedespalimpsest.org/digital/image-bank.php" target="_blank" rel="noopener noreferrer">Archimedes Palimpsest Image Bank — beeldbank en CC BY 3.0</a></p>
+</aside>
 Wanneer hetzelfde begrip tegengestelde gevallen even gemakkelijk ondersteunt en vrijwel iedere uitkomst ermee te verenigen is, onderscheidt het niet meer. Dan verliest het zijn plaats in het kader.
 
 Een tegenvoorbeeld hoeft dus niet het hele project te laten bezwijken. Het kan lokaler iets laten vervallen: een begrip, een koppeling tussen begrippen, een toepassingsdomein of een normatieve gevolgtrekking. Maar er moet werkelijk iets kunnen verdwijnen.
