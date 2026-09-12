@@ -66,8 +66,7 @@ Ik probeer woorden te vinden voor iets wat in het gewone leven voortdurend zicht
   </p>
 
   <p>
-    Ook een filosofie kan dat overkomen. Hoe meer zij alles wil omvatten, hoe groter het risico
-    dat verschillen die ertoe doen verdwijnen.
+    Ook een filosofie kan dat overkomen: hoe meer zij wil omvatten, hoe minder zij nog aanwijst.
   </p>
 
   <p class="uitkijkje__source">

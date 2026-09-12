@@ -19,8 +19,8 @@ export const lateUitkijkjes: Record<string, LateUitkijkje> = {
   '05-draagkracht-grens-en-passende-sluiting': {
     title: 'Niet iedere horizon hoeft betreden te worden',
     paragraphs: [
-      'Bij Caspar David Friedrich staat de wandelaar aan een rand. Voor hem ligt ruimte, maar het schilderij verplicht hem nergens toe. Hij hoeft de nevel niet in om werkelijk aan de wereld deel te nemen.',
-      'Een grens kan zo ook een positie zijn: dichtbij genoeg om geraakt te worden, duidelijk genoeg om niet iedere mogelijkheid tot opdracht te maken.'
+      'Bij Caspar David Friedrich staat de wandelaar aan een rand. Voor hem ligt ruimte, maar niets verplicht hem die in te gaan. Hij hoeft de nevel niet in om werkelijk aan de wereld deel te nemen.',
+      'Een grens kan zo ook een positie zijn: dichtbij genoeg om geraakt te worden, duidelijk genoeg om niet elke mogelijkheid in een opdracht te veranderen.'
     ],
     visual: {
       src: 'https://commons.wikimedia.org/wiki/Special:Redirect/file/Caspar%20David%20Friedrich%20-%20Wanderer%20above%20the%20sea%20of%20fog.jpg',
@@ -34,7 +34,7 @@ export const lateUitkijkjes: Record<string, LateUitkijkje> = {
   '08-vrijheid-binnen-bepaaldheid-en-verschil-zonder-absoluut-dualisme': {
     title: 'Bartleby zegt liever niet',
     paragraphs: [
-      'In Herman Melvilles Bartleby, the Scrivener antwoordt een kantoorklerk steeds opnieuw: “I would prefer not to.” De zin verklaart zichzelf nauwelijks. Juist daardoor blijft de weigering lastig in te lijven in het plan van zijn werkgever.',
+      'In Herman Melvilles Bartleby, the Scrivener antwoordt een kantoorklerk steeds opnieuw: “I would prefer not to.” De zin verklaart zichzelf nauwelijks. Juist daardoor blijft de weigering lastig in te passen in het plan van zijn werkgever.',
       'Vrijheid hoeft niet altijd zichtbaar te worden als een grote keuze. Soms verschijnt zij eerst als het kleine vermogen niet volledig samen te vallen met wat van je wordt gevraagd.'
     ],
     visual: {

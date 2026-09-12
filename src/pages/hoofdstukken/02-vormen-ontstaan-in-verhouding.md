@@ -102,9 +102,9 @@ Wie alleen bepaaldheid ziet, kan ieder antwoord reduceren tot oorzaak en gevolg.
 <h3 class="uitkijkje__title">Gedragen worden is geen bijzaak</h3>
 <div class="uitkijkje__text">
 
-Bij Mary Cassatt is zorg zelden een abstract ideaal. Lichamen leunen, dragen, kijken weg, zoeken nabijheid. De figuren blijven afzonderlijk, maar hun houding is niet los te denken van de ander.
+Bij Mary Cassatt is zorg zelden een abstract ideaal. Lichamen leunen, dragen, kijken weg, zoeken nabijheid. De figuren blijven afzonderlijk, maar hun houding is niet los te denken van elkaar.
 
-Dat maakt de scène interessanter dan een beeld van versmelting: afhankelijkheid verschijnt hier juist als verhouding tussen verschillende lichamen.
+Geen versmelting: afhankelijkheid verschijnt hier als verhouding tussen verschillende lichamen.
 
 </div>
 <p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Mary_Cassatt%2C_Mother_and_Child%2C_c._1905%2C_NGA_46573.jpg">Wikimedia Commons — afbeelding en rechteninformatie</a></p>

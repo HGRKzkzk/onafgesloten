@@ -67,7 +67,7 @@ Dat maakt gesprek mogelijk. Ik hoef jouw pijn niet te ontkennen om je verklaring
 
 Een polygraaf registreert lichamelijke veranderingen, onder meer in ademhaling, cardiovasculaire activiteit en huidgeleiding. De pennen trekken lijnen. Op geen van die lijnen staat vanzelf “angst”, “leugen”, “herinnering” of “gevaar”.
 
-Juist daarom past het apparaat hier: een lichamelijk signaal kan werkelijk veranderen terwijl de betekenis nog openligt. Meten is nog geen duiden.
+Een lichamelijk signaal kan werkelijk veranderen terwijl de betekenis nog openligt. Meten is nog geen duiden.
 
 </div>
 <p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Administration_of_Polygraph.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — FBI-foto en rechteninformatie</a></p>
@@ -124,7 +124,7 @@ Veel dieren leren, vermijden, anticiperen, kiezen, herstellen, spelen, zorgen of
 
 Franz Marc schilderde dieren niet als decorstukken rondom de mens. Zijn gele koe springt bijna uit het landschap: een eigen ritme, een eigen zwaartepunt, een eigen vrolijkheid die niet eerst in menselijke taal hoeft te worden vertaald.
 
-Dat bewijst niets over dierlijke ervaring. Het helpt wel om één gewoonte te doorbreken: kijken alsof alleen de menselijke figuur werkelijk een binnenkant kan hebben.
+Het doorbreekt één gewoonte: kijken alsof alleen de menselijke figuur een binnenkant kan hebben.
 
 </div>
 <p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Marc_die-gelbe-kuh.jpg">Open bron · Wikimedia Commons</a></p>

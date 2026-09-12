@@ -51,7 +51,7 @@ Een categorie wordt gevaarlijk wanneer haar grens niet meer als grens wordt herk
 
 Bruegels *Toren van Babel* toont een enorme bouwplaats: verdiepingen, steigers, arbeiders en materiaalstromen moeten op grote schaal op elkaar worden afgestemd. In het verhaal waarnaar het schilderij verwijst valt juist die gedeelde taal uiteen en stokt de coördinatie.
 
-Een kennissysteem kan net zo indrukwekkend ordenen en classificeren, en toch slecht merken wanneer mensen, feiten of gevolgen niet meer in zijn begrippen passen. Dan is een route nodig waarop afwijkingen de taal en het systeem zelf kunnen corrigeren.
+Een kennissysteem kan net zo indrukwekkend ordenen en classificeren, en toch nauwelijks merken wanneer mensen, feiten of gevolgen niet meer in zijn begrippen passen.
 
 </div>
 <p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — reproductie en rechteninformatie</a></p>
