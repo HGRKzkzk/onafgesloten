@@ -63,7 +63,7 @@ Heropenbaarheid mag geen aanspraak worden. Wie wil herstellen, praten of verande
 
 De belangen kunnen bovendien terecht asymmetrisch wegen. Wanneer iemand schade heeft veroorzaakt en een ander bescherming nodig heeft, hoeft de verhouding niet onmiddellijk symmetrisch te worden gemaakt. De veiligheid en rust van het slachtoffer kunnen zwaarder wegen dan het verlangen van de dader naar erkenning, vergeving of contact.
 
-Een noodzakelijke sluiting hoeft niet méér te bezitten dan waarvoor zij gerechtvaardigd is.
+Een noodzakelijke sluiting hoeft niet méér op te eisen dan waarvoor zij gerechtvaardigd is.
 
 ## Passende sluiting
 
@@ -86,7 +86,7 @@ Ook definitieve sluiting kan passend zijn: waar heropening zelf opnieuw ernstige
 
 > **Waar heropening de antwoordruimte verder vernietigt, kan sluiting zelf een vorm van ontvankelijkheid zijn.**
 
-Wie dat bepaalt, blijft een moeilijke vraag. Hoe groter de macht om voor anderen af te sluiten, hoe zwaarder de behoefte aan redenen, toetsing en zicht op gevolgen wordt.
+Wie dat bepaalt, blijft een moeilijke vraag. Hoe groter de macht om voor anderen af te sluiten, hoe zwaarder de plicht tot redenen, toetsing en zicht op gevolgen.
 
 ## Antwoordruimte is geen maximale keuzevrijheid
 
@@ -125,13 +125,13 @@ Het doel van bescherming is hier het behoud van voorwaarden waaronder iemand lat
 
 ## Draagkracht is geen hardheid
 
-<span class="begrip" data-term="draagkracht">Draagkracht</span> is het vermogen spanning te ontvangen en te organiseren zonder minimale samenhang, integriteit en antwoordbaarheid te verliezen. Zij is geen vaste voorraad in het individu.
+<span class="begrip" data-term="draagkracht">Draagkracht</span> is het vermogen spanning te ontvangen en te organiseren zonder de minimale samenhang, integriteit en antwoordbaarheid te verliezen. Zij is geen vaste voorraad in het individu.
 
 Slaap, voedsel, veiligheid, taal, tijd, geld, lichamelijke gezondheid, relaties, instituties en eerdere ervaringen werken eraan mee. Een mens kan vandaag minder dragen dan gisteren zonder wezenlijk zwakker te zijn. Een team kan dankzij duidelijke afspraken veel onzekerheid verdragen en door maandenlange tegenstrijdige opdrachten plots nauwelijks nog iets. Een gezin kan lang “functioneren” terwijl één persoon vrijwel alle spanning absorbeert.
 
 Training is één bron van draagkracht. De last kan ook kleiner worden, iemand kan rugdekking krijgen of een systeem kan eindelijk een signaal overnemen dat steeds bij dezelfde persoon bleef liggen.
 
-Daarom is veerkrachttaal dubbelzinnig. Het kan bevrijdend zijn om te ontdekken dat herstel mogelijk is. Maar “jij bent sterk” kan ook betekenen: *dan kan deze last blijkbaar nog wel bij jou erbij*.
+Daarom is veerkrachttaal dubbelzinnig. Het kan bevrijdend zijn om te ontdekken dat herstel mogelijk is. Maar “jij bent sterk” kan ook betekenen: *dan kan deze last er bij jou blijkbaar nog wel bij*.
 
 > **Dat iemand iets kan dragen, geeft een ander nog niet het recht die last daar neer te leggen.**
 
@@ -161,7 +161,7 @@ Daarom mag herstelvermogen nooit de eerste verdeelsleutel worden wanneer antwoor
 
 Eerst moet worden gevraagd waarom de last noodzakelijk is, waarom zij hier terechtkomt en wie alternatieven had kunnen organiseren. Pas daarna kan meewegen hoe herstelbaar verschillende vormen van schade zijn.
 
-> **Wie veel kan herstellen, krijgt daarmee geen groter aandeel in wat anderen mogen beschadigen.**
+> **Wie veel kan herstellen, vergroot daarmee niet wat anderen mogen beschadigen.**
 
 ## Wanneer antwoordruimtes botsen
 

@@ -74,7 +74,7 @@ Dat maakt het verhaal hier scherp: verlies kan iemand veranderen en inzicht kan 
 
 ## De dode leeft niet voort als antwoord
 
-Toch verandert een dood de vormen die blijven leven. Een relatie wordt gemis, herinnering, vraag, gewoonte en veranderde wereld. De plaats aan tafel is leeg, maar juist daardoor opnieuw zichtbaar. Een uitdrukking duikt op in je eigen mond. Je denkt wat iemand hiervan gevonden zou hebben.
+Toch verandert een sterfgeval de vormen die blijven leven. Een relatie wordt gemis, herinnering, vraag, gewoonte en veranderde wereld. De plaats aan tafel is leeg, maar juist daardoor opnieuw zichtbaar. Een uitdrukking duikt op in je eigen mond. Je denkt wat iemand hiervan gevonden zou hebben.
 
 Dat hoeft geen sterke metafysische claim te worden.
 
@@ -82,7 +82,7 @@ Dat hoeft geen sterke metafysische claim te worden.
 
 De achterblijver kan iets anders gaan begrijpen, een verhaal herzien, boos worden, dankbaar worden, afstand nemen van een herinnering of juist een gewoonte bewaren. Maar die beweging is eenzijdig geworden. Dat verschil verdient bescherming tegen romantisering.
 
-Ook herinnering blijft corrigeerbaar door documenten, andere getuigen en bescheidenheid. Niemand krijgt exclusief eigendom over wie de dode “werkelijk was”.
+Ook herinnering blijft corrigeerbaar door documenten en andere getuigen, en vraagt bescheidenheid. Niemand krijgt exclusief eigendom over wie de dode “werkelijk was”.
 
 ## Wie niet meer kan terugspreken
 
@@ -90,7 +90,7 @@ Na de dood ontstaat een asymmetrie die niet meer kan worden opgeheven. De levend
 
 Dat betekent niet dat wij alsnog antwoordruimte voor de dode moeten construeren. Die concrete mogelijkheid is juist geëindigd. Het betekent wel dat de macht van de achterblijvers over het verhaal groter wordt naarmate correctie onmogelijker wordt.
 
-Een familie kan iemand tot heilige maken, een tegenstander tot karikatuur, een biografie tot sluitend portret. Ook liefde kan gaan bezitten wanneer zij zegt precies te weten wat iemand werkelijk dacht, wilde of geweest is.
+Een familie kan iemand tot heilige maken, een tegenstander kan hem tot karikatuur maken, een biografie tot sluitend portret. Ook liefde kan gaan bezitten wanneer zij zegt precies te weten wat iemand werkelijk dacht, wilde of was.
 
 Bescheidenheid vraagt hier geen relativisme. Sommige herinneringen zijn beter gedocumenteerd dan andere en sommige verhalen zijn aantoonbaar onwaar. Maar waar de persoon zelf niet meer kan terugspreken, hoort interpretatiemacht haar eigen grens beter te kennen.
 

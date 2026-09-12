@@ -15,7 +15,7 @@ lastSyncCheck: "2026-09-11"
 ---
 Een mens begint nergens alleen.
 
-Nog vóór we een zin kunnen vormen, zijn er al stemmen geweest. Nog vóór we zelf kunnen eten, heeft iemand voedsel dichtbij gebracht. Ons lichaam heeft een temperatuur nodig die het niet zelf heeft uitgevonden, een taal die al bestond voordat wij haar begonnen te spreken en gewoonten die zich vaak al in ons hebben vastgezet voordat we ze als gewoonten herkennen.
+Nog vóór we een zin kunnen vormen, zijn er al stemmen geweest. Nog vóór we zelf kunnen eten, heeft iemand voedsel dichtbij gebracht. Ons lichaam heeft een temperatuur nodig die het niet zelf heeft uitgevonden. Wij spreken een taal die al bestond voordat wij haar leerden, en dragen gewoonten die zich vaak al in ons hebben vastgezet voordat we ze als gewoonten herkennen.
 
 Later voelt dat gemakkelijk anders. Een volwassen mens kan kiezen, vertrekken, weigeren, iets nieuws beginnen en soms tegen vrijwel zijn hele omgeving in gaan. Juist daardoor ontstaat de verleiding om zelfstandigheid als het oorspronkelijke gegeven te zien en afhankelijkheid als iets wat daar later bijkomt.
 
@@ -47,7 +47,7 @@ Tegelijk is een organisme ook geen passief product van zijn omgeving. Het zoekt,
 
 Een bever leeft in een landschap dat hij mede verandert. Een mens groeit op in een taal die eerdere mensen hebben gevormd en verandert die taal vervolgens zelf een beetje. Een buurt vormt het gedrag van bewoners, terwijl dagelijkse handelingen van bewoners diezelfde buurt veiliger, luidruchtiger, zorgzamer of vijandiger kunnen maken.
 
-Voorlopig is genoeg dat oorzaak en omgeving in levende verhoudingen vaak in meer dan één richting lopen.
+Voorlopig is het genoeg dat oorzaak en gevolg in levende verhoudingen vaak in meer dan één richting lopen.
 
 ## Een grens ontstaat niet buiten de verhouding
 
@@ -67,7 +67,7 @@ Hier verschijnt voor het eerst een spanning die later in het project steeds teru
 
 ## Autonomie zonder oorsprongsmythe
 
-Autonomie wordt vaak gevoeld als: zelf kunnen kiezen. Dat blijft belangrijk, maar wanneer autonomie alleen betekent dat een keuze vrij is voor zover zij uit een volledig zelfstandig individu voortkomt, wordt vrijwel iedere menselijke keuze verdacht. Niemand kiest zijn eerste taal, eerste lichaam, eerste verzorgers, historische tijd, economische uitgangspositie of het grootste deel van de categorieën waarmee een keuze überhaupt kan worden gedacht.
+Autonomie wordt vaak begrepen als zelf kunnen kiezen. Dat blijft belangrijk, maar wanneer autonomie alleen betekent dat een keuze vrij is voor zover zij uit een volledig zelfstandig individu voortkomt, wordt vrijwel iedere menselijke keuze verdacht. Niemand kiest zijn eerste taal, eerste lichaam, eerste verzorgers, historische tijd, economische uitgangspositie of het grootste deel van de categorieën waarmee een keuze überhaupt kan worden gedacht.
 
 Een relationele benadering van autonomie vraagt onder welke sociale en materiële voorwaarden iemand werkelijk in staat raakt een eigen leven mede richting te geven. <span class="begrip" data-term="relationele-autonomie">Relationele autonomie</span> corrigeert het idee dat afhankelijkheid en zelfbestuur elkaars eenvoudige tegenpolen zijn.
 
@@ -146,7 +146,7 @@ Dat maakt auteurschap preciezer.
 
 Een spreker kan werkelijk iets nieuws formuleren. Een maker kan een vorm voortbrengen die er eerder niet was. Een mens kan verantwoordelijkheid dragen voor een beslissing die alleen door diegene genomen kon worden.
 
-Nieuwheid hoeft geen schepping uit het niets te zijn: ideeën hebben vaak een genealogie: een route van lichamen, arbeid, mislukkingen, gesprekken, voorbeelden, weerstand en kleine signalen.
+Nieuwheid hoeft geen schepping uit het niets te zijn. Ideeën hebben vaak een genealogie: een route van lichamen, arbeid, mislukkingen, gesprekken, voorbeelden, weerstand en kleine signalen.
 
 Oorsprongsgeheugen is daarom een vorm van ontvankelijkheid. Een vorm blijft beter corrigeerbaar wanneer zij niet vergeet waarvan en van wie zij afhankelijk is. Zodra succes zijn eigen draagwereld onzichtbaar maakt, kan autonomie in mythe veranderen en erkenning in toe-eigening.
 

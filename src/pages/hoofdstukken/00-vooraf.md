@@ -34,7 +34,7 @@ Wat als een mens werkelijk iemand is, maar nooit volledig samenvalt met de vorm 
 
 De naam die ik aan dit onderzoek geef is **Onafgesloten Vorm**.
 
-Ik probeer woorden te vinden voor iets wat in het gewone leven voortdurend zichtbaar wordt en toch gemakkelijk uit beeld raakt: niets levends bestaat alleen uit zichzelf, vormen ontstaan en blijven bestaan in verhouding tot wat hen draagt, en geen gezonde grens bezit vanzelfsprekend voorgoed het laatste woord over wat zij begrenst.
+Ik probeer woorden te vinden voor iets wat in het gewone leven voortdurend zichtbaar wordt en toch gemakkelijk uit beeld raakt: niets levends bestaat alleen uit zichzelf, vormen ontstaan en blijven bestaan in verhouding tot wat hen draagt, en geen gezonde grens heeft vanzelf voorgoed het laatste woord over wat zij begrenst.
 
 <aside class="uitkijkje uitkijkje--beeld">
   <p class="uitkijkje__label">Uitkijkje</p>
@@ -91,7 +91,7 @@ Die regionale reikwijdte is een methodische grens. Een filosofie die onderscheid
 
 ### Geen vervanging voor wetenschap
 
-Biologie, neurowetenschap, psychologie, ethologie, sociologie en andere disciplines kunnen mechanismen en verschillen veel preciezer beschrijven dan een filosofisch vocabulaire dat kan.
+Biologie, neurowetenschap, psychologie, ethologie, sociologie en andere disciplines kunnen mechanismen en verschillen veel preciezer beschrijven dan een filosofisch vocabulaire kan.
 
 Begrippen als draagkracht, ontvankelijkheid en draagroute moeten met zulke kennis in gesprek blijven, maar vervangen haar niet. Waar een bestaande discipline voldoende ziet, hoeft dit project geen nieuwe naam op het verschijnsel te plakken.
 

@@ -32,9 +32,9 @@ Normatieve keuzes zoals wederkerigheid, het gewicht van afwendbaar lijden en cor
 
 Zelfkritiek krijgt pas betekenis wanneer enigszins zichtbaar is wat als verlies telt.
 
-Antwoordruimte moet worden versmald of verlaten wanneer autonomie, capability, handelingsruimte, welzijn of procedurele rechtvaardigheid in een domein hetzelfde preciezer beschrijven.
+Antwoordruimte moet worden versmald of verlaten wanneer autonomie, de capability-benadering, handelingsruimte, welzijn of procedurele rechtvaardigheid in een domein hetzelfde preciezer beschrijven.
 
-Draagroute verliest zijn plaats wanneer het niet meer doet dan een bestaand verdelings- of systeemmechanisme poëtisch hernoemen.
+Draagroute verliest haar plaats wanneer zij niet meer doet dan een bestaand verdelings- of systeemmechanisme poëtisch hernoemen.
 
 De doctrine van corrigeerbare macht moet worden herzien wanneer zij in de praktijk vooral extra procedure produceert zonder betere correctie of bescherming tegen willekeur.
 
@@ -46,13 +46,13 @@ En *wat verschijnt, verschijnt onaf* mag niet worden gebruikt waar onafheid niet
 
 Zelfbegrenzing blijft leeg wanneer alleen wordt opgesomd wat ooit misschien zou kunnen verdwijnen. Ook woorden die tijdens het denken bruikbaar zijn, hoeven niet allemaal als zelfstandig projectbegrip te blijven staan.
 
-`Restlast` gebruik ik daarom niet als zelfstandig dragend begrip. In gewoon Nederlands kan het nog steeds een bruikbaar woord zijn voor last of verlies dat na een keuze of ingreep overblijft. Maar waar concreter kan worden gezegd dat iemand schade, risico, wachttijd, verlies of extra arbeid draagt, heeft die taal voorrang.
+*Restlast* gebruik ik daarom niet als zelfstandig dragend begrip. In gewoon Nederlands kan het nog steeds een bruikbaar woord zijn voor last of verlies dat na een keuze of ingreep overblijft. Maar waar concreter kan worden gezegd dat iemand schade, risico, wachttijd, verlies of extra arbeid draagt, heeft die taal voorrang.
 
-`Antwoordruimte` blijft smaller. Het is geen verzamelnaam voor autonomie, welzijn, vrijheid of alles wat een goed leven mogelijk maakt. Het begrip voegt alleen iets toe wanneer een verhouding of machtsstructuur de reële mogelijkheid raakt om later nog relevant verschil te maken door bijvoorbeeld te antwoorden, weigeren, corrigeren, vertrekken of herstellen.
+*Antwoordruimte* blijft smaller. Het is geen verzamelnaam voor autonomie, welzijn, vrijheid of alles wat een goed leven mogelijk maakt. Het begrip voegt alleen iets toe wanneer een verhouding of machtsstructuur de reële mogelijkheid raakt om later nog relevant verschil te maken door bijvoorbeeld te antwoorden, weigeren, corrigeren, vertrekken of herstellen.
 
-`Draagroute` blijft alleen nuttig waar last werkelijk relationeel of institutioneel wordt verdeeld, doorgeschoven of geconcentreerd. Het begrip voegt iets toe wanneer de vraag *langs welke weg is deze last hier terechtgekomen?* een andere analyse opent dan alleen de vraag hoeveel iemand kan dragen.
+*Draagroute* blijft alleen nuttig waar last werkelijk relationeel of institutioneel wordt verdeeld, doorgeschoven of geconcentreerd. Het begrip voegt iets toe wanneer de vraag *langs welke weg is deze last hier terechtgekomen?* een andere analyse opent dan alleen de vraag hoeveel iemand kan dragen.
 
-`Vormvermogen` gebruik ik niet als apart projectbegrip. Soms gaat het preciezer over handelingsvermogen, plasticiteit, aanpassing, veerkracht of herstelvermogen. De gedachte die wel blijft staan is eenvoudiger: herstel hoeft geen terugkeer te zijn en kan een andere samenhang opleveren waarin opnieuw voelen, begrenzen en antwoorden mogelijk wordt.
+*Vormvermogen* gebruik ik niet als apart projectbegrip. Soms gaat het preciezer over handelingsvermogen, plasticiteit, aanpassing, veerkracht of herstelvermogen. De gedachte die wel blijft staan is eenvoudiger: herstel hoeft geen terugkeer te zijn en kan een andere samenhang opleveren waarin opnieuw voelen, begrenzen en antwoorden mogelijk wordt.
 
 Zelfcorrectie hoeft dus niet bij ieder begrip tot hetzelfde ritueel van “nuanceren maar behouden” te leiden.
 
@@ -62,7 +62,7 @@ Een theorie kan gemakkelijk bescheiden lijken door overal tegenvoorbeelden te no
 
 Een serieus tegenvoorbeeld kan verschillende dingen doen: een toepassing corrigeren, een begrip regionaal beperken, een verbinding tussen begrippen verbreken, laten zien dat een externe discipline het werk beter doet, of een onderdeel eenvoudig overbodig maken.
 
-De drie toetsgevallen bevatten ook een geval waarin de uitkomst niet een verfijning van het kader is. Bij een ondubbelzinnige administratieve rekenfout bepalen recht en berekening wat de primaire correctie is. Extra projecttaal maakt die beslissing niet beter. Daar moet zij wijken.
+De vier toetsgevallen bevatten ook een geval waarin de uitkomst geen verfijning van het kader is. Bij een ondubbelzinnige administratieve rekenfout bepalen recht en berekening wat de primaire correctie is. Extra projecttaal maakt die beslissing niet beter. Daar moet zij wijken.
 
 Dat laatste is geen mislukking: een theorie die alleen groeit en nooit snoeit, wordt een archief van zichzelf.
 

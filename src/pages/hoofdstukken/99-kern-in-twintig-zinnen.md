@@ -14,7 +14,7 @@ lastSyncCheck: "2026-09-11"
 
 <!-- laag: beschrijvend/metafysisch -->
 2. **Vorm is gedragen verschil.**  
-   Zonder grens verschijnt niets; zonder verschil leeft niets.
+   Zonder verschil verschijnt niets; zonder samenhang houdt niets stand.
 
 <small><a href="../01-wat-verschijnt-verschijnt-onaf/">01 · Wat verschijnt, verschijnt onaf</a></small>
 
@@ -62,7 +62,7 @@ lastSyncCheck: "2026-09-11"
 
 <!-- laag: normatief -->
 11. **Onafwendbaar lijden vraagt draagkracht; afwendbaar lijden vraagt antwoord.**  
-    Dat antwoord is geen onbeperkte aanspraak: verantwoordelijkheid mag worden begrensd, gedeeld, overgedragen en waar dat verantwoord kan worden beëindigd.
+    Dat antwoord is geen onbeperkte aanspraak: verantwoordelijkheid mag worden begrensd, gedeeld, overgedragen en, waar dat verantwoord is, beëindigd.
 
 <small><a href="../07-gezondheid-zonder-ideaalvorm/">07 · Gezondheid zonder ideaalvorm</a></small>
 
@@ -99,7 +99,7 @@ lastSyncCheck: "2026-09-11"
     Sluitingsmacht legitimeert zichzelf niet.
 
 <!-- laag: normatief/instrumenteel -->
-18. **Hoe groter de macht om de antwoordvoorwaarden van anderen te bepalen, hoe zwaarder de plicht die macht antwoordbaar te houden.**  
+18. **Hoe groter de macht om de antwoordvoorwaarden van anderen te bepalen, hoe zwaarder de plicht om die macht antwoordbaar te houden.**  
     Niet iedere machtsconcentratie is sluiting; problematisch wordt zij waar tegenmacht, vertrek, toetreding of correctie feitelijk onwerkzaam worden, of waar de openheid van anderen als permanente beschikbaarheid wordt opgeëist.
 
 <!-- laag: normatief -->

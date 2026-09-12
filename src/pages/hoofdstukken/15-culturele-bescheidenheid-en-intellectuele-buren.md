@@ -30,7 +30,7 @@ Om vergelijkingen zuiver te houden, onderscheid ik vier relaties.
 
 **Resonantie** betekent dat twee denkwijzen iets vergelijkbaars zichtbaar maken zonder dat de ene uit de andere voortkomt. Boeddhistische afhankelijke wording, klassieke Chinese perspectieven op veranderlijkheid of Ubuntu-gerelateerde relationele persoonsopvattingen kunnen bijvoorbeeld resoneren met dit project. Dat bewijst nog niets over dit project.
 
-**Verschil** begint waar een gesprekspartner niet netjes past. Misschien blijkt onze tegenstelling tussen autonomie en afhankelijkheid verkeerd aangesneden. Misschien is onze scheiding tussen ontologie en ethiek elders minder vanzelfsprekend. Misschien maakt het woord *vorm* iets zichtbaar en tegelijk iets anders onmogelijk.
+**Verschil** begint waar een gesprekspartner niet netjes past. Misschien blijkt onze tegenstelling tussen autonomie en afhankelijkheid verkeerd getrokken. Misschien is onze scheiding tussen ontologie en ethiek elders minder vanzelfsprekend. Misschien maakt het woord *vorm* iets zichtbaar en tegelijk iets anders onmogelijk.
 
 **Eigen stap** kan pas daarna worden benoemd. De mogelijke eigenheid van dit project ligt minder in losse woorden dan in de specifieke combinatie van onafgesloten vorm, antwoordruimte, draagroutes en corrigeerbare sluitingsmacht. Ook die combinatie hoeft niet verdedigd te worden wanneer een bestaande discipline hetzelfde preciezer doet.
 
@@ -80,7 +80,7 @@ Zhuangzi draait de vraag terug. Huizi is Zhuangzi niet, hoe kan híj dan weten w
 
 ## Bescheidenheid is geen relativisme
 
-Geen traditie wordt tegen kritiek beschermd doordat zij oud, lokaal of cultureel betekenisvol is. Praktijken kunnen gewelddadig, hiërarchisch of uitsluitingsrijk zijn.
+Geen traditie wordt tegen kritiek beschermd doordat zij oud, lokaal of cultureel betekenisvol is. Praktijken kunnen gewelddadig, hiërarchisch of sterk uitsluitend zijn.
 
 De vraag is vanuit welke positie kritiek spreekt en of zij bereid is zichzelf aan dezelfde maatstaf bloot te stellen.
 
@@ -104,11 +104,11 @@ Een makkelijke uitweg zou zijn dat dan alles relatief wordt. Maar ook dat sluit 
 
 Voor dit project verandert daarmee de status van zijn normatieve taal. Antwoordruimte is geen maatstaf uit een perspectiefloze ruimte. Het is een gekozen en beargumenteerde manier om te kijken naar situaties waarin vormen elkaar raken en macht ongelijk verdeeld is.
 
-Dat maakt de norm niet vrijblijvend. Wanneer één actor zoveel macht heeft dat diens ordening bepaalt of anderen nog kunnen spreken, vertrekken, herstellen of als levensvatbare vorm blijven bestaan, raakt die ordening niet alleen één mening naast andere. Zij beïnvloedt de voorwaarden waaronder andere perspectieven überhaupt nog kunnen verschijnen.
+Dat maakt de norm niet vrijblijvend. Wanneer één actor zoveel macht heeft dat diens ordening bepaalt of anderen nog kunnen spreken, vertrekken, herstellen of als levensvatbare vorm blijven bestaan, is die ordening niet zomaar één mening naast andere. Zij beïnvloedt de voorwaarden waaronder andere perspectieven überhaupt nog kunnen verschijnen.
 
 > **Een maatstaf hoeft niet perspectiefloos te zijn om bindend te kunnen worden; zij moet wel haar positie, gevolgen en corrigeerbaarheid kunnen verantwoorden.**
 
-Dat is een aanscherping die ik aan dit gesprek overhoud. Wanneer ik `antwoordruimte`, `draagkracht` of `sluitingsmacht` gebruik, moet ik kunnen zeggen vanuit welke positie ik kijk, wiens gevolgen ik meetel en welke ervaring of kennis mijn oordeel kan corrigeren.
+Dat is een aanscherping die ik aan dit gesprek overhoud. Wanneer ik *antwoordruimte*, *draagkracht* of *sluitingsmacht* gebruik, moet ik kunnen zeggen vanuit welke positie ik kijk, wiens gevolgen ik meetel en welke ervaring of kennis mijn oordeel kan corrigeren.
 
 De vergelijking laat dus restverschil over. De *Zhuangzi* geeft dit project geen fundament en Onafgesloten Vorm lost de *Zhuangzi* niet op in corrigeerbare macht. Wel maakt de ontmoeting één risico scherper zichtbaar: ook taal die openheid wil beschermen kan zichzelf ongemerkt tot laatste woord maken.
 

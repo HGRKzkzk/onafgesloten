@@ -22,7 +22,7 @@ Een lichaam dat honger krijgt, komt in beweging richting voedsel. Een vraag onts
 
 Ik gebruik **spanning** hier breed maar begrensd: als een merkbaar verschil binnen of tussen vormen dat om een antwoord kan vragen zonder dat de uitkomst al vastligt.
 
-Een spier die voortdurend aangespannen blijft, raakt uitgeput. Een werknemer die permanent alert moet zijn op wisselende eisen kan nog lang functioneren terwijl herstelruimte verdwijnt. Een relatie waarin iedere stilte als dreiging voelt, beweegt wel, maar niet noodzakelijk ergens heen. Ook een politiek conflict kan zoveel gevaar gaan dragen dat partijen niet meer kunnen onderzoeken wat er op het spel staat, alleen nog hoe zij zichzelf beschermen.
+Een spier die voortdurend aangespannen blijft, raakt uitgeput. Een werknemer die permanent alert moet zijn op wisselende eisen kan nog lang functioneren terwijl herstelruimte verdwijnt. Een relatie waarin iedere stilte als dreiging aanvoelt, beweegt wel, maar niet noodzakelijk ergens heen. Ook een politiek conflict kan zoveel gevaar gaan dragen dat partijen niet meer kunnen onderzoeken wat er op het spel staat, maar alleen nog hoe zij zichzelf beschermen.
 
 > **Spanning is niet per definitie een fout. Maar zij is ook niet per definitie groei.**
 
@@ -54,7 +54,7 @@ Er bestaat ook **schadelijke stabiliteit**: een toestand waarin spanning niet me
 
 Niet iedere spanning hoeft onmiddellijk besproken, opgelost of heropend te worden. Tijd is zelf een voorwaarde voor antwoord.
 
-Soms kan een gesprek later mogelijk zijn dat nu alleen verdere schade zou veroorzaken. Iemand kan eerst veiligheid, afstand, slaap of overzicht nodig hebben. Een slachtoffer hoeft geen dialoog aan te gaan omdat de andere partij daar klaar voor zegt te zijn. Een organisatie hoeft een conflict niet eindeloos open te houden wanneer een tijdelijke grens eerst rust moet herstellen.
+Een gesprek dat nu alleen verdere schade zou veroorzaken, is later misschien wel mogelijk. Iemand kan eerst veiligheid, afstand, slaap of overzicht nodig hebben. Een slachtoffer hoeft geen dialoog aan te gaan omdat de andere partij daar klaar voor zegt te zijn. Een organisatie hoeft een conflict niet eindeloos open te houden wanneer een tijdelijke grens eerst rust moet herstellen.
 
 Wat later misschien kan, hoeft daarom niet nu te gebeuren.
 
@@ -92,15 +92,15 @@ Soms begint een nieuw inzicht met iets dat volgens de bestaande planning vooral 
 
 Nieuwsgierigheid begint vaak precies op een grens tussen weten en niet-weten. Wanneer alles volledig voorspelbaar is, is er weinig te onderzoeken. Wanneer iets totaal onbegrijpelijk of bedreigend is, kan aandacht juist dichtklappen. Interessant wordt het waar genoeg herkenning bestaat om een verschil te zien, maar nog niet genoeg om het verschil op te lossen.
 
-Een kind draait een voorwerp om omdat het niet helemaal begrijpt hoe het werkt. Een wetenschapper volgt een afwijkende meting omdat zij niet goed in het bestaande model past. Een muzikant hoort een ritme dat nét niet landt waar verwacht. Een geliefde vraagt door omdat de ander niet samenvalt met het bekende verhaal.
+Een kind draait een voorwerp om omdat het niet helemaal begrijpt hoe het werkt. Een wetenschapper volgt een afwijkende meting omdat die niet goed in het bestaande model past. Een muzikant hoort een ritme dat nét niet landt waar verwacht. Een geliefde vraagt door omdat de ander niet samenvalt met het bekende verhaal.
 
-In de psychologie wordt nieuwsgierigheid onder meer beschreven vanuit een <span class="begrip" data-term="informatiekloof">informatiekloof</span>: het verschil tussen wat iemand weet en wat diegene beseft nog niet te weten. Het model mist dat we soms langer bij een vraag willen blijven omdat het zoeken zelf iets opent.
+In de psychologie wordt nieuwsgierigheid onder meer beschreven vanuit een <span class="begrip" data-term="informatiekloof">informatiekloof</span>: het verschil tussen wat iemand weet en wat diegene beseft nog niet te weten. Het model gaat eraan voorbij dat we soms langer bij een vraag willen blijven omdat het zoeken zelf iets opent.
 
 Goede nieuwsgierigheid hoeft een kennistekort niet zo snel mogelijk te vullen.
 
 ## Het onbekende is niet van mij
 
-Ook nieuwsgierigheid heeft een schaduwkant. Niet ieder geheim bestaat om door mij ontdekt te worden. Niet ieder lichaam, ritueel, trauma, landschap of verhaal is beschikbaar materiaal voor mijn begrip. Nieuwsgierigheid kan voyeurisme worden, extractie, surveillance of een koloniale beweging waarin het onbekende alleen waarde krijgt nadat ik het heb benoemd en ingedeeld.
+Ook nieuwsgierigheid heeft een schaduwkant. Niet ieder geheim bestaat om door mij ontdekt te worden. Niet ieder lichaam, ritueel, trauma, landschap of verhaal is beschikbaar materiaal voor mijn begrip. Nieuwsgierigheid kan voyeurisme, extractie, surveillance of een koloniale beweging worden waarin het onbekende alleen waarde krijgt nadat ik het heb benoemd en ingedeeld.
 
 Een ontvankelijke nieuwsgierigheid verdraagt daarom begrenzing. Zij kan vragen en toch een nee laten staan. Zij kan erkennen dat iets werkelijk bestaat zonder dat zij er volledige toegang toe krijgt.
 
@@ -136,7 +136,7 @@ Niet alles wat iemand overleeft, was daarom een goede groeiprikkel. Niet iedere 
 
 ## Beweging zonder cultus van groei
 
-Het is verleidelijk om beweging zelf tot ideaal te maken. Alsof levende vormen gezond zijn wanneer zij voortdurend leren, veranderen, nieuwsgierig blijven en nieuwe mogelijkheden openen: ook beweging kan zo een prestatie-eis worden.
+Het is verleidelijk om beweging zelf tot ideaal te maken. Alsof levende vormen gezond zijn wanneer zij voortdurend leren, veranderen, nieuwsgierig blijven en nieuwe mogelijkheden openen. Ook beweging kan zo een prestatie-eis worden.
 
 Een mens mag een tijd niets nieuws willen. Een gemeenschap mag gewoonten bewaren. Een dier hoeft niet permanent verrijkt te worden met prikkels wanneer rust ontbreekt. Een theorie hoeft niet iedere week uit te dijen om onafgesloten te blijven.
 
