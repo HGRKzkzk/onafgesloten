@@ -58,6 +58,8 @@ De asymmetrie blijft groot. Mensen bepalen vrijwel de hele leefwereld. Daardoor 
 
 Hier begint de empirische grens. Dit kader bepaalt niet hoeveel vierkante meter een koe nodig heeft of welk moeder-kalfcontact welzijn bevordert. Daarvoor zijn ethologie, diergeneeskunde en concrete observatie nodig.
 
+<div class="rustpunt" aria-hidden="true"></div>
+
 De eigen vraag verschijnt ergens anders. Economische marges, arbeidskosten en productiedoelen verdwijnen niet wanneer ze buiten het welzijnsdossier blijven. Ze kunnen als minder ruimte, minder herstel of minder uitwijkmogelijkheid in het leven van het dier terechtkomen.
 
 Een hek dat voorkomt dat een koe een snelweg oploopt beperkt en beschermt. Een beperking die vooral blijft bestaan omdat een minder belastende inrichting duurder is, vraagt een andere rechtvaardiging.
@@ -79,6 +81,8 @@ De juridische vraag *mag deze maatregel?* blijft noodzakelijk. Maar zij beantwoo
 De organisatie bepaalt termijnen, bewijsstandaarden en geldstromen. De burger moet binnen die vorm antwoorden. Wanneer betaling wordt opgeschort, wordt procedurele onzekerheid vertaald in bestaansonzekerheid.
 
 De ervaring van de burger is daarbij gevolgkennis, geen automatisch vonnis. “Ik kan mijn huur niet betalen” bewijst niet dat de beschikking juridisch fout is. Het laat wel een gevolg zien dat in de juridische beoordeling niet noodzakelijk volledig wordt meegewogen.
+
+<div class="rustpunt" aria-hidden="true"></div>
 
 Stel nu dat twee procedures uiteindelijk even vaak tot de juiste beslissing komen. De ene vangt onzekerheid tijdelijk institutioneel op. De andere laat burgers wachten, voorschieten, bewijs verzamelen en later herstelwerk doen.
 
@@ -139,6 +143,8 @@ De organisatie heeft €800 te weinig betaald.
 Zij moet dat bedrag corrigeren en betalen.
 
 We zouden nog kunnen spreken over antwoordruimte, draagroute of institutionele ontvankelijkheid. Voor deze beslissing maakt dat niets beter. Een relationele omweg kan zelfs ontwijking worden wanneer zij de eenvoudige verplichting vervangt.
+
+<div class="rustpunt" aria-hidden="true"></div>
 
 Maar zwijgen wordt pas moeilijker waar de woorden wél verleidelijk blijven.
 
