@@ -16,7 +16,7 @@ De beschrijving alleen bepaalt nog niet wat politiek moet gebeuren. Binnen de ge
 
 > **Geen actor krijgt vanzelf het recht de antwoordruimte van een ander op te gebruiken.**
 
-Wij zijn daarin geen afgeronde heersers boven de wereld, maar kleine, afhankelijke dieren die kunnen voelen, antwoorden, verwonden, beschermen, maken en vieren. Bescherming vraagt soms een grens die werkelijk gevolg krijgt; die grens geeft daarom nog geen recht op vernedering of overheersing.
+Wij zijn daarin geen afgeronde heersers boven de wereld, maar kleine, afhankelijke dieren die kunnen voelen, antwoorden, verwonden, beschermen, maken en vieren. Bescherming vraagt soms een grens die werkelijk gevolg krijgt; die grens geeft daarmee nog geen recht op vernedering of overheersing.
 
 > **Wat verschijnt, verschijnt onaf, en juist daarom kan het werkelijk raken.**
 
@@ -32,7 +32,7 @@ Een slot hoeft niet te doen alsof alle vragen zijn opgelost. Maar een lange inve
 
 **Toepassing.** Begrippen als draagkracht en antwoordruimte worden pas werkelijk bruikbaar wanneer zij per domein onderzocht kunnen worden zonder tot één score of universele maat te worden gereduceerd. Dat geldt bijvoorbeeld voor publieke instituties, zorg, relaties en niet-menselijke dieren. De vraag is telkens welke concrete signalen, gevolgen en herstelmogelijkheden relevant zijn, en wie de prijs betaalt wanneer een systeem zich vergist.
 
-**Eigen bijdrage.** Onafgesloten Vorm moet kunnen blijven verliezen van preciezere bestaande begrippen. Waar autonomie, welzijn, systeemtheorie, recht, ethologie of een andere discipline hetzelfde beter beschrijft, hoeft projecttaal niet te winnen. Ook gesprekken met andere filosofische en culturele tradities moeten het vocabulaire kunnen veranderen in plaats van alleen achteraf als bevestiging te dienen.
+**Eigen bijdrage.** Onafgesloten Vorm moet kunnen blijven verliezen van preciezere bestaande begrippen. Waar een bestaand begrip als autonomie of welzijn, of een discipline als systeemtheorie, recht of ethologie, hetzelfde beter beschrijft, hoeft projecttaal niet te winnen. Ook gesprekken met andere filosofische en culturele tradities moeten het vocabulaire kunnen veranderen in plaats van alleen achteraf als bevestiging te dienen.
 
 Dit zijn geen twintig losse onderzoeksopdrachten die nog moeten worden afgevinkt. Ze markeren de plaatsen waar deze tekst bewust niet verder sluit.
 
@@ -42,6 +42,6 @@ Dit zijn geen twintig losse onderzoeksopdrachten die nog moeten worden afgevinkt
 
 Onafgesloten Vorm is niet begonnen als een door AI gegenereerde theorie. De eerste grondstof was geleefd en geobserveerd: ervaringen in relaties en werk, gesprekken, irritaties, verlies, muziek, politiek, instituties, dieren, kunst en momenten waarop een bestaande uitleg te klein of juist te sluitend voelde. Veel daarvan werd eerst fragmentarisch opgeschreven, uitgesproken of in voorbeelden verkend voordat er een samenhangend begrippenkader bestond.
 
-LLM's zijn vervolgens een belangrijk hulpmiddel geworden bij het uitwerken van die grondstof. Ze hielpen aannames zichtbaar te maken, formuleringen te vergelijken, tegenvoorbeelden te zoeken, verwante denktradities op te sporen, hoofdstukken te herschikken en taal aan te scherpen. Sommige formuleringen in deze tekst zijn daardoor in gesprek met een taalmodel ontstaan of aanzienlijk veranderd. Een taalmodel heeft de situaties waaruit dit project voortkomt niet geleefd. De rol van LLM's was daarom zowel redactioneel als dialogisch: hun output gold als voorstel, tegenstem of materiaal voor verdere bewerking, niet als onderbouwing dat een inhoudelijke claim waar is of een verondersteld verband werkelijk bestaat.
+LLM's zijn vervolgens een belangrijk hulpmiddel geworden bij het uitwerken van die grondstof. Ze hielpen aannames zichtbaar te maken, formuleringen te vergelijken, tegenvoorbeelden te zoeken, verwante denktradities op te sporen, hoofdstukken te herschikken en taal aan te scherpen. Sommige formuleringen in deze tekst zijn daardoor in gesprek met een taalmodel ontstaan of aanzienlijk veranderd. Een taalmodel heeft de situaties waaruit dit project voortkomt niet geleefd. De rol van LLM's was daarom zowel redactioneel als dialogisch: hun output gold als voorstel, tegenstem of materiaal voor verdere bewerking, niet als bewijs dat een inhoudelijke claim waar is of dat een verondersteld verband werkelijk bestaat.
 
 Die werkwijze heeft ook risico's. Een taalmodel kan losse intuïties te snel tot een mooi systeem maken, verbanden overtuigender laten klinken dan ze zijn of jargon invoeren dat meer gewicht suggereert dan de gedachte kan dragen. Daarom zijn voorstellen ook geschrapt, begrippen verlaten, claims versmald en waar nodig externe bronnen en disciplines geraadpleegd. De verantwoordelijkheid voor wat uiteindelijk blijft staan, welke normatieve keuzes worden gemaakt en wat hier publiek wordt beweerd, ligt bij mij.

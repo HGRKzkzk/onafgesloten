@@ -87,11 +87,11 @@ We zijn werkelijk iemand, maar niet uitsluitend uit onszelf.
 
 <span class="begrip" data-term="vorm">Vorm</span> is hier geen oppervlakkige verpakking waarachter iets oorspronkelijkers schuilgaat. Zonder vorm is er geen *hier* vanwaar iets kan gebeuren.
 
-Een huid maakt verschil tussen binnen en buiten. Een taal heeft regels waardoor woorden herkenbaar worden. Een vriendschap krijgt vorm doordat bepaalde herinneringen, verwachtingen en gewoonten samen iets vormen wat andere relaties niet zijn. Ook verantwoordelijkheid vraagt vorm: als geen handeling ergens aan kan worden toegeschreven, kan niemand ergens op worden aangesproken. Als iedere grens onmiddellijk verdacht wordt, kan ook zorg nergens meer landen.
+Een huid maakt verschil tussen binnen en buiten. Een taal heeft regels waardoor woorden herkenbaar worden. Een vriendschap krijgt vorm doordat bepaalde herinneringen, verwachtingen en gewoonten samen iets maken wat andere relaties niet hebben. Ook verantwoordelijkheid vraagt vorm: als geen handeling ergens aan kan worden toegeschreven, kan niemand ergens op worden aangesproken. Als iedere grens onmiddellijk verdacht wordt, kan ook zorg nergens meer landen.
 
 Een wond moet ergens zitten om behandeld te kunnen worden. Een belofte moet door iemand zijn gedaan. Een nee moet van iemand mogen zijn.
 
-De <span class="begrip" data-term="grens">grens</span> scheidt en maakt tegelijk een eigen positie mogelijk: een plaats vanwaar iets kan ontvangen, bewaren en antwoorden.
+De <span class="begrip" data-term="grens">grens</span> scheidt en maakt tegelijk een eigen positie mogelijk: een plaats van waaruit iets kan worden ontvangen, bewaard en beantwoord.
 
 ### Werkelijk, maar niet uitgeput
 
@@ -214,6 +214,6 @@ Waar een bestaand, domeinspecifiek begrip hetzelfde relevante verschil preciezer
 
 De inzet is beperkt: wat werkelijk voor ons staat, mag serieus worden genomen zonder dat we hoeven te doen alsof daarmee alles gezegd is.
 
-Een handeling heeft gevolgen. Een grens kan noodzakelijk zijn. Een toestand kan jarenlang duren. Een verlies kan onherroepelijk zijn. En toch kan de actuele vorm minder zijn dan de volledige werkelijkheid van wat zij vormt: een manier om niet te snel het laatste woord uit te spreken.
+Een handeling heeft gevolgen. Een grens kan noodzakelijk zijn. Een toestand kan jarenlang duren. Een verlies kan onherroepelijk zijn. En toch kan de actuele vorm minder zijn dan de volledige werkelijkheid van wat zij vormt. Dat is een manier om niet te snel het laatste woord uit te spreken.
 
 > **Een vorm is werkelijk, maar zij is niet de volledige werkelijkheid van wat zij vormt.**

@@ -14,7 +14,7 @@ divergence:
 lastSyncCheck: "2026-09-11"
 ---
 
-Een steen kan veranderen. Zij kan splijten door vorst, afslijten door water, opwarmen in de zon of onder druk van vorm veranderen. Voor zover wij weten staat er voor de steen zelf niets op het spel.
+Een steen kan veranderen. Hij kan splijten door vorst, afslijten door water, opwarmen in de zon of door druk van vorm veranderen. Voor zover wij weten staat er voor de steen zelf niets op het spel.
 
 Bij levende systemen verschijnt eerst een ander onderscheid. Een organisme kan verschillen registreren en zijn toestand of gedrag daarop aanpassen. Het zoekt voedsel, groeit naar licht, beweegt langs een chemische gradiënt of trekt zich terug bij beschadiging.
 
@@ -87,7 +87,7 @@ Dat gewicht hoeft geen menselijke interpretatie te zijn. Maar biologische releva
 
 Ook **antwoorden** ligt op een andere as. In dit project betekent het woord niet op ieder niveau hetzelfde innerlijke proces. Bij mensen kan antwoorden bestaan uit uitstellen, redenen wegen, weigeren en later terugkomen op een eerste reactie. Bij dieren kan geleerd en selectief gedrag relevant zijn zonder menselijke reflectie te veronderstellen. Een institutie kan alleen in overdrachtelijke zin antwoorden: wanneer gevolgen en tegenspraak haar verdere handelen werkelijk kunnen veranderen.
 
-Het woord wordt dus analoog gebruikt tussen domeinen. Responsiviteit bewijst geen gevoel, en corrigeren bewijst geen bewustzijn. De overeenkomst ligt alleen hierin dat een verschil niet volledig zonder gevolg blijft voor wat daarna gebeurt.
+Het woord wordt dus analoog gebruikt, over verschillende domeinen heen. Responsiviteit bewijst geen gevoel, en corrigeren bewijst geen bewustzijn. De overeenkomst ligt alleen hierin dat een verschil niet volledig zonder gevolg blijft voor wat daarna gebeurt.
 
 ## Ik voel, dus ik ben
 
@@ -168,7 +168,7 @@ Maar tegenspraak mag niet op zichzelf het bewijs worden dat iemand niet kan antw
 
 ## Voelen is geen eindvonnis
 
-De sterkste emotie kan niet automatisch winnen.
+De sterkste emotie mag niet automatisch winnen.
 
 Voelen zegt: **er staat iets op het spel**.
 
@@ -182,9 +182,9 @@ Het zegt nog niet vanzelf:
 
 Daarvoor blijven waarneming, gesprek, kennis, vergelijking en institutionele toetsing nodig.
 
-Gevoel komt vóór de uitleg en blijft erdoorheen aanwezig.
+Gevoel komt vóór de uitleg en verdwijnt er niet in.
 
-Een lichaam kan het alarm slaan. Het vonnis vraagt meer.
+Een lichaam kan alarm slaan. Het vonnis vraagt meer.
 
 Dat lijkt mij de scherpste vorm van de stelling:
 

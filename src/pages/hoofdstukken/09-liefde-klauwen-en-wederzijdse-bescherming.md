@@ -29,11 +29,11 @@ Niet de oplossing van de ander. Niet volledige toegang tot de ander. Niet eens n
 
 Liefde wil vaak dichterbij. We willen weten wat er speelt, helpen, begrijpen, vasthouden wat dreigt te verdwijnen. Precies daarin schuilt gevaar.
 
-Zorg kan gaan voelen als recht op uitleg. Trouw als recht op voortzetting. Een lange geschiedenis als recht op nog één gesprek. Goedbedoeld begrip als reden om het nee van de ander te passeren.
+Zorg kan gaan aanvoelen als een recht op uitleg. Trouw als recht op voortzetting. Een lange geschiedenis als recht op nog één gesprek. Goedbedoeld begrip als reden om het nee van de ander te passeren.
 
 Daar begint liefde te sluiten.
 
-Een ouder kan zoveel voor een kind willen dat het kind nauwelijks nog mag ontdekken wat het zelf wil. Een partner kan zoveel behoefte aan openheid hebben dat privacy als verraad gaat voelen. Een vriend kan zo hard helpen dat de ander vooral nog ontvanger van zorg mag zijn.
+Een ouder kan zoveel voor een kind willen dat het kind nauwelijks nog mag ontdekken wat het zelf wil. Een partner kan zoveel behoefte aan openheid hebben dat privacy als verraad gaat aanvoelen. Een vriend kan zo hard helpen dat de ander vooral nog ontvanger van zorg mag zijn.
 
 > **Liefde is gedragen verschil.**
 
@@ -85,7 +85,7 @@ Niet-menselijke dieren zijn daarbij niet alleen spiegel voor menselijke nederigh
 
 Kleinheid verschilt van kleingemaakt worden.
 
-Kleingemaakt worden is gereduceerd raken tot ruis, kostenpost, datapunt, gebruiksvoorwerp, stereotype of vervangbaar middel: kwetsbaarheid is geen toestemming om een vorm tot middel te reduceren.
+Kleingemaakt worden is gereduceerd raken tot ruis, kostenpost, datapunt, gebruiksvoorwerp, stereotype of vervangbaar middel. Kwetsbaarheid is geen toestemming om een vorm tot middel te maken.
 
 Wie kwetsbaar is, heeft daarom niet minder recht op een grens die werkelijk gevolg krijgt.
 
@@ -177,7 +177,7 @@ Mensen kunnen elkaar beschermen omdat zij een wereld delen waarin intimidatie, g
 
 De vraag is wat zo'n grens beschermt. Beschermt zij een ruimte waarin verschil, correctie en vertrek mogelijk blijven? Of beschermt zij vooral het recht van één groep om te bepalen wie mag meetellen?
 
-Gedeelde macht hoeft niet geleend te worden van de vernedering van een ander.
+Gedeelde macht hoeft niet te worden ontleend aan de vernedering van een ander.
 
 Dat is moeilijker dan een vijandbeeld. Een vijandbeeld geeft snel richting. Gedeelde macht vraagt instituties, verbanden, tijd en het vermogen boosheid serieus te nemen zonder haar automatisch een zwakker doelwit te geven.
 
@@ -191,16 +191,16 @@ Maar verantwoordelijkheid hoeft niet te betekenen dat iemand volledig samenvalt 
 
 De nuttige vragen zijn concreter: welk gedrag moet eindigen, wie moet nu beschermd worden, welke asymmetrie is daarvoor nodig en welke toekomstige verandering zou relevant zijn?
 
-Wie stopt met de schadelijke praktijk hoeft niet voor altijd vijand te blijven. Maar degene die schade heeft geleden hoeft nooit de persoon te zijn die die heropening mogelijk maakt.
+Wie stopt met de schadelijke praktijk hoeft niet voor altijd vijand te blijven. Maar degene die schade heeft geleden hoeft nooit degene te zijn die deze heropening mogelijk maakt.
 
 ## Liefde zonder eindoplossing
 
-Liefde staat niet boven recht, grens of waarheid. Zij kan blind maken. Zorg kan bezit worden. Bescherming kan paternalistisch worden. Zij is geen vervanging voor rechtvaardigheid.
+Liefde staat niet boven recht, grens of waarheid. Zij kan blind maken. Zorg kan bezit worden. Bescherming kan paternalistisch worden. Liefde is geen vervanging voor rechtvaardigheid.
 
 Wat liefde wel kan bewaren is de weigering de ander volledig te laten samenvallen met diens functie voor mij, zelfs wanneer ik afstand moet nemen, een grens moet handhaven of tegen diens handelen in moet gaan.
 
 Een grens kan hard zijn in haar gevolg en toch gericht blijven op bescherming in plaats van vernedering.
 
-Niet alles hoeft verzoend. Niet iedere relatie hoeft heropend. Niet ieder verschil hoeft opgelost.
+Niet alles hoeft verzoend te worden. Niet iedere relatie heropend. Niet ieder verschil opgelost.
 
 De inzet is bescheidener: nabijheid zonder bezit, zorg zonder zelfopheffing, bescherming zonder vernedering en wederkerigheid zonder de eis dat ongelijke posities onmiddellijk symmetrisch worden.

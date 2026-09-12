@@ -17,7 +17,7 @@ lastSyncCheck: "2026-09-11"
 ---
 Geen vorm draagt zichzelf alleen. Rond ieder individu bestaat een veld van materiële, affectieve, culturele, ecologische en institutionele voorwaarden. Sommige zijn zichtbaar; andere vallen pas op wanneer zij verdwijnen.
 
-Wanneer een relatie of institutie hier een *vorm* wordt genoemd, gebruik ik dat woord voor een overeenkomst die onderzoek verdient: ook zulke verbanden hebben grenzen, bewaren samenhang, verdelen spanning en kunnen wel of niet door gevolgen worden veranderd. Waar die overeenkomst ophoudt, moet ook de vertaling ophouden.
+Wanneer een relatie of institutie hier een *vorm* wordt genoemd, gebruik ik dat woord voor een gelijkenis die onderzoek verdient: ook zulke verbanden hebben grenzen, bewaren samenhang, verdelen spanning en kunnen wel of niet door gevolgen worden veranderd. Waar die gelijkenis ophoudt, moet ook de vertaling ophouden.
 
 Het veld is een aandachtsterm voor verhoudingen waardoor bepaalde handelingen, gevoelens en betekenissen waarschijnlijker, moeilijker of ondenkbaar worden. Een rooster, algoritme, gebouw, familieverwachting of budget kan antwoorden vormgeven zonder zelf als persoon te spreken.
 
@@ -33,7 +33,7 @@ Macht kan draagkracht scheppen. Recht, infrastructuur, onderwijs, zorg en social
 
 Een algemene oproep tot openheid is daarom onvoldoende. Openheid kost tijd, aandacht, geld en vaak lichamelijke of emotionele arbeid. De institutionele vraag luidt steeds: **wie moet hier ontvankelijk zijn voor wie, tegen welke prijs, en wie kan weigeren zonder uit het systeem te vallen?**
 
-Een organisatie kan aan de buitenkant soepel lijken doordat uitvoerders intern alle onzekerheid opvangen. Een digitale dienst kan efficiënt ogen doordat burgers zelf fouten moeten opsporen, bewijs verzamelen en meerdere loketten verbinden. Een team kan zijn targets halen doordat één medewerker structureel de uitzonderingen draagt die de metric niet ziet.
+Een organisatie kan aan de buitenkant soepel lijken doordat uitvoerders intern alle onzekerheid opvangen. Een digitale dienst kan efficiënt ogen doordat burgers zelf fouten moeten opsporen, bewijs verzamelen en meerdere loketten verbinden. Een team kan zijn targets halen doordat één medewerker structureel de uitzonderingen draagt die de indicator niet ziet.
 
 Dan ligt het probleem in de <span class="begrip" data-term="draagroute">draagroute</span> zelf: soms moet het veld veranderen dat de kwetsbare vorm voortdurend belast.
 
@@ -45,7 +45,7 @@ Een regel kan nodig zijn en toch verkeerd uitpakken. Een classificatie kan bruik
 
 Dat vraagt meer dan een klachtenformulier.
 
-Een bezwaarmogelijkheid die alleen werkt voor wie tijd, taal, geld, gezondheid en dossierkennis over heeft, is formeel open en feitelijk smal. Een evaluatie die alleen meet wat al in de oorspronkelijke indicatoren paste, kan precies de gevolgen missen waarvoor zij bedoeld was. Een loket dat steeds opnieuw om dezelfde informatie vraagt, verplaatst de administratieve last naar degene die het minst over de organisatie beschikt. Institutionele openheid moet daarom in routes, bevoegdheden, termijnen en herstelmogelijkheden worden gebouwd, niet alleen in een formulier.
+Een bezwaarmogelijkheid die alleen werkt voor wie tijd, taal, geld, gezondheid en dossierkennis over heeft, is formeel open en feitelijk smal. Een evaluatie die alleen meet wat al in de oorspronkelijke indicatoren paste, kan precies de gevolgen missen waarvoor zij bedoeld was. Een loket dat steeds opnieuw om dezelfde informatie vraagt, verplaatst de administratieve last naar degene die het minst overzicht over de organisatie heeft. Institutionele openheid moet daarom in routes, bevoegdheden, termijnen en herstelmogelijkheden worden gebouwd, niet alleen in een formulier.
 
 ## Klauwen en open zenuwen
 
@@ -67,7 +67,7 @@ De grap werkt omdat hij iets institutioneels zichtbaar maakt: status en procedur
 
 Een gezonde institutie heeft klauwen én open zenuwen. Zij moet kunnen handelen, beschermen en begrenzen, maar ook werkelijk geraakt kunnen worden door uitvoering, burger, wetenschap en gevolg.
 
-<span class="begrip" data-term="corrigeerbaarheid">Corrigeerbaarheid</span> betekent hier méér dan feedback ontvangen. Terugkoppeling moet onder relevante omstandigheden classificaties, doelen, bevoegdheden, tempo of voortzetting kunnen veranderen.
+<span class="begrip" data-term="corrigeerbaarheid">Corrigeerbaarheid</span> betekent hier méér dan het ontvangen van feedback. Terugkoppeling moet onder relevante omstandigheden classificaties, doelen, bevoegdheden, tempo of voortzetting kunnen veranderen.
 
 Veel systemen zijn zeer responsief in technische zin: zij registreren elk signaal, verzamelen data, beantwoorden berichten en verfijnen voorspellingen. Toch kunnen zij normatief volledig gesloten blijven wanneer geen enkel signaal hun koers mag veranderen. Zo'n systeem absorbeert iedere kritiek en blijft daarna hetzelfde doen: niet open, maar slim gesloten.
 
@@ -133,7 +133,7 @@ Dat voorkomt twee gemakkelijke fouten. Niet ieder lokaal zichtbaar probleem is e
 
 Dan kan een wederkerigheidsval ontstaan: ieder reageert lokaal begrijpelijk op verwacht gevaar en produceert daarmee voor de ander juist nieuw bewijs dat wantrouwen nodig is.
 
-De uitweg kan klein beginnen: beperkte risico's, verificatie, vooraf bekende terugvalopties, gedeelde informatie en onafhankelijke derden. Vertrouwen kan groeien uit herhaald overleefde wederkerigheid.
+De uitweg kan klein beginnen: beperkte risico's, verificatie, vooraf bekende terugvalopties, gedeelde informatie en onafhankelijke derden. Vertrouwen kan groeien uit herhaalde uitwisselingen waarin die ruimte niet werd misbruikt.
 
 Wederzijds wantrouwen maakt verantwoordelijkheid echter niet gelijk. Wanneer de ene actor veel meer vermogen heeft om toegang, inkomen, veiligheid, vrijheid of toekomst van de ander te bepalen, rust op die actor een zwaardere plicht om een veilige en controleerbare correctieroute mogelijk te maken. De burger hoeft niet eerst hetzelfde risico te nemen als de staat. Het kind hoeft de ouder niet even goed te kunnen corrigeren als andersom. Het slachtoffer hoeft de veroorzaker niet dezelfde toegang tot dialoog te geven die de veroorzaker zelf verlangt.
 
@@ -167,7 +167,7 @@ Een veld kan gedrag verklaren zonder verantwoordelijkheid uit te wissen.
 
 Na de oorlog ontwierp Aldo van Eyck honderden openbare speelplaatsen voor Amsterdam. Vaak waren het geen grote parken maar kleine plekken tussen huizen en straten: zand, een paar vormen van beton of staal, een klimrek, een bank.
 
-De toestellen schreven het spel niet helemaal voor. Een boog kon klimrek zijn, hut, schip of iets waarvoor nog geen naam bestond.
+De toestellen schreven het spel niet helemaal voor. Een boog kon klimrek, hut, schip of iets zonder naam zijn.
 
 Een vergeten hoek van de stad kreeg ineens kinderen.
 
@@ -183,7 +183,7 @@ Wie de leefomgeving, beweging, voortplanting, sociale relaties of dood van diere
 
 *Wie de leefwereld van een dier sluit, draagt verantwoordelijkheid voor de antwoordruimte die overblijft.*
 
-Hetzelfde principe geldt menselijk. Wie minder toegang heeft tot taal, dossierkennis, geld of procedure, mag niet daarom minder werkelijk worden in de beoordeling. Een institutie die alleen reageert op goed geformuleerde tegenspraak beloont precies de capaciteit die zij geacht wordt niet als voorwaarde voor waardigheid te stellen.
+Hetzelfde principe geldt tussen mensen. Wie minder toegang heeft tot taal, dossierkennis, geld of procedure, mag niet daarom minder werkelijk worden in de beoordeling. Een institutie die alleen reageert op goed geformuleerde tegenspraak, beloont precies de capaciteit die zij nooit als voorwaarde voor waardigheid zou mogen stellen.
 
 Geen stem is geen leegte.
 
@@ -211,7 +211,7 @@ Doorslaggevend is hoe <span class="begrip" data-term="antwoordbaarheid-van-macht
 
 > **Asymmetrie wordt antagonistisch wanneer zij niet alleen uitkomsten beïnvloedt, maar de voorwaarden bepaalt waaronder andere actoren nog levensvatbaar kunnen antwoorden.**
 
-Gelijkheid of decentralisatie zijn hier niet de hoogste norm. Macht kan groot en geconcentreerd zijn zonder het veld te sluiten. Macht die de antwoordvoorwaarden van anderen bepaalt, moet zelf voldoende antwoordbaar blijven.
+Gelijkheid of decentralisatie is hier niet de hoogste norm. Macht kan groot en geconcentreerd zijn zonder het veld te sluiten. Macht die de antwoordvoorwaarden van anderen bepaalt, moet zelf voldoende antwoordbaar blijven.
 
 Waar toetreding, vertrek, organisatie van tegenmacht en correctie praktisch onwerkzaam worden, ontstaat <span class="begrip" data-term="veldsluiting">veldsluiting</span>: de ordening maakt alternatieve antwoorden steeds minder levensvatbaar.
 
@@ -244,7 +244,7 @@ De escalatievolgorde blijft eenvoudig:
 
 In acute situaties kunnen stappen worden overgeslagen. Wie onmiddellijk gevaar loopt hoeft niet eerst een zorgvuldig relationeel gesprek te voeren. Temporaliteit en asymmetrie wegen hier zwaar: wat later mogelijk wordt, hoeft nu niet verlangd te worden.
 
-De escalatieorde helpt macht niet eerder en niet zwaarder over te nemen dan nodig, zonder noodzakelijke bescherming uit te stellen.
+De escalatievolgorde helpt om macht niet eerder en niet zwaarder over te nemen dan nodig, zonder noodzakelijke bescherming uit te stellen.
 
 ## Van kern naar doctrine
 

@@ -17,7 +17,7 @@ Vrijheid wordt gemakkelijk voorgesteld als een lege plek in de keten van oorzake
 
 De taal waarin ik kies heb ik niet zelf gemaakt. Mijn lichaam opent sommige mogelijkheden en sluit andere. Mijn aandacht, verlangens en angsten hebben een geschiedenis. Zelfs het vermogen om te wachten, redenen te wegen of een impuls te beteugelen is gevormd.
 
-Als vrijheid alleen kan bestaan waar bepaaldheid ophoudt, blijft er weinig menselijke vrijheid over. Een niesbui, een paniekreactie, een onder dreiging gezette handtekening en een beslissing na weken overleg hebben allemaal oorzaken. Toch verschillen ze wezenlijk in de manier waarop iemand erin kan antwoorden.
+Als vrijheid alleen kan bestaan waar bepaaldheid ophoudt, blijft er weinig menselijke vrijheid over. Een niesbui, een paniekreactie, een onder dreiging gezette handtekening en een beslissing na weken overleg hebben allemaal oorzaken. Toch verschillen ze wezenlijk in de manier waarop iemand erop kan antwoorden.
 
 > **Vrijheid is hier geen ontsnapping aan bepaaldheid, maar ruimte binnen bepaaldheid om ontvangen impulsen, redenen en omstandigheden te bemiddelen en er antwoord op te geven.**
 
@@ -62,7 +62,7 @@ Daarom past het beeld hier. Vrijheid verschijnt niet pas wanneer geschiedenis, l
 
 ## Niet iedere eigen wens is vrije wil
 
-Dwang hoeft niet altijd van buiten te komen. Iemand kan zijn gevormd in een omgeving waarin één levenspad vanzelfsprekend lijkt, waarin tegenspraak liefde kost of waarin een algoritmische omgeving precies die prikkels versterkt waarop hij voorspelbaar reageert. De uiteindelijke wens kan oprecht aanvoelen.
+Dwang hoeft niet altijd van buiten te komen. Iemand kan zijn gevormd in een omgeving waarin één levenspad vanzelfsprekend lijkt, waarin tegenspraak liefde kost of waarin een algoritmische aanbeveling precies die prikkels versterkt waarop hij voorspelbaar reageert. De uiteindelijke wens kan oprecht aanvoelen.
 
 Een oprechte wens bewijst nog niet dat de voorwaarden waaronder zij ontstond vrij waren.
 
@@ -88,7 +88,7 @@ Een onomkeerbare keuze kan vrij zijn: de relevante vraag is of voldoende voorwaa
 
 > **Vrijheid is niet maximale keuzevrijheid op ieder moment, maar voldoende voorwaarden behouden om opnieuw te kunnen antwoorden.**
 
-Antwoordruimte is geen schaal waarop kan worden afgelezen hoeveel vrijheid genoeg is. Het begrip wijst waar gekeken moet worden: naar tijd, informatie, veiligheid, mogelijkheid tot weigeren, correctie, vertrek en herstel. Of die voorwaarden in een concreet geval voldoende zijn, vraagt kennis van het domein, de gevolgen en de betrokken actor. Recht, geneeskunde, psychologie, ethologie of bestuurskunde kunnen daar preciezere maatstaven leveren dan dit begrip zelf.
+Antwoordruimte is geen schaal waarop kan worden afgelezen hoeveel vrijheid genoeg is. Het begrip wijst waar gekeken moet worden: naar tijd, informatie, veiligheid, mogelijkheid tot weigeren, correctie, vertrek en herstel. De vraag of die voorwaarden in een concreet geval voldoende zijn, vereist kennis van het domein, de gevolgen en de betrokken actor. Recht, geneeskunde, psychologie, ethologie of bestuurskunde kunnen daar preciezere maatstaven leveren dan dit begrip zelf.
 
 Antwoordruimte is daarmee een diagnostische vraag, geen zelfstandig handelingsprotocol.
 
@@ -136,7 +136,7 @@ Kon de actor de beïnvloeding herkennen? Alternatieve informatie bereiken? Zich 
 
 Iedereen wordt beïnvloed. Relevant is of beïnvloeding herkenbaar, betwistbaar en ontloopbaar blijft, en of zij het vermogen tot herziening mede mogelijk maakt of haar eigen invloed aan correctie onttrekt.
 
-Dan wordt beïnvloeding sluitingsmacht.
+In dat laatste geval wordt beïnvloeding sluitingsmacht.
 
 ## Verbonden zonder opgelost te worden
 

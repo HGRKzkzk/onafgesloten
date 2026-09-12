@@ -31,7 +31,7 @@ Classificatie is een vorm van aandacht. Door iets een naam te geven, kunnen we p
 
 Maar zodra een categorie bruikbaar wordt, ontstaat een nieuwe verleiding: alles wat verschijnt door haar heen blijven lezen.
 
-Een kind dat eenmaal “lastig” heet, wordt sneller als lastig gezien wanneer het zich verzet. Een medewerker die als risicogeval is gemarkeerd, kan nieuwe informatie moeilijker als gewone variatie laten tellen. Een theorie die één mechanisme overtuigend heeft beschreven, kan steeds meer verschijnselen als varianten van hetzelfde mechanisme gaan behandelen.
+Een kind dat eenmaal “lastig” heet, wordt sneller als lastig gezien wanneer het zich verzet. Bij een medewerker die als risicogeval is gemarkeerd, telt nieuwe informatie moeilijker als gewone variatie. Een theorie die één mechanisme overtuigend heeft beschreven, kan steeds meer verschijnselen als varianten van hetzelfde mechanisme gaan behandelen.
 
 Iedere werkzame ordening kent dit risico: wat helpt selecteren, kan ook gaan bepalen wat nog zichtbaar mag worden.
 
@@ -95,7 +95,7 @@ Wetenschappelijke kennis ontstaat binnen systemen van financiering, publicatie, 
 
 Haar kracht ligt mede in bredere correctiestructuren: reproduceerbaarheid, kritiek, alternatieve hypothesen, transparantie over methoden, onafhankelijke toetsing en de mogelijkheid dat een resultaat niet standhoudt.
 
-Die structuur is nooit perfect. Een claim krijgt er niet het laatste woord omdat degene die haar doet overtuigd of deskundig is; zij moet manieren overleven waarop anderen haar kunnen bevragen.
+Die structuur is nooit perfect. Een claim krijgt er niet het laatste woord omdat degene die haar doet overtuigd of deskundig is; zij moet bestand blijken tegen de manieren waarop anderen haar kunnen bevragen.
 
 Onzekerheid kan daarbij juist een teken van precisie zijn. Een betrouwbaar kennisveld kan soms beter zeggen *hoe zeker* iets is dan onmiddellijk doen alsof één sluitend antwoord beschikbaar is.
 
@@ -111,7 +111,7 @@ Waarheid, urgentie en gezag zijn verschillende vragen: iemand kan gelijk hebben 
 
 Een arts weet meer over een behandeling dan een patiënt, een ingenieur meer over een constructie dan een omstander, een datawetenschapper meer over een model dan de burger die door dat model wordt beoordeeld.
 
-Problematisch wordt die asymmetrie wanneer de deskundige partij ook alleen mag bepalen welke vragen geldig zijn, welke gevolgen meetellen en wanneer de procedure als afgerond geldt.
+Problematisch wordt die asymmetrie wanneer de deskundige partij ook als enige mag bepalen welke vragen geldig zijn, welke gevolgen meetellen en wanneer de procedure als afgerond geldt.
 
 Dan verandert kennisvoorsprong in <span class="begrip" data-term="sluitingsmacht">sluitingsmacht</span>.
 
@@ -125,7 +125,7 @@ Gelijk hebben geeft geen eigendomsrecht op de toekomst van de ander.
 
 Ervaren gevolgen zijn kennis. Wanneer een burger zegt dat een procedure hem financieel ontwricht, een patiënt vertelt dat een behandeling ondraaglijke bijwerkingen heeft of een werknemer beschrijft dat een proces systematisch onuitvoerbaar is, ontstaat informatie die een model of professional mogelijk niet zelf bezit.
 
-Die informatie moet kunnen terugspreken. Mensen kunnen tegelijk oorzaken verkeerd aanwijzen, herinneringen kunnen onvolledig zijn, verwachtingen beïnvloeden waarneming en belangen kunnen interpretaties kleuren.
+Die informatie moet kunnen terugspreken. Tegelijk kunnen mensen oorzaken verkeerd aanwijzen, kunnen herinneringen onvolledig zijn, kunnen verwachtingen de waarneming beïnvloeden en kunnen belangen interpretaties kleuren.
 
 Expertise en ervaring moeten elkaar kunnen corrigeren zonder dat één vooraf volledig eigenaar van de werkelijkheid wordt.
 
@@ -152,7 +152,7 @@ Modelkwaliteit omvat daarom meer dan voorspellende nauwkeurigheid:
 
 Een model kan uitstekend voorspellen en toch normatief verkeerd gericht zijn.
 
-Dat geldt bijvoorbeeld wanneer een systeem steeds nauwkeuriger voorspelt wie waarschijnlijk zal uitvallen, maar de organisatie vervolgens vooral investeert in selectie in plaats van in omstandigheden die uitval veroorzaken. De voorspelling wordt dan beter terwijl de wereld die voorspeld wordt nauwelijks gezonder wordt.
+Dat geldt bijvoorbeeld wanneer een systeem steeds nauwkeuriger voorspelt wie waarschijnlijk zal uitvallen, maar de organisatie vervolgens vooral investeert in selectie in plaats van in het veranderen van de omstandigheden die uitval veroorzaken. De voorspelling wordt dan beter terwijl de wereld die voorspeld wordt nauwelijks gezonder wordt.
 
 Intelligentie moet daarom ook vragen:
 
@@ -174,11 +174,11 @@ Overzicht is geen alwetendheid. Geen mens, institutie of model heeft een blik va
 
 Een intelligente vorm moet ook kunnen merken dat de manier waarop zij input ordent zelf een bron van fouten is.
 
-## Corrigeerbaarheid is meer dan feedback ontvangen
+## Corrigeerbaarheid is meer dan het ontvangen van feedback
 
 Dit geldt voor mensen, instituties en kunstmatige systemen.
 
-<span class="begrip" data-term="corrigeerbaarheid">Corrigeerbaarheid</span> vraagt meer dan feedback ontvangen. Een callcenter kan duizenden klachten registreren zonder één procedure te veranderen. Een algoritme kan gebruikersfeedback gebruiken om zijn voorspellingen nauwkeuriger te maken terwijl zijn doel hetzelfde blijft. Een organisatie kan evalueren en leren hoe zij een schadelijke praktijk efficiënter uitvoert.
+<span class="begrip" data-term="corrigeerbaarheid">Corrigeerbaarheid</span> vraagt meer dan het ontvangen van feedback. Een callcenter kan duizenden klachten registreren zonder één procedure te veranderen. Een algoritme kan gebruikersfeedback gebruiken om zijn voorspellingen nauwkeuriger te maken terwijl zijn doel hetzelfde blijft. Een organisatie kan evalueren en leren hoe zij een schadelijke praktijk efficiënter uitvoert.
 
 Terugkoppeling moet waar nodig classificatie, doel, bevoegdheid of voortzetting kunnen veranderen. Anders wordt kritiek slechts brandstof voor een vorm die zichzelf steeds beter handhaaft.
 
@@ -196,7 +196,7 @@ Hun kwaliteit hangt ervan af of zij hun grens blijven herkennen.
 
 Een goede taal maakt iets zichtbaar en laat tegelijk ruimte voor correctie. Goede kennis sluit voldoende om te kunnen handelen en blijft gevoelig voor wat niet past. Goede intelligentie vergroot niet alleen snelheid of bereik, maar ook het vermogen eigen selectie en doelstelling te onderzoeken.
 
-De inzet is beslissingen die sterk genoeg zijn om iets te doen en open genoeg om door hun gevolgen iets te leren.
+De inzet is: beslissingen die sterk genoeg zijn om te kunnen handelen en open genoeg om ons van hun gevolgen te laten leren.
 
 > **Het laatste woord is niet verboden omdat waarheid onmogelijk is, maar omdat geen enkel eindig woord de werkelijkheid volledig bezit.**
 

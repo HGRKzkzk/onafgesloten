@@ -60,9 +60,9 @@ Hier begint de empirische grens. Dit kader bepaalt niet hoeveel vierkante meter 
 
 De eigen vraag verschijnt ergens anders. Economische marges, arbeidskosten en productiedoelen verdwijnen niet wanneer ze buiten het welzijnsdossier blijven. Ze kunnen als minder ruimte, minder herstel of minder uitwijkmogelijkheid in het leven van het dier terechtkomen.
 
-Een hek dat voorkomt dat een koe een snelweg oploopt beperkt en beschermt. Een beperking die vooral blijft bestaan omdat een minder belastende inrichting duurder is, vraagt een andere rechtvaardiging.
+Een hek dat voorkomt dat een koe de snelweg op loopt, beperkt én beschermt. Een beperking die vooral blijft bestaan omdat een minder belastende inrichting duurder is, vraagt een andere rechtvaardiging.
 
-Deze duiding verzwakt wanneer degelijk onderzoek laat zien dat de beperking voor het dier nauwelijks relevant verschil maakt, terwijl een minder beperkende inrichting elders grote moeilijk vermijdbare schade veroorzaakt. Dan mag “meer openheid” niet alsnog de gewenste uitkomst worden.
+Deze duiding verzwakt wanneer degelijk onderzoek laat zien dat de beperking voor het dier nauwelijks relevant verschil maakt, terwijl een minder beperkende inrichting elders grote, moeilijk vermijdbare schade veroorzaakt. Dan mag “meer openheid” niet alsnog de gewenste uitkomst worden.
 
 > **Productiviteit kan hier sluiting verbergen: het dier functioneert terwijl de weg waarlangs de last wordt afgewenteld buiten het dossier blijft.**
 
@@ -160,7 +160,7 @@ Hier is de juiste handeling dus niet verrijken, maar stoppen: corrigeren waar ie
 
 | Geval | Wat verandert | Wat dit denken niet doet |
 |---|---|---|
-| I | De vraag verschuift van productiviteit naar op wiens lichaam de beperking rust. | Geen welzijnsmaat, geen vierkante meters, geen verbod op veehouderij. |
+| I | De vraag verschuift van productiviteit naar de vraag op wiens lichaam de beperking rust. | Geen welzijnsmaat, geen vierkante meters, geen verbod op veehouderij. |
 | II | Twee even rechtmatige procedures kunnen moreel verschillen door de route van onzekerheid en herstelwerk. | Geen uitspraak of deze beschikking juridisch fout is. |
 | III | De vraag verschuift van alleen modelprestatie naar wie modelonzekerheid draagt en of mens én systeem werkelijk corrigeerbaar zijn. | Geen nauwkeurigheidsmaat, fairness-metric, technisch auditprotocol of algemeen oordeel dat algoritmische besluitvorming verkeerd is. |
 | IV | Voor de primaire beslissing verandert niets. | Geen relationele omweg waar recht, berekening of diagnostiek het relevante feit al dragen. |

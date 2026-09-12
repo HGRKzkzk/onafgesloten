@@ -44,7 +44,7 @@ Een samenleving kan iemand als afwijkend ervaren terwijl die persoon zelf weinig
 
 *Het gemiddelde is geen morele maatstaf en gewenning is geen bewijs van gezondheid.*
 
-Sommige toestanden beschadigen werkelijk. Een diagnose kan tegelijk beschrijvend, klinisch en normatief werk gaan doen.
+Sommige toestanden richten werkelijk schade aan. Een diagnose kan tegelijk beschrijvend, klinisch en normatief werk gaan doen.
 
 Een naam kan toegang tot zorg openen. Dezelfde naam kan ook een persoon gaan samenvatten. Belangrijk is het verschil tussen **een patroon herkennen** en **een vorm op dat patroon sluiten**.
 
@@ -72,7 +72,7 @@ De kritiek op verstarring kan zelf een nieuw ideaal voortbrengen: de gezonde men
 
 Een gezonde grens kan hard zijn. Een beperking kan blijvend zijn. Een lichaam kan iets definitief niet meer kunnen. Een persoon kan een leven zo inrichten dat bepaalde prikkels, relaties of eisen bewust worden vermeden.
 
-Ook <span class="begrip" data-term="resilience">resilience</span> is geen moreel maximum. Een systeem dat eindeloos terugveert terwijl dezelfde schade steeds opnieuw wordt toegediend is niet daarom gezond. Soms moet de belasting veranderen of eindigen.
+Ook <span class="begrip" data-term="resilience">resilience</span> is geen moreel maximum. Een systeem dat eindeloos terugveert terwijl dezelfde schade steeds opnieuw wordt toegediend, is daarom nog niet gezond. Soms moet de belasting veranderen of eindigen.
 
 Ook grenzeloze plasticiteit is geen ideaal. Een grens, gewoonte of beperking moet worden beoordeeld op wat zij mogelijk maakt en wat zij kost.
 

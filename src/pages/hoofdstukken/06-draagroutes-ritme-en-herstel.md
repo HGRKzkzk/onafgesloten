@@ -16,7 +16,7 @@ Dat maakt het verleidelijk om alleen te kijken naar de plek waar de schade zicht
 
 Een <span class="begrip" data-term="draagroute">draagroute</span> is de weg waarlangs spanning wordt ontvangen, verdeeld, begrensd, verwerkt, teruggelegd of geblokkeerd. Zonder lichaam, taak, taal, ritueel of besluit kan spanning nergens worden gedragen. Problematisch wordt de route wanneer een veld zijn spanning langdurig in een vorm laat neerslaan zonder dat die vorm de gevolgen kan terugleggen.
 
-Een organisatie kan wendbaar lijken doordat medewerkers voortdurend rond slechte systemen improviseren. Een gezin kan stabiel lijken doordat één lid alle onrust uit. Een economie kan efficiënt lijken doordat zorg, natuur of toekomstige generaties de last dragen die in het primaire ontwerp niet wordt opgelost. Wat lokaal als zwakte verschijnt, kan elders zijn georganiseerd.
+Een organisatie kan wendbaar lijken doordat medewerkers voortdurend rond slechte systemen improviseren. Een gezin kan stabiel lijken doordat één lid alle onrust naar buiten brengt. Een economie kan efficiënt lijken doordat zorg, natuur of toekomstige generaties de last dragen die in het primaire ontwerp niet wordt opgelost. Wat lokaal als zwakte verschijnt, kan elders zijn georganiseerd.
 
 > **Een draagroute wordt schadelijk wanneer de last zichtbaar wordt maar de draagbeslissing buiten beeld blijft.**
 
@@ -32,11 +32,11 @@ Iedere ordening laat iets over. Een besluit neemt niet alle onzekerheid weg. Een
 
 Er blijft dus vaak spanning, risico, tijdsdruk, schade of verlies over dat ergens terechtkomt. Voor de analyse wordt vooral relevant waar zulke lasten structureel dezelfde kant op bewegen.
 
-Een medewerker die één keer een fout herstelt, draagt een incident. Een medewerker die jarenlang systeemfouten opvangt zonder dat de bron verandert, wordt onderdeel van de draagroute. Een mantelzorger die tijdelijk bijspringt, draagt anders dan iemand voor wie “tijdelijk” de vaste ordening is geworden. Een dier dat één beperking ondergaat is iets anders dan een dier wiens hele leefwereld onze economische spanning absorbeert.
+Een medewerker die één keer een fout herstelt, draagt een incident. Een medewerker die jarenlang systeemfouten opvangt zonder dat de bron verandert, wordt onderdeel van de draagroute. Een mantelzorger die tijdelijk bijspringt, draagt anders dan iemand voor wie “tijdelijk” de vaste ordening is geworden. Een dier dat één beperking ondergaat, is iets anders dan een dier waarvan de hele leefwereld onze economische spanning absorbeert.
 
 > **Dat iemand een last herhaaldelijk kan dragen, verklaart nog niet waarom de draagroute telkens weer bij diegene uitkomt.**
 
-Juist herhaling maakt zichtbaar of flexibiliteit nog herstel mogelijk maakt of stilzwijgend tot exploitatie is geworden.
+Juist herhaling laat zien of flexibiliteit nog herstel mogelijk maakt, dan wel stilzwijgend exploitatie is geworden.
 
 ## Antwoorden hebben een tijd
 
@@ -63,7 +63,7 @@ Misschien is prioriteren soms precies dat: iets níét nu laten klinken zodat he
 
 Snelheid kan noodzakelijk zijn in acute situaties, maar zij mag handelen niet vanzelf leiden.
 
-Vertragen is evenmin altijd deugdzaam. Soms vergroot wachten de schade en is een onmiddellijke grens nodig. De vraag is naar passend ritme: kan de vorm ontvangen, reageren, integreren en herstellen op een tijdschaal die niet door één dominante actor wordt opgelegd?
+Vertragen is evenmin altijd deugdzaam. Soms vergroot wachten de schade en is een onmiddellijke grens nodig. Het gaat om een passend ritme: kan de vorm ontvangen, reageren, integreren en herstellen op een tijdschaal die niet door één dominante actor wordt opgelegd?
 
 Rust is in die zin antwoordruimte in de tijd. Zij is beschermde tijd waarin een verschil niet onmiddellijk tot oordeel, prestatie of ingreep hoeft te worden gemaakt. Zonder zulke onbezette tijd kan formele keuzevrijheid bestaan terwijl werkelijk antwoorden nauwelijks mogelijk is.
 
@@ -73,7 +73,7 @@ Rust kan ook verstarren wanneer niets nieuws meer binnenkomt; voortdurende nieuw
 
 Rust kan zelf onderdeel van de draagroute worden wanneer ernstige afwendbare schade bekend is, proportioneel handelen mogelijk is en verder uitstel die schade laat voortduren. Dan draagt niet-handelen mede wat had kunnen worden verminderd.
 
-Intuïtie mag daarbij het alarm slaan; zij mag niet alleen het vonnis schrijven. Ook een dringende indruk moet door feiten, tegenspraak en gevolgen kunnen worden gecorrigeerd.
+Intuïtie mag daarbij alarm slaan; zij mag niet in haar eentje het vonnis schrijven. Ook een dringende indruk moet door feiten, tegenspraak en gevolgen kunnen worden gecorrigeerd.
 
 ## Geen omgangsvorm is altijd goed
 
@@ -108,7 +108,7 @@ Soms kan de oude organisatie spanning niet meer dragen. Dan is er naast terugkee
 
 Een lichaam leert anders leven. Een relatie eindigt maar laat betekenis achter. Een organisatie verandert haar taak. Een gemeenschap verliest een vertrouwde vorm en vindt een andere manier om iets wezenlijks te dragen.
 
-Dat mag leed nooit achteraf tot noodzakelijke groeikans verheffen. Niet ieder verlies maakt wijzer en niet iedere crisis opent een betere wereld. De mogelijkheid van transformatie is geen plicht tot dankbaarheid.
+Dat mag er nooit toe leiden dat leed achteraf tot noodzakelijke groeikans wordt verheven. Niet ieder verlies maakt wijzer en niet iedere crisis opent een betere wereld. De mogelijkheid van transformatie is geen plicht tot dankbaarheid.
 
 Ook <span class="begrip" data-term="posttraumatische-groei">posttraumatische groei</span> moet daarom zorgvuldig worden gelezen: dat iemand betekenis of nieuwe richting vindt na leed, rechtvaardigt het leed niet en maakt wie vooral verlies ervaart niet minder ontwikkeld. Lijden hoeft niet als opening of groeikans te worden geduid om serieus genomen te worden.
 
