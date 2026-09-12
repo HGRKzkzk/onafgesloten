@@ -3,7 +3,6 @@ import SiteLayout from './SiteLayout.astro';
 import { chapters, chapterBySlug } from '../data/chapters';
 import GlossaryPopover from '../components/GlossaryPopover.astro';
 import UitkijkjeVisuals from '../components/UitkijkjeVisuals.astro';
-import Rustpunten from '../components/Rustpunten.astro';
 import LateUitkijkje from '../components/LateUitkijkje.astro';
 
 const { frontmatter } = Astro.props;
@@ -187,7 +186,14 @@ const hasAcademicLayer = Boolean(AcademicContent);
   </main>
 
   <UitkijkjeVisuals />
-  <Rustpunten />
+  {/*
+    Rustpunten staan tijdelijk uit. Het effect was te klein om te rechtvaardigen:
+    ze stonden vóór een h2, waar de kop zelf de onderbreking al maakt.
+    Hoe een rustpunt wél iets kan doen is een open ontwerpvraag.
+
+    Component, CSS (.rustpunt in visual-accent.css) en de ingestelde koppen
+    blijven staan. Terugzetten is deze regel en de import herstellen.
+  */}
   <GlossaryPopover />
 </SiteLayout>
 
