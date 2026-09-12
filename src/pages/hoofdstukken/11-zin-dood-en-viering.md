@@ -66,7 +66,7 @@ De concrete wederkerige verhouding tot de levende ander is beëindigd. De dode k
 
 In het oude Mesopotamische *Gilgamesj-epos* sterft Enkidu en Gilgamesj raakt ontregeld. Hij gaat op zoek naar onsterfelijkheid, maar keert terug zonder de dood te hebben overwonnen of Enkidu terug te krijgen.
 
-Dat maakt het verhaal hier scherp: verlies kan iemand veranderen en inzicht kan achteraf ontstaan, maar geen van beide maakt de dood ongedaan. Betekenis na verlies is geen groeiplicht en geen metafysische achterdeur.
+Verlies kan iemand veranderen en inzicht kan achteraf ontstaan. Geen van beide maakt de dood ongedaan.
 
 </div>
 <p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Tablet_of_the_Gilgamish_Epic_%28Obverse%29.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons / Stephen Langdon — publiek domein</a></p>

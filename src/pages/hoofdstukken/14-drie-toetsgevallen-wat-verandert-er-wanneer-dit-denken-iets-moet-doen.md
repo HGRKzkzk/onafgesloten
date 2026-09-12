@@ -42,7 +42,7 @@ Een toepassing die alleen bevestiging kan vinden, toetst niets.
 
 Paulus Potter maakte van een rund een monumentaal onderwerp, op een schaal die in zijn tijd eerder voor vorsten en historieschilderkunst was gereserveerd. Dat maakt het dier niet automatisch vrij of gekend. Maar het verschuift wel de blik: het productiedier wordt opnieuw een aanwezig lichaam in een landschap.
 
-Voor een toetsgeval is dat een goede herinnering: begin niet bij “de koe” als categorie, maar bij het concrete dier waarvoor omstandigheden werkelijk verschil maken.
+Niet “de koe” als categorie, maar dit dier.
 
 </div>
 <p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Paulus_Potter_-_The_Bull_-_136_-_Mauritshuis.jpg" target="_blank" rel="noopener noreferrer">Mauritshuis via Wikimedia Commons — publiek domein</a></p>

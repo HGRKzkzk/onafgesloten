@@ -54,7 +54,7 @@ Dat maakt verantwoordelijkheid nauwkeuriger.
 
 Delacroix schildert Vrijheid niet buiten de omstandigheden. Ze loopt door puin, tussen gewonde en dode lichamen, samen met mensen die vechten en volgen.
 
-Daarom past het beeld hier. Vrijheid verschijnt niet pas wanneer geschiedenis, lichaam en gevaar verdwijnen. Zij verschijnt in wat mensen binnen zulke omstandigheden nog kunnen doen, riskeren en weigeren.
+Vrijheid verschijnt niet pas wanneer geschiedenis, lichaam en gevaar verdwijnen. Zij verschijnt in wat mensen binnen zulke omstandigheden nog kunnen doen, riskeren en weigeren.
 
 </div>
 <p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_Liberty_Leading_the_People.jpeg">Open bron · Wikimedia Commons</a></p>

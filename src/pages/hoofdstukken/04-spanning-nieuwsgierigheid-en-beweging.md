@@ -82,7 +82,7 @@ Nieuwsgierigheid is een andere mogelijkheid: het nog-niet-gekende kan aandacht t
 </figure>
 <div class="uitkijkje__text">
 
-Alice volgt een wit konijn en eindigt in een wereld waarin vrijwel iedere normale categorie begint te schuiven. Dat is geen efficiënt onderzoeksprogramma. Het is wel een uitstekend beeld voor nieuwsgierigheid: je weet zelden vooraf welke vraag de moeite waard blijkt.
+Alice volgt een wit konijn en eindigt in een wereld waarin vrijwel iedere normale categorie begint te schuiven. Dat is geen efficiënt onderzoeksprogramma. Je weet zelden vooraf welke vraag de moeite waard blijkt.
 
 Soms begint een nieuw inzicht met iets dat volgens de bestaande planning vooral een omweg was.
 

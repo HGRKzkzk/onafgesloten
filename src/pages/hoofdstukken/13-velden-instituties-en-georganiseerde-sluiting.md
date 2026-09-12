@@ -59,7 +59,7 @@ Een bezwaarmogelijkheid die alleen werkt voor wie tijd, taal, geld, gezondheid e
 
 Daumier tekent rechters, advocaten en bestuurders achter toga’s, bureaus en stapels papier; hun houding en kleding maken de functie soms letterlijk groter dan de persoon.
 
-De grap werkt omdat hij iets institutioneels zichtbaar maakt: status en procedure kunnen zoveel gewicht krijgen dat de concrete mens en de gevolgen van een besluit uit beeld raken. De te grote hoed is dan niet alleen komisch, maar een beeld van macht die haar drager overschaduwt.
+Status en procedure kunnen zoveel gewicht krijgen dat de concrete mens en de gevolgen van een besluit uit beeld raken. De toga is dan niet alleen komisch, maar een maat waarin de drager verdwijnt.
 
 </div>
 <p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Honor%C3%A9_Daumier_-_Les_gens_de_justice.jpg" target="_blank" rel="noopener noreferrer">Wikimedia Commons — afbeelding en rechteninformatie</a></p>

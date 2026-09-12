@@ -99,8 +99,6 @@ Wie kwetsbaar is, heeft daarom niet minder recht op een grens die werkelijk gevo
 
 Dick Bruna tekent Nijntje met een paar lijnen, eenvoudige kleuren en een wereld op kleine schaal. Die eenvoud maakt haar niet minder aanwezig. Ze wil iets, schrikt, ontdekt, verliest en viert zonder eerst grootser of ingewikkelder te hoeven worden.
 
-Dat is precies het onderscheid van dit hoofdstuk: klein zijn is niet hetzelfde als kleingemaakt worden. Kwetsbaarheid, eenvoud of afhankelijkheid zijn geen redenen om een vorm minder serieus te nemen.
-
 </div>
 <p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Sculptuur_%27Nijntje%27_door_Marc_Bruna%2C_Nijntjepleintje%2C_Utrecht.jpg" target="_blank" rel="noopener noreferrer">FakirNL / Wikimedia Commons — CC BY-SA 4.0</a></p>
 </aside>
@@ -133,9 +131,9 @@ De vraag is wat de kracht probeert te beschermen en hoeveel zij daarvoor hoeft t
 </figure>
 <div class="uitkijkje__text">
 
-In Pina Bauschs *Café Müller* bewegen lichamen door een ruimte vol stoelen. Een andere speler schuift haastig stoelen uit hun baan om botsingen te voorkomen.
+In Pina Bauschs *Café Müller* bewegen lichamen door een ruimte vol stoelen. Een andere speler schuift haastig stoelen uit de weg om botsingen te voorkomen.
 
-Dat maakt zorg hier heel concreet. Helpen hoeft niet te betekenen dat je de beweging van de ander overneemt. Soms verander je de omgeving zodat iemand zelf verder kan bewegen. En soms lukt dat niet op tijd: zorg neemt kwetsbaarheid niet weg.
+Helpen hoeft niet te betekenen dat je de beweging van de ander overneemt. Soms verander je de omgeving zodat iemand zelf verder kan bewegen. En soms lukt dat niet op tijd: zorg neemt kwetsbaarheid niet weg.
 
 </div>
 <p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:Recueil._Photographies._Portraits_de_Pina_Bausch._Festival_d%27Avignon._1981_-_btv1b10607955f_%2810_of_11%29.jpg" target="_blank" rel="noopener noreferrer">Fernand Michaud / BnF via Wikimedia Commons — publiek domein</a></p>

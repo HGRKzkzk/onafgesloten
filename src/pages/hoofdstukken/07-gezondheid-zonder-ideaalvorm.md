@@ -26,7 +26,7 @@ Gezondheid wordt dan een vraag naar verhouding:
 </figure>
 <div class="uitkijkje__text">
 
-Leonardo’s Vitruviusman is een schitterend schema van verhouding en juist daardoor een aardig waarschuwingsbord. Niemand leeft werkelijk als diagram. Het lichaam zweet, veroudert, is asymmetrisch, wordt ziek, herstelt gedeeltelijk en weigert geregeld de maatvoering.
+Leonardo’s Vitruviusman is een schitterend schema van verhouding en juist daardoor een waarschuwing. Niemand leeft werkelijk als diagram. Het lichaam zweet, veroudert, is asymmetrisch, wordt ziek, herstelt gedeeltelijk en weigert geregeld de maatvoering.
 
 Een ideaal kan helpen kijken. Het wordt gevaarlijk wanneer het levende lichaam vervolgens als slechte uitvoering van het schema verschijnt.
 

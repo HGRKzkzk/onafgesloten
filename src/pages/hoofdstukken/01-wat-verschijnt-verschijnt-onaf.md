@@ -72,8 +72,7 @@ We zijn werkelijk iemand, maar niet uitsluitend uit onszelf.
   </p>
 
   <p>
-    Dat maakt de storm niet minder werkelijk. Het laat juist zien dat een vorm onderscheiden kan zijn zonder
-    los te staan van het veld dat haar draagt.
+    Dat maakt de storm niet minder werkelijk.
   </p>
 
   <p class="uitkijkje__source">
@@ -131,7 +130,7 @@ Daarom kunnen we vorm voorlopig omschrijven als **gedragen verschil**: er moet v
   <h3 class="uitkijkje__title">Kermit heeft ook geen sluitend systeem</h3>
 
   <p>
-    <em>The Muppet Show</em> draait merkwaardig genoeg op een organisatie waarin de voorstelling bijna
+    <em>The Muppet Show</em> draait op een organisatie waarin de voorstelling bijna
     voortdurend uit elkaar dreigt te vallen. Kermit probeert iets van samenhang te bewaren terwijl om hem heen
     personages met zeer verschillende temperamenten, verlangens en plannen hun eigen gang gaan.
   </p>
@@ -185,8 +184,7 @@ Voortbestaan vertelt ons dat een vorm op de een of andere manier wordt gedragen.
   </p>
 
   <p>
-    Het beeld houdt één verschil scherp: dat een vorm blijft staan, zegt op zichzelf weinig over de processen
-    die haar droegen. Herkenbare stabiliteit is nog geen teken van gezondheid.
+    Dat een vorm blijft staan, zegt weinig over de processen die haar droegen.
   </p>
 
   <p class="uitkijkje__source">
