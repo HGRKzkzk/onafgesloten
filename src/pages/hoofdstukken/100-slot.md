@@ -34,7 +34,7 @@ Een slot hoeft niet te doen alsof alle vragen zijn opgelost. Maar een lange inve
 
 **Eigen bijdrage.** Onafgesloten Vorm moet kunnen blijven verliezen van preciezere bestaande begrippen. Waar autonomie, welzijn, systeemtheorie, recht, ethologie of een andere discipline hetzelfde beter beschrijft, hoeft projecttaal niet te winnen. Ook gesprekken met andere filosofische en culturele tradities moeten het vocabulaire kunnen veranderen in plaats van alleen achteraf als bevestiging te dienen.
 
-Dit zijn geen twintig losse onderzoeksopdrachten die nog moeten worden afgevinkt. Ze markeren de plaatsen waar deze tekst bewust niet verder sluit.
+Dit zijn geen losse onderzoeksopdrachten die nog moeten worden afgevinkt. Ze markeren de plaatsen waar deze tekst bewust niet verder sluit.
 
 ---
 

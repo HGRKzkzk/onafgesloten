@@ -138,7 +138,7 @@ Juist daar wordt empirische kennis onmisbaar. Ethologie, diergeneeskunde, gedrag
 
 ## De binnenkant van de ander
 
-Ik heb directe toegang tot mijn eigen ervaring op een manier waarop ik die niet tot jouw ervaring heb, laat staan tot die van een dier. Zelfs bij andere mensen werken we via gedrag, taal, context, lichaam en interpretatie. Toch leven we voortdurend alsof andere binnenkanten werkelijk zijn: die asymmetrie is structureel: de ander kan zich tonen zonder ooit volledig beschikbaar te worden.
+Ik heb directe toegang tot mijn eigen ervaring op een manier waarop ik die niet tot jouw ervaring heb, laat staan tot die van een dier. Zelfs bij andere mensen werken we via gedrag, taal, context, lichaam en interpretatie. Toch leven we voortdurend alsof andere binnenkanten werkelijk zijn. Die asymmetrie is structureel: de ander kan zich tonen zonder ooit volledig beschikbaar te worden.
 
 Dat vraagt ernst zonder bezit. Neem de mogelijke binnenkant van de ander serieus, ook waar je haar niet van binnenuit kunt verifiëren, en houd tegelijk ruimte voor de mogelijkheid dat je interpretatie ervan niet klopt.
 
