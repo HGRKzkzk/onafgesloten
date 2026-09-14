@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/ChapterLayout.astro
 order: 99
-title: "De kern in vierentwintig zinnen"
+title: "De kern in vijfentwintig zinnen"
 slug: "99-kern-in-twintig-zinnen"
 status: "appendix"
 source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
