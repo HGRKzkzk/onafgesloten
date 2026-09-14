@@ -12,6 +12,10 @@ De nadruk op onafhankelijke derden sluit aan bij bredere tradities van checks an
 
 Ook Elinor Ostroms werk over polycentrische ordening is een relevante buur. Meerdere deels overlappende beslis- en correctiecentra kunnen voorkomen dat één actor alle informatie en bevoegdheid monopoliseert. Dat is niet hetzelfde als de projectnotie van pluraliteit, maar het biedt empirisch en institutioneel tegenwicht tegen de veronderstelling dat samenhang altijd één centrum vereist.
 
+De nieuwe formulering **pluraliteit zonder harmonie-eis** raakt daarnaast aan theorieën van waardepluralisme, vooral bij Isaiah Berlin. Daarin kunnen werkelijke waarden onderling botsen zonder dat er altijd één hogere maat beschikbaar is die het conflict volledig oplost. Dat biedt een belangrijke buur voor de gedachte dat een legitieme ordening niet ieder verlies kan vermijden en dat politiek soms keuzes tussen werkelijk waardevolle, maar onverenigbare mogelijkheden moet dragen.
+
+Een andere relevante discussie gaat over **partijdigheid en bijzondere verplichtingen**. Veel moraaltheorie erkent dat ouders, vrienden, leden van gemeenschappen en andere betrokkenen soms redenen hebben om niet volledig onpartijdig te handelen. Zulke partijdigheid is echter omstreden zodra zij buitensporige lasten bij buitenstaanders neerlegt. Voor dit hoofdstuk is vooral dat spanningsveld relevant: zelf- of gemeenschapsvoorkeur hoeft niet antagonistisch te zijn, maar zij legitimeert niet automatisch de kosten die anderen daardoor moeten dragen.
+
 ## Empirische bedding
 
 Organisaties werken onvermijdelijk met classificaties, routines, indicatoren en standaardprocedures. Zulke reducties zijn niet op zichzelf een fout: zonder standaardisering zijn veel publieke en private systemen niet uitvoerbaar. Tegelijk laat onderzoek naar uitvoering zien dat regels en metrics plaatselijk moeten worden geïnterpreteerd en dat de feitelijke gevolgen sterk afhangen van werkdruk, discretionaire ruimte, informatie en institutionele prikkels.
@@ -23,6 +27,8 @@ Onderzoek naar organisatorische veiligheid en zogenoemde *high reliability organ
 De aanwezigheid van bezwaar, klacht of inspraak is bovendien geen volledige maat voor feitelijke toegankelijkheid. Procedurele routes hebben gebruikskosten: tijd, kennis, taal, emotionele belasting en soms financieel risico. Dat maakt het analytisch zinvol om naast de formele mogelijkheid tot correctie ook te vragen wie de kosten van die correctie draagt.
 
 Onderzoek naar boundary spanning en change intermediaries ondersteunt daarnaast een beperkte empirische claim: verbinding tussen niveaus gebeurt niet vanzelf. Personen die informatie, betekenis of uitvoering tussen eenheden vertalen kunnen een systeem juist laten functioneren doordat zij discrepanties lokaal opvangen. Dat onderzoek bewijst niet dat zo'n tussenpositie noodzakelijk uitput of dat de oorzaak altijd hoger in de organisatie ligt. Het maakt wel aannemelijk dat vertaalarbeid als afzonderlijke organisatorische functie zichtbaar moet worden gemaakt in plaats van als persoonlijk talent of informele bereidheid te verdwijnen.
+
+De nieuwe pluraliteitslijn is minder rechtstreeks empirisch. Dat gemeenschappen, gezinnen, verenigingen of staten feitelijk partijdig handelen is eenvoudig vast te stellen; daaruit volgt nog niet wanneer zulke partijdigheid gerechtvaardigd is. De academische laag moet hier dus juist terughoudend blijven: zij kan literatuur over value pluralism, special obligations en associatieve verplichtingen als vergelijkingsmateriaal gebruiken, maar niet presenteren alsof daaruit één institutionele regel volgt.
 
 ## Tegenlicht
 
@@ -40,9 +46,13 @@ Een zesde bezwaar treft de **diagnostische schaalverschuiving**. Als een lokale 
 
 Een zevende bezwaar raakt de **vooronderstelling dat macht vooral bezit is**. Foucauldiaans geïnspireerde kritiek zou tegenwerpen dat sluitingsmacht, antwoordruimte en corrigeerbaarheid zelf al binnen een machtsregime worden gedacht: wat telt als een levensvatbaar antwoord, wie geldt als voldoende onafhankelijk om te toetsen en wanneer een systeem corrigeerbaar genoeg is, zijn dan geen neutrale vaststellingen maar uitkomsten van dezelfde machtsverhoudingen die beoordeeld moeten worden. Instituties die zichzelf het meest als open, lerend of corrigeerbaar presenteren, kunnen in deze lezing juist de indringendste vormen van macht uitoefenen, precies omdat zij weerstand overbodig lijken te maken. Dit bezwaar is niet op te lossen door nog een onafhankelijke derde toe te voegen, want ook die derde zou binnen hetzelfde regime opereren. Onafgesloten Vorm erkent dat zijn eigen begrippenkader dan zelf onderdeel is van een machtsverhouding, geen uitzicht daarbuiten. De keuze voor een juridisch-institutioneel machtsbegrip, met concrete rollen, bevoegdheden en toetsingsroutes, wordt daarom niet verdedigd als metafysisch neutraal, maar als praktisch: zij maakt tenminste een deel van machtsuitoefening aanspreekbaar en veranderbaar, ook wanneer nooit kan worden gegarandeerd dat het beoordelingskader zelf buiten iedere machtsverhouding staat.
 
+Een achtste bezwaar raakt nu de **partijdigheid zelf**. De erkenning dat een persoon of gemeenschap zichzelf mede mag verkiezen kan gemakkelijk worden misbruikt om nepotisme, nationalisme, uitsluiting of structurele bevoordeling te rechtvaardigen. De hoofdtekst probeert dat te begrenzen door te vragen of de eigen voortzetting de voorwaarden opgebruikt waaronder andere vormen nog kunnen bestaan, vertrekken, zich organiseren of antwoorden. Maar dat criterium blijft contextgevoelig en levert geen mechanische grens op. Juist daarom moet de tekst niet suggereren dat “gemeenschapsbelang” op zichzelf al rechtvaardiging is.
+
+Een negende bezwaar treft het idee van pluraliteit zonder harmonie-eis vanuit de andere richting. Als conflict en verlies te gemakkelijk als onvermijdelijk worden aanvaard, kan bestaande machtsongelijkheid zich vermommen als tragiek. Niet ieder compromis is het beste dat mogelijk was; soms lijkt een conflict onoplosbaar omdat één partij de alternatieven al sterk heeft vernauwd. De erkenning van tragisch verlies ontslaat daarom niet van de voorafgaande veldvraag wie welke mogelijkheden kon openen, sluiten of überhaupt op de agenda zetten.
+
 ## Eigen stap
 
-De eigen stap van dit hoofdstuk ligt in de combinatie van vijf onderscheidingen.
+De eigen stap van dit hoofdstuk ligt in de combinatie van zes onderscheidingen.
 
 Ten eerste wordt institutionele kwaliteit niet primair opgevat als maximale openheid, maar als **passende sluiting onder correctiedruk**. Regels, categorieën en besluiten zijn noodzakelijk. Het criterium is of hun noodzaak, omvang en gevolgen toetsbaar blijven en of zij niet meer toekomst bezetten dan waarvoor zij gerechtvaardigd zijn.
 
@@ -54,7 +64,11 @@ Ten vierde wordt de **tussenpositie zonder voldoende bevoegdheid** zichtbaar gem
 
 Ten vijfde wordt **interventieschaal onderscheiden van diagnoseschaal**. De escalatielogica actor → relatie → onafhankelijke derde → instituut gaat over hoeveel en welke interventiemacht wordt ingezet. Diagnostische schaalverschuiving gaat over waar de hypothese over het probleem moet worden gelegd. Als een lokale aanpak telkens faalt onder gelijkblijvende hogere voorwaarden, is dat reden om de diagnose te verbreden. Het is geen automatische reden om individuele factoren weg te schrijven.
 
-Deze twee bewegingen kunnen uiteenlopen. Een lokale en weinig ingrijpende interventie kan passend zijn terwijl de primaire diagnose structureel is. Omgekeerd kan institutionele bescherming nodig zijn bij een probleem dat grotendeels lokaal ontstaat wanneer lichtere bescherming onvoldoende beschikbaar is.
+Ten zesde wordt **pluraliteit losgemaakt van harmonie**. Wederkerigheid betekent niet dat actoren uiteindelijk dezelfde belangen moeten hebben of hun eigen bindingen moeten neutraliseren. Personen en gemeenschappen kunnen bijzondere redenen hebben om iets van zichzelf, hun relaties of hun geschiedenis te bewaren. De normatieve grens ligt niet bij het bestaan van partijdigheid, maar bij de wijze waarop die partijdigheid de levensvatbaarheid en correctiemogelijkheden van anderen raakt. Daarmee blijft werkelijk conflict mogelijk zonder dat iedere overwinning automatisch antagonistische sluiting heet.
+
+Deze beweging is verwant aan value pluralism, maar niet identiek eraan. OOV hoeft niet te beweren dat waarden principieel onvergelijkbaar zijn. De bescheidener claim is dat concrete waarden, belangen en manieren van leven soms niet zonder verlies tegelijk gerealiseerd kunnen worden, en dat een politieke theorie dat verlies niet moet wegdefiniëren als communicatief tekort.
+
+Deze bewegingen kunnen uiteenlopen. Een lokale en weinig ingrijpende interventie kan passend zijn terwijl de primaire diagnose structureel is. Omgekeerd kan institutionele bescherming nodig zijn bij een probleem dat grotendeels lokaal ontstaat wanneer lichtere bescherming onvoldoende beschikbaar is.
 
 De institutionele escalatielogica is geen vaste procesvolgorde en kan bij acute schade worden overgeslagen. Haar functie is de bewijslast om te keren: meer ingrijpende sluitingsmacht vraagt meer reden, niet minder.
 
@@ -74,5 +88,10 @@ De doctrine van corrigeerbare macht blijft tenslotte een normatieve keuze. Zij v
 - Karl E. Weick & Kathleen M. Sutcliffe, *Managing the Unexpected* (2001; latere edities).
 - James C. Scott, *Seeing Like a State* (1998).
 - Iris Marion Young, *Responsibility for Justice* (2011).
+- Isaiah Berlin, “The Pursuit of the Ideal” (1988), later opgenomen in *The Crooked Timber of Humanity*.
+- [Stanford Encyclopedia of Philosophy — Value Pluralism](https://plato.stanford.edu/entries/value-pluralism/).
+- [Stanford Encyclopedia of Philosophy — Isaiah Berlin](https://plato.stanford.edu/entries/berlin/).
+- [Stanford Encyclopedia of Philosophy — Impartiality](https://plato.stanford.edu/entries/impartiality/).
+- [Stanford Encyclopedia of Philosophy — Special Obligations](https://plato.stanford.edu/entries/special-obligations/).
 - Michael L. Tushman & Thomas J. Scanlan, “Boundary Spanning Individuals: Their Role in Information Transfer and Their Antecedents” (1981), *Academy of Management Journal* 24(2): 289–305.
 - Julia Balogun, “From Blaming the Middle to Harnessing its Potential: Creating Change Intermediaries” (2003), *British Journal of Management* 14(1): 69–83.
