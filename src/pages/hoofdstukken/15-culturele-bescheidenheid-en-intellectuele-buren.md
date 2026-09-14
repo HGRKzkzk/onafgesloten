@@ -120,7 +120,7 @@ Andere relaties blijven kaarten van gesprekken die niet allemaal even ver zijn u
 - Merleau-Ponty en enactivisme: belichaamde en levende verhouding tot omgeving;
 - Bateson en systeemdenken: verschil, patroon en terugkoppeling;
 - Spinoza: immanentie en bepaaldheid;
-- pragmatisme: de relatie is inmiddels gedeeltelijk uitgewerkt via Dewey in de academische verdieping bij hoofdstuk 6; het bredere gesprek blijft open;
+- pragmatisme: begrippen moeten zich in gevolgen bewijzen; de verwantschap met Dewey is uitgewerkt in de academische verdieping bij hoofdstuk 6, het bredere gesprek blijft open;
 - kritische en feministische theorie: macht, positionaliteit en afhankelijkheid;
 - boeddhistische afhankelijkheidsanalyses: mogelijke resonantie rond niet-zelfstandigheid en wording, binnen eigen soteriologische en karmische kaders;
 - Africana en Ubuntu-gerelateerde filosofieën: mogelijke resonantie rond relationele persoonsvorming, zonder van “Ubuntu” één Afrikaanse ontologie te maken.
