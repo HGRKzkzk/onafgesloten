@@ -108,7 +108,7 @@ lastSyncCheck: "2026-09-15"
 
 <!-- laag: normatief -->
 20. **Pluraliteit vraagt geen absolute harmonie.**  
-    Personen en gemeenschappen mogen zichzelf mede verkiezen, zolang hun voortzetting niet zonder voldoende rechtvaardiging de voorwaarden opgebruikt waaronder anderen nog als andere vorm kunnen bestaan en antwoorden.
+    Personen en gemeenschappen mogen zichzelf mede verkiezen; de grens ligt waar die voorkeur de voorwaarden opgebruikt waaronder anderen nog kunnen bestaan, vertrekken, zich organiseren of antwoorden.
 
 <!-- laag: normatief -->
 21. **Vorming mag richting geven zonder bestemming op te leggen.**  
