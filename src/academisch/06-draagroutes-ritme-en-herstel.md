@@ -12,6 +12,10 @@ De nieuwe nadruk op handelen onder onzekerheid raakt daarnaast aan pragmatische 
 
 Ook de discussie over **moreel geluk** is relevant. Bernard Williams en Thomas Nagel maakten scherp zichtbaar dat de morele beoordeling van handelen mede kan afhangen van omstandigheden en gevolgen die niet volledig onder controle van de actor stonden. Dat ondersteunt geen eenvoudige regel voor verantwoordelijkheid achteraf, maar wel de gedachte dat voorzienbaarheid, feitelijke uitkomst en latere kennis uit elkaar moeten worden gehouden. Niet alles wat verkeerd afloopt was vooraf verwijtbaar; omgekeerd kan nieuwe kennis wel nieuwe verantwoordelijkheid openen.
 
+De scherpste buur voor de nieuwe risicolijn is Hans Jonas. In *Das Prinzip Verantwortung* verbindt hij de sterk toegenomen reikwijdte van moderne technologie aan een zwaardere verantwoordelijkheid voor verre en mogelijk onomkeerbare gevolgen, juist waar toekomstige geraakten niet kunnen terugspreken. Dat raakt direct aan de asymmetrie in dit hoofdstuk: naarmate een ingreep moeilijker herstelbaar is en anderen de gevolgen moeten leven, stijgt de rechtvaardigingslast vóór de ingreep.
+
+Ook de formulering *handel zo dat...* staat daardoor niet buiten een filosofische genealogie. Zij echoot de imperatiefvorm van Kant en, inhoudelijk nog directer, Jonas’ herformulering daarvan voor handelen met verre toekomstige gevolgen. Onafgesloten Vorm neemt Jonas’ imperatief echter niet over. De eigen vraag blijft of later leren nog verschil kan maken, wie het risico draagt en wat niet-handelen ondertussen afsluit.
+
 Deze verwantschappen ondersteunen delen van het hoofdstuk, maar geen ervan levert het volledige begrippenpaar *draagroute–ritme–herstel* of de temporele lijn van voorzien, handelen, gevolg en herziening kant-en-klaar aan.
 
 ## Empirische bedding
@@ -38,13 +42,15 @@ Een tweede bezwaar betreft ritme. Vertragen, wachten en beschermen kunnen belang
 
 Daarom kan *passend ritme* niet betekenen dat de machtigste actor het tempo van de ander definieert. De mogelijkheid tot vertraging moet zelf corrigeerbaar blijven, en waar ernstige afwendbare schade voortduurt kan wachten medeverantwoordelijkheid worden.
 
-De nieuwe nadruk op handelen onder onzekerheid kent de spiegelbeeldige verleiding: *we konden het niet weten* kan achteraf een te gemakkelijke ontsnapping worden. Onvoorzienbaarheid beperkt soms verwijtbaarheid, maar mag niet automatisch de vraag beëindigen wat een actor doet zodra de gevolgen wél zichtbaar worden. Anders wordt epistemische onzekerheid een vrijbrief voor institutionele stilstand.
+Een derde bezwaar betreft verantwoordelijkheid achteraf en werkt in twee richtingen. De nieuwe nadruk op handelen onder onzekerheid kent de verleiding: *we konden het niet weten* kan achteraf een te gemakkelijke ontsnapping worden. Onvoorzienbaarheid beperkt soms verwijtbaarheid, maar mag niet automatisch de vraag beëindigen wat een actor doet zodra de gevolgen wél zichtbaar worden. Anders wordt epistemische onzekerheid een vrijbrief voor institutionele stilstand.
 
-Het omgekeerde gevaar is retrospectieve almacht. Zodra schade zichtbaar is, lijkt het achteraf vaak alsof zij vooraf voorzien had moeten worden. Dat miskent werkelijke onzekerheid en maakt ieder slecht gevolg tot bewijs van eerdere nalatigheid. De temporaliteitslijn moet daarom twee vragen uit elkaar houden: wat was op het moment van handelen redelijkerwijs voorzienbaar, en wat vraagt het nieuwe weten vanaf nu?
+Het spiegelbeeld is retrospectieve almacht. Zodra schade zichtbaar is, lijkt het achteraf vaak alsof zij vooraf voorzien had moeten worden. Dat miskent werkelijke onzekerheid en maakt ieder slecht gevolg tot bewijs van eerdere nalatigheid. De temporaliteitslijn moet daarom twee vragen uit elkaar houden: wat was op het moment van handelen redelijkerwijs voorzienbaar, en wat vraagt het nieuwe weten vanaf nu?
 
-Een vierde bezwaar betreft experiment. Herstelbaarheid kan niet betekenen dat alles wat technisch teruggedraaid kan worden daarom moreel licht is. Een procedure kan worden teruggedraaid terwijl schaamte, vertrouwensverlies of gemiste kansen blijven bestaan. De relevante vraag is dus niet alleen of het systeem kan terugrollen, maar wat voor de betrokken vormen feitelijk herstelbaar is en wie bepaalt dat.
+Een vierde bezwaar is dat deze positie weinig meer lijkt dan **het voorzorgsbeginsel met andere woorden**. Jonas maakt die verdenking scherper: wanneer verre, mogelijk onomkeerbare gevolgen moreel zwaarder gaan wegen, ligt een systematische voorkeur voor voorzichtigheid voor de hand. Dat is niet wat hier wordt beweerd. Onzekerheid over ernstige schade kan een zware reden zijn om te vertragen of af te zien, maar uitstel en niet-handelen hebben zelf gevolgen. Bovendien kan experiment verantwoord zijn wanneer gevolgen voldoende begrensd en herstelbaar zijn. De positie is daarom niet: bij onzekerheid heeft voorkomen voorrang. Zij is: de rechtvaardigingslast stijgt met de combinatie van mogelijke ernst, onomkeerbaarheid, asymmetrisch gedragen gevolgen en geringe latere corrigeerbaarheid. Jonas maakt vooral zichtbaar waarom die combinatie niet als gewone onzekerheid behandeld kan worden; zijn sterkere voorkeur voor het vermijden van catastrofale toekomstschade wordt niet zonder meer overgenomen.
 
-Een vijfde bezwaar treft het herstelbegrip. Wanneer herstel met een nieuw overkoepelend vermogen wordt gedefinieerd, bestaat het risico dat bijna elke uitkomst als herstel kan worden beschreven. Dan wordt het begrip moeilijk weerlegbaar.
+Een vijfde bezwaar betreft experiment. Herstelbaarheid kan niet betekenen dat alles wat technisch teruggedraaid kan worden daarom moreel licht is. Een procedure kan worden teruggedraaid terwijl schaamte, vertrouwensverlies of gemiste kansen blijven bestaan. De relevante vraag is dus niet alleen of het systeem kan terugrollen, maar wat voor de betrokken vormen feitelijk herstelbaar is en wie bepaalt dat.
+
+Een zesde bezwaar treft het herstelbegrip. Wanneer herstel met een nieuw overkoepelend vermogen wordt gedefinieerd, bestaat het risico dat bijna elke uitkomst als herstel kan worden beschreven. Dan wordt het begrip moeilijk weerlegbaar.
 
 Daarom moet herstel domeinspecifiek getoetst kunnen worden. Bij een mens kan dat onder meer gaan om ervaren veiligheid, autonomie, relaties en functioneren; bij een ecosysteem om concrete ecologische indicatoren; bij een instituut om foutcorrectie, toegankelijkheid en werkelijk veranderde werkwijzen. Het filosofische begrip vervangt zulke maatstaven niet.
 
@@ -90,9 +96,11 @@ De temporele aanvulling doet iets anders. Zij maakt verantwoordelijkheid niet af
 - Judith Herman, *Trauma and Recovery* (1992).
 - Richard G. Tedeschi & Lawrence G. Calhoun, “Posttraumatic Growth: Conceptual Foundations and Empirical Evidence” (2004), *Psychological Inquiry*.
 - Eranda Jayawickreme & Laura E. R. Blackie, kritische literatuur over de meting en interpretatie van posttraumatische groei.
-- John Dewey, *The Quest for Certainty* (1929) en werk over inquiry en experimentalism.
+- John Dewey, *The Quest for Certainty* (1929) en *Logic: The Theory of Inquiry* (1938).
 - Bernard Williams, “Moral Luck” (1976; herdrukt in *Moral Luck*, 1981).
-- Thomas Nagel, “Moral Luck” (1979), in *Mortal Questions*.
+- Thomas Nagel, “Moral Luck” (1976; herdrukt in *Mortal Questions*, 1979).
+- Hans Jonas, *Das Prinzip Verantwortung: Versuch einer Ethik für die technologische Zivilisation* (1979); Engelse vertaling *The Imperative of Responsibility* (1984).
 - [Stanford Encyclopedia of Philosophy — Moral Luck](https://plato.stanford.edu/entries/moral-luck/).
-- [Stanford Encyclopedia of Philosophy — Dewey’s Political Philosophy](https://plato.stanford.edu/entries/dewey-political/).
+- [Stanford Encyclopedia of Philosophy — John Dewey](https://plato.stanford.edu/entries/dewey/).
+- [Stanford Encyclopedia of Philosophy — Philosophy of Technology](https://plato.stanford.edu/entries/technology/).
 - [Stanford Encyclopedia of Philosophy — Collective Responsibility](https://plato.stanford.edu/entries/collective-responsibility/).
