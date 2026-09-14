@@ -1,12 +1,8 @@
 import { glossary } from './glossary';
 
-// Een begrip dat uit de begrippenlijst verdwijnt laat zijn markeringen in de
-// tekst achter. De lezer ziet dan nog een aanklikbaar woord dat niets opent.
-// Dat is bij het schrappen van 'restlast' gebeurd, en in de browser merken we
-// het pas wanneer iemand klikt. Deze controle draait bij het bouwen.
-//
-// De module wordt één keer uitgevoerd, ook wanneer de popover op iedere pagina
-// staat; daarom staat de controle hier en niet in het component zelf.
+// Een begrip dat uit de begrippenlijst verdwijnt kan markeringen in de tekst
+// achterlaten. De lezer ziet dan nog een aanklikbaar woord dat niets opent.
+// Deze controle maakt zo'n mismatch tijdens het bouwen zichtbaar én blokkerend.
 
 const teksten = {
   ...import.meta.glob('../pages/hoofdstukken/*.md', {
@@ -31,8 +27,12 @@ for (const [pad, bron] of Object.entries(teksten)) {
   }
 }
 
-for (const [term, paden] of zonderDefinitie) {
-  console.warn(
-    `[Onafgesloten] Begrip gemarkeerd zonder definitie in de begrippenlijst: '${term}' (${[...paden].join(', ')})`
+if (zonderDefinitie.size > 0) {
+  const meldingen = [...zonderDefinitie.entries()]
+    .map(([term, paden]) => `'${term}' (${[...paden].join(', ')})`)
+    .join('; ');
+
+  throw new Error(
+    `[Onafgesloten] Begrip gemarkeerd zonder definitie in de begrippenlijst: ${meldingen}`
   );
 }
