@@ -36,7 +36,7 @@ De eigen stap ligt in de combinatie van vier onderscheiden niveaus.
 
 **Eén: variatie.** Verschil van het gemiddelde zegt op zichzelf weinig over gezondheid.
 
-**Twee: draagstructuur.** De vraag is niet alleen wat zichtbaar functioneert, maar welke <span class="begrip" data-term="draagroute">draagroute</span> en <span class="begrip" data-term="restlast">restlast</span> dat functioneren mogelijk maken.
+**Twee: draagstructuur.** De vraag is niet alleen wat zichtbaar functioneert, maar welke <span class="begrip" data-term="draagroute">draagroute</span> dat functioneren mogelijk maakt en wat daarbij onopgelost bij anderen terechtkomt.
 
 **Drie: vormvermogen.** Gezondheid wordt niet gelijkgesteld aan prestatie, maar aan voldoende vermogen om te voelen, begrenzen, integreren en na verandering opnieuw een leefbare ordening te vinden.
 

@@ -68,7 +68,7 @@ De projectinterne stap blijft beperkt: hoe minder directe correctie mogelijk is,
 
 Viering lijkt normatief lichter dan rouw, maar ook feesten verdelen macht, aandacht en erkenning. Nationale herdenkingen, jubilea en overwinningen kunnen voor verschillende groepen een tegengestelde betekenis hebben. Een collectief feest is dus niet automatisch wederkerig omdat het gedeeld wordt genoemd.
 
-Ook viering blijft onder correctie staan door degenen die de restlast ervan dragen. De toevoeging in de hoofdtekst dat een herdenking tegelijk zichtbaar en onzichtbaar kan maken, trekt die institutionele dimensie naar voren zonder van het hoofdstuk een geheugenpolitiek hoofdstuk te maken.
+Ook viering blijft onder correctie staan door degenen wier verlies zij onbenoemd laat. De toevoeging in de hoofdtekst dat een herdenking tegelijk zichtbaar en onzichtbaar kan maken, trekt die institutionele dimensie naar voren zonder van het hoofdstuk een geheugenpolitiek hoofdstuk te maken.
 
 ## Eigen stap
 
