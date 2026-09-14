@@ -13,7 +13,7 @@ divergence:
   status: "substantieel-herwerkt"
   note: "Publieke uitbreiding met scherpere uitwerking van draagkracht, antwoordruimte, paternalistische interventie, temporaliteit, asymmetrie, opgeëiste openheid, vrijwillig dragen en passende sluiting."
 
-lastSyncCheck: "2026-09-11"
+lastSyncCheck: "2026-09-15"
 ---
 Een vorm die alles binnenlaat, houdt op een vorm te zijn. Een zenuwstelsel kan niet ieder signaal even zwaar wegen. Een gesprek kan niet alle zijwegen volgen. Een mens kan niet iedere aanspraak tegelijk dragen. Een samenleving kan niet iedere mogelijkheid permanent openhouden.
 
@@ -147,7 +147,7 @@ Daarom volgt na uitzonderlijk dragen opnieuw de veldvraag: waarom moest één ac
 
 Bij sluitingsmacht verschuift de vraag. Dan gaat het om wat iemands handelen of nalaten voor anderen kan afsluiten. Zulke macht kan een zwaardere verantwoordingsplicht meebrengen.
 
-Dit geldt des te sterker wanneer dezelfde persoon, groep of levensvorm al langer de restlast opvangt. Een losse belasting kan herstelbaar lijken terwijl de geschiedenis ervan iets anders vertelt. De tiende extra taak is niet dezelfde taak als de eerste. Een nieuwe waarschuwing is niet neutraal wanneer eerdere waarschuwingen nooit gevolg kregen.
+Dit geldt des te sterker wanneer dezelfde persoon, groep of levensvorm al langer opvangt wat een ordening niet oplost. Een losse belasting kan herstelbaar lijken terwijl de geschiedenis ervan iets anders vertelt. De tiende extra taak is niet dezelfde taak als de eerste. Een nieuwe waarschuwing is niet neutraal wanneer eerdere waarschuwingen nooit gevolg kregen.
 
 Draagkracht heeft dus geheugen.
 
