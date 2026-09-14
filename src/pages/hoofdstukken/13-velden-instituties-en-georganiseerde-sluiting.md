@@ -131,61 +131,31 @@ Dat voorkomt twee gemakkelijke fouten. Niet ieder lokaal zichtbaar probleem is e
 
 <span class="begrip" data-term="wederkerigheid">Wederkerigheid</span> veronderstelt geen vooraf bestaand vertrouwen. Twee actoren kunnen allebei bereid zijn het antwoord van de ander serieus te nemen en elkaar toch te weinig vertrouwen om zich als eerste vergaand kwetsbaar te maken.
 
-Dan kan een wederkerigheidsval ontstaan: ieder reageert lokaal begrijpelijk op verwacht gevaar en produceert daarmee voor de ander juist nieuw bewijs dat wantrouwen nodig is.
+Dan kan een wederkerigheidsval ontstaan: ieder wacht op het eerste bewijs van de ander.
 
-De uitweg kan klein beginnen: beperkte risico's, verificatie, vooraf bekende terugvalopties, gedeelde informatie en onafhankelijke derden. Vertrouwen kan groeien uit herhaalde uitwisselingen waarin die ruimte niet werd misbruikt.
-
-Wederzijds wantrouwen maakt verantwoordelijkheid echter niet gelijk. Wanneer de ene actor veel meer vermogen heeft om toegang, inkomen, veiligheid, vrijheid of toekomst van de ander te bepalen, rust op die actor een zwaardere plicht om een veilige en controleerbare correctieroute mogelijk te maken. De burger hoeft niet eerst hetzelfde risico te nemen als de staat. Het kind hoeft de ouder niet even goed te kunnen corrigeren als andersom. Het slachtoffer hoeft de veroorzaker niet dezelfde toegang tot dialoog te geven die de veroorzaker zelf verlangt.
-
-Wederkerigheid vraagt dat macht corrigeerbaar blijft waar zij de ander raakt, ook wanneer de macht zelf ongelijk verdeeld is.
-
-Soms vereist bescherming tijdelijk minder wederkerigheid in direct contact. Een onafhankelijke derde kan dan informatie, grenzen en correctie dragen zonder de zwakkere partij te dwingen tot onmiddellijke relationele heropening.
+In zulke situaties kan een derde, regel of procedure tijdelijk de asymmetrie dragen. Dat is geen vervanging van wederkerigheid, maar soms een voorwaarde om haar weer mogelijk te maken.
 
 ## Wanneer er geen schurk is
 
-Schadelijke verhoudingen hebben niet altijd een actor nodig die kwaad wil. Een organisatie kan mensen uitputten terwijl iedere medewerker lokaal redelijk handelt; twee groepen kunnen elkaar bedreigen terwijl beide vooral op ervaren gevaar reageren; zorg kan verstikken zonder dat de verzorger wil overheersen.
+Niet ieder schadelijk patroon heeft één actor die het geheel heeft gewild. Een systeem kan uit opeenvolgende redelijke beslissingen ontstaan en toch structureel schadelijke gevolgen hebben.
 
-Het ontbreken van een schurk maakt schade niet minder werkelijk.
+Daarom vallen schuld, verantwoordelijkheid en sluitingsmacht niet samen.
 
-Schuld, verantwoordelijkheid en sluitingsmacht moeten uit elkaar kunnen blijven.
+**Schuld** vraagt wie verwijtbaar verkeerd handelde. **Verantwoordelijkheid** vraagt wie nu redelijkerwijs iets kan of moet doen. **Sluitingsmacht** vraagt wie feitelijk de mogelijkheid heeft de schadelijke verhouding te veranderen, voort te zetten of te verplaatsen.
 
-Schuld vraagt wie verwijtbaar verkeerd handelde. Verantwoordelijkheid vraagt wie nu redelijkerwijs iets kan of moet doen. Sluitingsmacht vraagt wie feitelijk de mogelijkheid heeft de schadelijke verhouding te veranderen, voort te zetten of te verplaatsen.
-
-Waar schuld diffuus is, kan verantwoordelijkheid uit vermogen, betrokkenheid en machtspositie volgen.
-
-Een structurele verklaring mag het probleem niet reduceren tot slechte personen en evenmin individuele beslissingen laten verdwijnen.
+Waar schuld diffuus is, hoeft verantwoordelijkheid dus niet diffuus te blijven. Geen schurk betekent niet: niemand hoeft te handelen. Het betekent dat verantwoordelijkheid uit vermogen, betrokkenheid en machtspositie moet worden afgeleid, niet uit de behoefte aan een vijand.
 
 Een veld kan gedrag verklaren zonder verantwoordelijkheid uit te wissen.
 
-<aside class="uitkijkje">
-<h3 class="uitkijkje__title">Een lege hoek wordt een speelplaats</h3>
-<figure class="uitkijkje__figure">
-  <img src="../../images/hoofdstuk-13/van-eyck-speeltoestel.jpg" alt="Een iglovormig klimtoestel naar ontwerp van Aldo van Eyck in de beeldentuin van het Rijksmuseum." loading="lazy" />
-  <figcaption>Speeltoestel naar ontwerp van Aldo van Eyck, oorspronkelijk ca. 1962. Foto Vysotsky, 2021, CC BY-SA 4.0.</figcaption>
-</figure>
-<div class="uitkijkje__text">
-
-Na de oorlog ontwierp Aldo van Eyck honderden openbare speelplaatsen voor Amsterdam. Vaak waren het geen grote parken maar kleine plekken tussen huizen en straten: zand, een paar vormen van beton of staal, een klimrek, een bank.
-
-De toestellen schreven het spel niet helemaal voor. Een boog kon klimrek, hut, schip of iets zonder naam zijn.
-
-Een vergeten hoek van de stad kreeg ineens kinderen.
-
-</div>
-<p class="uitkijkje__source"><a href="https://commons.wikimedia.org/wiki/File:PlaygroundAldovanEyck1962.jpg" target="_blank" rel="noopener noreferrer">Vysotsky / Wikimedia Commons — CC BY-SA 4.0</a></p>
-</aside>
-
 ## Geen stem verhoogt de plicht
 
-Institutionele macht reikt ook tot wie niet op dezelfde manier kan terugspreken. Kinderen, mensen in zware afhankelijkheid en niet-menselijke dieren zijn niet minder relevant omdat hun antwoord niet in het standaardformulier past.
+Wie niet kan spreken, procederen, vertrekken of zich organiseren, kan ook weinig terugkoppeling geven over de grens die hem wordt opgelegd.
 
-Wie de leefomgeving, beweging, voortplanting, sociale relaties of dood van dieren organiseert, bezit feitelijke sluitingsmacht. Het ontbreken van menselijke taal verhoogt juist de noodzaak om gedragsmatige, lichamelijke en relationele signalen actief waar te nemen en door onafhankelijke kennis te laten toetsen.
+Daarom verlaagt afwezigheid van stem de verantwoordingsplicht niet. Zij verhoogt haar.
 
-*Wie de leefwereld van een dier sluit, draagt verantwoordelijkheid voor de antwoordruimte die overblijft.*
+Dat geldt voor jonge kinderen, ernstig afhankelijke mensen, niet-menselijke dieren en toekomstige generaties. Vertegenwoordiging is dan onvermijdelijk, maar mag niet als bezit worden opgevat. Wie voor een ander spreekt, moet juist zicht houden op de eigen onzekerheid en op de mogelijkheid dat de vertegenwoordigde anders zou antwoorden.
 
-Hetzelfde principe geldt tussen mensen. Wie minder toegang heeft tot taal, dossierkennis, geld of procedure, mag niet daarom minder werkelijk worden in de beoordeling. Een institutie die alleen reageert op goed geformuleerde tegenspraak, beloont precies de capaciteit die zij nooit als voorwaarde voor waardigheid zou mogen stellen.
-
-Geen stem is geen leegte.
+Wie de leefwereld van een dier sluit, draagt verantwoordelijkheid voor de antwoordruimte die overblijft.
 
 ## Vorming zonder bestemming
 
@@ -207,7 +177,7 @@ Een ouder mag partijdig zijn voor het eigen kind. Een gemeenschap mag haar taal,
 
 Die partijdigheid kent wel een grens. Een vorm mag zichzelf beschermen of voortzetten zonder daarmee vanzelf het recht te krijgen de voorwaarden op te gebruiken waaronder andere vormen nog kunnen bestaan, vertrekken, zich organiseren of antwoorden.
 
-> **Pluraliteit vraagt geen absolute harmonie. Zij vraagt dat verschil niet alleen kan bestaan zolang één vorm wint en de andere verdwijnt.**
+> **Pluraliteit vraagt geen absolute harmonie. Zij vraagt dat de overwinning van één vorm niet vanzelf betekent dat andere vormen moeten verdwijnen.**
 
 Soms zijn belangen werkelijk onverenigbaar en blijft na een besluit verlies achter. Een politieke ordening hoeft dat conflict niet weg te praten. Zij moet wel zichtbaar houden wie wint, wie verliest, welke macht de doorslag gaf en welke mogelijkheden voor latere correctie of voortzetting overblijven.
 
@@ -223,58 +193,42 @@ Doorslaggevend is hoe <span class="begrip" data-term="antwoordbaarheid-van-macht
 
 > **Asymmetrie wordt antagonistisch wanneer zij niet alleen uitkomsten beïnvloedt, maar de voorwaarden bepaalt waaronder andere actoren nog levensvatbaar kunnen antwoorden.**
 
-Gelijkheid of decentralisatie is hier niet de hoogste norm. Macht kan groot en geconcentreerd zijn zonder het veld te sluiten. Macht die de antwoordvoorwaarden van anderen bepaalt, moet zelf voldoende antwoordbaar blijven.
+Die betwistbaarheid moet ook praktisch en op tijd bestaan. Een correctieroute die pas werkt nadat de relevante mogelijkheid onomkeerbaar verdwenen is, houdt het veld niet werkelijk open.
 
-Waar toetreding, vertrek, organisatie van tegenmacht en correctie praktisch onwerkzaam worden, ontstaat <span class="begrip" data-term="veldsluiting">veldsluiting</span>: de ordening maakt alternatieve antwoorden steeds minder levensvatbaar.
+Daarom hoeft corrigeerbare macht niet klein of gelijk verdeeld te zijn. Zij moet wel voldoende antwoordbaar blijven tegenover degenen wier mogelijkheden zij mede bepaalt.
 
 ## Sluitingsmacht en corrigeerbare macht
 
-> **Geen actor krijgt vanzelf het recht de antwoordruimte van een ander op te gebruiken.**
+Geen actor krijgt vanzelf het recht de <span class="begrip" data-term="antwoordruimte">antwoordruimte</span> van een ander op te gebruiken.
 
 Machtsasymmetrie verandert de normatieve last. Wie meer vermogen heeft om grenzen, tijd, toegang, veiligheid, middelen of toekomstmogelijkheden van anderen te bepalen, draagt ook een zwaardere verantwoordelijkheid om die sluiting te rechtvaardigen en corrigeerbaar te houden.
 
-*Wie de antwoordruimte van een ander kan sluiten, draagt verantwoordelijkheid voor die macht.*
+Wie de antwoordruimte van een ander kan sluiten, draagt verantwoordelijkheid voor die macht.
 
-Een eenvoudige heropeningsplicht is te grof. Niet iedere legitieme sluiting moet later worden teruggedraaid. Een contactverbod kan definitief passend blijven. Een slachtoffer kan besluiten geen relatie te herstellen. Een gevaarlijke praktijk kan blijvend verboden worden. Een instelling hoeft een afgewikkelde zaak niet eindeloos open te houden.
+Een eenvoudige heropeningsplicht is te grof. Niet iedere legitieme sluiting moet later worden teruggedraaid. Een verbod op geweld hoeft niet na verloop van tijd opnieuw ter discussie te worden gesteld omdat iedere grens tijdelijk zou moeten zijn.
 
-De plicht ligt preciezer: **sluitingsmacht moet haar eigen noodzaak, reikwijdte en gevolgen kunnen laten toetsen, en mag geen grotere aanspraak op de toekomst maken dan waarvoor zij gerechtvaardigd is.**
+Beter is: sluitingsmacht moet haar eigen noodzaak, reikwijdte en gevolgen kunnen laten toetsen, en mag geen grotere aanspraak op de toekomst maken dan waarvoor zij gerechtvaardigd is.
 
-Waar heropening veilig en relevant mogelijk is, kan dat herstel betekenen. Waar heropening zelf nieuwe schade veroorzaakt, kan juist het respecteren van de grens de corrigeerbare uitkomst zijn.
+Proportionaliteit gaat daarom niet alleen over intensiteit, maar ook over duur, reikwijdte, herstelbaarheid en wat na de sluiting achterblijft.
 
-<span class="begrip" data-term="proportionaliteit">Proportionaliteit</span> omvat de zwaarte, duur, reikwijdte en herstelbaarheid van de ingreep, en de vraag wie de overblijvende last draagt.
+Uitzonderlijke kennis of noodsituatie kan tijdelijke asymmetrie rechtvaardigen. Zij heft de correctieplicht niet op. Degene die de uitzondering claimt, behoort niet als enige te bepalen wanneer zij eindigt.
 
-Ook uitzonderlijk inzicht of een reële noodsituatie heft de correctieplicht niet op. Waarheid, urgentie en gezag zijn verschillende vragen. Wie uitzonderlijke macht opeist omdat hij uitzonderlijk inzicht of uitzonderlijke noodzaak claimt, mag niet als enige beslissen wanneer die uitzondering eindigt: anders kan een tijdelijke noodzakelijke sluiting zichzelf tot permanent gezag maken.
+## Escalatie zonder automatisme
 
-## Van actor naar institutie
+Wanneer antwoordruimte botst, is de eerste stap waar mogelijk de actor zelf. Daarna komt de relatie. Pas wanneer die niveaus onvoldoende bescherming bieden of ernstige schade dreigt, krijgt een onafhankelijke derde of institutie meer gewicht.
 
-De escalatievolgorde blijft eenvoudig:
-
-1. **actor:** kan de betrokken persoon zelf nog werkelijk waarnemen, weigeren, kiezen of hulp vragen?
-2. **relatie:** kunnen betrokkenen de spanning dragen en corrigeren zonder dat één partij de ander feitelijk bezit?
-3. **onafhankelijke derde:** is er iemand nodig die hoorbaarheid, toetsing of tijdelijke begrenzing beschermt?
-4. **institutie:** is duurzame, formele of dwingende macht nodig om antwoordruimte of veiligheid te bewaren?
-
-In acute situaties kunnen stappen worden overgeslagen. Wie onmiddellijk gevaar loopt hoeft niet eerst een zorgvuldig relationeel gesprek te voeren. Temporaliteit en asymmetrie wegen hier zwaar: wat later mogelijk wordt, hoeft nu niet verlangd te worden.
-
-De escalatievolgorde helpt om macht niet eerder en niet zwaarder over te nemen dan nodig, zonder noodzakelijke bescherming uit te stellen.
+Dat is geen vaste procedure. Acute dreiging kan een lichtere stap overslaan. Het is een ordening van bewijslast: hoe ingrijpender de macht die wordt ingezet, hoe zwaarder de reden die daarvoor nodig is.
 
 ## Van kern naar doctrine
 
-De institutionele uitwerking volgt niet logisch uit *wat verschijnt, verschijnt onaf*.
+De institutionele doctrine van dit hoofdstuk ligt niet logisch opgesloten in de zin *wat verschijnt, verschijnt onaf*.
 
-Dit project begint met beschrijvende en metafysische uitspraken over gedragen en onafgesloten vorm. Vervolgens kiest het ethisch voor wederkerigheid: de ander blijft een bron van relevante terugkoppeling en wordt niet zonder voldoende rechtvaardiging opgebruikt of van basale antwoordvoorwaarden beroofd. Antwoordruimte, herstel en vermindering van afwendbaar lijden krijgen binnen die keuze hun normatieve plaats.
+De beschrijvende en metafysische laag spreekt over vorm, verhouding, verschil, voelen en onafheid. Daaruit volgt nog niet vanzelf welke politieke instituties goed zijn.
 
-Daaruit ontstaat een politieke en institutionele doctrine van **corrigeerbare macht**: wie de voorwaarden van andermans antwoorden kan bepalen, moet die macht kunnen rechtvaardigen, laten toetsen en waar nodig laten veranderen.
+De ethische stap begint waar wederkerigheid, bescherming van antwoordruimte en vermindering van afwendbaar lijden als gekozen maatstaven worden toegevoegd.
 
-De onafhankelijke derde, bezwaar- en herstelroutes, pluraliteit, transparante bevoegdheid en reële uittreedbaarheid zijn institutionele vormen die bij die normatieve inzet passen en zelf weer empirisch en politiek moeten worden getoetst.
+Pas daarna ontstaat de institutionele doctrine van corrigeerbare macht, onafhankelijke toetsing en passende sluiting.
 
-Deze lagen mogen elkaar richting geven zonder in elkaar te worden geschoven:
+En pas daarna volgen concrete ontwerpen: wetten, procedures, rollen, technologieën en budgetten die empirisch en politiek moeten worden getest.
 
-- **beschrijvende/metafysische kern:** vorm, verhouding, verschil, voelen en onafgeslotenheid;
-- **ethische keuze:** wederkerigheid, bescherming van antwoordruimte en vermindering van afwendbaar lijden;
-- **institutionele doctrine:** corrigeerbare macht, onafhankelijke toetsing en passende sluiting;
-- **concrete inrichting:** wetten, procedures, rollen, technologieën en begrotingen die altijd opnieuw op hun gevolgen moeten worden beoordeeld.
-
-Dat laatste niveau is beslissend. Een mooie doctrine beschermt niemand zolang de feitelijke route door een systeem haar tegenspreekt.
-
-> **Een institutie is niet ontvankelijk omdat zij zegt te luisteren, maar omdat wat zij hoort haar onder de juiste voorwaarden werkelijk kan veranderen.**
+Een institutie is niet ontvankelijk omdat zij zegt te luisteren, maar omdat wat zij hoort haar onder de juiste voorwaarden werkelijk kan veranderen.
