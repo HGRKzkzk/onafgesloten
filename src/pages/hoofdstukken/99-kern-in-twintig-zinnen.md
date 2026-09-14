@@ -1,11 +1,11 @@
 ---
 layout: ../../layouts/ChapterLayout.astro
 order: 99
-title: "De kern in tweeëntwintig zinnen"
+title: "De kern in vierentwintig zinnen"
 slug: "99-kern-in-twintig-zinnen"
 status: "appendix"
 source: "OOV_scherpe_menselijke_kern_2026_v4_1_redactioneel"
-lastSyncCheck: "2026-09-11"
+lastSyncCheck: "2026-09-15"
 ---
 
 <!-- laag: beschrijvend/metafysisch -->
@@ -54,74 +54,86 @@ lastSyncCheck: "2026-09-11"
 9. **Een draagroute laat zien waar spanning, onzekerheid en herstelwerk terechtkomen.**  
    De plek waar schade zichtbaar wordt is niet noodzakelijk de plek waar de last ontstond, werd verdeeld of duurzaam kan worden gecorrigeerd.
 
+<!-- laag: instrumenteel/normatief -->
+10. **Handel zo dat wat je later leert nog verschil kan maken.**  
+    Waar gevolgen herstelbaar zijn, mag experiment ruimte krijgen; waar anderen de gevolgen moeten leven, stijgt de plicht tot rekenschap.
+
+<!-- laag: instrumenteel/normatief -->
+11. **Verantwoordelijkheid bestaat niet alleen uit voorzien, maar ook uit je laten veranderen door wat je niet hebt voorzien.**  
+    Reflectie wordt pas antwoord wanneer nieuw inzicht kan terugwerken op handelen, verhouding of inrichting.
+
 <!-- laag: instrumenteel -->
-10. **Herstel is niet noodzakelijk terugkeer.**  
+12. **Herstel is niet noodzakelijk terugkeer.**  
     Het kan een andere samenhang zijn waarin opnieuw voelen, begrenzen en antwoorden mogelijk wordt.
 
 <small><a href="../06-draagroutes-ritme-en-herstel/">06 · Draagroutes, ritme en herstel</a></small>
 
 <!-- laag: normatief -->
-11. **Onafwendbaar lijden vraagt draagkracht; afwendbaar lijden vraagt antwoord.**  
+13. **Onafwendbaar lijden vraagt draagkracht; afwendbaar lijden vraagt antwoord.**  
     Dat antwoord is geen onbeperkte aanspraak: verantwoordelijkheid mag worden begrensd, gedeeld, overgedragen en, waar dat verantwoord is, beëindigd.
 
 <small><a href="../07-gezondheid-zonder-ideaalvorm/">07 · Gezondheid zonder ideaalvorm</a></small>
 
 <!-- laag: instrumenteel/normatief -->
-12. **Vrijheid is het behoud van voldoende antwoordruimte binnen bepaaldheid.**  
+14. **Vrijheid is het behoud van voldoende antwoordruimte binnen bepaaldheid.**  
     Niet alle mogelijkheden hoeven open te blijven; wel de basale voorwaarden om later opnieuw te kunnen voelen, weigeren, herstellen en antwoorden.
 
 <small><a href="../08-vrijheid-binnen-bepaaldheid-en-verschil-zonder-absoluut-dualisme/">08 · Vrijheid binnen bepaaldheid</a></small>
 
 <!-- laag: normatief -->
-13. **Bescherming vraagt grenzen die werkelijk gevolg kunnen krijgen.**  
+15. **Bescherming vraagt grenzen die werkelijk gevolg kunnen krijgen.**  
     Passende begrenzing stopt schade zonder meer macht op te eisen dan daarvoor nodig is.
 
 <small><a href="../09-liefde-klauwen-en-wederzijdse-bescherming/">09 · Liefde, klauwen en wederzijdse bescherming</a></small>
 
 <!-- laag: epistemisch/methodologisch -->
-14. **Taal redt alleen wanneer zij weigert het laatste woord te worden.**  
+16. **Taal redt alleen wanneer zij weigert het laatste woord te worden.**  
     Een categorie kan helpen zien zolang afwijking, ervaring en gevolg haar nog werkelijk kunnen corrigeren.
 
 <small><a href="../10-taal-kennis-en-intelligentie/">10 · Taal, kennis en intelligentie</a></small>
 
 <!-- laag: normatief/metafysisch -->
-15. **Geen doel. Geen verplichte zin. Wel mogelijke zin.**  
+17. **Geen doel. Geen verplichte zin. Wel mogelijke zin.**  
     Zin kan lokaal verschijnen, breken, terugkeren en gevierd worden.
 
 <small><a href="../11-zin-dood-en-viering/">11 · Zin, dood en viering</a></small>
 
 <!-- laag: normatief/instrumenteel -->
-16. **Schuld, verantwoordelijkheid en sluitingsmacht vallen niet samen.**  
+18. **Schuld, verantwoordelijkheid en sluitingsmacht vallen niet samen.**  
     Een structureel probleem hoeft geen schurk te hebben; verantwoordelijkheid kan toch volgen uit vermogen, betrokkenheid en machtspositie.
 
 <!-- laag: normatief/instrumenteel -->
-17. **Geen actor krijgt vanzelf het recht de antwoordruimte van een ander op te gebruiken.**  
+19. **Geen actor krijgt vanzelf het recht de antwoordruimte van een ander op te gebruiken.**  
     Sluitingsmacht legitimeert zichzelf niet.
 
 <!-- laag: normatief/instrumenteel -->
-18. **Hoe groter de macht om de antwoordvoorwaarden van anderen te bepalen, hoe zwaarder de plicht om die macht antwoordbaar te houden.**  
+20. **Hoe groter de macht om de antwoordvoorwaarden van anderen te bepalen, hoe zwaarder de plicht om die macht antwoordbaar te houden.**  
     Niet iedere machtsconcentratie is sluiting; problematisch wordt zij waar tegenmacht, vertrek, toetreding of correctie feitelijk onwerkzaam worden, of waar de openheid van anderen als permanente beschikbaarheid wordt opgeëist.
 
 <!-- laag: normatief -->
-19. **Vorming mag richting geven zonder bestemming op te leggen.**  
+21. **Pluraliteit vraagt geen absolute harmonie.**  
+    Personen en gemeenschappen mogen zichzelf mede verkiezen, zolang hun voortzetting niet zonder voldoende rechtvaardiging de voorwaarden opgebruikt waaronder anderen nog als andere vorm kunnen bestaan en antwoorden.
+
+<!-- laag: normatief -->
+22. **Vorming mag richting geven zonder bestemming op te leggen.**  
     Een pluralistisch veld bewaart ruimte voor verschil, correctie, vertrek en nieuwe vorming.
 
 <small><a href="../13-velden-instituties-en-georganiseerde-sluiting/">13 · Velden, instituties en georganiseerde sluiting</a></small>
 
 <!-- laag: instrumenteel/normatief -->
-20. **Voorspelkracht geeft een systeem gewicht, geen onweerlegbaarheid.**  
+23. **Voorspelkracht geeft een systeem gewicht, geen onweerlegbaarheid.**  
     Een statistisch patroon maakt iets relevant voor onderzoek; het bewijst niet dat deze persoon dat patroon is.
 
 <small><a href="../14-drie-toetsgevallen-wat-verandert-er-wanneer-dit-denken-iets-moet-doen/">14 · Vier toetsgevallen</a></small>
 
 <!-- laag: methodologisch/normatief -->
-21. **Een maatstaf hoeft niet perspectiefloos te zijn om bindend te kunnen worden.**  
+24. **Een maatstaf hoeft niet perspectiefloos te zijn om bindend te kunnen worden.**  
     Zij moet wel haar positie, gevolgen en corrigeerbaarheid kunnen verantwoorden.
 
 <small><a href="../15-culturele-bescheidenheid-en-intellectuele-buren/">15 · Culturele bescheidenheid en intellectuele buren</a></small>
 
 <!-- laag: instrumenteel/methodologisch -->
-22. **Ook dit project blijft onaf.**  
+25. **Ook dit project blijft onaf.**  
     Zijn begrippen staan onder correctieplicht en moeten wijken waar zij geen relevant verschil meer zichtbaar maken.
 
 <small><a href="../16-zelfbegrenzing-ook-dit-denken-blijft-onaf/">16 · Zelfbegrenzing: ook dit denken blijft onaf</a></small>
