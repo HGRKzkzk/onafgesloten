@@ -12,7 +12,7 @@ De nadruk op onafhankelijke derden sluit aan bij bredere tradities van checks an
 
 Ook Elinor Ostroms werk over polycentrische ordening is een relevante buur. Meerdere deels overlappende beslis- en correctiecentra kunnen voorkomen dat één actor alle informatie en bevoegdheid monopoliseert. Dat is niet hetzelfde als de projectnotie van pluraliteit, maar het biedt empirisch en institutioneel tegenwicht tegen de veronderstelling dat samenhang altijd één centrum vereist.
 
-De nieuwe formulering **pluraliteit zonder harmonie-eis** raakt daarnaast aan theorieën van waardepluralisme, vooral bij Isaiah Berlin. Daarin kunnen werkelijke waarden onderling botsen zonder dat er altijd één hogere maat beschikbaar is die het conflict volledig oplost. Dat biedt een belangrijke buur voor de gedachte dat een legitieme ordening niet ieder verlies kan vermijden en dat politiek soms keuzes tussen werkelijk waardevolle, maar onverenigbare mogelijkheden moet dragen.
+De nieuwe formulering **pluraliteit zonder harmonie-eis** raakt daarnaast aan theorieën van waardepluralisme, vooral bij Isaiah Berlin. Daarin kunnen werkelijke waarden onderling botsen zonder dat er altijd één hogere maat beschikbaar is die het conflict volledig oplost. Berlin doet hier één specifiek stuk werk: hij zet druk op de verborgen aanname dat een legitiem conflict uiteindelijk in één gemeenschappelijke maat moet kunnen worden opgelost. Onafgesloten Vorm hoeft zijn sterkere these over principiële onvergelijkbaarheid niet over te nemen om van die kritiek te leren. De relevante verschuiving is bescheidener: werkelijk waardevolle mogelijkheden kunnen in een concreet geval botsen en een keuze kan dan verlies achterlaten zonder dat dit verlies simpelweg een communicatief tekort is.
 
 Een andere relevante discussie gaat over **partijdigheid en bijzondere verplichtingen**. Veel moraaltheorie erkent dat ouders, vrienden, leden van gemeenschappen en andere betrokkenen soms redenen hebben om niet volledig onpartijdig te handelen. Zulke partijdigheid is echter omstreden zodra zij buitensporige lasten bij buitenstaanders neerlegt. Voor dit hoofdstuk is vooral dat spanningsveld relevant: zelf- of gemeenschapsvoorkeur hoeft niet antagonistisch te zijn, maar zij legitimeert niet automatisch de kosten die anderen daardoor moeten dragen.
 
@@ -64,13 +64,13 @@ Ten vierde wordt de **tussenpositie zonder voldoende bevoegdheid** zichtbaar gem
 
 Ten vijfde wordt **interventieschaal onderscheiden van diagnoseschaal**. De escalatielogica actor → relatie → onafhankelijke derde → instituut gaat over hoeveel en welke interventiemacht wordt ingezet. Diagnostische schaalverschuiving gaat over waar de hypothese over het probleem moet worden gelegd. Als een lokale aanpak telkens faalt onder gelijkblijvende hogere voorwaarden, is dat reden om de diagnose te verbreden. Het is geen automatische reden om individuele factoren weg te schrijven.
 
-Ten zesde wordt **pluraliteit losgemaakt van harmonie**. Wederkerigheid betekent niet dat actoren uiteindelijk dezelfde belangen moeten hebben of hun eigen bindingen moeten neutraliseren. Personen en gemeenschappen kunnen bijzondere redenen hebben om iets van zichzelf, hun relaties of hun geschiedenis te bewaren. De normatieve grens ligt niet bij het bestaan van partijdigheid, maar bij de wijze waarop die partijdigheid de levensvatbaarheid en correctiemogelijkheden van anderen raakt. Daarmee blijft werkelijk conflict mogelijk zonder dat iedere overwinning automatisch antagonistische sluiting heet.
-
-Deze beweging is verwant aan value pluralism, maar niet identiek eraan. OOV hoeft niet te beweren dat waarden principieel onvergelijkbaar zijn. De bescheidener claim is dat concrete waarden, belangen en manieren van leven soms niet zonder verlies tegelijk gerealiseerd kunnen worden, en dat een politieke theorie dat verlies niet moet wegdefiniëren als communicatief tekort.
-
-Deze bewegingen kunnen uiteenlopen. Een lokale en weinig ingrijpende interventie kan passend zijn terwijl de primaire diagnose structureel is. Omgekeerd kan institutionele bescherming nodig zijn bij een probleem dat grotendeels lokaal ontstaat wanneer lichtere bescherming onvoldoende beschikbaar is.
+Deze twee bewegingen kunnen uiteenlopen. Een lokale en weinig ingrijpende interventie kan passend zijn terwijl de primaire diagnose structureel is. Omgekeerd kan institutionele bescherming nodig zijn bij een probleem dat grotendeels lokaal ontstaat wanneer lichtere bescherming onvoldoende beschikbaar is.
 
 De institutionele escalatielogica is geen vaste procesvolgorde en kan bij acute schade worden overgeslagen. Haar functie is de bewijslast om te keren: meer ingrijpende sluitingsmacht vraagt meer reden, niet minder.
+
+Ten zesde wordt **pluraliteit losgemaakt van harmonie**. Wederkerigheid betekent niet dat actoren uiteindelijk dezelfde belangen moeten hebben of hun eigen bindingen moeten neutraliseren. Personen en gemeenschappen kunnen bijzondere redenen hebben om iets van zichzelf, hun relaties of hun geschiedenis te bewaren. De normatieve grens ligt niet bij het bestaan van partijdigheid, maar bij de wijze waarop die partijdigheid de levensvatbaarheid en correctiemogelijkheden van anderen raakt. Daarmee blijft werkelijk conflict mogelijk zonder dat iedere overwinning automatisch antagonistische sluiting heet.
+
+Hier verandert Berlin daadwerkelijk iets aan de vraagstelling. Niet elk conflict hoeft te worden behandeld alsof een voldoende neutrale procedure, betere communicatie of één hogere maat de waarden uiteindelijk volledig met elkaar kan verzoenen. OOV hoeft daarvoor niet te beweren dat waarden principieel onvergelijkbaar zijn. De bescheidener claim is dat concrete waarden, belangen en manieren van leven soms niet zonder verlies tegelijk gerealiseerd kunnen worden, en dat een politieke theorie dat verlies niet moet wegdefiniëren als communicatief tekort.
 
 De doctrine van corrigeerbare macht blijft tenslotte een normatieve keuze. Zij volgt niet logisch uit de beschrijvende en metafysische uitgangspunten van dit project. Dat vormen relationeel, historisch en veranderlijk kunnen worden begrepen, bewijst nog niet hoe macht behoort te worden ingericht. De ethische keuze voor wederkerigheid geeft vervolgens redenen om relevante terugkoppeling van anderen niet zonder noodzaak uit te schakelen. Pas daarna ontstaat de politieke vraag hoe macht institutioneel zo kan worden georganiseerd dat zij kan handelen zonder zichzelf het laatste woord te geven.
 
@@ -88,7 +88,7 @@ De doctrine van corrigeerbare macht blijft tenslotte een normatieve keuze. Zij v
 - Karl E. Weick & Kathleen M. Sutcliffe, *Managing the Unexpected* (2001; latere edities).
 - James C. Scott, *Seeing Like a State* (1998).
 - Iris Marion Young, *Responsibility for Justice* (2011).
-- Isaiah Berlin, “The Pursuit of the Ideal” (1988), later opgenomen in *The Crooked Timber of Humanity*.
+- Isaiah Berlin, “The Pursuit of the Ideal” (1988), later opgenomen in *The Crooked Timber of Humanity* (1990).
 - [Stanford Encyclopedia of Philosophy — Value Pluralism](https://plato.stanford.edu/entries/value-pluralism/).
 - [Stanford Encyclopedia of Philosophy — Isaiah Berlin](https://plato.stanford.edu/entries/berlin/).
 - [Stanford Encyclopedia of Philosophy — Impartiality](https://plato.stanford.edu/entries/impartiality/).
