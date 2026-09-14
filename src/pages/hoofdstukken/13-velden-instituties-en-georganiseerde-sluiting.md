@@ -13,7 +13,7 @@ divergence:
   status: "substantieel-herwerkt"
   note: "Publieke uitbreiding met scherpere uitwerking van veldmatig kijken, institutionele draagroutes, tussenposities zonder voldoende bevoegdheid, diagnostische schaalverschuiving, onafhankelijke correctie, asymmetrie, georganiseerde sluiting en corrigeerbare macht."
 
-lastSyncCheck: "2026-09-11"
+lastSyncCheck: "2026-09-15"
 ---
 Geen vorm draagt zichzelf alleen. Rond ieder individu bestaat een veld van materiële, affectieve, culturele, ecologische en institutionele voorwaarden. Sommige zijn zichtbaar; andere vallen pas op wanneer zij verdwijnen.
 
@@ -198,6 +198,18 @@ Vorming kan richting geven zonder bestemming op te leggen. Een gemeenschap mag s
 Pluraliteit is daarmee meer dan tolerantie. Zij is ook een institutionele veiligheidsarchitectuur: geen enkele familie, school, organisatie, religie, markt, staat of technologie mag zonder tegenveld bepalen wat een mens volledig is of mag worden.
 
 Sommige verplichtingen zijn werkelijk. Waar vertrek structureel onmogelijk wordt, correctie zinloos en alternatieve vormen verdwijnen, verandert binding gemakkelijk in bezit.
+
+## Pluraliteit zonder harmonie-eis
+
+Pluraliteit betekent niet dat iedere botsing in overeenstemming moet eindigen. Personen en gemeenschappen mogen zichzelf mede verkiezen: tijd, aandacht en middelen hoeven niet altijd zo verdeeld te worden dat ieder belang van buiten even zwaar weegt als wat een vorm zelf probeert te bewaren.
+
+Een ouder mag partijdig zijn voor het eigen kind. Een gemeenschap mag haar taal, rituelen of instituties beschermen. Een vereniging mag een eigen doel nastreven dat niet door iedereen wordt gedeeld. Zonder zulke voorkeuren zou verschil alleen nog mogen bestaan zolang het niemand iets kost.
+
+Die partijdigheid kent wel een grens. Een vorm mag zichzelf beschermen of voortzetten zonder daarmee vanzelf het recht te krijgen de voorwaarden op te gebruiken waaronder andere vormen nog kunnen bestaan, vertrekken, zich organiseren of antwoorden.
+
+> **Onafhankelijkheid vraagt geen absolute harmonie. Zij vraagt dat verschil niet alleen kan bestaan zolang één vorm wint en de andere verdwijnt.**
+
+Soms zijn belangen werkelijk onverenigbaar en blijft na een besluit verlies achter. Een politieke ordening hoeft dat conflict niet weg te praten. Zij moet wel zichtbaar houden wie wint, wie verliest, welke macht de doorslag gaf en welke mogelijkheden voor latere correctie of voortzetting overblijven.
 
 ## Wanneer asymmetrie het veld begint te sluiten
 
