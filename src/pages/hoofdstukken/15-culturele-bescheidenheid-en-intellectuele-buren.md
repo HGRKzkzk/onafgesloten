@@ -11,7 +11,7 @@ source:
 divergence:
   status: "substantieel-herwerkt"
   note: "Integrale compressie: hoofdstuk richt zich uitsluitend op externe verwantschap, vertaling en verschil; interne zelfafbouw staat in het volgende hoofdstuk."
-lastSyncCheck: "2026-09-11"
+lastSyncCheck: "2026-09-15"
 ---
 
 Dit project is in Nederlandse en Europese taal ontstaan. Het spreekt met woorden als ontologie, fenomenologie, autonomie en dialectiek, en beweegt in de nabijheid van procesfilosofie, Spinoza, Buber, enactivisme, systeemdenken, pragmatisme en kritische theorie. Die genealogie moet zichtbaar blijven.
@@ -114,18 +114,18 @@ De vergelijking laat dus restverschil over. De *Zhuangzi* geeft dit project geen
 
 ## Intellectuele buren
 
-Andere relaties blijven voorlopig kaarten van gesprekken, geen uitgewerkte vergelijkingen:
+Andere relaties blijven kaarten van gesprekken die niet allemaal even ver zijn uitgewerkt:
 
 - procesdenken: verwantschap in het wantrouwen tegen statische substanties;
 - Merleau-Ponty en enactivisme: belichaamde en levende verhouding tot omgeving;
 - Bateson en systeemdenken: verschil, patroon en terugkoppeling;
 - Spinoza: immanentie en bepaaldheid;
-- pragmatisme: begrippen moeten zich in gevolgen bewijzen;
+- pragmatisme: de relatie is inmiddels gedeeltelijk uitgewerkt via Dewey in de academische verdieping bij hoofdstuk 6; het bredere gesprek blijft open;
 - kritische en feministische theorie: macht, positionaliteit en afhankelijkheid;
 - boeddhistische afhankelijkheidsanalyses: mogelijke resonantie rond niet-zelfstandigheid en wording, binnen eigen soteriologische en karmische kaders;
 - Africana en Ubuntu-gerelateerde filosofieën: mogelijke resonantie rond relationele persoonsvorming, zonder van “Ubuntu” één Afrikaanse ontologie te maken.
 
-Deze lijst is geen stamboom en ook geen erelijst. Zij markeert vooral waar nog geen voldoende diep gesprek heeft plaatsgevonden.
+Deze lijst is geen stamboom en ook geen erelijst. Sommige relaties zijn inmiddels gedeeltelijk uitgewerkt; andere markeren juist waar nog geen voldoende diep gesprek heeft plaatsgevonden.
 
 De toets blijft telkens dezelfde: **wat is werkelijk geleend, wat lijkt slechts verwant, waar ontstaat frictie, en wat blijft daarna nog als eigen stap over?**
 
