@@ -12,11 +12,11 @@ De nieuwe nadruk op handelen onder onzekerheid raakt daarnaast aan pragmatische 
 
 Ook de discussie over **moreel geluk** is relevant. Bernard Williams en Thomas Nagel maakten scherp zichtbaar dat de morele beoordeling van handelen mede kan afhangen van omstandigheden en gevolgen die niet volledig onder controle van de actor stonden. Dat ondersteunt geen eenvoudige regel voor verantwoordelijkheid achteraf, maar wel de gedachte dat voorzienbaarheid, feitelijke uitkomst en latere kennis uit elkaar moeten worden gehouden. Niet alles wat verkeerd afloopt was vooraf verwijtbaar; omgekeerd kan nieuwe kennis wel nieuwe verantwoordelijkheid openen.
 
-De scherpste buur voor de nieuwe risicolijn is Hans Jonas. In *Das Prinzip Verantwortung* verbindt hij de sterk toegenomen reikwijdte van moderne technologie aan een zwaardere verantwoordelijkheid voor verre en mogelijk onomkeerbare gevolgen, juist waar toekomstige geraakten niet kunnen terugspreken. Dat raakt direct aan de asymmetrie in dit hoofdstuk: naarmate een ingreep moeilijker herstelbaar is en anderen de gevolgen moeten leven, stijgt de rechtvaardigingslast vóór de ingreep.
+De scherpste buur voor de nieuwe risicolijn is Hans Jonas. In *Das Prinzip Verantwortung* verbindt hij de sterk toegenomen reikwijdte van moderne technologie aan een zwaardere verantwoordelijkheid voor verre en mogelijk onomkeerbare gevolgen, juist waar toekomstige geraakten op het moment van handelen niet kunnen terugspreken. Dat raakt direct aan de asymmetrie in dit hoofdstuk: naarmate een ingreep moeilijker herstelbaar is en anderen de gevolgen moeten leven, stijgt de rechtvaardigingslast vóór de ingreep.
 
 Ook de formulering *handel zo dat...* staat daardoor niet buiten een filosofische genealogie. Zij echoot de imperatiefvorm van Kant en, inhoudelijk nog directer, Jonas’ herformulering daarvan voor handelen met verre toekomstige gevolgen. Onafgesloten Vorm neemt Jonas’ imperatief echter niet over. De eigen vraag blijft of later leren nog verschil kan maken, wie het risico draagt en wat niet-handelen ondertussen afsluit.
 
-Deze verwantschappen ondersteunen delen van het hoofdstuk, maar geen ervan levert het volledige begrippenpaar *draagroute–ritme–herstel* of de temporele lijn van voorzien, handelen, gevolg en herziening kant-en-klaar aan.
+Deze verwantschappen ondersteunen delen van het hoofdstuk, maar geen ervan levert het volledige begrippencluster *draagroute–ritme–herstel* of de temporele lijn van voorzien, handelen, gevolg en herziening kant-en-klaar aan.
 
 ## Empirische bedding
 
@@ -100,6 +100,7 @@ De temporele aanvulling doet iets anders. Zij maakt verantwoordelijkheid niet af
 - Bernard Williams, “Moral Luck” (1976; herdrukt in *Moral Luck*, 1981).
 - Thomas Nagel, “Moral Luck” (1976; herdrukt in *Mortal Questions*, 1979).
 - Hans Jonas, *Das Prinzip Verantwortung: Versuch einer Ethik für die technologische Zivilisation* (1979); Engelse vertaling *The Imperative of Responsibility* (1984).
+- Immanuel Kant, *Grundlegung zur Metaphysik der Sitten* (1785).
 - [Stanford Encyclopedia of Philosophy — Moral Luck](https://plato.stanford.edu/entries/moral-luck/).
 - [Stanford Encyclopedia of Philosophy — John Dewey](https://plato.stanford.edu/entries/dewey/).
 - [Stanford Encyclopedia of Philosophy — Philosophy of Technology](https://plato.stanford.edu/entries/technology/).
