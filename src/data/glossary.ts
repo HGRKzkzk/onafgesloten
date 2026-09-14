@@ -284,14 +284,6 @@ export const glossary: Record<string, GlossaryEntry> = {
       'De weg waarlangs spanning, onzekerheid of belasting door personen, relaties, taken en instituties wordt ontvangen, verdeeld, teruggelegd of geblokkeerd.'
   },
 
-  restlast: {
-    term: 'Restlast',
-    type: 'projectbegrip',
-    chapterOfOrigin: '06-draagroutes-ritme-en-herstel',
-    short:
-      'De spanning, onzekerheid, tijdsdruk of schade die een ordening niet oplost en daardoor ergens anders door een actor, groep of omgeving wordt gedragen.'
-  },
-
   herstel: {
     term: 'Herstel',
     type: 'precisering',
@@ -360,27 +352,76 @@ export const glossary: Record<string, GlossaryEntry> = {
 
   'afwendbaar-lijden': {
     term: 'Afwendbaar lijden',
-    type: 'projectbegrip',
+    type: 'precisering',
     chapterOfOrigin: '07-gezondheid-zonder-ideaalvorm',
     short:
-      'Lijden dat redelijkerwijs voorkomen, verminderd of beëindigd kan worden zonder elders disproportionele schade te veroorzaken; het vraagt antwoord, maar geen onbeperkte zelfopoffering.'
+      'Lijden waarvoor binnen de gegeven situatie een redelijk uitvoerbare route bestaat om het te voorkomen, verminderen of beëindigen, zonder dat die route zelf een zwaardere onrechtvaardige sluiting veroorzaakt.'
+  },
+
+  'non-dualiteit': {
+    term: 'Non-dualiteit',
+    type: 'gangbaar',
+    chapterOfOrigin: '08-vrijheid-binnen-bepaaldheid-en-verschil-zonder-absoluut-dualisme',
+    short:
+      'Een familie van filosofische en contemplatieve benaderingen die absolute scheidingen tussen subject en object, zelf en wereld of andere fundamentele tegenstellingen bevragen, zonder dat alle verschillen daarom hoeven te verdwijnen.'
+  },
+
+  vrijheid: {
+    term: 'Vrijheid',
+    type: 'precisering',
+    chapterOfOrigin: '08-vrijheid-binnen-bepaaldheid-en-verschil-zonder-absoluut-dualisme',
+    short:
+      'Niet onbeperkte keuzevrijheid, maar voldoende antwoordruimte binnen afhankelijkheden, geschiedenis en feitelijke bepaaldheid.'
+  },
+
+  'negatieve-vrijheid': {
+    term: 'Negatieve vrijheid',
+    type: 'gangbaar',
+    chapterOfOrigin: '08-vrijheid-binnen-bepaaldheid-en-verschil-zonder-absoluut-dualisme',
+    short:
+      'Vrijheid opgevat als afwezigheid van inmenging of belemmering door anderen.',
+    url: 'https://plato.stanford.edu/entries/liberty-positive-negative/'
+  },
+
+  'positieve-vrijheid': {
+    term: 'Positieve vrijheid',
+    type: 'gangbaar',
+    chapterOfOrigin: '08-vrijheid-binnen-bepaaldheid-en-verschil-zonder-absoluut-dualisme',
+    short:
+      'Vrijheid opgevat als het vermogen om richting te geven aan het eigen leven of zichzelf te besturen.',
+    url: 'https://plato.stanford.edu/entries/liberty-positive-negative/'
+  },
+
+  'relationele-vrijheid': {
+    term: 'Relationele vrijheid',
+    type: 'gangbaar',
+    chapterOfOrigin: '08-vrijheid-binnen-bepaaldheid-en-verschil-zonder-absoluut-dualisme',
+    short:
+      'Een benadering waarin vrijheid mede afhangt van sociale relaties en materiële voorwaarden die handelingsvermogen mogelijk maken of belemmeren.'
+  },
+
+  'zorg-ethiek': {
+    term: 'Zorgethiek',
+    type: 'gangbaar',
+    chapterOfOrigin: '09-liefde-klauwen-en-wederzijdse-bescherming',
+    short:
+      'Een ethische benadering die afhankelijkheid, relaties, zorgpraktijken en context centraal stelt in morele beoordeling.'
+  },
+
+  liefde: {
+    term: 'Liefde',
+    type: 'precisering',
+    chapterOfOrigin: '09-liefde-klauwen-en-wederzijdse-bescherming',
+    short:
+      'Een verhouding waarin nabijheid en betekenis groeien zonder dat de ander daarom bezit of oplosbaar in het eigen verlangen wordt.'
   },
 
   waarheid: {
     term: 'Waarheid',
-    type: 'gangbaar',
+    type: 'precisering',
     chapterOfOrigin: '10-taal-kennis-en-intelligentie',
     short:
-      'De vraag of een uitspraak of overtuiging werkelijk klopt; verschillende waarheidstheorieën leggen daarbij andere accenten op correspondentie, samenhang, praktijk en rechtvaardiging.',
-    url: 'https://plato.stanford.edu/entries/truth/'
-  },
-
-  sluitingsmacht: {
-    term: 'Sluitingsmacht',
-    type: 'projectbegrip',
-    chapterOfOrigin: '10-taal-kennis-en-intelligentie',
-    short:
-      'Het feitelijke vermogen om voor een ander relevante mogelijkheden, categorieën, middelen of correctieroutes te beperken of af te sluiten.'
+      'Trouw aan wat terugspreekt: waarneming, gevolg, anomalie, herhaling, andere ervaring, grensgeval en weerstand tegen wat we verwachtten.'
   },
 
   corrigeerbaarheid: {
@@ -391,12 +432,20 @@ export const glossary: Record<string, GlossaryEntry> = {
       'De eigenschap dat terugkoppeling niet alleen wordt ontvangen, maar waar nodig ook classificatie, doel, bevoegdheid of voortzetting werkelijk kan veranderen.'
   },
 
+  sluitingsmacht: {
+    term: 'Sluitingsmacht',
+    type: 'projectbegrip',
+    chapterOfOrigin: '10-taal-kennis-en-intelligentie',
+    short:
+      'Het feitelijke vermogen om voor een ander relevante mogelijkheden, categorieën, middelen of correctieroutes te beperken of af te sluiten.'
+  },
+
   'antwoordbaarheid-van-macht': {
     term: 'Antwoordbaarheid van macht',
     type: 'projectbegrip',
     chapterOfOrigin: '13-velden-instituties-en-georganiseerde-sluiting',
     short:
-      'De mate waarin degenen die door macht geraakt worden haar betekenisvol kunnen betwisten, toetsen, begrenzen of doen veranderen.'
+      'De mate waarin macht die andermans mogelijkheden mede bepaalt zelf blootstaat aan tijdige tegenspraak, toetsing, begrenzing en werkelijke correctie.'
   },
 
   veldsluiting: {
@@ -404,6 +453,6 @@ export const glossary: Record<string, GlossaryEntry> = {
     type: 'projectbegrip',
     chapterOfOrigin: '13-velden-instituties-en-georganiseerde-sluiting',
     short:
-      'Een toestand waarin een machtsverhouding niet alleen afzonderlijke keuzes begrenst, maar de voorwaarden zo structureert dat alternatieve actoren, antwoorden of correctieroutes nauwelijks nog levensvatbaar kunnen ontstaan.'
+      'Een toestand waarin een machtsverhouding niet alleen afzonderlijke keuzes begrenst, maar de voorwaarden zodanig structureert dat alternatieve actoren, antwoorden of correctieroutes nauwelijks nog levensvatbaar kunnen ontstaan.'
   }
 };
