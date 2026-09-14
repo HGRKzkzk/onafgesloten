@@ -34,7 +34,7 @@ Voor de lijn over experiment en herstelbaarheid bestaat geen enkelvoudige empiri
 
 ## Tegenlicht
 
-Het begrip *draagroute* heeft een verleiding: zodra schade ergens verschijnt, kan steeds verder naar “het systeem” worden gewezen. Daarmee dreigt individuele verantwoordelijkheid op te lossen in context.
+Een eerste bezwaar richt zich op het begrip *draagroute* zelf. Het kent een verleiding: zodra schade ergens verschijnt, kan steeds verder naar “het systeem” worden gewezen. Daarmee dreigt individuele verantwoordelijkheid op te lossen in context.
 
 Dat bezwaar moet serieus blijven. Een institutionele draagroute kan verklaren waarom bepaald gedrag waarschijnlijker, makkelijker of structureel terugkerend wordt zonder daarmee de concrete actor vrij te pleiten. Causaliteit en verantwoordelijkheid hoeven niet op één niveau te liggen.
 
