@@ -33,6 +33,7 @@ const isChapter = Astro.url.pathname.includes('/hoofdstukken/');
       <nav aria-label="Hoofdnavigatie">
         <a href={`${home}#leesroute`}>{isChapter ? 'Inhoud' : 'Leesroute'}</a>
         <a href={`${base}/hoofdstukken/99-kern-in-twintig-zinnen/`}>Kern</a>
+        <a href={`${base}/wijzigingen/`}>Wijzigingen</a>
       </nav>
     </header>
     <slot />
