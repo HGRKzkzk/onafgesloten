@@ -207,7 +207,7 @@ Een ouder mag partijdig zijn voor het eigen kind. Een gemeenschap mag haar taal,
 
 Die partijdigheid kent wel een grens. Een vorm mag zichzelf beschermen of voortzetten zonder daarmee vanzelf het recht te krijgen de voorwaarden op te gebruiken waaronder andere vormen nog kunnen bestaan, vertrekken, zich organiseren of antwoorden.
 
-> **Onafhankelijkheid vraagt geen absolute harmonie. Zij vraagt dat verschil niet alleen kan bestaan zolang één vorm wint en de andere verdwijnt.**
+> **Pluraliteit vraagt geen absolute harmonie. Zij vraagt dat verschil niet alleen kan bestaan zolang één vorm wint en de andere verdwijnt.**
 
 Soms zijn belangen werkelijk onverenigbaar en blijft na een besluit verlies achter. Een politieke ordening hoeft dat conflict niet weg te praten. Zij moet wel zichtbaar houden wie wint, wie verliest, welke macht de doorslag gaf en welke mogelijkheden voor latere correctie of voortzetting overblijven.
 
