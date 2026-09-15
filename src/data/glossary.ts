@@ -284,14 +284,6 @@ export const glossary: Record<string, GlossaryEntry> = {
       'De weg waarlangs spanning, onzekerheid of belasting door personen, relaties, taken en instituties wordt ontvangen, verdeeld, teruggelegd of geblokkeerd.'
   },
 
-  restlast: {
-    term: 'Restlast',
-    type: 'projectbegrip',
-    chapterOfOrigin: '06-draagroutes-ritme-en-herstel',
-    short:
-      'De spanning, onzekerheid, tijdsdruk of schade die een ordening niet oplost en daardoor ergens anders door een actor, groep of omgeving wordt gedragen.'
-  },
-
   herstel: {
     term: 'Herstel',
     type: 'precisering',

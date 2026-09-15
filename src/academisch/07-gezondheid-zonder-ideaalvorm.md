@@ -28,7 +28,7 @@ Een derde risico is normatieve circulariteit. Als gezondheid wordt omschreven me
 
 > **Gezondheid en morele waarde vallen niet samen.**
 
-Een vierde tegenlicht komt uit disability critique: taal over herstel, flexibiliteit en vermogen kan opnieuw een subtiele normaliseringsdruk invoeren. Niet iedere beperking vraagt herstel, en niet iedere duurzame afhankelijkheid is een tekort dat moet worden overwonnen. Dit dwingt het hoofdstuk om herstel als **heropening van mogelijk vormvermogen** te begrijpen, niet als terugkeer naar onafhankelijkheid of gemiddelde prestatie.
+Een vierde tegenlicht komt uit disability critique: taal over herstel, flexibiliteit en vermogen kan opnieuw een subtiele normaliseringsdruk invoeren. Niet iedere beperking vraagt herstel, en niet iedere duurzame afhankelijkheid is een tekort dat moet worden overwonnen. Dit dwingt het hoofdstuk om herstel niet als terugkeer naar onafhankelijkheid of gemiddelde prestatie te begrijpen, maar als het waar mogelijk hervinden of herschikken van relevante mogelijkheden binnen een leefbare samenhang.
 
 ## Eigen stap
 
@@ -36,9 +36,9 @@ De eigen stap ligt in de combinatie van vier onderscheiden niveaus.
 
 **Eén: variatie.** Verschil van het gemiddelde zegt op zichzelf weinig over gezondheid.
 
-**Twee: draagstructuur.** De vraag is niet alleen wat zichtbaar functioneert, maar welke <span class="begrip" data-term="draagroute">draagroute</span> en <span class="begrip" data-term="restlast">restlast</span> dat functioneren mogelijk maken.
+**Twee: draagstructuur.** De vraag is niet alleen wat zichtbaar functioneert, maar welke <span class="begrip" data-term="draagroute">draagroute</span> dat functioneren mogelijk maakt en wat daarbij onopgelost bij anderen terechtkomt.
 
-**Drie: vormvermogen.** Gezondheid wordt niet gelijkgesteld aan prestatie, maar aan voldoende vermogen om te voelen, begrenzen, integreren en na verandering opnieuw een leefbare ordening te vinden.
+**Drie: leefbare samenhang.** Gezondheid wordt niet gelijkgesteld aan prestatie. Relevant is welke vermogens en voorwaarden in dit concrete leven nodig zijn om te voelen, begrenzen, integreren en na verandering opnieuw een leefbare ordening te vinden.
 
 **Vier: normatieve begrenzing.** Uit die beschrijving volgt niet vanzelf welke levensvorm beter is. De ethische stap begint pas wanneer bescherming tegen opbruik en afwendbare vernietiging van <span class="begrip" data-term="antwoordruimte">antwoordruimte</span> expliciet wordt gekozen.
 
