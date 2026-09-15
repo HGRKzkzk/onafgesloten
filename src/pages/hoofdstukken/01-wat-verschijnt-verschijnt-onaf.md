@@ -196,9 +196,7 @@ Voortbestaan vertelt ons dat een vorm op de een of andere manier wordt gedragen.
 
 ### Openheid heeft draagkracht nodig
 
-Een vorm die alles binnenlaat houdt op een vorm te zijn. Een zenuwstelsel kan niet ieder geluid even belangrijk maken, een gesprek kan niet iedere mogelijke zijweg tegelijk volgen en een mens kan niet ieder beroep op zijn aandacht op hetzelfde moment beantwoorden.
-
-Openheid zonder selectie eindigt in overspoeling. Daarom heeft onafgeslotenheid <span class="begrip" data-term="draagkracht">draagkracht</span> nodig: de mogelijkheid om verschil te ontvangen zonder onmiddellijk uiteen te vallen of alles wat stoort buiten te sluiten.
+Openheid zonder selectie eindigt in overspoeling. Een zenuwstelsel dat ieder geluid even belangrijk maakt, hoort niets meer. Daarom heeft onafgeslotenheid <span class="begrip" data-term="draagkracht">draagkracht</span> nodig: de mogelijkheid om verschil te ontvangen zonder onmiddellijk uiteen te vallen of alles wat stoort buiten te sluiten.
 
 Soms betekent dat méér kunnen verdragen; soms betekent het juist minder hoeven dragen. Een mens die na weken slaaptekort niets meer kan hebben, hoeft niet noodzakelijk weerbaarder te worden. Misschien moet hij slapen. Een team dat bezwijkt onder tegenstrijdige opdrachten heeft niet automatisch een training in veerkracht nodig. Misschien moet iemand beslissen welke opdracht werkelijk voorrang heeft.
 
