@@ -33,7 +33,7 @@ Macht kan draagkracht scheppen. Recht, infrastructuur, onderwijs, zorg en social
 
 Een algemene oproep tot openheid is daarom onvoldoende. Openheid kost tijd, aandacht, geld en vaak lichamelijke of emotionele arbeid. De institutionele vraag luidt steeds: **wie moet hier ontvankelijk zijn voor wie, tegen welke prijs, en wie kan weigeren zonder uit het systeem te vallen?**
 
-Een organisatie kan aan de buitenkant soepel lijken doordat uitvoerders intern alle onzekerheid opvangen. Een digitale dienst kan efficiënt ogen doordat burgers zelf fouten moeten opsporen, bewijs verzamelen en meerdere loketten verbinden. Een team kan zijn targets halen doordat één medewerker structureel de uitzonderingen draagt die de indicator niet ziet.
+Een digitale dienst kan efficiënt ogen doordat burgers zelf fouten moeten opsporen, bewijs verzamelen en meerdere loketten verbinden. Een team kan zijn targets halen doordat één medewerker structureel de uitzonderingen draagt die de indicator niet ziet.
 
 Dan ligt het probleem in de <span class="begrip" data-term="draagroute">draagroute</span> zelf: soms moet het veld veranderen dat de kwetsbare vorm voortdurend belast.
 
