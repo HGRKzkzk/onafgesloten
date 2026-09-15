@@ -52,6 +52,14 @@ Twee kleine aanpassingen hoeven niet afzonderlijk vermeld te worden wanneer zij 
 
 Een publieke entry beschrijft bij voorkeur **wat inhoudelijk is verschoven en waarom dat voor het werk uitmaakt**, niet via welke commits of technische stappen dat is gebeurd.
 
+## Redactionele toets voor voorbeelden
+
+Een voorbeeld verdient zijn plaats niet doordat het alleen laat zien dat een abstracte gedachte begrijpelijk is. Het moet iets zichtbaar maken wat zonder dat voorbeeld werkelijk moeilijker te zien is.
+
+Een voorbeeld kan dus tegelijk verduidelijken, maar verduidelijking alleen is onvoldoende reden om het op te nemen. Als de lezer de abstracte stap al goed kan volgen en het voorbeeld alleen herhaalt *dit bedoel ik*, maakt het de tekst langer en didactischer zonder nieuw zicht te openen. In dat geval heeft schrappen de voorkeur.
+
+Dezelfde toets geldt voor concretiseringen en uitkijkjes: zij moeten niet alleen illustreren wat de hoofdtekst al zegt, maar een consequentie, grensgeval, spanning, schaal of perspectief zichtbaar maken die zonder die toevoeging minder goed waarneembaar zou zijn.
+
 ## Werkafspraak bij PR's
 
 Bij iedere PR met substantiële inhoudelijke gevolgen wordt expliciet kort beoordeeld of **Wijzigingen** mee moet veranderen.
