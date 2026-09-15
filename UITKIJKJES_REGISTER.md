@@ -1,7 +1,7 @@
 # Uitkijkjesregister — Onafgesloten
 
 **Status:** werkdocument  
-**Laatste integrale synccontrole:** 11 september 2026  
+**Laatste integrale synccontrole:** 15 september 2026  
 **Doel:** de uitkijkjeslaag inhoudelijk rijk, cultureel breed en redactioneel niet-repetitief houden.
 
 Dit register is geen canon. Het is een geheugensteun tegen doublures en tegen een ongemerkte monocultuur van steeds dezelfde makers, media, periodes, regio's en functies.
@@ -63,7 +63,6 @@ Bij uitkijkjes die inhoudelijk naar muziek, literatuur, dans of een andere niet-
 | 10 | Je kunt een bol niet platleggen | Gerardus Mercator, wereldkaart van 1569; reproductie Wilhelm Krücken | historische cartografie / kaart | 1569; moderne reproductie | Lage Landen / Europese cartografie | concretiseren |
 | 11 | Gilgamesj vindt geen achterdeur | *Gilgamesj-epos*; beeld: spijkerschrifttablet, reproductie Stephen Langdon | kleitablet / manuscriptreproductie / literatuur | Oud-Babylonische en latere teksttradities; reproductie 1917 | Mesopotamië | culturele verbreding |
 | 13 | Bureaucratie heeft een lange komische geschiedenis | Honoré Daumier, *Les Gens de Justice* | karikatuur / lithografie | 19e eeuw | Frankrijk / Europa | humor / lucht |
-| 13 | Een lege hoek wordt een speelplaats | Aldo van Eyck, speeltoestel; beeld: foto Vysotsky | architectuur / openbare ruimte / fotografie | ontwerp ca. 1962; foto 2021 | Nederland / Amsterdam | vertragen |
 | 14 | De koe kijkt niet terug als beleidsmodel | Paulus Potter, *De Stier* / rund als monumentaal onderwerp | schilderkunst | 1647 | Nederland | schaalverschuiving |
 | 14 | Een portret van niemand | Francis Galton, *Composite portraiture* | fotografisch composiet / wetenschapsgeschiedenis | 1883 | Verenigd Koninkrijk / victoriaanse wetenschapsgeschiedenis | tegenbeeld |
 | 15 | Op de brug boven de Hao | *Zhuangzi*, Hao-dialoog; beeld: Zhou Dongqing, *The Pleasures of Fishes* | klassieke tekst / handrol-schilderkunst | teksttraditie Strijdende Staten; beeld 1291 | China / klassieke Chinese filosofie | culturele verbreding |
@@ -81,11 +80,11 @@ Een enkel hoofdstuk sluit af met een laat uitkijkje. Die staan niet in de hoofdt
 
 ## Wat de inventaris nu al laat zien
 
-De inventaris in de hoofdtekst bevat 25 uitkijkjes; daarnaast staan er twee late uitkijkjes in de tabel hierboven. Alleen uitkijkjes die daadwerkelijk worden getoond worden meegerekend; verwijderde blokken verdwijnen in dezelfde redactiewijziging uit dit register.
+De inventaris in de hoofdtekst bevat 24 uitkijkjes; daarnaast staan er twee late uitkijkjes in de tabel hierboven. Alleen uitkijkjes die daadwerkelijk worden getoond worden meegerekend; verwijderde blokken verdwijnen in dezelfde redactiewijziging uit dit register.
 
-Alle 25 hebben nu een eigen zichtbare, lokaal opgeslagen beeldcomponent. Bij uitkijkjes rond muziek, dans of literatuur kan het beeld een historische drager, maker, uitvoerder of materieel spoor tonen zonder te doen alsof een stilstaand beeld het oorspronkelijke medium vervangt.
+Alle 24 hebben nu een eigen zichtbare, lokaal opgeslagen beeldcomponent. Bij uitkijkjes rond muziek, dans of literatuur kan het beeld een historische drager, maker, uitvoerder of materieel spoor tonen zonder te doen alsof een stilstaand beeld het oorspronkelijke medium vervangt.
 
-De visuele spreiding bestaat onder meer uit aardobservatie, natuurwaarneming, wetenschappelijke instrumentatie, architectuur, muziek- en theaterfotografie, manuscript- en tabletmateriaal, boekillustratie, grafiek, sculptuur en schilderkunst. Het kaartmedium komt nu tweemaal voor: in Vooraf als fictieve boekillustratie die ontregelt, en in hoofdstuk 10 als historische cartografie die modelvervorming concretiseert. Maker, drager, context en functie verschillen daarmee voldoende om dit hergebruik te dragen. Tegelijk blijft een duidelijke Europese en kunsthistorische zwaarte zichtbaar. Dat hoeft bestaande sterke uitkijkjes niet verdacht te maken, maar het geeft richting aan nieuwe keuzes.
+De visuele spreiding bestaat onder meer uit aardobservatie, natuurwaarneming, wetenschappelijke instrumentatie, muziek- en theaterfotografie, manuscript- en tabletmateriaal, boekillustratie, grafiek, sculptuur en schilderkunst. Het kaartmedium komt nu tweemaal voor: in Vooraf als fictieve boekillustratie die ontregelt, en in hoofdstuk 10 als historische cartografie die modelvervorming concretiseert. Maker, drager, context en functie verschillen daarmee voldoende om dit hergebruik te dragen. Tegelijk blijft een duidelijke Europese en kunsthistorische zwaarte zichtbaar. Dat hoeft bestaande sterke uitkijkjes niet verdacht te maken, maar het geeft richting aan nieuwe keuzes.
 
 Bij volgende hoofdstukken verdienen daarom, waar inhoudelijk passend, extra aandacht:
 
