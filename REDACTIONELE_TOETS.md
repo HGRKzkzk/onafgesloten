@@ -118,7 +118,17 @@ Zinnen die vooral bemoedigen, mobiliseren, troosten of instemming oproepen mogen
 
 > **Een blockquote is geen beloning voor een mooie zin.**
 
-## 10. Zeven vragen vóór iedere inhoudelijke merge
+## 10. Voorbeelden moeten zicht openen
+
+Een voorbeeld verdient zijn plaats niet doordat het laat zien dat een abstracte gedachte begrijpelijk is. Het moet iets zichtbaar maken wat zonder dat voorbeeld werkelijk moeilijker te zien is: een consequentie, een grensgeval, een spanning, een schaal of een perspectief.
+
+Verduidelijken mag een voorbeeld gerust, maar verduidelijking alleen is geen reden om het op te nemen. Kan de lezer de abstracte stap al volgen en herhaalt het voorbeeld alleen *dit bedoel ik*, dan wordt de tekst langer en didactischer zonder nieuw zicht. Schrappen heeft dan de voorkeur.
+
+Let daarbij op de reeks. Drie voorbeelden die hetzelfde patroon in andere woorden tonen, zijn één voorbeeld dat driemaal wordt herhaald.
+
+Voor uitkijkjes geldt dezelfde eis; § 8 werkt haar verder uit.
+
+## 11. Acht vragen vóór iedere inhoudelijke merge
 
 1. Heeft deze passage één duidelijke thuislaag?
 2. Vertrekt zij vanuit ervaring en verschil, of vanuit ons eigen vocabulaire?
@@ -127,5 +137,6 @@ Zinnen die vooral bemoedigen, mobiliseren, troosten of instemming oproepen mogen
 5. Kan een tegenvoorbeeld deze passage werkelijk veranderen?
 6. Doet een uitgelichte kernzin meer dan de toon versterken?
 7. Is bij een nieuw uitkijkje het register gecontroleerd en bijgewerkt?
+8. Doet een voorbeeld meer dan de abstracte stap in andere woorden herhalen?
 
 Als drie of meer vragen niet overtuigend met *ja* kunnen worden beantwoord, verdient de passage eerst verdere redactie.
