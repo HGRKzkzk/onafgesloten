@@ -56,6 +56,14 @@ Daarmee blijft een vrijwillige onevenredige last mogelijk. Iemand kan in een acu
 
 Een vierde risico is daarom dat macht uitsluitend als **afsluiting** wordt gelezen. Macht kan ook openheid opeisen: flexibiliteit, bereikbaarheid, voortdurende aanpasbaarheid of emotionele beschikbaarheid. De actor mag formeel veel kanten op, maar verliest feitelijk de mogelijkheid om niet beschikbaar te zijn. In termen van dit hoofdstuk is dat geen tegenstelling met sluitingsmacht. De opgeëiste openheid kan juist antwoordruimte sluiten doordat de actor niet langer zelf voldoende over timing, grens en herstel beschikt.
 
+Een vijfde tegenwerping treft de **heropenbaarheid** zelf. De hoofdtekst legt de eerste beoordeling van een aangevoerd verschil bewust buiten de beschermde partij, zodat corrigeerbaarheid geen middel wordt om een grens te blijven aanvechten. Dat lost het probleem niet volledig op, want het verplaatst het.
+
+Wie meer tijd, geld of doorzettingsvermogen heeft, kan die beoordeling blijven aanvragen. Iedere afzonderlijke toets kan dan terecht zijn terwijl de reeks toetsen zelf een vorm van belasting wordt. De hoofdtekst zegt niets over herhaling, en juist de cumulatie maakt hier het verschil.
+
+Bovendien is toetsing zonder blootstelling niet altijd mogelijk. Of een nieuw argument werkelijk de grond van een sluiting raakt of alleen herhaalt wat al is gewogen, weet soms alleen degene die er indertijd bij was. De wens de beschermde partij te sparen kan dan leiden tot een oordeel dat zonder de relevante kennis wordt genomen. Beschermen tegen blootstelling en goed beoordelen kunnen hier tegen elkaar in werken, en het hoofdstuk kiest zonder dat volledig te verantwoorden voor het eerste.
+
+Daartegenover staat dat de omgekeerde fout ernstiger is wanneer een sluiting zelf onrechtmatig was. Een instituut dat de gelederen sluit en een ten onrechte veroordeelde zijn in deze figuur nauwelijks te onderscheiden: beide zijn partijen met een afgesloten zaak die zich tegen heropening verzetten. Dat het oordeel bij iemand hoort die geen partij is, is daarom geen procedurele franje maar de plaats waar deze doctrine haar gewicht draagt.
+
 ## Eigen stap
 
 De eigen stap van *Onafgesloten* ligt daarom niet alleen in de vraag hoeveel een afzonderlijke vorm kan dragen. Draagkracht is een **relationele, temporele en veldmatige verhouding**.

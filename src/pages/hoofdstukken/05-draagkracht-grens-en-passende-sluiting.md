@@ -65,11 +65,16 @@ De belangen kunnen bovendien terecht asymmetrisch wegen. Wanneer iemand schade h
 
 Een noodzakelijke sluiting hoeft niet méér op te eisen dan waarvoor zij gerechtvaardigd is.
 
-Heropenbaarheid betekent daarom ook niet dat een nieuwe bewering de oorspronkelijke betrokkenen meteen opnieuw mag belasten. Eerst kan worden gevraagd of nieuw bewijs, argumentatie of een veranderde werkelijkheid de grond, betekenis, gevolgen of houdbaarheid van de eerdere sluiting werkelijk kan raken. Ook tijdigheid telt mee: niet omdat een oud besluit vanzelf onaantastbaar wordt, maar omdat tijd de bewijswaarde, opgebouwde levensvormen en de prijs van heropening kan veranderen.
+Een nieuwe bewering mag de oorspronkelijke betrokkenen daarom niet meteen opnieuw belasten. Eerst gaat een lichtere vraag vooraf:
 
-Waar concrete toetsing zelf schade of een sterk asymmetrische last kan veroorzaken, hoort die eerste beoordeling zo veel mogelijk zonder blootstelling van de beschermde partij plaats te vinden. Pas wanneer een relevant verschil voldoende aannemelijk en zwaarwegend is, ontstaat reden om de last van verdere toetsing te rechtvaardigen.
+- raakt het aangevoerde verschil de grond, betekenis, gevolgen of houdbaarheid van de eerdere sluiting, of herhaalt het wat al is gewogen?
+- is het voldoende aannemelijk om de prijs van toetsing te dragen?
+- wat heeft de tijd gedaan met de bewijswaarde, met wat er sindsdien is opgebouwd en met de kosten van heropening?
+- bij wie komt de last van die toetsing terecht?
 
-> **Heropenbaarheid geeft geen recht op onmiddellijke heropening.**
+Waar die toetsing zelf schade of een sterk asymmetrische last kan veroorzaken, hoort de eerste beoordeling plaats te vinden zonder de beschermde partij opnieuw bloot te stellen. Pas wanneer een verschil die drempel haalt, ontstaat reden om verdere toetsing van haar te vragen.
+
+> **De vraag of een verschil relevant is, hoort te worden beantwoord voordat degene die beschermd wordt er opnieuw voor moet verschijnen.**
 
 ## Passende sluiting
 
@@ -94,9 +99,9 @@ Ook definitieve sluiting kan passend zijn: waar heropening zelf opnieuw ernstige
 
 Dat iets werkelijk is afgesloten betekent niet dat het oncorrigeerbaar moet worden. Een nieuw antwoord is op zichzelf onvoldoende. Maar valide bewijs, argumentatie of een veranderd veld kan een relevant verschil vormen wanneer het ons begrip van wat gebeurd is wezenlijk verandert, de geldigheid van de huidige vorm raakt of haar gevolgen voor de toekomst anders maakt.
 
-> **Wat af is, hoeft niet open te blijven. Het moet open kúnnen gaan wanneer een relevant verschil de grond van zijn sluiting raakt.**
+Iedereen mag zo'n verschil aan de orde stellen. Waar over de geldigheid ervan wordt getwist, kan degene die heropening vraagt niet alleen bepalen dat de drempel gehaald is. De beschermde partij kan dat evenmin alleen, want dan wordt iedere sluiting onaantastbaar zodra zij eenmaal bestaat. Waar beide een belang bij de uitkomst hebben, hoort het oordeel bij iemand die zelf geen partij is.
 
-Iedereen mag zo'n verschil aan de orde stellen. Waar de geldigheid ervan wordt betwist, kan degene die heropening vraagt niet alleen bepalen dat de drempel gehaald is. Hoe groter de macht om voor anderen af te sluiten, hoe zwaarder bovendien de plicht tot redenen, toetsing en zicht op gevolgen.
+Hoe groter de macht om voor anderen af te sluiten, hoe zwaarder bovendien de plicht tot redenen, toetsing en zicht op gevolgen.
 
 ## Antwoordruimte is geen maximale keuzevrijheid
 
