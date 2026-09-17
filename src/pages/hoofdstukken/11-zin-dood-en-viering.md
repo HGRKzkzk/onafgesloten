@@ -134,13 +134,9 @@ Eindigheid verhindert viering niet. Een verjaardag, concert, maaltijd, herdenkin
 
 Mensen kunnen tijdens een uitvaart lachen om een verhaal dat alleen grappig is omdat degene om wie het gaat er echt was.
 
-Viering hoeft niets te bezitten. Zij kan erkennen wat er was en tegelijk ruimte geven aan wat er nu is. Wat iemand van een ander heeft ontvangen hoeft niet telkens tot die ander herleid te worden om werkelijk van zichzelf te mogen worden. Een nieuwe liefde hoeft een oude niet te vertegenwoordigen. Een huidig antwoord hoeft niet namens een dode te spreken om mede gevormd te zijn door wat diegene heeft betekend.
+Viering hoeft niets te bezitten. Zij kan erkennen wat er was en tegelijk ruimte geven aan wat er nu is. Een nieuwe liefde hoeft een oude niet te vertegenwoordigen. Een huidig antwoord hoeft niet namens een dode te spreken om mede gevormd te zijn door wat diegene heeft betekend.
 
 Daarbij is erkennen iets anders dan eren of jezelf ergens nog in herkennen. Ook een pijnlijke, beschamende of afgewezen geschiedenis kan deel zijn van wat het heden heeft gevormd. Juist wie alleen de mooie bronnen als de eigen bronnen aanvaardt, maakt van geschiedenis gemakkelijk een verhaal dat vooral het huidige zelfbeeld bevestigt.
-
-Een bron erkennen betekent daarom nog niet haar voortzetten. Herkomst bepaalt mede wat mogelijk werd, maar schrijft het huidige antwoord niet voor.
-
-> **Wat van ons wordt, hoeft zijn bronnen niet te ontkennen om werkelijk nieuw te zijn.**
 
 Ook hier bestaat geen plicht. Een feest kan misplaatst zijn. Een jubileum kan pijn doen. Een gemeenschap kan haar eigen triomf vieren terwijl iemand anders de rekening draagt. Een herdenking kan iemand zichtbaar maken en tegelijk een ander verhaal uitwissen.
 
@@ -148,4 +144,4 @@ Daarom blijft ook viering antwoordbaar aan wie niet vanzelf in het gedeelde verh
 
 > **De kosmos hoeft ons niet te vieren opdat wij elkaar kunnen vieren.**
 
-Misschien is dat de bescheiden inzet van dit hoofdstuk: eindigheid hoeft niet eerst te worden overwonnen voordat betekenis werkelijk mag zijn. Wat voorbijgaat kan werkelijk geweest zijn. Wat sterft kan onherroepelijk weg zijn. Wat ons gevormd heeft kan worden erkend zonder ons laatste woord te krijgen. En juist daarom hoeft wat leeft niet op eeuwigheid te wachten om ertoe te doen.
+Misschien is dat de bescheiden inzet van dit hoofdstuk: eindigheid hoeft niet eerst te worden overwonnen voordat betekenis werkelijk mag zijn. Wat voorbijgaat kan werkelijk geweest zijn. Wat sterft kan onherroepelijk weg zijn. En juist daarom hoeft wat leeft niet op eeuwigheid te wachten om ertoe te doen.
