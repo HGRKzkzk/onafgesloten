@@ -58,7 +58,7 @@ Drie ontsporingen helpen gezondheid zonder ideaalvorm preciezer te maken.
 
 **Schadelijke stabiliteit** ontstaat wanneer een vorm blijft functioneren door ontvankelijkheid uit te schakelen, lasten af te wentelen of voortdurend één deel op te offeren.
 
-Die derde categorie is belangrijk omdat functioneren gemakkelijk voor gezondheid wordt aangezien. Een werknemer kan deadlines blijven halen door structureel slaap en relaties op te offeren. Een gezin kan rustig lijken doordat één kind alle spanning absorbeert. Een organisatie kan cijfers halen doordat medewerkers fouten blijven herstellen die het systeem zelf produceert.
+Die derde categorie is belangrijk omdat functioneren gemakkelijk voor gezondheid wordt aangezien. Een werknemer kan deadlines blijven halen door structureel slaap en relaties op te offeren.
 
 > **Functioneren bewijst alleen dat iets nog functioneert. Het zegt nog niet wat daarvoor wordt opgebruikt.**
 

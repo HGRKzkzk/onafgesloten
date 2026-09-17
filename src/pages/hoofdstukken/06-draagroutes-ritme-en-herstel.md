@@ -16,7 +16,7 @@ Dat maakt het verleidelijk om alleen te kijken naar de plek waar de schade zicht
 
 Een <span class="begrip" data-term="draagroute">draagroute</span> is de weg waarlangs spanning wordt ontvangen, verdeeld, begrensd, verwerkt, teruggelegd of geblokkeerd. Zonder lichaam, taak, taal, ritueel of besluit kan spanning nergens worden gedragen. Problematisch wordt de route wanneer een veld zijn spanning langdurig in een vorm laat neerslaan zonder dat die vorm de gevolgen kan terugleggen.
 
-Een organisatie kan wendbaar lijken doordat medewerkers voortdurend rond slechte systemen improviseren. Een gezin kan stabiel lijken doordat één lid alle onrust naar buiten brengt. Een economie kan efficiënt lijken doordat zorg, natuur of toekomstige generaties de last dragen die in het primaire ontwerp niet wordt opgelost. Wat lokaal als zwakte verschijnt, kan elders zijn georganiseerd.
+Een economie kan efficiënt lijken doordat zorg, natuur of toekomstige generaties de last dragen die in het primaire ontwerp niet wordt opgelost. Wat lokaal als zwakte verschijnt, kan elders zijn georganiseerd.
 
 > **Een draagroute wordt schadelijk wanneer de last zichtbaar wordt maar de draagbeslissing buiten beeld blijft.**
 
@@ -123,9 +123,9 @@ Groei kan niet worden afgedwongen door iemand voortdurend met “het moeilijke g
 
 > **Herstel is niet noodzakelijk terugkeer. Het kan betekenen dat opnieuw voelen, begrenzen en antwoorden mogelijk wordt in een andere samenhang.**
 
-Soms gaat het om handelingsvermogen, soms om plasticiteit, veerkracht of herstelvermogen. Een herstelde vorm hoeft niet weer hetzelfde te presteren. Zij kan kleiner, voorzichtiger of anders georganiseerd zijn en toch opnieuw kunnen voelen, begrenzen en antwoorden.
+Een herstelde vorm hoeft niet weer hetzelfde te presteren. Zij kan kleiner, voorzichtiger of anders georganiseerd zijn en toch opnieuw kunnen voelen, begrenzen en antwoorden.
 
-“Weer functioneren” is daarom een te smalle maat. Een werknemer kan weer aanwezig zijn en nog nauwelijks reserve hebben. Een relatie kan weer rustig lijken terwijl één partij alleen conflict vermijdt. Een instituut kan een fout herstellen zonder de route te veranderen waardoor dezelfde fout opnieuw ontstaat.
+“Weer functioneren” is daarom een te smalle maat. Een instituut kan een fout herstellen zonder de route te veranderen waardoor dezelfde fout opnieuw ontstaat.
 
 Herstel vraagt minstens twee vragen:
 
