@@ -74,6 +74,8 @@ Een nieuwe bewering mag de oorspronkelijke betrokkenen daarom niet meteen opnieu
 
 Waar die toetsing zelf schade of een sterk asymmetrische last kan veroorzaken, hoort de eerste beoordeling plaats te vinden zonder de beschermde partij opnieuw bloot te stellen. Pas wanneer een verschil die drempel haalt, ontstaat reden om verdere toetsing van haar te vragen.
 
+Ook eerdere pogingen tot heropening tellen mee. Een nieuw verzoek begint niet telkens bij nul. Wat al is onderzocht en verworpen, hoeft niet opnieuw te worden getoetst zonder een relevant verschil met wat daarbij al is gewogen. Naarmate herhaalde toetsing zelf meer last veroorzaakt, wordt die drempel zwaarder.
+
 > **De vraag of een verschil relevant is, hoort te worden beantwoord voordat degene die beschermd wordt er opnieuw voor moet verschijnen.**
 
 ## Passende sluiting
