@@ -13,7 +13,7 @@ divergence:
   status: "substantieel-herwerkt"
   note: "Publieke uitbreiding met scherpere uitwerking van draagkracht, antwoordruimte, paternalistische interventie, temporaliteit, asymmetrie, opgeëiste openheid, vrijwillig dragen en passende sluiting."
 
-lastSyncCheck: "2026-09-15"
+lastSyncCheck: "2026-09-17"
 ---
 Een vorm die alles binnenlaat, houdt op een vorm te zijn. Een zenuwstelsel kan niet ieder signaal even zwaar wegen. Een gesprek kan niet alle zijwegen volgen. Een mens kan niet iedere aanspraak tegelijk dragen. Een samenleving kan niet iedere mogelijkheid permanent openhouden.
 
@@ -65,6 +65,19 @@ De belangen kunnen bovendien terecht asymmetrisch wegen. Wanneer iemand schade h
 
 Een noodzakelijke sluiting hoeft niet méér op te eisen dan waarvoor zij gerechtvaardigd is.
 
+Een nieuwe bewering mag de oorspronkelijke betrokkenen daarom niet meteen opnieuw belasten. Eerst gaat een lichtere vraag vooraf:
+
+- raakt het aangevoerde verschil de grond, betekenis, gevolgen of houdbaarheid van de eerdere sluiting, of herhaalt het wat al is gewogen?
+- is het voldoende aannemelijk om de prijs van toetsing te dragen?
+- wat heeft de tijd gedaan met de bewijswaarde, met wat er sindsdien is opgebouwd en met de kosten van heropening?
+- bij wie komt de last van die toetsing terecht?
+
+Waar die toetsing zelf schade of een sterk asymmetrische last kan veroorzaken, hoort de eerste beoordeling plaats te vinden zonder de beschermde partij opnieuw bloot te stellen. Pas wanneer een verschil die drempel haalt, ontstaat reden om verdere toetsing van haar te vragen.
+
+Ook eerdere pogingen tot heropening tellen mee. Een nieuw verzoek begint niet telkens bij nul. Wat al is onderzocht en verworpen, hoeft niet opnieuw te worden getoetst zonder een relevant verschil met wat daarbij al is gewogen. Naarmate herhaalde toetsing zelf meer last veroorzaakt, wordt die drempel zwaarder.
+
+> **De vraag of een verschil relevant is, hoort te worden beantwoord voordat degene die beschermd wordt er opnieuw voor moet verschijnen.**
+
 ## Passende sluiting
 
 Er is verschil tussen voortijdig sluiten, absoluut sluiten, grenzeloos openhouden, een noodzakelijk einde uitstellen en <span class="begrip" data-term="passende-sluiting">passend sluiten</span>.
@@ -86,7 +99,11 @@ Ook definitieve sluiting kan passend zijn: waar heropening zelf opnieuw ernstige
 
 > **Waar heropening de antwoordruimte verder vernietigt, kan sluiting zelf een vorm van ontvankelijkheid zijn.**
 
-Wie dat bepaalt, blijft een moeilijke vraag. Hoe groter de macht om voor anderen af te sluiten, hoe zwaarder de plicht tot redenen, toetsing en zicht op gevolgen.
+Dat iets werkelijk is afgesloten betekent niet dat het oncorrigeerbaar moet worden. Een nieuw antwoord is op zichzelf onvoldoende. Maar valide bewijs, argumentatie of een veranderd veld kan een relevant verschil vormen wanneer het ons begrip van wat gebeurd is wezenlijk verandert, de geldigheid van de huidige vorm raakt of haar gevolgen voor de toekomst anders maakt.
+
+Iedereen mag zo'n verschil aan de orde stellen. Waar over de geldigheid ervan wordt getwist, kan degene die heropening vraagt niet alleen bepalen dat de drempel gehaald is. De beschermde partij kan dat evenmin alleen, want dan wordt iedere sluiting onaantastbaar zodra zij eenmaal bestaat. Waar beide een belang bij de uitkomst hebben, hoort het oordeel bij iemand die zelf geen partij is.
+
+Hoe groter de macht om voor anderen af te sluiten, hoe zwaarder bovendien de plicht tot redenen, toetsing en zicht op gevolgen.
 
 ## Antwoordruimte is geen maximale keuzevrijheid
 
@@ -106,6 +123,10 @@ Het begrip antwoordruimte kan zelf paternalistisch worden gebruikt: *wij beperke
 
 Iemand kan een riskante, onverstandige of pijnlijke keuze maken en toch voldoende begrijpen wat hij doet. Het feit dat een professional, ouder, overheid of geliefde een andere keuze beter vindt, geeft nog geen recht op overname.
 
+Ook afwendbaar lijden verandert dat niet vanzelf. Dat iemand meent het lijden van een ander te kunnen verminderen, maakt die ander nog niet tot voorwerp van diens oplossing. Een antwoord kan bestaan uit nabijheid, erkenning, hulp aanbieden, omstandigheden veranderen of soms bewust niet ingrijpen.
+
+> **De aanspraak dat lijden afwendbaar is, geeft op zichzelf geen aanspraak op zeggenschap over degene die lijdt.**
+
 Daarom moet ingrijpen tegen iemands uitgesproken wil aan een zwaardere drempel voldoen. Het wordt sterker gerechtvaardigd wanneer:
 
 - voorzienbaar ernstige en moeilijk herstelbare schade dreigt aan basale voorwaarden voor toekomstig antwoorden;
@@ -118,6 +139,8 @@ De volgorde doet ertoe:
 *informeren vóór overtuigen; overtuigen vóór beperken; beperken vóór overnemen; tijdelijk en herstelbaar vóór permanent en onomkeerbaar.*
 
 In acute situaties kunnen stappen ontbreken. Iedere overgeslagen lichtere mogelijkheid vraagt een reden.
+
+Waar antwoordruimte toch tijdelijk moet worden overgenomen, geeft die overname geen ruimer mandaat dan de noodzaak zelf. Zij brengt juist de plicht mee om zo weinig mogelijk over te nemen en voorwaarden te herstellen waaronder de ander weer zelf kan antwoorden.
 
 Hier raakt antwoordruimte aan <span class="begrip" data-term="proportionaliteit">proportionaliteit</span>: de zwaarte van de ingreep moet in verhouding staan tot de ernst en waarschijnlijkheid van de schade die zij probeert te voorkomen.
 
