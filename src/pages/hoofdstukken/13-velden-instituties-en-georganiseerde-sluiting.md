@@ -147,6 +147,8 @@ Waar schuld diffuus is, hoeft verantwoordelijkheid dus niet diffuus te blijven. 
 
 Een veld kan gedrag verklaren zonder verantwoordelijkheid uit te wissen.
 
+Ook een historische herkomst wijst niet vanzelf een huidige schuldenaar aan. Zij kan wel zichtbaar maken welke schade en voordelen nog doorwerken en wie in het heden mogelijkheden heeft om die verhouding te veranderen. Dat iemand voordeel ondervindt, bewijst op zichzelf nog niet welke herstelplicht diegene persoonlijk draagt.
+
 ## Geen stem verhoogt de plicht
 
 Wie niet kan spreken, procederen, vertrekken of zich organiseren, kan ook weinig terugkoppeling geven over de grens die hem wordt opgelegd.
@@ -168,6 +170,10 @@ Vorming kan richting geven zonder bestemming op te leggen. Een gemeenschap mag s
 Pluraliteit is daarmee meer dan tolerantie. Zij is ook een institutionele veiligheidsarchitectuur: geen enkele familie, school, organisatie, religie, markt, staat of technologie mag zonder tegenveld bepalen wat een mens volledig is of mag worden.
 
 Sommige verplichtingen zijn werkelijk. Waar vertrek structureel onmogelijk wordt, correctie zinloos en alternatieve vormen verdwijnen, verandert binding gemakkelijk in bezit.
+
+Een gemeenschap mag van haar leden verlangen dat zij naar vermogen bijdragen aan wat hen gezamenlijk draagt. Die bijdrage hoeft geen betaald werk of voorgeschreven levensvorm te zijn. Wie ondersteuning ontvangt, verliest daarmee niet het recht om zelf richting te geven aan zijn leven.
+
+Maar ook de draagkracht van anderen is niet onbeperkt beschikbaar. Waar iemand daadwerkelijk kan bijdragen en dat structureel weigert, mogen concrete aanspraken en afspraken opnieuw worden beoordeeld. Daarbij moet ook worden onderzocht wie bepaalt wat iemand kan bijdragen en welke vormen van bijdrage meetellen. Begrenzing moet evenredig en betwistbaar blijven. Zij mag iemands basale bestaansvoorwaarden niet inzetten om een gewenste levenshouding af te dwingen.
 
 ## Pluraliteit zonder harmonie-eis
 
