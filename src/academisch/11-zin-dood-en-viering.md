@@ -48,7 +48,7 @@ Daarom is de formulering *de dode leeft niet voort als antwoord, maar als vraag*
 
 Meaning-making kan zelf sluitend worden wanneer buitenstaanders een verlies te snel in een verhaal van groei, bestemming, veerkracht of spirituele noodzaak plaatsen. Vooral bij vermijdbare schade kan zulke taal verantwoordelijkheid depolitiseren: de aandacht verschuift dan van wat voorkomen had kunnen worden naar wat het slachtoffer ervan geleerd zou hebben.
 
-De publieke grens — betekenis achteraf is geen noodzaak vooraf — moet dit blokkeren. De nieuwe formulering dat zin ook geheel mag ontbreken scherpt dat verder aan: een leven of verlies hoeft geen betekenisproductie op te leveren om ernstig genomen te worden.
+De grens is dat betekenis achteraf geen noodzaak vooraf bewijst. Bovendien mag zin geheel ontbreken: een leven of verlies hoeft geen betekenisproductie op te leveren om ernstig genomen te worden.
 
 ### De dood als filosofische stresstest
 

@@ -10,7 +10,7 @@ source:
   version: "v4.1"
 divergence:
   status: "substantieel-herwerkt"
-  note: "Publieke uitwerking met uitgebreidere ervaringslaag, scherpere grens tussen afhankelijkheid en bezit, en nieuwe begrippenhulp."
+  note: "Publieke uitwerking van afhankelijkheid, eigen vorm en de grens tussen verbondenheid en bezit."
 lastSyncCheck: "2026-09-11"
 ---
 Een mens begint nergens alleen.
