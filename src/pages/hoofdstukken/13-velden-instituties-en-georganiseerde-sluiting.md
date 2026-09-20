@@ -149,7 +149,7 @@ Een veld kan gedrag verklaren zonder verantwoordelijkheid uit te wissen.
 
 Ook een historische herkomst wijst niet vanzelf een huidige schuldenaar aan. Zij kan wel zichtbaar maken welke schade en voordelen nog doorwerken en wie in het heden mogelijkheden heeft om die verhouding te veranderen. Dat iemand voordeel ondervindt, bewijst op zichzelf nog niet welke herstelplicht diegene persoonlijk draagt.
 
-Maar historische herkomst betekent evenmin: niemand hoeft te handelen. Waar schade en voordeel aanwijsbaar doorwerken, kan verantwoordelijkheid ook hier volgen uit vermogen, betrokkenheid en machtspositie. Een concrete aanspraak, bijvoorbeeld op onrechtmatig verkregen bezit, vervalt niet doordat is vastgesteld dat niemand persoonlijk schuldig is.
+Maar historische herkomst betekent evenmin: niemand hoeft te handelen. Waar schade en voordeel aanwijsbaar doorwerken, kan verantwoordelijkheid ook hier volgen uit vermogen, betrokkenheid en machtspositie. Een aanspraak op teruggave van onrechtmatig verkregen bezit moet afzonderlijk worden beoordeeld. Dat de huidige bezitter geen schuld draagt aan de oorspronkelijke verkrijging, beslist die vraag niet op zichzelf.
 
 ## Geen stem verhoogt de plicht
 
