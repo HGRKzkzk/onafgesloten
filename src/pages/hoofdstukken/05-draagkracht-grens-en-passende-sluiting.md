@@ -158,7 +158,7 @@ Daarom is veerkrachttaal dubbelzinnig. Het kan bevrijdend zijn om te ontdekken d
 
 > **Dat iemand iets kan dragen, geeft een ander nog niet het recht die last daar neer te leggen.**
 
-Grote draagkracht maakt iemand niet vanzelf beschikbaar voor andermans belasting.
+Grote draagkracht maakt iemand niet vanzelf beschikbaar voor andermans belasting. Dat beschermt persoonlijke inzet tegen opeising; het zegt niet dat bestaande aanspraken op bezit, inkomen of economische zeggenschap daarmee gerechtvaardigd zijn. Hoe die middelen zijn verkregen, welke lasten elders zijn gedragen en welke aanspraken anderen erop kunnen hebben, vraagt een afzonderlijke beoordeling.
 
 Dat sluit vrijwillig dragen niet uit. Iemand kan goede redenen hebben om tijdelijk meer te dragen dan eerlijk verdeeld is, juist omdat anders een ander ernstig wordt geraakt. Een ouder blijft wakker bij een ziek kind. Een collega neemt in een noodsituatie werk over. Iemand springt het water in.
 
