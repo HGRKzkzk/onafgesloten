@@ -175,7 +175,7 @@ Sommige verplichtingen zijn werkelijk. Waar vertrek structureel onmogelijk wordt
 
 Een gemeenschap mag van haar leden verlangen dat zij naar vermogen bijdragen aan wat hen gezamenlijk draagt. Die bijdrage hoeft geen betaald werk of voorgeschreven levensvorm te zijn. Wie ondersteuning ontvangt, verliest daarmee niet het recht om zelf richting te geven aan zijn leven.
 
-Maar ook de draagkracht van anderen is niet onbeperkt beschikbaar. Waar iemand daadwerkelijk kan bijdragen en dat structureel weigert, mogen concrete aanspraken en afspraken opnieuw worden beoordeeld. Daarbij moet ook worden onderzocht wie bepaalt wat iemand kan bijdragen en welke vormen van bijdrage meetellen. Begrenzing moet evenredig en betwistbaar blijven. Zij mag iemands basale bestaansvoorwaarden niet inzetten om een gewenste levenshouding af te dwingen.
+Maar ook de draagkracht van anderen is niet onbeperkt beschikbaar. Waar iemand daadwerkelijk kan bijdragen en dat structureel weigert, mogen concrete aanspraken en afspraken opnieuw worden beoordeeld. Dat vergt twee afzonderlijke vragen: is deze bijdrage in deze verhouding gerechtvaardigd, en is de verdeling van middelen en lasten waaruit die verplichting voortkomt zelf gerechtvaardigd? De tweede vraag verdwijnt niet doordat de eerste actor mogelijk weigert. Ook moet worden onderzocht wie bepaalt wat iemand kan bijdragen en welke vormen van bijdrage meetellen. Begrenzing moet evenredig en betwistbaar blijven. Zij mag iemands basale bestaansvoorwaarden niet inzetten om een gewenste levenshouding af te dwingen. Dat een ondergrens beschermd is, rechtvaardigt niet vanzelf dat alle aanspraken daarboven als individuele verantwoordelijkheid worden behandeld.
 
 ## Pluraliteit zonder harmonie-eis
 
@@ -203,7 +203,7 @@ Doorslaggevend is hoe <span class="begrip" data-term="antwoordbaarheid-van-macht
 
 Die betwistbaarheid moet ook praktisch en op tijd bestaan. Een correctieroute die pas werkt nadat de relevante mogelijkheid onomkeerbaar verdwenen is, houdt het veld niet werkelijk open.
 
-Daarom hoeft corrigeerbare macht niet klein of gelijk verdeeld te zijn. Zij moet wel voldoende antwoordbaar blijven tegenover degenen wier mogelijkheden zij mede bepaalt.
+Daarom hoeft corrigeerbare macht niet klein of gelijk verdeeld te zijn. Zij moet wel voldoende antwoordbaar blijven tegenover degenen wier mogelijkheden zij mede bepaalt. Dat iemand kan vertrekken, bezwaar maken of een tegenroute opbouwen, rechtvaardigt op zichzelf nog niet de verdeling van bezit, opbrengsten of beslissingsmacht waarbinnen die mogelijkheden bestaan.
 
 ## Sluitingsmacht en corrigeerbare macht
 
@@ -211,7 +211,7 @@ Geen actor krijgt vanzelf het recht de <span class="begrip" data-term="antwoordr
 
 Machtsasymmetrie verandert de normatieve last. Wie meer vermogen heeft om grenzen, tijd, toegang, veiligheid, middelen of toekomstmogelijkheden van anderen te bepalen, draagt ook een zwaardere verantwoordelijkheid om die sluiting te rechtvaardigen en corrigeerbaar te houden.
 
-Wie de antwoordruimte van een ander kan sluiten, draagt verantwoordelijkheid voor die macht.
+Wie de antwoordruimte van een ander kan sluiten, draagt verantwoordelijkheid voor die macht. Een stelsel kan bovendien volgens zijn regels functioneren, correcties toelaten en toch een omstreden verdeling van toegang, middelen of macht in stand houden. Corrigeerbaarheid van de uitvoering is geen zelfstandige rechtvaardiging van het doel of de verdeling waarvoor die uitvoering dient.
 
 Een eenvoudige heropeningsplicht is te grof. Niet iedere legitieme sluiting moet later worden teruggedraaid. Een verbod op geweld hoeft niet na verloop van tijd opnieuw ter discussie te worden gesteld omdat iedere grens tijdelijk zou moeten zijn.
 

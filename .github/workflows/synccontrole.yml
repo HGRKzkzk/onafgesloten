@@ -1,0 +1,32 @@
+name: Synccontrole
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  synccontrole:
+    name: Achterstand op de brontekst tonen
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # De controle leest de git-geschiedenis; een ondiepe checkout volstaat niet.
+          fetch-depth: 0
+
+      - name: Node instellen
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Synccontrole draaien
+        run: |
+          {
+            echo "## Synccontrole"
+            echo ""
+            echo '```'
+            node scripts/controleer-sync.mjs
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
