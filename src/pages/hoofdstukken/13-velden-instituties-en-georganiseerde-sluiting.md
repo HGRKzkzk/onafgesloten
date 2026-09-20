@@ -203,7 +203,7 @@ Doorslaggevend is hoe <span class="begrip" data-term="antwoordbaarheid-van-macht
 
 Die betwistbaarheid moet ook praktisch en op tijd bestaan. Een correctieroute die pas werkt nadat de relevante mogelijkheid onomkeerbaar verdwenen is, houdt het veld niet werkelijk open.
 
-Daarom hoeft corrigeerbare macht niet klein of gelijk verdeeld te zijn. Zij moet wel voldoende antwoordbaar blijven tegenover degenen wier mogelijkheden zij mede bepaalt. Dat iemand kan vertrekken, bezwaar maken of een tegenroute opbouwen, rechtvaardigt op zichzelf nog niet de verdeling van bezit, opbrengsten of beslissingsmacht waarbinnen die mogelijkheden bestaan. Die verdeling blijft afzonderlijk bespreekbaar.
+Daarom hoeft corrigeerbare macht niet klein of gelijk verdeeld te zijn. Zij moet wel voldoende antwoordbaar blijven tegenover degenen wier mogelijkheden zij mede bepaalt. Dat iemand kan vertrekken, bezwaar maken of een tegenroute opbouwen, rechtvaardigt op zichzelf nog niet de verdeling van bezit, opbrengsten of beslissingsmacht waarbinnen die mogelijkheden bestaan.
 
 ## Sluitingsmacht en corrigeerbare macht
 
