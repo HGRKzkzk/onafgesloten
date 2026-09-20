@@ -13,7 +13,7 @@ divergence:
   status: "substantieel-herwerkt"
   note: "Publieke uitbreiding met scherpere uitwerking van veldmatig kijken, institutionele draagroutes, tussenposities zonder voldoende bevoegdheid, diagnostische schaalverschuiving, onafhankelijke correctie, asymmetrie, georganiseerde sluiting en corrigeerbare macht."
 
-lastSyncCheck: "2026-09-15"
+lastSyncCheck: "2026-09-20"
 ---
 Geen vorm draagt zichzelf alleen. Rond ieder individu bestaat een veld van materiële, affectieve, culturele, ecologische en institutionele voorwaarden. Sommige zijn zichtbaar; andere vallen pas op wanneer zij verdwijnen.
 

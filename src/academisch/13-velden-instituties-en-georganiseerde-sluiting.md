@@ -34,6 +34,8 @@ De nieuwe pluraliteitslijn is minder rechtstreeks empirisch. Dat gemeenschappen,
 
 ## Tegenlicht
 
+### De institutionele machinerie
+
 Een eerste bezwaar luidt dat **corrigeerbaarheid besluitvorming eindeloos kan vertragen**. Als ieder besluit open moet blijven voor nieuwe informatie en iedere belanghebbende opnieuw toegang tot heroverweging krijgt, kan een institutie haar beschermende en ordenende functie verliezen. Dit bezwaar raakt de kern. Onafgesloten Vorm verdedigt daarom geen permanent open dossier. Een besluit mag sluiten en sommige grenzen mogen definitief blijven. Corrigeerbaarheid vraagt niet dat iedere uitkomst herroepbaar is, maar dat de rechtvaardiging, bevoegdheid en relevante gevolgen niet principieel buiten toetsing worden geplaatst. Ook correctieroutes mogen termijnen, drempels en finaliteit kennen.
 
 Een tweede bezwaar is dat **veldmatig kijken verantwoordelijkheid kan verdunnen**. Als schade steeds wordt verklaard uit procedures, prikkels, cultuur en systemen, dreigt niemand meer aanspreekbaar te zijn. Daarom onderscheidt het hoofdstuk schuld, verantwoordelijkheid en sluitingsmacht. Een structurele verklaring kan individuele verwijtbaarheid verminderen, vergroten of onveranderd laten; zij heft concrete beslissingen niet op. Evenmin mag het etiket “systeemfout” worden gebruikt om vermijdbare keuzes van actoren uit beeld te houden.
@@ -42,11 +44,15 @@ Een derde bezwaar treft de **onafhankelijke derde**. Onafhankelijkheid is nooit 
 
 Een vierde bezwaar is dat **meer participatie niet altijd meer rechtvaardigheid oplevert**. Participatie kan worden gekaapt door goed georganiseerde groepen, professionele insprekers of actoren met veel tijd en middelen. Daarom wordt wederkerigheid hier niet gelijkgesteld aan maximale inspraak. Soms beschermt een representatieve, deskundige of juridische tussenstructuur de minst machtige partij beter dan directe onderhandeling.
 
+### Het machtsbegrip
+
 Een vijfde bezwaar raakt de asymmetrie. De formule dat grotere sluitingsmacht een zwaardere verantwoordingslast draagt kan te gemakkelijk doen alsof de machtigste actor altijd de meeste morele schuld heeft. Dat volgt niet. Macht, schuld en verantwoordelijkheid zijn verschillende assen. Een staat kan bijvoorbeeld legitiem meer sluitingsmacht hebben bij acuut gevaar en toch juist daarom zwaarder worden belast met proportionaliteit, documentatie en externe toetsing.
 
 Een zesde bezwaar treft de **diagnostische schaalverschuiving**. Als een lokale interventie niet duurzaam werkt, volgt daar niet automatisch uit dat de oorzaak op een hoger niveau ligt. De interventie kan verkeerd gekozen zijn, het lokale patroon kan hardnekkig zijn of meerdere niveaus kunnen tegelijk bijdragen. Het opschuiven van de diagnose is daarom een wijziging van hypothese en onderzoeksvraag, geen bewijs van systeemschuld. Juist die terughoudendheid voorkomt dat veldtaal de spiegelbeeldige fout maakt van individualisering.
 
 Een zevende bezwaar raakt de **vooronderstelling dat macht vooral bezit is**. Foucauldiaans geïnspireerde kritiek zou tegenwerpen dat sluitingsmacht, antwoordruimte en corrigeerbaarheid zelf al binnen een machtsregime worden gedacht: wat telt als een levensvatbaar antwoord, wie geldt als voldoende onafhankelijk om te toetsen en wanneer een systeem corrigeerbaar genoeg is, zijn dan geen neutrale vaststellingen maar uitkomsten van dezelfde machtsverhoudingen die beoordeeld moeten worden. Instituties die zichzelf het meest als open, lerend of corrigeerbaar presenteren, kunnen in deze lezing juist de indringendste vormen van macht uitoefenen, precies omdat zij weerstand overbodig lijken te maken. Dit bezwaar is niet op te lossen door nog een onafhankelijke derde toe te voegen, want ook die derde zou binnen hetzelfde regime opereren. Onafgesloten Vorm erkent dat zijn eigen begrippenkader dan zelf onderdeel is van een machtsverhouding, geen uitzicht daarbuiten. De keuze voor een juridisch-institutioneel machtsbegrip, met concrete rollen, bevoegdheden en toetsingsroutes, wordt daarom niet verdedigd als metafysisch neutraal, maar als praktisch: zij maakt tenminste een deel van machtsuitoefening aanspreekbaar en veranderbaar, ook wanneer nooit kan worden gegarandeerd dat het beoordelingskader zelf buiten iedere machtsverhouding staat.
+
+### De normatieve uitbreidingen
 
 Een achtste bezwaar raakt nu de **partijdigheid zelf**. De erkenning dat een persoon of gemeenschap zichzelf mede mag verkiezen kan gemakkelijk worden misbruikt om nepotisme, nationalisme, uitsluiting of structurele bevoordeling te rechtvaardigen. De hoofdtekst probeert dat te begrenzen door te vragen of de eigen voortzetting de voorwaarden opgebruikt waaronder andere vormen nog kunnen bestaan, vertrekken, zich organiseren of antwoorden. Maar dat criterium blijft contextgevoelig en levert geen mechanische grens op. Juist daarom moet de tekst niet suggereren dat “gemeenschapsbelang” op zichzelf al rechtvaardiging is.
 
