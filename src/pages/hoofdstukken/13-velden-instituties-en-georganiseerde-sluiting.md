@@ -13,7 +13,7 @@ divergence:
   status: "substantieel-herwerkt"
   note: "Publieke uitbreiding met scherpere uitwerking van veldmatig kijken, institutionele draagroutes, tussenposities zonder voldoende bevoegdheid, diagnostische schaalverschuiving, onafhankelijke correctie, asymmetrie, georganiseerde sluiting en corrigeerbare macht."
 
-lastSyncCheck: "2026-09-15"
+lastSyncCheck: "2026-09-20"
 ---
 Geen vorm draagt zichzelf alleen. Rond ieder individu bestaat een veld van materiële, affectieve, culturele, ecologische en institutionele voorwaarden. Sommige zijn zichtbaar; andere vallen pas op wanneer zij verdwijnen.
 
@@ -220,6 +220,12 @@ Beter is: sluitingsmacht moet haar eigen noodzaak, reikwijdte en gevolgen kunnen
 Proportionaliteit gaat daarom niet alleen over intensiteit, maar ook over duur, reikwijdte, herstelbaarheid en wat na de sluiting achterblijft.
 
 Uitzonderlijke kennis of noodsituatie kan tijdelijke asymmetrie rechtvaardigen. Zij heft de correctieplicht niet op. Degene die de uitzondering claimt, behoort niet als enige te bepalen wanneer zij eindigt.
+
+## Zeggenschap over het mandaat
+
+Een democratisch besluit kan een macht voortbrengen waarvan de reikwijdte bij de besluitvorming nog niet te overzien was. Die macht kan gaandeweg ook bepalen welke gevolgen zichtbaar worden, welke alternatieven op tafel komen en wat er nodig is om haar te veranderen. Een institutie kan volgens haar regels functioneren en worden geëvalueerd, terwijl de gemeenschap de bevoegdheid zelf nauwelijks nog kan beoordelen of begrenzen. **Toetsing binnen een mandaat is iets anders dan zeggenschap over dat mandaat.**
+
+Niet iedere blijvende grens is zo'n verlies van zeggenschap. De onherroepelijkheid van een uitspraak of de onafhankelijkheid van een rechter kan juist beschermen dat een actuele meerderheid niet over alles beschikt. De vraag is of de macht die uit een besluit voortkomt later nog via een gerechtvaardigde en werkzame procedure kan worden beoordeeld en, waar dat gerechtvaardigd is, begrensd. Dat hoeft niet te betekenen dat een afgesloten zaak opnieuw ter onderhandeling komt.
 
 ## Escalatie zonder automatisme
 
