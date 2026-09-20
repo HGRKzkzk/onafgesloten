@@ -27,7 +27,7 @@ Deze voorbeelden zijn geen representatieve dekking van mondiale filosofie. Zij d
 
 ## Uitgewerkte frictieproef: de Zhuangzi
 
-De publieke tekst kiest nu één geval waarin de vierslag zelf wordt getest. Daarbij is voorzichtigheid nodig met de naam. De ontvangen *Zhuangzi* is een meerstemmige tekst met verschillende lagen en auteurscontexten. Ook de moderne interpretatie is verdeeld: de tekst is onder meer gelezen als skepticistisch, relativistisch, perspectivistisch, therapeutisch en anti-dogmatisch. De vergelijking hieronder behandelt daarom geen volledig vaststaande “leer van Zhuangzi”.
+De publieke tekst werkt één geval uit waarin de vierslag zelf wordt getest. Daarbij is voorzichtigheid nodig met de naam. De ontvangen *Zhuangzi* is een meerstemmige tekst met verschillende lagen en auteurscontexten. Ook de moderne interpretatie is verdeeld: de tekst is onder meer gelezen als skepticistisch, relativistisch, perspectivistisch, therapeutisch en anti-dogmatisch. De vergelijking hieronder behandelt daarom geen volledig vaststaande “leer van Zhuangzi”.
 
 De gekozen frictie ligt bij perspectief, taal en normatieve onderscheiding. Een invloedrijke hedendaagse lezing benadrukt dat oordelen in de *Zhuangzi* afhankelijk zijn van reeds gevormde wegen van spreken, handelen en onderscheiden. Er bestaat geen werkelijk menselijk standpunt van nergens waaruit concurrerende normatieve wegen definitief kunnen worden beoordeeld.
 
@@ -39,7 +39,7 @@ De *Zhuangzi* dwingt daarom een statuscorrectie af. Deze begrippen zijn geen neu
 
 Tegelijk hoeft OOV daaruit geen normatieve verlamming af te leiden. Wanneer één actor de materiële, juridische of sociale voorwaarden bepaalt waaronder anderen nog kunnen spreken, vertrekken, herstellen of überhaupt als levensvatbare vorm kunnen blijven bestaan, is er meer aan de hand dan een botsing van twee symmetrische perspectieven. De machtsverhouding verandert de voorwaarden waaronder perspectieven zelf nog kunnen verschijnen.
 
-De aangescherpte projectzin luidt daarom:
+Voor dit project betekent die vergelijking:
 
 > **Een maatstaf hoeft niet perspectiefloos te zijn om bindend te kunnen worden; zij moet wel haar positie, gevolgen en corrigeerbaarheid kunnen verantwoorden.**
 
@@ -55,7 +55,7 @@ De praktische correctie is eenvoudig maar veeleisend: een traditie moet alleen i
 
 Die selectieve infrastructuur raakt ook de uitkijkjeslaag. Wat bewaard bleef, in musea of archieven belandde, digitaal ontsloten werd en voor de maker van dit project herkenbaar genoeg was om te vinden, bepaalt mede welke cultuur hier zichtbaar wordt. Een ogenschijnlijk brede selectie is daarom nog geen neutrale steekproef van menselijke cultuur. Dat is een reden om de selectie controleerbaar te houden, niet om elk hoofdstuk met een verplicht “ander” voorbeeld te vullen.
 
-De nieuwe Zhuangzi-sectie moet daarom geen model worden waarin ieder hoofdstuk voortaan één “niet-westerse tegenstem” nodig heeft. Dat zou opnieuw tokenisme produceren. Zij is juist een bewijsproef voor de methode: een vergelijking verdient haar plaats wanneer zij iets in de eigen formulering verandert.
+De vergelijking met de *Zhuangzi* is geen model waarin ieder hoofdstuk één “niet-westerse tegenstem” nodig heeft. Dat zou opnieuw tokenisme produceren. Zij toetst de methode zelf: een vergelijking verdient haar plaats wanneer zij iets in de eigen formulering verandert.
 
 ### 2. “Het Westen” en “niet-het-Westen” zijn zelf te grove eenheden
 
