@@ -42,7 +42,7 @@ lastSyncCheck: "2026-09-15"
 
 <!-- laag: instrumenteel -->
 7. **Draagkracht laat onafheid bestaan.**  
-   Zij is geen hardheid, maar samenhang die nog kan antwoorden. Dat vermogen kan vrijwillig worden ingezet, maar geeft een ander geen vanzelfsprekende aanspraak.
+   Zij is geen hardheid, maar samenhang die nog kan antwoorden. Dat vermogen kan vrijwillig worden ingezet, maar geeft een ander geen vanzelfsprekende aanspraak op persoonlijke inzet.
 
 <!-- laag: beschrijvend/normatief -->
 8. **Een grens kan ontvankelijkheid beschermen.**  
