@@ -177,12 +177,6 @@ Een gemeenschap mag van haar leden verlangen dat zij naar vermogen bijdragen aan
 
 Maar ook de draagkracht van anderen is niet onbeperkt beschikbaar. Waar iemand daadwerkelijk kan bijdragen en dat structureel weigert, mogen concrete aanspraken en afspraken opnieuw worden beoordeeld. Daarbij moet ook worden onderzocht wie bepaalt wat iemand kan bijdragen en welke vormen van bijdrage meetellen. Begrenzing moet evenredig en betwistbaar blijven. Zij mag iemands basale bestaansvoorwaarden niet inzetten om een gewenste levenshouding af te dwingen.
 
-## Zeggenschap over het mandaat
-
-Een democratisch besluit kan een macht voortbrengen waarvan de reikwijdte bij de besluitvorming nog niet te overzien was. Die macht kan gaandeweg ook bepalen welke gevolgen zichtbaar worden, welke alternatieven op tafel komen en wat er nodig is om haar te veranderen. Een institutie kan volgens haar regels functioneren en worden geëvalueerd, terwijl de gemeenschap de bevoegdheid zelf nauwelijks nog kan beoordelen of begrenzen. **Toetsing binnen een mandaat is iets anders dan zeggenschap over dat mandaat.**
-
-Niet iedere blijvende grens is zo'n verlies van zeggenschap. De onherroepelijkheid van een uitspraak of de onafhankelijkheid van een rechter kan juist beschermen dat een actuele meerderheid niet over alles beschikt. De vraag is of de macht die uit een besluit voortkomt later nog op het daarvoor bevoegde niveau kan worden beoordeeld en, waar dat gerechtvaardigd is, begrensd. Dat hoeft niet te betekenen dat een afgesloten zaak opnieuw ter onderhandeling komt.
-
 ## Pluraliteit zonder harmonie-eis
 
 Pluraliteit betekent niet dat iedere botsing in overeenstemming moet eindigen. Personen en gemeenschappen mogen zichzelf mede verkiezen: tijd, aandacht en middelen hoeven niet altijd zo verdeeld te worden dat ieder belang van buiten even zwaar weegt als wat een vorm zelf probeert te bewaren.
@@ -226,6 +220,12 @@ Beter is: sluitingsmacht moet haar eigen noodzaak, reikwijdte en gevolgen kunnen
 Proportionaliteit gaat daarom niet alleen over intensiteit, maar ook over duur, reikwijdte, herstelbaarheid en wat na de sluiting achterblijft.
 
 Uitzonderlijke kennis of noodsituatie kan tijdelijke asymmetrie rechtvaardigen. Zij heft de correctieplicht niet op. Degene die de uitzondering claimt, behoort niet als enige te bepalen wanneer zij eindigt.
+
+## Zeggenschap over het mandaat
+
+Een democratisch besluit kan een macht voortbrengen waarvan de reikwijdte bij de besluitvorming nog niet te overzien was. Die macht kan gaandeweg ook bepalen welke gevolgen zichtbaar worden, welke alternatieven op tafel komen en wat er nodig is om haar te veranderen. Een institutie kan volgens haar regels functioneren en worden geëvalueerd, terwijl de gemeenschap de bevoegdheid zelf nauwelijks nog kan beoordelen of begrenzen. **Toetsing binnen een mandaat is iets anders dan zeggenschap over dat mandaat.**
+
+Niet iedere blijvende grens is zo'n verlies van zeggenschap. De onherroepelijkheid van een uitspraak of de onafhankelijkheid van een rechter kan juist beschermen dat een actuele meerderheid niet over alles beschikt. De vraag is of de macht die uit een besluit voortkomt later nog via een gerechtvaardigde en werkzame procedure kan worden beoordeeld en, waar dat gerechtvaardigd is, begrensd. Dat hoeft niet te betekenen dat een afgesloten zaak opnieuw ter onderhandeling komt.
 
 ## Escalatie zonder automatisme
 
